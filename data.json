@@ -1,0 +1,37 @@
+[
+  {
+    "id": "integratore-base-di-caffe",
+    "title": "Integratore alimentare Coffee 2.0 - Tasty dose",
+    "product": "Integratore alimentare Coffee 2.0 - Tasty dose",
+    "brand": "Coffee 2.0 prodotto per Kaching d.o.o. Mirje, 33, Ljubljana, 1000",
+    "reasonShort": "Integratore a base di caffè e funghi",
+    "country": "Ungheria",
+    "lots": [
+      "BI0720602"
+    ],
+    "published": "2026-09-11",
+    "noticeDate": "11/9/2026",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-di-sicurezza-integratore-coffee-20-base-di-caffe/",
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratore-base-di-caffe/",
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "campi": {
+      "prodotto": "Integratore alimentare Coffee 2.0 - Tasty dose",
+      "marca": "Coffee 2.0 prodotto per Kaching d.o.o. Mirje, 33, Ljubljana, 1000",
+      "sostanza/rischio": "Integratore a base di caffè e funghi",
+      "paese di origine": "Ungheria",
+      "numero lotto": "BI0720602",
+      "news/avviso": "11/9/2026"
+    },
+    "attachments": [
+      {
+        "name": "immagine confezione integratore",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2026-09/integratore%20caff%C3%A8%201.jpg"
+      },
+      {
+        "name": "immagine retro confezione integratore",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2026-09/Integratore%20caff%C3%A8%202.jpg"
+      }
+    ]
+  }
+]
