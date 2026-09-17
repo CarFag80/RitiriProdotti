@@ -1,5 +1,517 @@
 [
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratore-base-di-caffe/",
+    "title": "Integratore alimentare Coffee 2.0 - Tasty dose",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-di-sicurezza-integratore-coffee-20-base-di-caffe/",
+    "noticeDate": "11/9/2026",
+    "campi": {
+      "prodotto": "Integratore alimentare Coffee 2.0 - Tasty dose",
+      "marca": "Coffee 2.0 prodotto per Kaching d.o.o. Mirje, 33, Ljubljana, 1000",
+      "sostanza/rischio": "Integratore a base di caffè e funghi",
+      "paese di origine": "Slovenia",
+      "numero lotto": "BI0720602",
+      "news/avviso": "11/9/2026"
+    },
+    "product": "Integratore alimentare Coffee 2.0 - Tasty dose",
+    "brand": "Coffee 2.0 prodotto per Kaching d.o.o. Mirje, 33, Ljubljana, 1000",
+    "reasonShort": "Integratore a base di caffè e funghi",
+    "country": "Slovenia",
+    "lots": [
+      "BI0720602"
+    ],
+    "attachments": [
+      {
+        "name": "immagine confezione integratore",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2026-09/integratore%20caff%C3%A8%201.jpg"
+      },
+      {
+        "name": "immagine retro confezione integratore",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2026-09/Integratore%20caff%C3%A8%202.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "integratore-base-di-caffe",
+    "published": "2026-09-11"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratori-base-di-moringa/",
+    "title": "Moringa in capsule",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/integratori-alimentari-base-di-moringa/",
+    "noticeDate": "22/7/2026",
+    "campi": {
+      "prodotto": "Moringa in capsule",
+      "marca": "otal Nutrition Inc, Why Not Natural, Superfoods, Inc. DBA as Live it Up",
+      "sostanza/rischio": "Salmonella",
+      "paese di origine": "Stati Uniti d'America",
+      "news/avviso": "22/7/2026"
+    },
+    "product": "Moringa in capsule",
+    "brand": "otal Nutrition Inc, Why Not Natural, Superfoods, Inc. DBA as Live it Up",
+    "reasonShort": "Salmonella",
+    "country": "Stati Uniti d'America",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Immagine 1 Moringa",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2026-07/IMG_Live-it-up_0.jpg"
+      },
+      {
+        "name": "Immagine 2 Moringa",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2026-07/IMG_Moringa_0.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "integratori-base-di-moringa",
+    "published": "2026-07-22"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/moringa-capsule/",
+    "title": "Moringa in capsule a marchio Rosabella",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-casi-di-salmonellosi-resistente-diversi-antibiotici/",
+    "noticeDate": "2/3/2026",
+    "campi": {
+      "prodotto": "Moringa in capsule a marchio Rosabella",
+      "marca": "Rosabella",
+      "sostanza/rischio": "Salmonella",
+      "paese di origine": "Stati Uniti d'America",
+      "numero lotto": "1356",
+      "news/avviso": "2/3/2026"
+    },
+    "product": "Moringa in capsule a marchio Rosabella",
+    "brand": "Rosabella",
+    "reasonShort": "Salmonella",
+    "country": "Stati Uniti d'America",
+    "lots": [
+      "1356"
+    ],
+    "attachments": [
+      {
+        "name": "Moringa in capsule",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2026-03/IMG-02_0.jpg"
+      },
+      {
+        "name": "Numero lotto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2026-03/IMG-01_0.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "moringa-capsule",
+    "published": "2026-03-02"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/bustine-monodose-di-te-meridetox-e-ozlex/",
+    "title": "Bustine monodose di tè",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-presenza-di-sibutramina-bustine-di-te-meridetox-e-ozlex/",
+    "noticeDate": "25/11/2025",
+    "campi": {
+      "prodotto": "Bustine monodose di tè",
+      "marca": "Meridetox e Ozlex",
+      "sostanza/rischio": "sibutramina",
+      "paese di origine": "Turchia",
+      "numero lotto": "2025.8591",
+      "news/avviso": "25/11/2025"
+    },
+    "product": "Bustine monodose di tè",
+    "brand": "Meridetox e Ozlex",
+    "reasonShort": "sibutramina",
+    "country": "Turchia",
+    "lots": [
+      "2025.8591"
+    ],
+    "attachments": [
+      {
+        "name": "Meridetox e Ozlex",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2025-11/Ozlex%20tea%20_%20Meridetox_0_0.jpg"
+      },
+      {
+        "name": "Meridetox e Ozlex -1",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2025-11/Meridetox%20tea-2.jpg"
+      },
+      {
+        "name": "Meridetox e Ozlex -2",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2025-11/Ozlex%20tea-1.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bustine-monodose-di-te-meridetox-e-ozlex",
+    "published": "2025-11-25"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/latte-polvere/",
+    "title": "Latte in polvere",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-epidemia-di-botulismo/",
+    "noticeDate": "19/11/2025",
+    "campi": {
+      "prodotto": "Latte in polvere",
+      "sostanza/rischio": "Botulino",
+      "paese di origine": "Stati Uniti d'America",
+      "news/avviso": "19/11/2025"
+    },
+    "product": "Latte in polvere",
+    "reasonShort": "Botulino",
+    "country": "Stati Uniti d'America",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Latte in polvere - ByHeart Whole Nutrition",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2025-11/IMG_barattolo_1.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "latte-polvere",
+    "published": "2025-11-19"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/pesto-lail-des-ours-o-ptits-oignons-cuisine-mobile-par-thierry-leloup/",
+    "title": "Pesto a l'ail des ours",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-probabili-casi-di-botulino-legati-al-consumo-di-pesto-di/",
+    "noticeDate": "12/09/2024",
+    "campi": {
+      "prodotto": "Pesto a l'ail des ours",
+      "marca": "O PTITS OIGNONS - cuisine mobile par Thierry Leloup",
+      "sostanza/rischio": "Botulino",
+      "paese di origine": "Francia",
+      "news/avviso": "12/09/2024"
+    },
+    "product": "Pesto a l'ail des ours",
+    "brand": "O PTITS OIGNONS - cuisine mobile par Thierry Leloup",
+    "reasonShort": "Botulino",
+    "country": "Francia",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "PESTO A L'AIL DES OURS Marque : O PTITS OIGNONS - cuisine mobile par Thierry Leloup",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_102_0_immagine.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pesto-lail-des-ours-o-ptits-oignons-cuisine-mobile-par-thierry-leloup",
+    "published": "2024-09-12"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/bustine-monodose-di-te-ala-green-tea-meridetox-tea-premium/",
+    "title": "Bustine monodose di tè Ala green tea",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-presenza-di-sibutramina-bustine-di-te/",
+    "noticeDate": "09/07/2024",
+    "campi": {
+      "prodotto": "Bustine monodose di tè Ala green tea",
+      "marca": "Meridetox Tea Premium",
+      "sostanza/rischio": "sibutramina",
+      "paese di origine": "Turchia",
+      "news/avviso": "09/07/2024"
+    },
+    "product": "Bustine monodose di tè Ala green tea",
+    "brand": "Meridetox Tea Premium",
+    "reasonShort": "sibutramina",
+    "country": "Turchia",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "confezioni di Ala Green tea",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_101_0_immagine.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bustine-monodose-di-te-ala-green-tea-meridetox-tea-premium",
+    "published": "2024-07-09"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/bustine-monodose-di-te-meridetox-tea-premium/",
+    "title": "Bustine monodose di tè",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/sistema-di-allerta-europeo-alimenti-e-mangimi/",
+    "noticeDate": "30/04/2024",
+    "campi": {
+      "prodotto": "Bustine monodose di tè",
+      "marca": "Meridetox Tea Premium",
+      "sostanza/rischio": "sibutramina",
+      "paese di origine": "Turchia",
+      "news/avviso": "30/04/2024"
+    },
+    "product": "Bustine monodose di tè",
+    "brand": "Meridetox Tea Premium",
+    "reasonShort": "sibutramina",
+    "country": "Turchia",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Foto ritraenti la confezione e le bustine monodose di tè",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_100_0_immagine.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bustine-monodose-di-te-meridetox-tea-premium",
+    "published": "2024-04-30"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/96deg-alcool-dal-1960-fiume-bottiglie-100-ml-contraffatte-marchio-fiume/",
+    "title": "\"96° Alcool dal 1960-Fiume\" bottiglie 100 ml contraffatte",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-bottiglie-di-alcol-marchio-fiume-contraffatte/",
+    "noticeDate": "12/12/2023",
+    "campi": {
+      "prodotto": "\"96° Alcool dal 1960-Fiume\" bottiglie 100 ml contraffatte",
+      "marca": "marchio Fiume ditta LICOR contraffatto",
+      "sostanza/rischio": "alcool etilico miscelato a glicole etilenico",
+      "paese di origine": "Italia",
+      "news/avviso": "12/12/2023"
+    },
+    "product": "\"96° Alcool dal 1960-Fiume\" bottiglie 100 ml contraffatte",
+    "brand": "marchio Fiume ditta LICOR contraffatto",
+    "reasonShort": "alcool etilico miscelato a glicole etilenico",
+    "country": "Italia",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "foto bottiglia 1",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_99_0_immagine.jpg"
+      },
+      {
+        "name": "foto bottiglia 2",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_99_1_immagine.jpg"
+      },
+      {
+        "name": "foto bottiglia 3",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_99_2_immagine.jpg"
+      },
+      {
+        "name": "foto bottiglia 4",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_99_3_immagine.jpg"
+      },
+      {
+        "name": "foto bottiglia 5",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_99_4_immagine.jpg"
+      },
+      {
+        "name": "foto bottiglia 6",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_99_5_immagine.jpg"
+      },
+      {
+        "name": "contrassegno di Stato contraffatto 1",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_99_6_immagine.jpg"
+      },
+      {
+        "name": "contrassegno di Stato contraffatto 2",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_99_7_immagine.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "96deg-alcool-dal-1960-fiume-bottiglie-100-ml-contraffatte-marchio-fiume",
+    "published": "2023-12-12"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratori-alimentari-epimedyum-macun-bitkisel-karisimli-e-wonderful/",
+    "title": "Integratori alimentari",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-presenza-di-sildenafil-integratori-alimentari/",
+    "noticeDate": "09/10/2023",
+    "campi": {
+      "prodotto": "Integratori alimentari",
+      "marca": "Epimedyum Macun Bitkisel Karisimli e Wonderful Honey",
+      "sostanza/rischio": "Sildenafil",
+      "paese di origine": "Turchia",
+      "news/avviso": "09/10/2023"
+    },
+    "product": "Integratori alimentari",
+    "brand": "Epimedyum Macun Bitkisel Karisimli e Wonderful Honey",
+    "reasonShort": "Sildenafil",
+    "country": "Turchia",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "foto confezioni",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_98_0_immagine.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "integratori-alimentari-epimedyum-macun-bitkisel-karisimli-e-wonderful",
+    "published": "2023-10-09"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratori-alimentari-libiforme/",
+    "title": "Integratori alimentari",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-presenza-di-analogo-della-pde-5-integratori-alimentari/",
+    "noticeDate": "17/08/2023",
+    "campi": {
+      "prodotto": "Integratori alimentari",
+      "marca": "LibiForMe",
+      "sostanza/rischio": "analogo della PDE-5 (2-idrossipropil nortadalafil)",
+      "paese di origine": "Slovenia",
+      "numero lotto": "3242",
+      "news/avviso": "17/08/2023"
+    },
+    "product": "Integratori alimentari",
+    "brand": "LibiForMe",
+    "reasonShort": "analogo della PDE-5 (2-idrossipropil nortadalafil)",
+    "country": "Slovenia",
+    "lots": [
+      "3242"
+    ],
+    "attachments": [],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "integratori-alimentari-libiforme",
+    "published": "2023-08-17"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratore-alimentare-epimen-plus/",
+    "title": "Integratore alimentare",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-presenza-di-sildenafil-e-tadalafil-integratori/",
+    "noticeDate": "24/05/2023",
+    "campi": {
+      "prodotto": "Integratore alimentare",
+      "marca": "Epimen Plus",
+      "sostanza/rischio": "Sildenafil e Tadalafil",
+      "paese di origine": "Croazia",
+      "numero lotto": "L20032027, L25032027, L01042027, L10042027, L15042027, L20042027, L25042027, L01052027, L10052027, L15052027, L20052027; L25052027, L15012028, L20012028, L25012028, L30012028, L10022028, L15022028, L20022028, L25022028, L01032028, L05032028, L10032028",
+      "news/avviso": "24/05/2023"
+    },
+    "product": "Integratore alimentare",
+    "brand": "Epimen Plus",
+    "reasonShort": "Sildenafil e Tadalafil",
+    "country": "Croazia",
+    "lots": [
+      "L20032027",
+      "L25032027",
+      "L01042027",
+      "L10042027",
+      "L15042027",
+      "L20042027",
+      "L25042027",
+      "L01052027",
+      "L10052027",
+      "L15052027",
+      "L20052027",
+      "L25052027",
+      "L15012028",
+      "L20012028",
+      "L25012028",
+      "L30012028",
+      "L10022028",
+      "L15022028",
+      "L20022028",
+      "L25022028",
+      "L01032028",
+      "L05032028",
+      "L10032028"
+    ],
+    "attachments": [],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "integratore-alimentare-epimen-plus",
+    "published": "2023-05-24"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/prodotti-vegani-jayjoy/",
+    "title": "Prodotti vegani",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/prodotti-vegani-con-presenza-di-listeria-monocytogenes/",
+    "noticeDate": "26/01/2023",
+    "campi": {
+      "prodotto": "Prodotti vegani",
+      "marca": "JAY&JOY",
+      "sostanza/rischio": "Listeria monocytogenes",
+      "paese di origine": "Francia",
+      "news/avviso": "26/01/2023"
+    },
+    "product": "Prodotti vegani",
+    "brand": "JAY&JOY",
+    "reasonShort": "Listeria monocytogenes",
+    "country": "Francia",
+    "lots": [],
+    "attachments": [],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "prodotti-vegani-jayjoy",
+    "published": "2023-01-26"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratori-alimentari-escobar-polvere-confezione-da-250-grammi-e-kill/",
+    "title": "Integratori alimentari",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/vendita-online-di-integratori-contenenti-dmaa-dimethylamylamine-dmba-13/",
+    "noticeDate": "12/01/2023",
+    "campi": {
+      "prodotto": "Integratori alimentari",
+      "marca": "Escobar (polvere in confezione da 250 grammi) e Kill Zone Hardcore Ultimate Formula 100% Skills (polvere in confezione da 300 grammi)",
+      "sostanza/rischio": "DMAA (dimethylamylamine) e DMBA (1,3-dimethylbutylamine) e Octopamine",
+      "paese di origine": "Stati Uniti",
+      "news/avviso": "12/01/2023"
+    },
+    "product": "Integratori alimentari",
+    "brand": "Escobar (polvere in confezione da 250 grammi) e Kill Zone Hardcore Ultimate Formula 100% Skills (polvere in confezione da 300 grammi)",
+    "reasonShort": "DMAA (dimethylamylamine) e DMBA (1,3-dimethylbutylamine) e Octopamine",
+    "country": "Stati Uniti",
+    "lots": [],
+    "attachments": [],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "integratori-alimentari-escobar-polvere-confezione-da-250-grammi-e-kill",
+    "published": "2023-01-12"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratori-alimentari-natrol-yohimbe-bark-mens-health-stamina-rx/",
+    "title": "Integratori alimentari",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/vendita-online-di-integratori-contenenti-yohimbina-o-yohimbe/",
+    "noticeDate": "07/11/2022",
+    "campi": {
+      "prodotto": "Integratori alimentari",
+      "marca": "Natrol Yohimbe Bark, Men’s Health - Stamina-Rx Maximum sexual stimulant",
+      "sostanza/rischio": "Yohimbina o Yohimbe",
+      "paese di origine": "USA",
+      "numero lotto": "Vari",
+      "news/avviso": "07/11/2022"
+    },
+    "product": "Integratori alimentari",
+    "brand": "Natrol Yohimbe Bark, Men’s Health - Stamina-Rx Maximum sexual stimulant",
+    "reasonShort": "Yohimbina o Yohimbe",
+    "country": "USA",
+    "lots": [
+      "Vari"
+    ],
+    "attachments": [],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "integratori-alimentari-natrol-yohimbe-bark-mens-health-stamina-rx",
+    "published": "2022-11-07"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratore-alimentare-pwo-max-kiwi-strawberry-prime-nutrition/",
+    "title": "Integratore alimentare PWO-MAX Kiwi Strawberry",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-presenza-di-dmba-integratore-alimentare-pwo-max-kiwi/",
+    "noticeDate": "28/07/2022",
+    "campi": {
+      "prodotto": "Integratore alimentare PWO-MAX Kiwi Strawberry",
+      "marca": "Prime Nutrition",
+      "sostanza/rischio": "DMBA (4-methylpentan-2-amine (1,3-dimethylbutylamine)",
+      "paese di origine": "probabile vendita on line",
+      "numero lotto": "04810952",
+      "news/avviso": "28/07/2022"
+    },
+    "product": "Integratore alimentare PWO-MAX Kiwi Strawberry",
+    "brand": "Prime Nutrition",
+    "reasonShort": "DMBA (4-methylpentan-2-amine (1,3-dimethylbutylamine)",
+    "country": "probabile vendita on line",
+    "lots": [
+      "04810952"
+    ],
+    "attachments": [
+      {
+        "name": "Foto integratore",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_91_0_immagine.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "integratore-alimentare-pwo-max-kiwi-strawberry-prime-nutrition",
+    "published": "2022-07-28"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/aggiornamento-avviso-champagne-3-litri-moet-chandon-imperial-ice/",
     "title": "Aggiornamento avviso - Champagne 3 litri",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/aggiornamento-avviso-di-sicurezza-lotto-di-champagne-moet-chandon-imperial-ice/",
@@ -27,6 +539,34 @@
     "published": "2022-06-08"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/pesto-broccoli-siciliani-e-mandorle-la-fattoria-biodinamica-confezioni/",
+    "title": "Pesto broccoli siciliani e mandorle",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/sicurezza-alimentare-episodio-di-botulismo-legato-al-consumo-di-una-confezione/",
+    "noticeDate": "10/05/2022",
+    "campi": {
+      "prodotto": "Pesto broccoli siciliani e mandorle",
+      "marca": "La fattoria biodinamica - confezioni ricevute in regalo",
+      "sostanza/rischio": "in corso di aggiornamento",
+      "paese di origine": "Italia",
+      "numero lotto": "Nell'etichetta e nel sigillo di garanzia del barattolo non è riportato alcun lotto e scadenza",
+      "news/avviso": "10/05/2022"
+    },
+    "product": "Pesto broccoli siciliani e mandorle",
+    "brand": "La fattoria biodinamica - confezioni ricevute in regalo",
+    "reasonShort": "in corso di aggiornamento",
+    "country": "Italia",
+    "lots": [
+      "Nell'etichetta",
+      "nel sigillo di garanzia del barattolo non è riportato alcun lotto",
+      "scadenza"
+    ],
+    "attachments": [],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pesto-broccoli-siciliani-e-mandorle-la-fattoria-biodinamica-confezioni",
+    "published": "2022-05-10"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/champagne-3-litri-moet-chandon-imperial-ice/",
     "title": "Champagne 3 litri",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-presenza-di-mdma-lotto-di-champagne-moet-chandon/",
@@ -51,6 +591,33 @@
     "category": "info",
     "id": "champagne-3-litri-moet-chandon-imperial-ice",
     "published": "2022-03-08"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/baby-forte-vitamine-concepimento-gravidanza-baby-forte/",
+    "title": "Baby Forte Vitamine Concepimento & Gravidanza",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-presenza-di-ossido-di-etilene-alcuni-lotti-del-prodotto/",
+    "noticeDate": "19/11/2021",
+    "campi": {
+      "prodotto": "Baby Forte Vitamine Concepimento & Gravidanza",
+      "marca": "Baby Forte",
+      "sostanza/rischio": "ossido di etilene",
+      "paese di origine": "Germania",
+      "numero lotto": "lotti C0122045, C0124817",
+      "news/avviso": "19/11/2021"
+    },
+    "product": "Baby Forte Vitamine Concepimento & Gravidanza",
+    "brand": "Baby Forte",
+    "reasonShort": "ossido di etilene",
+    "country": "Germania",
+    "lots": [
+      "lotti C0122045",
+      "C0124817"
+    ],
+    "attachments": [],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "baby-forte-vitamine-concepimento-gravidanza-baby-forte",
+    "published": "2021-11-19"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/curcudyn-metagenics/",
@@ -113,6 +680,63 @@
     "published": "2021-08-05"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/diabetyn-sensilab/",
+    "title": "Diabetyn",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-di-sicurezza-ossido-di-etilene-0/",
+    "noticeDate": "04/06/2021",
+    "campi": {
+      "prodotto": "Diabetyn",
+      "marca": "Sensilab",
+      "sostanza/rischio": "Ossido di etilene",
+      "paese di origine": "Slovenia",
+      "numero lotto": "2100309",
+      "news/avviso": "04/06/2021"
+    },
+    "product": "Diabetyn",
+    "brand": "Sensilab",
+    "reasonShort": "Ossido di etilene",
+    "country": "Slovenia",
+    "lots": [
+      "2100309"
+    ],
+    "attachments": [
+      {
+        "name": "foto Diabetyn",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_84_0_immagine.png"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "diabetyn-sensilab",
+    "published": "2021-06-04"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/forzapiu-formula-extra-forte-potenza-max-ginseng-complex-unlimited-oa/",
+    "title": "ForzaPiù formula extra forte, Potenza Max ginseng complex",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-di-sicurezza-sildenafil-integratori-alimentari/",
+    "noticeDate": "17/05/2021",
+    "campi": {
+      "prodotto": "ForzaPiù formula extra forte, Potenza Max ginseng complex",
+      "marca": "Unlimited OA OA LTD, international house",
+      "sostanza/rischio": "Sildenafil",
+      "paese di origine": "Regno Unito",
+      "numero lotto": "ForzaPiù lotto 779296438 - Potenza Max lotto 4589136",
+      "news/avviso": "17/05/2021"
+    },
+    "product": "ForzaPiù formula extra forte, Potenza Max ginseng complex",
+    "brand": "Unlimited OA OA LTD, international house",
+    "reasonShort": "Sildenafil",
+    "country": "Regno Unito",
+    "lots": [
+      "ForzaPiù lotto 779296438 - Potenza Max lotto 4589136"
+    ],
+    "attachments": [],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "forzapiu-formula-extra-forte-potenza-max-ginseng-complex-unlimited-oa",
+    "published": "2021-05-17"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/herbaclean-barinutrics-nutritotal-vanille-24hr-detox-day-night-brand/",
     "title": "HerbaClean, BariNutrics NutriTotal Vanille, 24hr Detox day-night brand: Body&Fit",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-di-sicurezza-ossido-di-etilene-psyllium/",
@@ -135,6 +759,55 @@
     "category": "risk",
     "id": "herbaclean-barinutrics-nutritotal-vanille-24hr-detox-day-night-brand",
     "published": "2021-04-22"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/omogeneizzato-al-gusto-mela-ananas-mellin/",
+    "title": "Omogeneizzato al gusto mela-ananas",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-di-sicurezza-omogeneizzato-mellin-gusto-mela-ananas/",
+    "noticeDate": "22/03/2021",
+    "campi": {
+      "prodotto": "Omogeneizzato al gusto mela-ananas",
+      "marca": "Mellin",
+      "sostanza/rischio": "Frammento di vetro",
+      "paese di origine": "Italia",
+      "numero lotto": "01600021",
+      "news/avviso": "22/03/2021"
+    },
+    "product": "Omogeneizzato al gusto mela-ananas",
+    "brand": "Mellin",
+    "reasonShort": "Frammento di vetro",
+    "country": "Italia",
+    "lots": [
+      "01600021"
+    ],
+    "attachments": [],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "omogeneizzato-al-gusto-mela-ananas-mellin",
+    "published": "2021-03-22"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/capsule-di-fertilizzanti-fatburney/",
+    "title": "Capsule di fertilizzanti",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-su-capusle-di-fertilizzanti-fatburney/",
+    "noticeDate": "02/02/2021",
+    "campi": {
+      "prodotto": "Capsule di fertilizzanti",
+      "marca": "FatBurney",
+      "sostanza/rischio": "2,4-dinitrofenolo",
+      "paese di origine": "Irlanda",
+      "news/avviso": "02/02/2021"
+    },
+    "product": "Capsule di fertilizzanti",
+    "brand": "FatBurney",
+    "reasonShort": "2,4-dinitrofenolo",
+    "country": "Irlanda",
+    "lots": [],
+    "attachments": [],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "capsule-di-fertilizzanti-fatburney",
+    "published": "2021-02-02"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratore-alimentare-sensimaxx-sc-extraplant-gordi-srl/",
@@ -261,6 +934,34 @@
     "published": "2020-02-25"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/sprin-home-tyj-spring-roll-pastry-tee-yih-jia-food-manufactering-pte/",
+    "title": "SPRIN HOME TYJ SPRING ROLL PASTRY",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/sprin-home-tyj-spring-roll-pastry-provenienti-da-singapore/",
+    "noticeDate": "14/02/2020",
+    "campi": {
+      "prodotto": "SPRIN HOME TYJ SPRING ROLL PASTRY",
+      "marca": "Tee Yih Jia Food Manufactering Pte Ltd",
+      "sostanza/rischio": "Allergene latte",
+      "paese di origine": "Singapore",
+      "news/avviso": "14/02/2020"
+    },
+    "product": "SPRIN HOME TYJ SPRING ROLL PASTRY",
+    "brand": "Tee Yih Jia Food Manufactering Pte Ltd",
+    "reasonShort": "Allergene latte",
+    "country": "Singapore",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "SPRIN HOME TYJ SPRING ROLL PASTRY",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_72_0_immagine.PNG"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sprin-home-tyj-spring-roll-pastry-tee-yih-jia-food-manufactering-pte",
+    "published": "2020-02-14"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratore-alimentare-volfort/",
     "title": "Integratore alimentare “VOLFORT”",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/integratore-alimentare-volfort-proveniente-dalla-cina/",
@@ -361,6 +1062,53 @@
     "category": "info",
     "id": "integratori-alimentari-konsar-future-nutrition-inc",
     "published": "2019-06-26"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratori-alimentari/",
+    "title": "Integratori alimentari",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/integratori-alimentari-presenza-di-sostanze-sildenafil-e-tadalafil-non/",
+    "noticeDate": "18/06/2019",
+    "campi": {
+      "prodotto": "Integratori alimentari",
+      "sostanza/rischio": "Sildenafil e Tadalafil",
+      "paese di origine": "Spagna",
+      "news/avviso": "18/06/2019"
+    },
+    "product": "Integratori alimentari",
+    "reasonShort": "Sildenafil e Tadalafil",
+    "country": "Spagna",
+    "lots": [],
+    "attachments": [],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "integratori-alimentari",
+    "published": "2019-06-18"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/saint-felicien-confezioni-da-180-g-e-saint-marcellin-confezioni-da-80-g/",
+    "title": "SAINT- FELICIEN (confezioni da 180 g) e SAINT MARCELLIN (confezioni da 80 g)",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-presenza-di-dmba-integratore-alimentare-pwo-max-kiwi/",
+    "noticeDate": "03/05/2019",
+    "campi": {
+      "prodotto": "SAINT- FELICIEN (confezioni da 180 g) e SAINT MARCELLIN (confezioni da 80 g)",
+      "marca": "Fromagerie alpine, Carrefour, Reflet de France, Leclerc, Lidl, Auchan, Rochambeau, Prince des bois, Sonnailles et Prealpin",
+      "sostanza/rischio": "Escherichia coli",
+      "paese di origine": "Francia",
+      "numero lotto": "tutti i lotti da l 032 a l 116",
+      "news/avviso": "03/05/2019"
+    },
+    "product": "SAINT- FELICIEN (confezioni da 180 g) e SAINT MARCELLIN (confezioni da 80 g)",
+    "brand": "Fromagerie alpine, Carrefour, Reflet de France, Leclerc, Lidl, Auchan, Rochambeau, Prince des bois, Sonnailles et Prealpin",
+    "reasonShort": "Escherichia coli",
+    "country": "Francia",
+    "lots": [
+      "tutti i lotti da l 032 a l 116"
+    ],
+    "attachments": [],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "saint-felicien-confezioni-da-180-g-e-saint-marcellin-confezioni-da-80-g",
+    "published": "2019-05-03"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/latte-di-riso-la-prima-infanzia-modilac/",
@@ -1948,315 +2696,33 @@
     "published": "2009-12-28"
   },
   {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/capsule-di-fertilizzanti-fatburney/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "capsule-di-fertilizzanti-fatburney",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/diabetyn-sensilab/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "diabetyn-sensilab",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/baby-forte-vitamine-concepimento-gravidanza-baby-forte/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "baby-forte-vitamine-concepimento-gravidanza-baby-forte",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/sprin-home-tyj-spring-roll-pastry-tee-yih-jia-food-manufactering-pte/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "sprin-home-tyj-spring-roll-pastry-tee-yih-jia-food-manufactering-pte",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/forzapiu-formula-extra-forte-potenza-max-ginseng-complex-unlimited-oa/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "forzapiu-formula-extra-forte-potenza-max-ginseng-complex-unlimited-oa",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/pesto-broccoli-siciliani-e-mandorle-la-fattoria-biodinamica-confezioni/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "pesto-broccoli-siciliani-e-mandorle-la-fattoria-biodinamica-confezioni",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratori-alimentari-escobar-polvere-confezione-da-250-grammi-e-kill/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "integratori-alimentari-escobar-polvere-confezione-da-250-grammi-e-kill",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/prodotti-vegani-jayjoy/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "prodotti-vegani-jayjoy",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratori-alimentari-libiforme/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "integratori-alimentari-libiforme",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/bustine-monodose-di-te-ala-green-tea-meridetox-tea-premium/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "bustine-monodose-di-te-ala-green-tea-meridetox-tea-premium",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/pesto-lail-des-ours-o-ptits-oignons-cuisine-mobile-par-thierry-leloup/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "pesto-lail-des-ours-o-ptits-oignons-cuisine-mobile-par-thierry-leloup",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratori-alimentari-epimedyum-macun-bitkisel-karisimli-e-wonderful/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "integratori-alimentari-epimedyum-macun-bitkisel-karisimli-e-wonderful",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratore-alimentare-epimen-plus/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "integratore-alimentare-epimen-plus",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratore-alimentare-pwo-max-kiwi-strawberry-prime-nutrition/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "integratore-alimentare-pwo-max-kiwi-strawberry-prime-nutrition",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratori-alimentari-natrol-yohimbe-bark-mens-health-stamina-rx/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "integratori-alimentari-natrol-yohimbe-bark-mens-health-stamina-rx",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/96deg-alcool-dal-1960-fiume-bottiglie-100-ml-contraffatte-marchio-fiume/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "96deg-alcool-dal-1960-fiume-bottiglie-100-ml-contraffatte-marchio-fiume",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/bustine-monodose-di-te-meridetox-tea-premium/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "bustine-monodose-di-te-meridetox-tea-premium",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratori-alimentari/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "integratori-alimentari",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/saint-felicien-confezioni-da-180-g-e-saint-marcellin-confezioni-da-80-g/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "saint-felicien-confezioni-da-180-g-e-saint-marcellin-confezioni-da-80-g",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/omogeneizzato-al-gusto-mela-ananas-mellin/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "omogeneizzato-al-gusto-mela-ananas-mellin",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/latte-polvere/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "latte-polvere",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/bustine-monodose-di-te-meridetox-e-ozlex/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "bustine-monodose-di-te-meridetox-e-ozlex",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/moringa-capsule/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "moringa-capsule",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratori-base-di-moringa/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "integratori-base-di-moringa",
-    "published": ""
-  },
-  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/pate-di-maiale/",
-    "title": "",
-    "campi": {},
+    "title": "Patè di maiale",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/richiamo-di-pate-di-maiale-proveniente-dalla-repubblica-ceca/",
+    "noticeDate": "3 /agosto/2026",
+    "campi": {
+      "prodotto": "Patè di maiale",
+      "sostanza/rischio": "Tossina botulinica tipo A",
+      "paese di origine": "Repubblica Ceca",
+      "news/avviso": "3 /agosto/2026"
+    },
+    "product": "Patè di maiale",
+    "reasonShort": "Tossina botulinica tipo A",
+    "country": "Repubblica Ceca",
     "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
+    "attachments": [
+      {
+        "name": "Immagine 1",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2026-08/picture_I.jpg"
+      },
+      {
+        "name": "Immagine 2",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2026-08/picture_II.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
     "id": "pate-di-maiale",
-    "published": ""
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratore-base-di-caffe/",
-    "title": "",
-    "campi": {},
-    "lots": [],
-    "attachments": [],
-    "topic": "",
-    "category": "info",
-    "product": "",
-    "id": "integratore-base-di-caffe",
     "published": ""
   }
 ]
