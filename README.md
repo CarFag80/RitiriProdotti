@@ -1,4 +1,4 @@
-# Richiami â€” feed dei ritiri prodotto
+# Richiami ” feed dei ritiri prodotto
 
 Sito mobile-first (`index.html`, un solo file, nessuna build) + scraper Python
 che genera `data.json` da due fonti del Ministero della Salute.
