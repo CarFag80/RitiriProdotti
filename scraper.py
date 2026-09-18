@@ -37,7 +37,9 @@ from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 
 BASE = "https://www.salute.gov.it"
-LIST_URL = f"{BASE}/new/it/avvisi/avvisi-e-richiami-di-prodotti-alimentari/"
+# Due fonti: richiami ufficiali + richiami degli operatori (volontari)
+OFFICIAL_URL = f"{BASE}/new/it/avvisi/avvisi-e-richiami-di-prodotti-alimentari/"
+OPERATOR_URL = f"{BASE}/new/it/avvisi/avvisi-di-sicurezza/"
 SITEMAP_URL = f"{BASE}/new/sitemap-index.xml"
 OUTPUT_PATH = "data.json"
 
@@ -101,20 +103,14 @@ class Browser:
 
 
 # -------------------------------------------------------------- discovery --
-def discover_urls(browser, limit=None):
+def discover_urls(browser, list_url, pattern, limit=None):
     """Trova gli URL delle schede di richiamo.
 
-    Due strade, in ordine di preferenza. Entrambe DA VERIFICARE in locale:
-    non ho potuto raggiungere il sito per confermare quale delle due funzioni.
-
-    1) Sitemap. Il sorgente della pagina dichiara
-       <link rel="sitemap" href="/new/sitemap-index.xml">. Se contiene le
-       schede, è la via più solida: niente paginazione da gestire.
-    2) Pagina elenco. In alternativa si raccolgono i link della pagina
-       "Avvisi e richiami di prodotti alimentari". ATTENZIONE: il sito è in
-       Gatsby e l'elenco potrebbe essere paginato o caricato via JavaScript;
-       in quel caso qui servirà gestire il "carica altri" / le pagine
-       successive. Con un esempio della pagina elenco lo sistemo.
+    Args:
+        browser: istanza Browser
+        list_url: URL della pagina elenco
+        pattern: pattern regex per filtrare gli URL trovati
+        limit: numero massimo di URL da restituire
     """
     urls = []
 
@@ -128,7 +124,7 @@ def discover_urls(browser, limit=None):
             body = browser.get(sm, wait_ms=800)
             urls += [
                 u for u in re.findall(r"<loc>\s*([^<]+?)\s*</loc>", body)
-                if "avvisi-sicurezza-alimentare" in u
+                if pattern in u
             ]
         if urls:
             print(f"Sitemap: trovate {len(urls)} schede.")
@@ -137,11 +133,11 @@ def discover_urls(browser, limit=None):
 
     # --- strada 2: pagina elenco ---
     if not urls:
-        html = browser.get(LIST_URL)
+        html = browser.get(list_url)
         soup = BeautifulSoup(html, "html.parser")
         for a in soup.select("a[href]"):
             href = a["href"]
-            if "avvisi-sicurezza-alimentare" in href:
+            if pattern in href:
                 urls.append(href if href.startswith("http") else BASE + href)
         print(f"Pagina elenco: trovati {len(urls)} link.")
 
@@ -155,7 +151,7 @@ def discover_urls(browser, limit=None):
 
 
 # ----------------------------------------------------------------- parser --
-def parse_detail(html, url=""):
+def parse_detail(html, url="", source="official"):
     """TESTATA sul sorgente reale di una scheda."""
     soup = BeautifulSoup(html, "html.parser")
     record = {"sourceUrl": url}
@@ -210,6 +206,7 @@ def parse_detail(html, url=""):
         record["product"] = record["title"]
     record["id"] = url.rstrip("/").rsplit("/", 1)[-1] or record["title"][:50]
     record["published"] = to_iso(record.get("noticeDate", ""))
+    record["source"] = source  # "official" o "operator"
 
     return record
 
@@ -228,27 +225,49 @@ def main():
     limit = int(sys.argv[1]) if len(sys.argv) > 1 else None
 
     with Browser() as b:
-        urls = discover_urls(b, limit=limit)
-        if not urls:
+        records = []
+
+        # --- Richiami ufficiali ---
+        print("\n=== RICHIAMI UFFICIALI ===")
+        urls_official = discover_urls(b, OFFICIAL_URL, "avvisi-sicurezza-alimentare", limit=limit)
+        if urls_official:
+            for i, url in enumerate(urls_official, 1):
+                try:
+                    rec = parse_detail(b.get(url, wait_ms=1200), url, source="official")
+                    records.append(rec)
+                    flag = " (senza data!)" if not rec.get("published") else ""
+                    print(f"[{i}/{len(urls_official)}] ok  {url}{flag}")
+                except Exception as e:
+                    print(f"[{i}/{len(urls_official)}] ERRORE {url}: {e}")
+                time.sleep(0.5)
+
+        # --- Richiami degli operatori ---
+        print("\n=== RICHIAMI DEGLI OPERATORI ===")
+        urls_operator = discover_urls(b, OPERATOR_URL, "avvisi-di-sicurezza", limit=limit)
+        if urls_operator:
+            for i, url in enumerate(urls_operator, 1):
+                try:
+                    rec = parse_detail(b.get(url, wait_ms=1200), url, source="operator")
+                    records.append(rec)
+                    flag = " (senza data!)" if not rec.get("published") else ""
+                    print(f"[{i}/{len(urls_operator)}] ok  {url}{flag}")
+                except Exception as e:
+                    print(f"[{i}/{len(urls_operator)}] ERRORE {url}: {e}")
+                time.sleep(0.5)
+
+        if not records:
             raise SystemExit(
-                "Nessuna scheda trovata. Salva su file il contenuto di "
-                "discover_urls e guarda cosa è tornato: probabilmente "
-                "l'elenco è paginato o caricato via JavaScript."
+                "Nessuna scheda trovata. La sitemap potrebbe non contenere i link, "
+                "o l'elenco potrebbe essere paginato/caricato via JavaScript."
             )
 
-        records = []
-        for i, url in enumerate(urls, 1):
-            try:
-                records.append(parse_detail(b.get(url, wait_ms=1200), url))
-                print(f"[{i}/{len(urls)}] ok  {url}")
-            except Exception as e:
-                print(f"[{i}/{len(urls)}] ERRORE {url}: {e}")
-            time.sleep(0.5)  # cortesia verso il server
-
     records.sort(key=lambda r: r.get("published", ""), reverse=True)
+    official_count = sum(1 for r in records if r.get("source") == "official")
+    operator_count = sum(1 for r in records if r.get("source") == "operator")
+
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(records, f, ensure_ascii=False, indent=2)
-    print(f"\nSalvati {len(records)} richiami in {OUTPUT_PATH}")
+    print(f"\nSalvati {len(records)} richiami ({official_count} ufficiali, {operator_count} operatori) in {OUTPUT_PATH}")
 
 
 if __name__ == "__main__":
