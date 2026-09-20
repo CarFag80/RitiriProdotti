@@ -133,13 +133,16 @@ def discover_urls(browser, list_url, pattern, limit=None):
 
     # --- strada 2: pagina elenco ---
     if not urls:
-        html = browser.get(list_url)
-        soup = BeautifulSoup(html, "html.parser")
-        for a in soup.select("a[href]"):
-            href = a["href"]
-            if pattern in href:
-                urls.append(href if href.startswith("http") else BASE + href)
-        print(f"Pagina elenco: trovati {len(urls)} link.")
+        try:
+            html = browser.get(list_url)
+            soup = BeautifulSoup(html, "html.parser")
+            for a in soup.select("a[href]"):
+                href = a["href"]
+                if pattern in href:
+                    urls.append(href if href.startswith("http") else BASE + href)
+            print(f"Pagina elenco: trovati {len(urls)} link.")
+        except Exception as e:
+            print(f"Pagina elenco non raggiungibile ({e}); nessun URL trovato per questa fonte.")
 
     # dedup preservando l'ordine
     seen, out = set(), []
@@ -228,9 +231,11 @@ def main():
         records = []
 
         # --- Richiami ufficiali ---
+        # Isolata in un proprio try/except: se questa fonte va in errore,
+        # non deve impedire il salvataggio di quella degli operatori.
         print("\n=== RICHIAMI UFFICIALI ===")
-        urls_official = discover_urls(b, OFFICIAL_URL, "avvisi-sicurezza-alimentare", limit=limit)
-        if urls_official:
+        try:
+            urls_official = discover_urls(b, OFFICIAL_URL, "avvisi-sicurezza-alimentare", limit=limit)
             for i, url in enumerate(urls_official, 1):
                 try:
                     rec = parse_detail(b.get(url, wait_ms=1200), url, source="official")
@@ -240,11 +245,14 @@ def main():
                 except Exception as e:
                     print(f"[{i}/{len(urls_official)}] ERRORE {url}: {e}")
                 time.sleep(0.5)
+        except Exception as e:
+            print(f"FONTE UFFICIALI SALTATA per errore imprevisto: {e}")
 
         # --- Richiami degli operatori ---
+        # Stessa protezione, nell'altro senso.
         print("\n=== RICHIAMI DEGLI OPERATORI ===")
-        urls_operator = discover_urls(b, OPERATOR_URL, "avvisi-di-sicurezza", limit=limit)
-        if urls_operator:
+        try:
+            urls_operator = discover_urls(b, OPERATOR_URL, "avvisi-di-sicurezza", limit=limit)
             for i, url in enumerate(urls_operator, 1):
                 try:
                     rec = parse_detail(b.get(url, wait_ms=1200), url, source="operator")
@@ -254,11 +262,13 @@ def main():
                 except Exception as e:
                     print(f"[{i}/{len(urls_operator)}] ERRORE {url}: {e}")
                 time.sleep(0.5)
+        except Exception as e:
+            print(f"FONTE OPERATORI SALTATA per errore imprevisto: {e}")
 
         if not records:
             raise SystemExit(
-                "Nessuna scheda trovata. La sitemap potrebbe non contenere i link, "
-                "o l'elenco potrebbe essere paginato/caricato via JavaScript."
+                "Nessuna scheda trovata da nessuna delle due fonti. "
+                "Controlla il log qui sopra per capire dove si è fermato."
             )
 
     records.sort(key=lambda r: r.get("published", ""), reverse=True)
