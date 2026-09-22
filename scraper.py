@@ -37,9 +37,16 @@ from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 
 BASE = "https://www.salute.gov.it"
-# Due fonti: richiami ufficiali + richiami degli operatori (volontari)
+# Due fonti, MA UNA SOLA PAGINA ELENCO: Carmine ha confermato che "Richiami
+# degli Operatori" non è un URL separato, è una scheda/tab dentro la stessa
+# pagina "Avvisi e richiami di prodotti alimentari". Le schede di dettaglio
+# però vivono su URL diversi e distinguibili:
+#   ufficiali  -> /new/it/avvisi-sicurezza-alimentare/<slug>
+#   operatori  -> /new/it/ext-avviso-sicurezza-alimentare/<slug>  (confermato
+#                 sul sorgente reale della scheda "Brie Tour De Marze")
 OFFICIAL_URL = f"{BASE}/new/it/avvisi/avvisi-e-richiami-di-prodotti-alimentari/"
-OPERATOR_URL = f"{BASE}/new/it/avvisi/avvisi-di-sicurezza/"
+OPERATOR_URL = OFFICIAL_URL  # stessa pagina, si clicca la scheda "Richiami degli Operatori"
+OPERATOR_TAB_LABEL = "Richiami degli Operatori"
 SITEMAP_URL = f"{BASE}/new/sitemap-index.xml"
 OUTPUT_PATH = "data.json"
 
@@ -49,6 +56,7 @@ USER_AGENT = (
 )
 
 LABEL_MAP = {
+    # etichette delle schede ufficiali
     "prodotto": "product",
     "marca": "brand",
     "sostanza/rischio": "reasonShort",
@@ -62,6 +70,18 @@ LABEL_MAP = {
     "peso": "packaging",
     "quantita": "packaging",
     "quantità": "packaging",
+    # etichette delle schede operatori (es. "Brie Tour De Marze"): stessi
+    # concetti, nomi diversi
+    "denominazione": "product",
+    "motivo della segnalazione": "reasonShort",
+}
+
+# Nomi dei mesi italiani, per le date scritte per esteso nelle schede
+# operatori (es. "17 settembre 2026"), diverse dal "D/M/YYYY" delle ufficiali.
+IT_MONTHS = {
+    "gennaio": 1, "febbraio": 2, "marzo": 3, "aprile": 4, "maggio": 5,
+    "giugno": 6, "luglio": 7, "agosto": 8, "settembre": 9, "ottobre": 10,
+    "novembre": 11, "dicembre": 12,
 }
 
 RISK_KEYWORDS = [
@@ -101,9 +121,24 @@ class Browser:
         self.page.wait_for_timeout(wait_ms)  # margine per il controllo Gcore
         return self.page.content()
 
+    def click_tab(self, text, wait_ms=2500, timeout_ms=15000):
+        """Clicca il primo elemento cliccabile il cui testo contiene `text`
+        (case-insensitive) nella pagina correntemente caricata (va chiamato
+        dopo .get()) e restituisce l'HTML aggiornato. Serve per le schede
+        della pagina elenco, es. la scheda 'Richiami degli Operatori', che
+        non ha un URL proprio."""
+        locator = self.page.get_by_text(text, exact=False)
+        locator.first.click(timeout=timeout_ms)
+        self.page.wait_for_timeout(wait_ms)
+        try:
+            self.page.wait_for_load_state("networkidle", timeout=timeout_ms)
+        except Exception:
+            pass  # se non scatta una richiesta di rete, va bene lo stesso
+        return self.page.content()
+
 
 # -------------------------------------------------------------- discovery --
-def discover_urls(browser, list_url, pattern, limit=None):
+def discover_urls(browser, list_url, pattern, limit=None, click_label=None):
     """Trova gli URL delle schede di richiamo.
 
     Args:
@@ -111,6 +146,10 @@ def discover_urls(browser, list_url, pattern, limit=None):
         list_url: URL della pagina elenco
         pattern: pattern regex per filtrare gli URL trovati
         limit: numero massimo di URL da restituire
+        click_label: se dato, dopo aver caricato list_url clicca il primo
+            elemento con questo testo (es. la scheda "Richiami degli
+            Operatori") prima di leggere i link — serve quando il contenuto
+            non è già nell'HTML iniziale ma compare solo dopo il click.
     """
     urls = []
 
@@ -131,10 +170,15 @@ def discover_urls(browser, list_url, pattern, limit=None):
     except Exception as e:
         print(f"Sitemap non utilizzabile ({e}); provo con la pagina elenco.")
 
-    # --- strada 2: pagina elenco ---
+    # --- strada 2: pagina elenco (con eventuale click sulla scheda) ---
     if not urls:
         try:
             html = browser.get(list_url)
+            if click_label:
+                try:
+                    html = browser.click_tab(click_label)
+                except Exception as e:
+                    print(f"Click su '{click_label}' non riuscito ({e}); leggo comunque la pagina così com'è.")
             soup = BeautifulSoup(html, "html.parser")
             for a in soup.select("a[href]"):
                 href = a["href"]
@@ -163,7 +207,10 @@ def parse_detail(html, url="", source="official"):
     record["title"] = clean(h1.get_text()) if h1 else ""
 
     campi = {}
-    for div in soup.select("div.pb-2"):
+    # ".pb-2" e non "div.pb-2": le schede operatori (es. "Brie Tour De
+    # Marze") usano <p class="pb-2"> invece di <div class="pb-2"> per gli
+    # stessi campi etichetta/valore.
+    for div in soup.select(".pb-2"):
         span = div.find("span", class_="fw-bold")
         if not span:
             continue
@@ -177,6 +224,9 @@ def parse_detail(html, url="", source="official"):
             if a:
                 record["noticeUrl"] = BASE + a["href"] if a["href"].startswith("/") else a["href"]
                 record["noticeDate"] = clean(a.get_text())
+        elif "data pubblicazione" in label and not record.get("noticeDate"):
+            # schede operatori: data scritta per esteso, niente link
+            record["noticeDate"] = value
 
     record["campi"] = campi
     for label, value in campi.items():
@@ -187,9 +237,24 @@ def parse_detail(html, url="", source="official"):
     lot_raw = record.pop("lot", "")
     record["lots"] = [clean(x) for x in re.split(r"[;,]| e ", lot_raw) if clean(x)]
 
+    def attachment_name(a):
+        text = clean(a.get_text())
+        if text:
+            return text
+        # schede operatori: il link con download="" è solo un'icona senza
+        # testo; il nome vero è in un link vicino con lo stesso href.
+        href = a["href"]
+        for other in soup.select("a[href]"):
+            if other is a or other.get("href") != href:
+                continue
+            t = clean(other.get_text())
+            if t:
+                return t
+        return href.rsplit("/", 1)[-1].split("?")[0].replace("%20", " ")
+
     record["attachments"] = [
         {
-            "name": clean(a.get_text()),
+            "name": attachment_name(a),
             "url": BASE + a["href"] if a["href"].startswith("/") else a["href"],
         }
         for a in soup.select("a[download][href]")
@@ -215,12 +280,22 @@ def parse_detail(html, url="", source="official"):
 
 
 def to_iso(it_date):
-    """'11/9/2026' -> '2026-09-11'. Stringa vuota se non riconosciuta."""
-    m = re.match(r"^\s*(\d{1,2})/(\d{1,2})/(\d{4})\s*$", it_date or "")
-    if not m:
-        return ""
-    d, mth, y = m.groups()
-    return f"{y}-{int(mth):02d}-{int(d):02d}"
+    """Converte una data testuale in ISO 'YYYY-MM-DD'. Riconosce sia
+    'D/M/YYYY' (schede ufficiali, es. '11/9/2026') sia 'D mese YYYY' per
+    esteso (schede operatori, es. '17 settembre 2026'). Stringa vuota se
+    non riconosciuta."""
+    it_date = clean(it_date)
+    m = re.match(r"^(\d{1,2})/(\d{1,2})/(\d{4})$", it_date)
+    if m:
+        d, mth, y = m.groups()
+        return f"{y}-{int(mth):02d}-{int(d):02d}"
+    m = re.match(r"^(\d{1,2})\s+([A-Za-zàèéìòù]+)\s+(\d{4})$", it_date)
+    if m:
+        d, month_name, y = m.groups()
+        mth = IT_MONTHS.get(month_name.lower())
+        if mth:
+            return f"{y}-{mth:02d}-{int(d):02d}"
+    return ""
 
 
 # ------------------------------------------------------------------- main --
@@ -252,7 +327,10 @@ def main():
         # Stessa protezione, nell'altro senso.
         print("\n=== RICHIAMI DEGLI OPERATORI ===")
         try:
-            urls_operator = discover_urls(b, OPERATOR_URL, "avvisi-di-sicurezza", limit=limit)
+            urls_operator = discover_urls(
+                b, OPERATOR_URL, "ext-avviso-sicurezza-alimentare",
+                limit=limit, click_label=OPERATOR_TAB_LABEL,
+            )
             for i, url in enumerate(urls_operator, 1):
                 try:
                     rec = parse_detail(b.get(url, wait_ms=1200), url, source="operator")
