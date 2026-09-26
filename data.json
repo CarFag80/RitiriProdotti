@@ -1,190 +1,5 @@
 [
   {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/tonno-fresco-garciden/",
-    "title": "Tonno fresco",
-    "noticeUrl": "https://www.salute.gov.it/new/",
-    "noticeDate": "13/05/2017",
-    "campi": {
-      "prodotto": "Tonno fresco",
-      "marca": "Garciden",
-      "sostanza/rischio": "Istamina",
-      "paese di origine": "Spagna",
-      "news/avviso": "13/05/2017"
-    },
-    "product": "Tonno fresco",
-    "brand": "Garciden",
-    "reasonShort": "Istamina",
-    "country": "Spagna",
-    "lots": [],
-    "attachments": [],
-    "topic": "Avvisi e richiami di prodotti alimentari",
-    "category": "risk",
-    "id": "tonno-fresco-garciden",
-    "published": "2017-05-13",
-    "source": "official"
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/xm-energy-mix/",
-    "title": "XM+ Energy Mix",
-    "noticeUrl": "https://www.salute.gov.it/new/",
-    "noticeDate": "04/07/2016",
-    "campi": {
-      "prodotto": "XM+ Energy Mix",
-      "sostanza/rischio": "Ephedra Nevalensis",
-      "paese di origine": "USA via Olanda",
-      "news/avviso": "04/07/2016"
-    },
-    "product": "XM+ Energy Mix",
-    "reasonShort": "Ephedra Nevalensis",
-    "country": "USA via Olanda",
-    "lots": [],
-    "attachments": [
-      {
-        "name": "XM+ Energy Mix",
-        "url": "https://www.salute.gov.it/new/sites/default/files/2025-04/Immagineavviso.jpg"
-      }
-    ],
-    "topic": "Avvisi e richiami di prodotti alimentari",
-    "category": "info",
-    "id": "xm-energy-mix",
-    "published": "2016-07-04",
-    "source": "official"
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/coppa-di-testa-salumificio-monsano-srl/",
-    "title": "Coppa di testa",
-    "noticeUrl": "https://www.salute.gov.it/new/",
-    "noticeDate": "05/02/2016",
-    "campi": {
-      "prodotto": "Coppa di testa",
-      "marca": "Salumificio Monsano srl",
-      "sostanza/rischio": "Listeria monocytogenes",
-      "paese di origine": "Italia",
-      "numero lotto": "51209 con scadenza 9/1/2016",
-      "news/avviso": "05/02/2016"
-    },
-    "product": "Coppa di testa",
-    "brand": "Salumificio Monsano srl",
-    "reasonShort": "Listeria monocytogenes",
-    "country": "Italia",
-    "lots": [
-      "51209 con scadenza 9/1/2016"
-    ],
-    "attachments": [],
-    "topic": "Avvisi e richiami di prodotti alimentari",
-    "category": "risk",
-    "id": "coppa-di-testa-salumificio-monsano-srl",
-    "published": "2016-02-05",
-    "source": "official"
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/asanta-enterprise-ghana-best-olio-di-palma-zomi/",
-    "title": "ASANTA ENTERPRISE",
-    "noticeUrl": "https://www.salute.gov.it/new/",
-    "noticeDate": "17/12/2015",
-    "campi": {
-      "prodotto": "ASANTA ENTERPRISE",
-      "marca": "GHANA BEST OLIO Di PALMA ZOMI",
-      "sostanza/rischio": "Sudan IV",
-      "paese di origine": "Ghana via Olanda",
-      "news/avviso": "17/12/2015"
-    },
-    "product": "ASANTA ENTERPRISE",
-    "brand": "GHANA BEST OLIO Di PALMA ZOMI",
-    "reasonShort": "Sudan IV",
-    "country": "Ghana via Olanda",
-    "lots": [],
-    "attachments": [
-      {
-        "name": "Foto 1",
-        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_54_foto_itemFoto_0_immagine.jpg"
-      },
-      {
-        "name": "Foto 2",
-        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_54_foto_itemFoto_1_immagine.jpg"
-      }
-    ],
-    "topic": "Avvisi e richiami di prodotti alimentari",
-    "category": "info",
-    "id": "asanta-enterprise-ghana-best-olio-di-palma-zomi",
-    "published": "2015-12-17",
-    "source": "official"
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/araldi-allo-strega-alberti/",
-    "title": "Araldi allo Strega",
-    "noticeUrl": "https://www.salute.gov.it/new/",
-    "noticeDate": "09/12/2015",
-    "campi": {
-      "prodotto": "Araldi allo Strega",
-      "marca": "Alberti",
-      "sostanza/rischio": "glutine",
-      "paese di origine": "Italia",
-      "numero lotto": "vari",
-      "news/avviso": "09/12/2015"
-    },
-    "product": "Araldi allo Strega",
-    "brand": "Alberti",
-    "reasonShort": "glutine",
-    "country": "Italia",
-    "lots": [
-      "vari"
-    ],
-    "attachments": [
-      {
-        "name": "Immagine 1",
-        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_53_foto_itemFoto_0_immagine.jpg"
-      },
-      {
-        "name": "immagine 2",
-        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_53_foto_itemFoto_1_immagine.jpg"
-      }
-    ],
-    "topic": "Avvisi e richiami di prodotti alimentari",
-    "category": "info",
-    "id": "araldi-allo-strega-alberti",
-    "published": "2015-12-09",
-    "source": "official"
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/olio-extra-vergine-di-oliva-contraffatto-confezionatore-olio-puglia/",
-    "title": "Olio extra vergine di oliva contraffatto",
-    "noticeUrl": "https://www.salute.gov.it/new/",
-    "noticeDate": "29/07/2015",
-    "campi": {
-      "prodotto": "Olio extra vergine di oliva contraffatto",
-      "marca": "confezionatore \"Olio Puglia\" - grossista \"Eurocatering di Merra Paolo\"",
-      "paese di origine": "Italia",
-      "numero lotto": "lattine 5 litri",
-      "news/avviso": "29/07/2015"
-    },
-    "product": "Olio extra vergine di oliva contraffatto",
-    "brand": "confezionatore \"Olio Puglia\" - grossista \"Eurocatering di Merra Paolo\"",
-    "country": "Italia",
-    "lots": [
-      "lattine 5 litri"
-    ],
-    "attachments": [
-      {
-        "name": "lattina avanti",
-        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_51_foto_itemFoto_0_immagine.png"
-      },
-      {
-        "name": "lattina lato 1",
-        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_51_foto_itemFoto_1_immagine.png"
-      },
-      {
-        "name": "lattina lato 2",
-        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_51_foto_itemFoto_2_immagine.png"
-      }
-    ],
-    "topic": "Avvisi e richiami di prodotti alimentari",
-    "category": "info",
-    "id": "olio-extra-vergine-di-oliva-contraffatto-confezionatore-olio-puglia",
-    "published": "2015-07-29",
-    "source": "official"
-  },
-  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/alimento-miracle-frooties-distribuito-da-miracle-fruit-world-llc/",
     "title": "alimento Miracle Frooties",
     "noticeUrl": "https://www.salute.gov.it/new/",
@@ -520,33 +335,6 @@
     "source": "official"
   },
   {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/pesto-genovese-bruzzone-e-ferrari-0/",
-    "title": "Pesto genovese",
-    "noticeUrl": "https://www.salute.gov.it/new/",
-    "noticeDate": "20/07/2013",
-    "campi": {
-      "prodotto": "Pesto genovese",
-      "marca": "Bruzzone e Ferrari",
-      "sostanza/rischio": "sospetta presenza botulino",
-      "paese di origine": "Italia",
-      "numero lotto": "13G03",
-      "news/avviso": "20/07/2013"
-    },
-    "product": "Pesto genovese",
-    "brand": "Bruzzone e Ferrari",
-    "reasonShort": "sospetta presenza botulino",
-    "country": "Italia",
-    "lots": [
-      "13G03"
-    ],
-    "attachments": [],
-    "topic": "Avvisi e richiami di prodotti alimentari",
-    "category": "risk",
-    "id": "pesto-genovese-bruzzone-e-ferrari-0",
-    "published": "2013-07-20",
-    "source": "official"
-  },
-  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratore-pure-caffeine-200mg-commercializzato-da-d-hacks/",
     "title": "Integratore \"Pure Caffeine 200mg\"",
     "noticeUrl": "https://www.salute.gov.it/new/",
@@ -597,33 +385,6 @@
     "category": "risk",
     "id": "ricotta-frescolina-marte-tipo-toscanella-torretta-marte-frescolina",
     "published": "2012-10-02",
-    "source": "official"
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/bevande-superalcoliche/",
-    "title": "bevande superalcoliche",
-    "noticeUrl": "https://www.salute.gov.it/new/",
-    "noticeDate": "18/09/2012",
-    "campi": {
-      "prodotto": "bevande superalcoliche",
-      "sostanza/rischio": "metanolo",
-      "paese di origine": "Repubblica ceca",
-      "news/avviso": "18/09/2012"
-    },
-    "product": "bevande superalcoliche",
-    "reasonShort": "metanolo",
-    "country": "Repubblica ceca",
-    "lots": [],
-    "attachments": [
-      {
-        "name": "Etichette contraffatte",
-        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_26_foto_itemFoto_0_immagine.jpg"
-      }
-    ],
-    "topic": "Avvisi e richiami di prodotti alimentari",
-    "category": "risk",
-    "id": "bevande-superalcoliche",
-    "published": "2012-09-18",
     "source": "official"
   },
   {
@@ -686,70 +447,6 @@
     "source": "official"
   },
   {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/nuovi-prodotti-la-ruche-les-delices-de-marie-claire/",
-    "title": "Nuovi prodotti",
-    "noticeUrl": "https://www.salute.gov.it/new/",
-    "noticeDate": "08/09/2011",
-    "campi": {
-      "prodotto": "Nuovi prodotti",
-      "marca": "La RUCHE - Les delices de Marie Claire",
-      "sostanza/rischio": "Costridium botulinum tipo A",
-      "paese di origine": "Francia",
-      "numero lotto": "Lotto 112005 TMC 16/12/2012",
-      "news/avviso": "08/09/2011"
-    },
-    "product": "Nuovi prodotti",
-    "brand": "La RUCHE - Les delices de Marie Claire",
-    "reasonShort": "Costridium botulinum tipo A",
-    "country": "Francia",
-    "lots": [
-      "Lotto 112005 TMC 16/12/2012"
-    ],
-    "attachments": [
-      {
-        "name": "Lista prodotti",
-        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_22_foto_itemFoto0_immagine.jpg"
-      }
-    ],
-    "topic": "Avvisi e richiami di prodotti alimentari",
-    "category": "risk",
-    "id": "nuovi-prodotti-la-ruche-les-delices-de-marie-claire",
-    "published": "2011-09-08",
-    "source": "official"
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/tapenade-verte-aux-amandes-les-delices-de-marie-claire-confezioni-da/",
-    "title": "Tapenade verte aux amandes –Les delices de Marie Claire, confezioni da 180 gr",
-    "noticeUrl": "https://www.salute.gov.it/new/",
-    "noticeDate": "06/09/2011",
-    "campi": {
-      "prodotto": "Tapenade verte aux amandes –Les delices de Marie Claire, confezioni da 180 gr",
-      "marca": "La RUCHE - Les delices de Marie Claire",
-      "sostanza/rischio": "Costridium botulinum tipo A",
-      "paese di origine": "Francia",
-      "numero lotto": "Lotto 112005 TMC 16/12/2012",
-      "news/avviso": "06/09/2011"
-    },
-    "product": "Tapenade verte aux amandes –Les delices de Marie Claire, confezioni da 180 gr",
-    "brand": "La RUCHE - Les delices de Marie Claire",
-    "reasonShort": "Costridium botulinum tipo A",
-    "country": "Francia",
-    "lots": [
-      "Lotto 112005 TMC 16/12/2012"
-    ],
-    "attachments": [
-      {
-        "name": "Tapenade verte",
-        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_20_foto_itemFoto0_immagine.jpg"
-      }
-    ],
-    "topic": "Avvisi e richiami di prodotti alimentari",
-    "category": "risk",
-    "id": "tapenade-verte-aux-amandes-les-delices-de-marie-claire-confezioni-da",
-    "published": "2011-09-06",
-    "source": "official"
-  },
-  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/germogli-di-fieno-greco-miscele-di-semi/",
     "title": "Germogli di fieno greco",
     "noticeUrl": "https://www.salute.gov.it/new/",
@@ -771,54 +468,6 @@
     "category": "risk",
     "id": "germogli-di-fieno-greco-miscele-di-semi",
     "published": "2011-07-06",
-    "source": "official"
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/germogli-di-fagioli-e-germogli-misti-di-diverse-verdure-impresa/",
-    "title": "Germogli di fagioli e germogli misti di diverse verdure",
-    "noticeUrl": "https://www.salute.gov.it/new/",
-    "noticeDate": "10/06/2011",
-    "campi": {
-      "prodotto": "Germogli di fagioli e germogli misti di diverse verdure",
-      "marca": "Impresa alimentare tedesca",
-      "sostanza/rischio": "Escherichia coli, sierotipo O 104: H4",
-      "paese di origine": "Germania",
-      "news/avviso": "10/06/2011"
-    },
-    "product": "Germogli di fagioli e germogli misti di diverse verdure",
-    "brand": "Impresa alimentare tedesca",
-    "reasonShort": "Escherichia coli, sierotipo O 104: H4",
-    "country": "Germania",
-    "lots": [],
-    "attachments": [],
-    "topic": "Avvisi e richiami di prodotti alimentari",
-    "category": "risk",
-    "id": "germogli-di-fagioli-e-germogli-misti-di-diverse-verdure-impresa",
-    "published": "2011-06-10",
-    "source": "official"
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/germogli-contenenti-lenticchie-semi-di-erba-medica-fieno-greco-e/",
-    "title": "Germogli, contenenti lenticchie, semi di erba medica, fieno greco e fagioli azuki",
-    "noticeUrl": "https://www.salute.gov.it/new/",
-    "noticeDate": "06/06/2011",
-    "campi": {
-      "prodotto": "Germogli, contenenti lenticchie, semi di erba medica, fieno greco e fagioli azuki",
-      "marca": "Impresa alimentare tedesca",
-      "sostanza/rischio": "Escherichia coli, sierotipo O 104: H4",
-      "paese di origine": "Germania",
-      "news/avviso": "06/06/2011"
-    },
-    "product": "Germogli, contenenti lenticchie, semi di erba medica, fieno greco e fagioli azuki",
-    "brand": "Impresa alimentare tedesca",
-    "reasonShort": "Escherichia coli, sierotipo O 104: H4",
-    "country": "Germania",
-    "lots": [],
-    "attachments": [],
-    "topic": "Avvisi e richiami di prodotti alimentari",
-    "category": "risk",
-    "id": "germogli-contenenti-lenticchie-semi-di-erba-medica-fieno-greco-e",
-    "published": "2011-06-06",
     "source": "official"
   },
   {
@@ -876,33 +525,6 @@
     "category": "risk",
     "id": "crema-di-asparagi-vasetto-le-salse-apicoltura-brezzo-srl",
     "published": "2010-12-02",
-    "source": "official"
-  },
-  {
-    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/la-rossa-broccoli-alla-napoletana-frijarielli-mediterranea-srl/",
-    "title": "\"La Rossa\" - Broccoli alla napoletana \"FRIJARIELLI\"",
-    "noticeUrl": "https://www.salute.gov.it/new/",
-    "noticeDate": "16/09/2010",
-    "campi": {
-      "prodotto": "\"La Rossa\" - Broccoli alla napoletana \"FRIJARIELLI\"",
-      "marca": "Mediterranea s.r.l",
-      "sostanza/rischio": "Sospetto botulismo",
-      "paese di origine": "Italia",
-      "numero lotto": "18051 scadenza 31/12/2012",
-      "news/avviso": "16/09/2010"
-    },
-    "product": "\"La Rossa\" - Broccoli alla napoletana \"FRIJARIELLI\"",
-    "brand": "Mediterranea s.r.l",
-    "reasonShort": "Sospetto botulismo",
-    "country": "Italia",
-    "lots": [
-      "18051 scadenza 31/12/2012"
-    ],
-    "attachments": [],
-    "topic": "Avvisi e richiami di prodotti alimentari",
-    "category": "risk",
-    "id": "la-rossa-broccoli-alla-napoletana-frijarielli-mediterranea-srl",
-    "published": "2010-09-16",
     "source": "official"
   },
   {
@@ -1173,6 +795,175 @@
     "category": "info",
     "id": "lida-daidaihua",
     "published": "2009-12-28",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/pesto-genovese-bruzzone-e-ferrari-0/",
+    "title": "",
+    "campi": {},
+    "lots": [],
+    "attachments": [],
+    "topic": "",
+    "category": "info",
+    "product": "",
+    "id": "pesto-genovese-bruzzone-e-ferrari-0",
+    "published": "",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/bevande-superalcoliche/",
+    "title": "",
+    "campi": {},
+    "lots": [],
+    "attachments": [],
+    "topic": "",
+    "category": "info",
+    "product": "",
+    "id": "bevande-superalcoliche",
+    "published": "",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/tapenade-verte-aux-amandes-les-delices-de-marie-claire-confezioni-da/",
+    "title": "",
+    "campi": {},
+    "lots": [],
+    "attachments": [],
+    "topic": "",
+    "category": "info",
+    "product": "",
+    "id": "tapenade-verte-aux-amandes-les-delices-de-marie-claire-confezioni-da",
+    "published": "",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/nuovi-prodotti-la-ruche-les-delices-de-marie-claire/",
+    "title": "",
+    "campi": {},
+    "lots": [],
+    "attachments": [],
+    "topic": "",
+    "category": "info",
+    "product": "",
+    "id": "nuovi-prodotti-la-ruche-les-delices-de-marie-claire",
+    "published": "",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/la-rossa-broccoli-alla-napoletana-frijarielli-mediterranea-srl/",
+    "title": "",
+    "campi": {},
+    "lots": [],
+    "attachments": [],
+    "topic": "",
+    "category": "info",
+    "product": "",
+    "id": "la-rossa-broccoli-alla-napoletana-frijarielli-mediterranea-srl",
+    "published": "",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/germogli-contenenti-lenticchie-semi-di-erba-medica-fieno-greco-e/",
+    "title": "",
+    "campi": {},
+    "lots": [],
+    "attachments": [],
+    "topic": "",
+    "category": "info",
+    "product": "",
+    "id": "germogli-contenenti-lenticchie-semi-di-erba-medica-fieno-greco-e",
+    "published": "",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/germogli-di-fagioli-e-germogli-misti-di-diverse-verdure-impresa/",
+    "title": "",
+    "campi": {},
+    "lots": [],
+    "attachments": [],
+    "topic": "",
+    "category": "info",
+    "product": "",
+    "id": "germogli-di-fagioli-e-germogli-misti-di-diverse-verdure-impresa",
+    "published": "",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/araldi-allo-strega-alberti/",
+    "title": "",
+    "campi": {},
+    "lots": [],
+    "attachments": [],
+    "topic": "",
+    "category": "info",
+    "product": "",
+    "id": "araldi-allo-strega-alberti",
+    "published": "",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/asanta-enterprise-ghana-best-olio-di-palma-zomi/",
+    "title": "",
+    "campi": {},
+    "lots": [],
+    "attachments": [],
+    "topic": "",
+    "category": "info",
+    "product": "",
+    "id": "asanta-enterprise-ghana-best-olio-di-palma-zomi",
+    "published": "",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/olio-extra-vergine-di-oliva-contraffatto-confezionatore-olio-puglia/",
+    "title": "",
+    "campi": {},
+    "lots": [],
+    "attachments": [],
+    "topic": "",
+    "category": "info",
+    "product": "",
+    "id": "olio-extra-vergine-di-oliva-contraffatto-confezionatore-olio-puglia",
+    "published": "",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/coppa-di-testa-salumificio-monsano-srl/",
+    "title": "",
+    "campi": {},
+    "lots": [],
+    "attachments": [],
+    "topic": "",
+    "category": "info",
+    "product": "",
+    "id": "coppa-di-testa-salumificio-monsano-srl",
+    "published": "",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/xm-energy-mix/",
+    "title": "",
+    "campi": {},
+    "lots": [],
+    "attachments": [],
+    "topic": "",
+    "category": "info",
+    "product": "",
+    "id": "xm-energy-mix",
+    "published": "",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/tonno-fresco-garciden/",
+    "title": "",
+    "campi": {},
+    "lots": [],
+    "attachments": [],
+    "topic": "",
+    "category": "info",
+    "product": "",
+    "id": "tonno-fresco-garciden",
+    "published": "",
     "source": "official"
   },
   {
