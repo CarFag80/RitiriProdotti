@@ -153,40 +153,49 @@ def discover_urls(browser, list_url, pattern, limit=None, click_label=None):
     """
     urls = []
 
-    # --- strada 1: sitemap ---
+    # --- strada 1: sitemap (ogni sotto-mappa isolata: se una fallisce non
+    # blocca le altre, altrimenti un solo errore di rete tronca l'elenco a
+    # metà e si perdono interi anni senza che nessuno se ne accorga) ---
     try:
         xml = browser.get(SITEMAP_URL, wait_ms=1500)
-        sub_sitemaps = re.findall(r"<loc>\s*([^<]+?)\s*</loc>", xml)
+        sub_sitemaps = [u for u in re.findall(r"<loc>\s*([^<]+?)\s*</loc>", xml) if u.endswith(".xml")]
+        ok, failed = 0, 0
         for sm in sub_sitemaps:
-            if not sm.endswith(".xml"):
+            try:
+                body = browser.get(sm, wait_ms=800)
+            except Exception:
+                failed += 1
                 continue
-            body = browser.get(sm, wait_ms=800)
-            urls += [
-                u for u in re.findall(r"<loc>\s*([^<]+?)\s*</loc>", body)
-                if pattern in u
-            ]
+            ok += 1
+            urls += [u for u in re.findall(r"<loc>\s*([^<]+?)\s*</loc>", body) if pattern in u]
+        if failed:
+            print(f"Sitemap: {failed}/{len(sub_sitemaps)} sotto-mappe non raggiungibili, saltate.")
         if urls:
-            print(f"Sitemap: trovate {len(urls)} schede.")
+            print(f"Sitemap: trovate {len(urls)} schede da {ok} sotto-mappe.")
     except Exception as e:
         print(f"Sitemap non utilizzabile ({e}); provo con la pagina elenco.")
 
-    # --- strada 2: pagina elenco (con eventuale click sulla scheda) ---
-    if not urls:
-        try:
-            html = browser.get(list_url)
-            if click_label:
-                try:
-                    html = browser.click_tab(click_label)
-                except Exception as e:
-                    print(f"Click su '{click_label}' non riuscito ({e}); leggo comunque la pagina così com'è.")
-            soup = BeautifulSoup(html, "html.parser")
-            for a in soup.select("a[href]"):
-                href = a["href"]
-                if pattern in href:
-                    urls.append(href if href.startswith("http") else BASE + href)
-            print(f"Pagina elenco: trovati {len(urls)} link.")
-        except Exception as e:
-            print(f"Pagina elenco non raggiungibile ({e}); nessun URL trovato per questa fonte.")
+    # --- strada 2: pagina elenco — eseguita SEMPRE, non solo come ripiego,
+    # e i risultati si sommano a quelli della sitemap (deduplicati sotto).
+    # Così, se la sitemap ne perde qualcuno per un errore isolato, la pagina
+    # elenco può comunque recuperarlo, invece di sparire senza avviso. ---
+    try:
+        html = browser.get(list_url)
+        if click_label:
+            try:
+                html = browser.click_tab(click_label)
+            except Exception as e:
+                print(f"Click su '{click_label}' non riuscito ({e}); leggo comunque la pagina così com'è.")
+        soup = BeautifulSoup(html, "html.parser")
+        found = [
+            (a["href"] if a["href"].startswith("http") else BASE + a["href"])
+            for a in soup.select("a[href]") if pattern in a["href"]
+        ]
+        if found:
+            print(f"Pagina elenco: trovati {len(found)} link.")
+        urls += found
+    except Exception as e:
+        print(f"Pagina elenco non raggiungibile ({e}).")
 
     # dedup preservando l'ordine
     seen, out = set(), []
@@ -299,49 +308,82 @@ def to_iso(it_date):
 
 
 # ------------------------------------------------------------------- main --
+def load_cache():
+    """Rilegge il data.json della run precedente (portato dentro dal
+    checkout) e lo indicizza per sourceUrl, così le schede già scaricate e
+    con contenuto valido non vengono riscaricate ogni volta: rende le run
+    successive molto più veloci e leggere, sia in tempo che in minuti
+    Actions. Le schede "vuote" (vedi fetch_detail) NON vengono tenute in
+    cache, così si riprovano da sole alla run successiva."""
+    try:
+        with open(OUTPUT_PATH, encoding="utf-8") as f:
+            data = json.load(f)
+    except FileNotFoundError:
+        print("Nessun data.json precedente: prima esecuzione, scarico tutto.")
+        return {}
+    except Exception as e:
+        print(f"data.json precedente non leggibile ({e}): riparto da zero.")
+        return {}
+    cache = {r["sourceUrl"]: r for r in data if r.get("sourceUrl") and (r.get("title") or r.get("campi"))}
+    print(f"Cache: {len(cache)} schede già valide, verranno riusate senza riscaricarle.")
+    return cache
+
+
+def fetch_detail(browser, url, source, timeout_ms=20000, retries=1):
+    """Scarica e interpreta una scheda. Se il contenuto risulta vuoto (né
+    titolo né campi: tipicamente un blocco anti-bot o una pagina rimossa)
+    ritenta una volta prima di arrendersi, invece di salvare una scheda
+    fantasma con solo l'etichetta e nessun testo."""
+    last_err = None
+    for attempt in range(retries + 1):
+        try:
+            html = browser.get(url, wait_ms=1200, timeout_ms=timeout_ms)
+            rec = parse_detail(html, url, source=source)
+            if rec.get("title") or rec.get("campi"):
+                return rec, None
+            last_err = "pagina arrivata vuota (probabile blocco anti-bot o contenuto non più disponibile)"
+        except Exception as e:
+            last_err = str(e)
+        if attempt < retries:
+            time.sleep(2)
+    return None, last_err
+
+
+def scrape_source(browser, records, cache, label, source, list_url, pattern, limit, click_label=None):
+    print(f"\n=== {label} ===")
+    try:
+        urls = discover_urls(browser, list_url, pattern, limit=limit, click_label=click_label)
+        for i, url in enumerate(urls, 1):
+            cached = cache.get(url)
+            if cached:
+                records.append(cached)
+                print(f"[{i}/{len(urls)}] cache {url}")
+                continue
+            rec, err = fetch_detail(browser, url, source)
+            if rec:
+                records.append(rec)
+                flag = " (senza data!)" if not rec.get("published") else ""
+                print(f"[{i}/{len(urls)}] ok  {url}{flag}")
+            else:
+                print(f"[{i}/{len(urls)}] SALTATO {url}: {err}")
+            time.sleep(0.5)
+    except Exception as e:
+        print(f"FONTE '{label}' SALTATA per errore imprevisto: {e}")
+
+
 def main():
     limit = int(sys.argv[1]) if len(sys.argv) > 1 else None
+    cache = load_cache()
 
     with Browser() as b:
         records = []
-
-        # --- Richiami ufficiali ---
-        # Isolata in un proprio try/except: se questa fonte va in errore,
-        # non deve impedire il salvataggio di quella degli operatori.
-        print("\n=== RICHIAMI UFFICIALI ===")
-        try:
-            urls_official = discover_urls(b, OFFICIAL_URL, "avvisi-sicurezza-alimentare", limit=limit)
-            for i, url in enumerate(urls_official, 1):
-                try:
-                    rec = parse_detail(b.get(url, wait_ms=1200), url, source="official")
-                    records.append(rec)
-                    flag = " (senza data!)" if not rec.get("published") else ""
-                    print(f"[{i}/{len(urls_official)}] ok  {url}{flag}")
-                except Exception as e:
-                    print(f"[{i}/{len(urls_official)}] ERRORE {url}: {e}")
-                time.sleep(0.5)
-        except Exception as e:
-            print(f"FONTE UFFICIALI SALTATA per errore imprevisto: {e}")
-
-        # --- Richiami degli operatori ---
-        # Stessa protezione, nell'altro senso.
-        print("\n=== RICHIAMI DEGLI OPERATORI ===")
-        try:
-            urls_operator = discover_urls(
-                b, OPERATOR_URL, "ext-avviso-sicurezza-alimentare",
-                limit=limit, click_label=OPERATOR_TAB_LABEL,
-            )
-            for i, url in enumerate(urls_operator, 1):
-                try:
-                    rec = parse_detail(b.get(url, wait_ms=1200), url, source="operator")
-                    records.append(rec)
-                    flag = " (senza data!)" if not rec.get("published") else ""
-                    print(f"[{i}/{len(urls_operator)}] ok  {url}{flag}")
-                except Exception as e:
-                    print(f"[{i}/{len(urls_operator)}] ERRORE {url}: {e}")
-                time.sleep(0.5)
-        except Exception as e:
-            print(f"FONTE OPERATORI SALTATA per errore imprevisto: {e}")
+        # Isolate ogni fonte nel proprio try/except (dentro scrape_source):
+        # se una va in errore, non deve impedire il salvataggio dell'altra.
+        scrape_source(b, records, cache, "RICHIAMI UFFICIALI", "official",
+                      OFFICIAL_URL, "avvisi-sicurezza-alimentare", limit)
+        scrape_source(b, records, cache, "RICHIAMI DEGLI OPERATORI", "operator",
+                      OPERATOR_URL, "ext-avviso-sicurezza-alimentare", limit,
+                      click_label=OPERATOR_TAB_LABEL)
 
         if not records:
             raise SystemExit(
