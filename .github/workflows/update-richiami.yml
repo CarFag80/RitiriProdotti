@@ -2,12 +2,18 @@ name: Aggiorna richiami
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # ogni 6 ore
-  workflow_dispatch: {}       # avvio manuale dal tab "Actions" su GitHub
+    - cron: "0 */12 * * *"  # ogni 12 ore
+  workflow_dispatch:          # avvio manuale dal tab "Actions" su GitHub
+    inputs:
+      limit:
+        description: "Numero massimo di schede per fonte (vuoto = tutte). Utile per una prova veloce, es. 5."
+        required: false
+        default: ""
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 30  # se supera i 30 minuti qualcosa non va: meglio che si fermi da solo
     permissions:
       contents: write
     steps:
@@ -23,7 +29,7 @@ jobs:
           playwright install --with-deps chromium
 
       - name: Esegui lo scraper
-        run: python scraper.py
+        run: python scraper.py ${{ github.event.inputs.limit }}
 
       - name: Incolla i dati dentro index.html
         run: python inject_data.py
