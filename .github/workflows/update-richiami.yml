@@ -40,4 +40,12 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data.json index.html
           git diff --quiet --cached || git commit -m "Aggiorna richiami"
-          git push
+          # Se nel frattempo è arrivato un altro commit su main (es. una
+          # modifica fatta a mano da web mentre questa run era in corso),
+          # il push verrebbe rifiutato ("fetch first"). Ci riallineiamo e
+          # riproviamo, invece di far fallire tutta la run per questo.
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && break
+            echo "Push rifiutato (tentativo $i/3): riallineo con il remoto e riprovo..."
+            sleep 5
+          done
