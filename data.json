@@ -2538,6 +2538,526 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bis-molluschi-prodotto-sottovuoto/",
+    "title": "",
+    "noticeDate": "4 ottobre 2017",
+    "campi": {
+      "data pubblicazione": "4 ottobre 2017",
+      "marca": "EUROITTICA SRL",
+      "denominazione": "BIS MOLLUSCHI PRODOTTO SOTTOVUOTO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "EUROITTICA SRL",
+    "product": "BIS MOLLUSCHI PRODOTTO SOTTOVUOTO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo EUROITTICA SRL - BIS MOLLUSCHI PRODOTTO SOTTOVUOTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiro22.09.17_euroittica_sv2%20BIS_1761175968.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bis-molluschi-prodotto-sottovuoto",
+    "published": "2017-10-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cozze-italia-prodotto-sottovuoto/",
+    "title": "",
+    "noticeDate": "4 ottobre 2017",
+    "campi": {
+      "data pubblicazione": "4 ottobre 2017",
+      "marca": "EUROITTICA SRL",
+      "denominazione": "COZZE ITALIA PRODOTTO SOTTOVUOTO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "EUROITTICA SRL",
+    "product": "COZZE ITALIA PRODOTTO SOTTOVUOTO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo EUROITTICA SRL - COZZE ITALIA PRODOTTO SOTTOVUOTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiro22.09.17_euroittica_sv1_2_1761175970.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cozze-italia-prodotto-sottovuoto",
+    "published": "2017-10-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cozze-italia-prodotto-sottovuoto-0/",
+    "title": "",
+    "noticeDate": "4 ottobre 2017",
+    "campi": {
+      "data pubblicazione": "4 ottobre 2017",
+      "marca": "EUROITTICA SRL",
+      "denominazione": "COZZE ITALIA PRODOTTO SOTTOVUOTO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "EUROITTICA SRL",
+    "product": "COZZE ITALIA PRODOTTO SOTTOVUOTO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo EUROITTICA SRL - COZZE ITALIA PRODOTTO SOTTOVUOTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiro22.09.17_euroittica_sv_2_1761175972.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cozze-italia-prodotto-sottovuoto-0",
+    "published": "2017-10-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cozze-italia/",
+    "title": "",
+    "noticeDate": "4 ottobre 2017",
+    "campi": {
+      "data pubblicazione": "4 ottobre 2017",
+      "marca": "EUROITTICA SRL",
+      "denominazione": "COZZE ITALIA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "EUROITTICA SRL",
+    "product": "COZZE ITALIA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo EUROITTICA SRL - COZZE ITALIA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiro22.09.17_euroittica_2_1761175973.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cozze-italia",
+    "published": "2017-10-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinaci-millefoglie-surgelati/",
+    "title": "",
+    "noticeDate": "3 ottobre 2017",
+    "campi": {
+      "data pubblicazione": "3 ottobre 2017",
+      "marca": "bonduelle",
+      "denominazione": "spinaci millefoglie surgelati",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "bonduelle",
+    "product": "spinaci millefoglie surgelati",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo bonduelle - spinaci millefoglie surgelati",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo%20031017_1761175966.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spinaci-millefoglie-surgelati",
+    "published": "2017-10-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-intero-alla-banana-2-x-115-g-teddi/",
+    "title": "",
+    "noticeDate": "28 settembre 2017",
+    "campi": {
+      "data pubblicazione": "28 settembre 2017",
+      "marca": "FATTORIA SCALDASOLE",
+      "denominazione": "YOGURT INTERO ALLA BANANA - 2 x 115 g Teddi",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "FATTORIA SCALDASOLE",
+    "product": "YOGURT INTERO ALLA BANANA - 2 x 115 g Teddi",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FATTORIA SCALDASOLE - YOGURT INTERO ALLA BANANA - 2 x 115 g Teddi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20yogurt%20intero%20banana%20teddi_1761175956.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "yogurt-intero-alla-banana-2-x-115-g-teddi",
+    "published": "2017-09-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-intero-alla-pera-2-x-115-g-teddi/",
+    "title": "",
+    "noticeDate": "28 settembre 2017",
+    "campi": {
+      "data pubblicazione": "28 settembre 2017",
+      "marca": "FATTORIA SCALDASOLE",
+      "denominazione": "YOGURT INTERO ALLA PERA - 2 x 115 g - Teddi",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "FATTORIA SCALDASOLE",
+    "product": "YOGURT INTERO ALLA PERA - 2 x 115 g - Teddi",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FATTORIA SCALDASOLE - YOGURT INTERO ALLA PERA - 2 x 115 g - Teddi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20yogurt%20intero%20pera%20teddi_1761175958.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "yogurt-intero-alla-pera-2-x-115-g-teddi",
+    "published": "2017-09-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-magro-mela-e-cannella-250-g/",
+    "title": "",
+    "noticeDate": "28 settembre 2017",
+    "campi": {
+      "data pubblicazione": "28 settembre 2017",
+      "marca": "FATTORIA SCALDASOLE",
+      "denominazione": "YOGURT MAGRO MELA E CANNELLA - 250 g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "FATTORIA SCALDASOLE",
+    "product": "YOGURT MAGRO MELA E CANNELLA - 250 g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FATTORIA SCALDASOLE - YOGURT MAGRO MELA E CANNELLA - 250 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20yogurt%20magro%20mela%20e%20cannella%20250g_1761175959.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "yogurt-magro-mela-e-cannella-250-g",
+    "published": "2017-09-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-magro-mela-e-cannella-senza-lattosio-2-x-115-g/",
+    "title": "",
+    "noticeDate": "28 settembre 2017",
+    "campi": {
+      "data pubblicazione": "28 settembre 2017",
+      "marca": "FATTORIA SCALDASOLE",
+      "denominazione": "YOGURT MAGRO MELA E CANNELLA SENZA LATTOSIO - 2 x 115 g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "FATTORIA SCALDASOLE",
+    "product": "YOGURT MAGRO MELA E CANNELLA SENZA LATTOSIO - 2 x 115 g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FATTORIA SCALDASOLE - YOGURT MAGRO MELA E CANNELLA SENZA LATTOSIO - 2 x 115 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20yogurt%20magro%20mela%20e%20cannella%20senza%20lattosio_1761175960.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "yogurt-magro-mela-e-cannella-senza-lattosio-2-x-115-g",
+    "published": "2017-09-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/specialita-con-yogurt-magro-nocciola-250-g/",
+    "title": "",
+    "noticeDate": "28 settembre 2017",
+    "campi": {
+      "data pubblicazione": "28 settembre 2017",
+      "marca": "FATTORIA SCALDASOLE",
+      "denominazione": "SPECIALITA' CON YOGURT MAGRO NOCCIOLA - 250 g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "FATTORIA SCALDASOLE",
+    "product": "SPECIALITA' CON YOGURT MAGRO NOCCIOLA - 250 g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FATTORIA SCALDASOLE - SPECIALITA' CON YOGURT MAGRO NOCCIOLA - 250 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20specialita%20con%20yogurt%20magro%20nocciola_1761175962.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "specialita-con-yogurt-magro-nocciola-250-g",
+    "published": "2017-09-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-intero-all-albicocca-2-x-115-g-teddi/",
+    "title": "",
+    "noticeDate": "28 settembre 2017",
+    "campi": {
+      "data pubblicazione": "28 settembre 2017",
+      "marca": "FATTORIA SCALDASOLE",
+      "denominazione": "YOGURT INTERO ALL' ALBICOCCA - 2 x 115 g - Teddi",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "FATTORIA SCALDASOLE",
+    "product": "YOGURT INTERO ALL' ALBICOCCA - 2 x 115 g - Teddi",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FATTORIA SCALDASOLE - YOGURT INTERO ALL' ALBICOCCA - 2 x 115 g - Teddi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20yogurt%20intero%20albicocca%20teddi_1761175963.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "yogurt-intero-all-albicocca-2-x-115-g-teddi",
+    "published": "2017-09-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-vegetal-bio/",
+    "title": "",
+    "noticeDate": "28 settembre 2017",
+    "campi": {
+      "data pubblicazione": "28 settembre 2017",
+      "marca": "LA FINESTRA SUL CIELO SPA",
+      "denominazione": "PESTO VEGETAL BIO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LA FINESTRA SUL CIELO SPA",
+    "product": "PESTO VEGETAL BIO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA FINESTRA SUL CIELO SPA - PESTO VEGETAL BIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Pesto%20Bio%2028_09_17_1761175965.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pesto-vegetal-bio",
+    "published": "2017-09-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-gallina-guscio-2/",
+    "title": "",
+    "noticeDate": "24 settembre 2017",
+    "campi": {
+      "data pubblicazione": "24 settembre 2017",
+      "marca": "CISAM Società agricola a.r.l.",
+      "denominazione": "Uova di gallina in guscio",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CISAM Società agricola a.r.l.",
+    "product": "Uova di gallina in guscio",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CISAM Società agricola a.r.l. - Uova di gallina in guscio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/allegato%202%20Richiamo%20CISAM_1761175955.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-di-gallina-guscio-2",
+    "published": "2017-09-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/curry/",
+    "title": "",
+    "noticeDate": "22 settembre 2017",
+    "campi": {
+      "data pubblicazione": "22 settembre 2017",
+      "marca": "QUEEN VICTORIA",
+      "denominazione": "Curry",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "QUEEN VICTORIA",
+    "product": "Curry",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo QUEEN VICTORIA - Curry",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Curry%20QUEEN%20VICTORIA_1761175333.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "curry",
+    "published": "2017-09-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-gallina-guscio-0/",
+    "title": "",
+    "noticeDate": "22 settembre 2017",
+    "campi": {
+      "data pubblicazione": "22 settembre 2017",
+      "marca": "vari marchi",
+      "denominazione": "Uova di gallina in guscio",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "vari marchi",
+    "product": "Uova di gallina in guscio",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo vari marchi - Uova di gallina in guscio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20cisam%2022_09_2017_1761175952.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-di-gallina-guscio-0",
+    "published": "2017-09-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-gallina-guscio-1/",
+    "title": "",
+    "noticeDate": "22 settembre 2017",
+    "campi": {
+      "data pubblicazione": "22 settembre 2017",
+      "marca": "CISAM Società agricola a.r.l. s",
+      "denominazione": "Uova di gallina in guscio",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CISAM Società agricola a.r.l. s",
+    "product": "Uova di gallina in guscio",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CISAM Società agricola a.r.l. s - Uova di gallina in guscio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20cisam%2022_09_2017_1761175954.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-di-gallina-guscio-1",
+    "published": "2017-09-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taleggio-dop-latte-crudo-incp-naturale/",
+    "title": "",
+    "noticeDate": "21 settembre 2017",
+    "campi": {
+      "data pubblicazione": "21 settembre 2017",
+      "marca": "CAROZZI FORMAGGI SRL",
+      "denominazione": "TALEGGIO DOP LATTE CRUDO INC.P. NATURALE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CAROZZI FORMAGGI SRL",
+    "product": "TALEGGIO DOP LATTE CRUDO INC.P. NATURALE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CAROZZI FORMAGGI SRL - TALEGGIO DOP LATTE CRUDO INC.P. NATURALE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761175317.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "taleggio-dop-latte-crudo-incp-naturale",
+    "published": "2017-09-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-categoria-fresche/",
+    "title": "",
+    "noticeDate": "21 settembre 2017",
+    "campi": {
+      "data pubblicazione": "21 settembre 2017",
+      "marca": "Uova rosse Azienda Agricola Tomaino Rosina",
+      "denominazione": "Uova categoria A Fresche",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Uova rosse Azienda Agricola Tomaino Rosina",
+    "product": "Uova categoria A Fresche",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Uova rosse Azienda Agricola Tomaino Rosina - Uova categoria A Fresche",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ETICHETTA%20LOTTO%20CAMPIONATURA_1761175323.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-categoria-fresche",
+    "published": "2017-09-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-categoria/",
+    "title": "",
+    "noticeDate": "21 settembre 2017",
+    "campi": {
+      "data pubblicazione": "21 settembre 2017",
+      "marca": "UOVA ROSSE Az. Agricola TOMAINO ROSINA",
+      "denominazione": "UOVA FRESCHE CATEGORIA A",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "UOVA ROSSE Az. Agricola TOMAINO ROSINA",
+    "product": "UOVA FRESCHE CATEGORIA A",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo UOVA ROSSE Az. Agricola TOMAINO ROSINA - UOVA FRESCHE CATEGORIA A",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20SARAM%20339161_1761175328.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-fresche-categoria",
+    "published": "2017-09-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale/",
+    "title": "",
+    "noticeDate": "19 settembre 2017",
+    "campi": {
+      "data pubblicazione": "19 settembre 2017",
+      "marca": "Acqua Effervescente Naturale Cutolo Rionero; Acqua Effervescente Naturale Blues",
+      "denominazione": "Acqua Minerale",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Acqua Effervescente Naturale Cutolo Rionero; Acqua Effervescente Naturale Blues",
+    "product": "Acqua Minerale",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Acqua Effervescente Naturale Cutolo Rionero; Acqua Effervescente Naturale Blues - Acqua Minerale",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20Richiamo_%20Cutolo%20Rionero%20in%20Vulture_1761175312.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "acqua-minerale",
+    "published": "2017-09-19",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-gallina-guscio/",
     "title": "",
     "noticeDate": "11 settembre 2017",
