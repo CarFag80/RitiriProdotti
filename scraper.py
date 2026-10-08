@@ -30,6 +30,7 @@ COSA È VERIFICATO E COSA NO
 
 import json
 import re
+import subprocess
 import sys
 import time
 
@@ -49,6 +50,12 @@ OPERATOR_URL = OFFICIAL_URL  # stessa pagina, si clicca la scheda "Richiami degl
 OPERATOR_TAB_LABEL = "Richiami degli Operatori"
 SITEMAP_URL = f"{BASE}/new/sitemap-index.xml"
 OUTPUT_PATH = "data.json"
+# Ogni quante schede scaricate davvero (non quelle già in cache) si salva e
+# si pubblica un checkpoint parziale. Serve perché il recupero di tutto lo
+# storico può superare il tetto di tempo del workflow: così, se la run
+# viene interrotta, il lavoro fatto fin lì non va perso — la run successiva
+# riparte da dove si era fermata grazie alla cache, invece che da zero.
+CHECKPOINT_EVERY = 20
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -349,10 +356,48 @@ def fetch_detail(browser, url, source, timeout_ms=20000, retries=1):
     return None, last_err
 
 
+def save_records(records):
+    """Ordina e scrive data.json. Usata sia per il salvataggio finale sia
+    per i checkpoint parziali durante lo scraping."""
+    records_sorted = sorted(records, key=lambda r: r.get("published", ""), reverse=True)
+    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
+        json.dump(records_sorted, f, ensure_ascii=False, indent=2)
+    return records_sorted
+
+
+def git_checkpoint(records, message):
+    """Salva lo stato corrente e lo pubblica subito su GitHub. Se la run
+    viene interrotta a metà (es. supera il tetto di tempo del workflow),
+    il lavoro fatto fin qui resta comunque pubblicato: la prossima run lo
+    userà dalla cache invece di riscaricarlo da capo. Qualunque problema
+    qui (rete, permessi) viene solo segnalato: non deve mai interrompere
+    lo scraping, che è la parte che conta di più."""
+    try:
+        save_records(records)
+        subprocess.run(["git", "config", "user.name", "github-actions[bot]"], check=False)
+        subprocess.run(["git", "config", "user.email",
+                         "github-actions[bot]@users.noreply.github.com"], check=False)
+        subprocess.run(["git", "add", OUTPUT_PATH], check=False)
+        if subprocess.run(["git", "diff", "--quiet", "--cached"]).returncode == 0:
+            return  # niente di nuovo dall'ultimo checkpoint
+        subprocess.run(["git", "commit", "-m", message], check=False)
+        for attempt in range(3):
+            if subprocess.run(["git", "pull", "--rebase", "origin", "main"]).returncode == 0:
+                if subprocess.run(["git", "push"]).returncode == 0:
+                    print(f"Checkpoint pubblicato: {message}")
+                    return
+            print(f"Checkpoint: push rifiutato (tentativo {attempt + 1}/3), riprovo...")
+            time.sleep(5)
+        print("Checkpoint: non sono riuscito a pubblicarlo; proseguo comunque lo scraping.")
+    except Exception as e:
+        print(f"Checkpoint fallito ({e}); proseguo comunque lo scraping.")
+
+
 def scrape_source(browser, records, cache, label, source, list_url, pattern, limit, click_label=None):
     print(f"\n=== {label} ===")
     try:
         urls = discover_urls(browser, list_url, pattern, limit=limit, click_label=click_label)
+        since_checkpoint = 0
         for i, url in enumerate(urls, 1):
             cached = cache.get(url)
             if cached:
@@ -364,6 +409,10 @@ def scrape_source(browser, records, cache, label, source, list_url, pattern, lim
                 records.append(rec)
                 flag = " (senza data!)" if not rec.get("published") else ""
                 print(f"[{i}/{len(urls)}] ok  {url}{flag}")
+                since_checkpoint += 1
+                if since_checkpoint >= CHECKPOINT_EVERY:
+                    git_checkpoint(records, f"Checkpoint parziale richiami ({label.lower()})")
+                    since_checkpoint = 0
             else:
                 print(f"[{i}/{len(urls)}] SALTATO {url}: {err}")
             time.sleep(0.5)
@@ -391,12 +440,9 @@ def main():
                 "Controlla il log qui sopra per capire dove si è fermato."
             )
 
-    records.sort(key=lambda r: r.get("published", ""), reverse=True)
+    records = save_records(records)
     official_count = sum(1 for r in records if r.get("source") == "official")
     operator_count = sum(1 for r in records if r.get("source") == "operator")
-
-    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-        json.dump(records, f, ensure_ascii=False, indent=2)
     print(f"\nSalvati {len(records)} richiami ({official_count} ufficiali, {operator_count} operatori) in {OUTPUT_PATH}")
 
 
