@@ -2538,6 +2538,526 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/colatura-di-alici-di-cetara/",
+    "title": "",
+    "noticeDate": "19 gennaio 2018",
+    "campi": {
+      "data pubblicazione": "19 gennaio 2018",
+      "marca": "sapore di mare - IASA",
+      "denominazione": "colatura di alici di cetara",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "sapore di mare - IASA",
+    "product": "colatura di alici di cetara",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo sapore di mare - IASA - colatura di alici di cetara",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20sapore%20di%20mare_1761176088.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "colatura-di-alici-di-cetara",
+    "published": "2018-01-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-torta-margherita-e-muffins/",
+    "title": "",
+    "noticeDate": "18 gennaio 2018",
+    "campi": {
+      "data pubblicazione": "18 gennaio 2018",
+      "marca": "PEDON S.P.A.",
+      "denominazione": "PREPARATO PER TORTA MARGHERITA E MUFFINS",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "PEDON S.P.A.",
+    "product": "PREPARATO PER TORTA MARGHERITA E MUFFINS",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PEDON S.P.A. - PREPARATO PER TORTA MARGHERITA E MUFFINS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20TORTA%20MARGHERITA%20E%20MUFFINS%20PEDON%20_%20011218%20_%20021218%20_%20100119_1761176085.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-torta-margherita-e-muffins",
+    "published": "2018-01-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/colatura-di-alici-colatura-di-alici-di-cetara/",
+    "title": "",
+    "noticeDate": "11 gennaio 2018",
+    "campi": {
+      "data pubblicazione": "11 gennaio 2018",
+      "marca": "Iasa - Sapori di Mare - Decò - Riunione Ind. Alimentari",
+      "denominazione": "COLATURA DI ALICI - COLATURA DI ALICI DI CETARA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Iasa - Sapori di Mare - Decò - Riunione Ind. Alimentari",
+    "product": "COLATURA DI ALICI - COLATURA DI ALICI DI CETARA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Iasa - Sapori di Mare - Decò - Riunione Ind. Alimentari - COLATURA DI ALICI - COLATURA DI ALICI DI CETARA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Ditta%20IASA%20_%2008.01.18_1761176082.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "colatura-di-alici-colatura-di-alici-di-cetara",
+    "published": "2018-01-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-grano-duro-senatore-cappelli-macinata-pietra-da/",
+    "title": "",
+    "noticeDate": "3 gennaio 2018",
+    "campi": {
+      "data pubblicazione": "3 gennaio 2018",
+      "marca": "Gorfini Azienda Agricola",
+      "denominazione": "Farina di grano duro Senatore Cappelli Macinata a pietra da Agricoltura Biologica",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Gorfini Azienda Agricola",
+    "product": "Farina di grano duro Senatore Cappelli Macinata a pietra da Agricoltura Biologica",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gorfini Azienda Agricola - Farina di grano duro Senatore Cappelli Macinata a pietra da Agricoltura Biologica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Farina%20grano%20duro%20Gorfini_1761176080.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "farina-di-grano-duro-senatore-cappelli-macinata-pietra-da",
+    "published": "2018-01-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-biologico-base-di-zucca-e-carota-surgelato-vellutata/",
+    "title": "",
+    "noticeDate": "2 gennaio 2018",
+    "campi": {
+      "data pubblicazione": "2 gennaio 2018",
+      "marca": "Bellavita",
+      "denominazione": "Preparato biologico a base di zucca e carota surgelato - vellutata",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Bellavita",
+    "product": "Preparato biologico a base di zucca e carota surgelato - vellutata",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bellavita - Preparato biologico a base di zucca e carota surgelato - vellutata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/vellutatat_zucca_carote17_75_C_1761176077.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-biologico-base-di-zucca-e-carota-surgelato-vellutata",
+    "published": "2018-01-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-fresca-filze/",
+    "title": "",
+    "noticeDate": "28 dicembre 2017",
+    "campi": {
+      "data pubblicazione": "28 dicembre 2017",
+      "marca": "Bevanati Claudio e Figli snc - Via S.M. Infraportas - Foligno (PG)",
+      "denominazione": "Salsiccia fresca in filze",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "Bevanati Claudio e Figli snc - Via S.M. Infraportas - Foligno (PG)",
+    "product": "Salsiccia fresca in filze",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bevanati Claudio e Figli snc - Via S.M. Infraportas - Foligno (PG) - Salsiccia fresca in filze",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Documentazione%20revoca%20richiamo%20Allerta%20n%2061%20Bevanati%202017_1761176075.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salsiccia-fresca-filze",
+    "published": "2017-12-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cubetti-di-pancetta-dolce-cubetti-di-pancetta-affumicata-0/",
+    "title": "",
+    "noticeDate": "20 dicembre 2017",
+    "campi": {
+      "data pubblicazione": "20 dicembre 2017",
+      "marca": "VALTIDONE INDUSTRIA ALIMENTARE",
+      "denominazione": "CUBETTI DI PANCETTA DOLCE - CUBETTI DI PANCETTA AFFUMICATA",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "VALTIDONE INDUSTRIA ALIMENTARE",
+    "product": "CUBETTI DI PANCETTA DOLCE - CUBETTI DI PANCETTA AFFUMICATA",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VALTIDONE INDUSTRIA ALIMENTARE - CUBETTI DI PANCETTA DOLCE - CUBETTI DI PANCETTA AFFUMICATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Rev.%20Rich.%20Valtidone%20I.A._1761176072.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cubetti-di-pancetta-dolce-cubetti-di-pancetta-affumicata-0",
+    "published": "2017-12-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pepe-nero-macinato/",
+    "title": "",
+    "noticeDate": "13 dicembre 2017",
+    "campi": {
+      "data pubblicazione": "13 dicembre 2017",
+      "marca": "cucina e sapori",
+      "denominazione": "pepe nero macinato",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "cucina e sapori",
+    "product": "pepe nero macinato",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo cucina e sapori - pepe nero macinato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20pepe%20ministero_1761176069.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pepe-nero-macinato",
+    "published": "2017-12-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/patatine/",
+    "title": "",
+    "noticeDate": "12 dicembre 2017",
+    "campi": {
+      "data pubblicazione": "12 dicembre 2017",
+      "marca": "TRAFO",
+      "denominazione": "Patatine",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "TRAFO",
+    "product": "Patatine",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TRAFO - Patatine",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_17_50_C_40_gr_1761176059.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "patatine",
+    "published": "2017-12-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/patatine-0/",
+    "title": "",
+    "noticeDate": "12 dicembre 2017",
+    "campi": {
+      "data pubblicazione": "12 dicembre 2017",
+      "marca": "TRAFO",
+      "denominazione": "Patatine",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "TRAFO",
+    "product": "Patatine",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TRAFO - Patatine",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_17_70_C_125_gr_1761176063.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "patatine-0",
+    "published": "2017-12-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/provola-formaggio-apasta-filata-di-latte-di-mucca/",
+    "title": "",
+    "noticeDate": "12 dicembre 2017",
+    "campi": {
+      "data pubblicazione": "12 dicembre 2017",
+      "marca": "F.lli Gentile snc via Bellavista Carlopoli CATANZARO",
+      "denominazione": "PROVOLA FORMAGGIO APASTA FILATA di latte di Mucca",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "F.lli Gentile snc via Bellavista Carlopoli CATANZARO",
+    "product": "PROVOLA FORMAGGIO APASTA FILATA di latte di Mucca",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo F.lli Gentile snc via Bellavista Carlopoli CATANZARO - PROVOLA FORMAGGIO APASTA FILATA di latte di Mucca",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PROVOLA%2012_12_2017_1761176067.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "provola-formaggio-apasta-filata-di-latte-di-mucca",
+    "published": "2017-12-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame/",
+    "title": "",
+    "noticeDate": "11 dicembre 2017",
+    "campi": {
+      "data pubblicazione": "11 dicembre 2017",
+      "marca": "MACELLERIA ZANIN VALENTINO",
+      "denominazione": "SALAME",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "MACELLERIA ZANIN VALENTINO",
+    "product": "SALAME",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MACELLERIA ZANIN VALENTINO - SALAME",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20ZANIN_1761176055.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame",
+    "published": "2017-12-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-nostrale/",
+    "title": "",
+    "noticeDate": "5 dicembre 2017",
+    "campi": {
+      "data pubblicazione": "5 dicembre 2017",
+      "marca": "La Bottega di Adò",
+      "denominazione": "SALAME NOSTRALE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "La Bottega di Adò",
+    "product": "SALAME NOSTRALE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo La Bottega di Adò - SALAME NOSTRALE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Salame_Nostrale_1761176052.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-nostrale",
+    "published": "2017-12-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/porchetta-di-ariccia-igp/",
+    "title": "",
+    "noticeDate": "21 novembre 2017",
+    "campi": {
+      "data pubblicazione": "21 novembre 2017",
+      "marca": "FA.LU.CIOLI IT1782L",
+      "denominazione": "Porchetta di Ariccia I.G.P.",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FA.LU.CIOLI IT1782L",
+    "product": "Porchetta di Ariccia I.G.P.",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FA.LU.CIOLI IT1782L - Porchetta di Ariccia I.G.P.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20fa%20lu%20cioli%202017_1761176048.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "porchetta-di-ariccia-igp",
+    "published": "2017-11-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ostrica-crassostrea-gigas/",
+    "title": "",
+    "noticeDate": "17 novembre 2017",
+    "campi": {
+      "data pubblicazione": "17 novembre 2017",
+      "marca": "BONAPESCA SRL",
+      "denominazione": "Ostrica (Crassostrea gigas)",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BONAPESCA SRL",
+    "product": "Ostrica (Crassostrea gigas)",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BONAPESCA SRL - Ostrica (Crassostrea gigas)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3_%20allegato%202%20Ditta%20Bonapesca%20Srl_1761176045.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ostrica-crassostrea-gigas",
+    "published": "2017-11-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/slanina-afumata-pancetta-affumicata/",
+    "title": "",
+    "noticeDate": "16 novembre 2017",
+    "campi": {
+      "data pubblicazione": "16 novembre 2017",
+      "marca": "LAZAR & SOHNE",
+      "denominazione": "SLANINA AFUMATA - PANCETTA AFFUMICATA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "LAZAR & SOHNE",
+    "product": "SLANINA AFUMATA - PANCETTA AFFUMICATA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LAZAR & SOHNE - SLANINA AFUMATA - PANCETTA AFFUMICATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/slanina%20afumata%2015_11_17_1761176038.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "slanina-afumata-pancetta-affumicata",
+    "published": "2017-11-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ostrica-concava/",
+    "title": "",
+    "noticeDate": "16 novembre 2017",
+    "campi": {
+      "data pubblicazione": "16 novembre 2017",
+      "marca": "M.GI.B.",
+      "denominazione": "Ostrica Concava",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "M.GI.B.",
+    "product": "Ostrica Concava",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo M.GI.B. - Ostrica Concava",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3_%20Allegato%202%20Ditta%20M.%20GI.%20B.%20Srl_1761176041.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ostrica-concava",
+    "published": "2017-11-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-mais-marano-e-rostrato-rosso-farina-di-mais-arcenero/",
+    "title": "",
+    "noticeDate": "14 novembre 2017",
+    "campi": {
+      "data pubblicazione": "14 novembre 2017",
+      "marca": "azienda agricola eredi franco vitali s.s.",
+      "denominazione": "farina di mais marano e rostrato rosso farina di mais arcenero",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "azienda agricola eredi franco vitali s.s.",
+    "product": "farina di mais marano e rostrato rosso farina di mais arcenero",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo azienda agricola eredi franco vitali s.s. - farina di mais marano e rostrato rosso farina di mais arcenero",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20con%20immagini_1761176035.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "farina-di-mais-marano-e-rostrato-rosso-farina-di-mais-arcenero",
+    "published": "2017-11-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-nostrano/",
+    "title": "",
+    "noticeDate": "10 novembre 2017",
+    "campi": {
+      "data pubblicazione": "10 novembre 2017",
+      "marca": "MACELLERIA PERUCHETTI",
+      "denominazione": "SALAME NOSTRANO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "MACELLERIA PERUCHETTI",
+    "product": "SALAME NOSTRANO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MACELLERIA PERUCHETTI - SALAME NOSTRANO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20DI%20RICHIAMO%20SALAME%20PERUCHETTI_1761176032.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-nostrano",
+    "published": "2017-11-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggi-ovicaprini-freschistagionati-e-speziati/",
+    "title": "",
+    "noticeDate": "9 novembre 2017",
+    "campi": {
+      "data pubblicazione": "9 novembre 2017",
+      "marca": "Azienda Agricola Le Curti",
+      "denominazione": "Formaggi ovicaprini freschi,stagionati e speziati",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Azienda Agricola Le Curti",
+    "product": "Formaggi ovicaprini freschi,stagionati e speziati",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Azienda Agricola Le Curti - Formaggi ovicaprini freschi,stagionati e speziati",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo08_11_2017_1761176028.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggi-ovicaprini-freschistagionati-e-speziati",
+    "published": "2017-11-09",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-acciughe-olio-di-oliva-80g/",
     "title": "",
     "noticeDate": "8 novembre 2017",
