@@ -1,5 +1,177 @@
 [
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratore-base-di-caffe/",
+    "title": "Integratore alimentare Coffee 2.0 - Tasty dose",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-di-sicurezza-integratore-coffee-20-base-di-caffe/",
+    "noticeDate": "11/9/2026",
+    "campi": {
+      "prodotto": "Integratore alimentare Coffee 2.0 - Tasty dose",
+      "marca": "Coffee 2.0 prodotto per Kaching d.o.o. Mirje, 33, Ljubljana, 1000",
+      "sostanza/rischio": "Integratore a base di caffè e funghi",
+      "paese di origine": "Slovenia",
+      "numero lotto": "BI0720602",
+      "news/avviso": "11/9/2026"
+    },
+    "product": "Integratore alimentare Coffee 2.0 - Tasty dose",
+    "brand": "Coffee 2.0 prodotto per Kaching d.o.o. Mirje, 33, Ljubljana, 1000",
+    "reasonShort": "Integratore a base di caffè e funghi",
+    "country": "Slovenia",
+    "lots": [
+      "BI0720602"
+    ],
+    "attachments": [
+      {
+        "name": "immagine confezione integratore",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2026-09/integratore%20caff%C3%A8%201.jpg"
+      },
+      {
+        "name": "immagine retro confezione integratore",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2026-09/Integratore%20caff%C3%A8%202.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "integratore-base-di-caffe",
+    "published": "2026-09-11",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratori-base-di-moringa/",
+    "title": "Moringa in capsule",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/integratori-alimentari-base-di-moringa/",
+    "noticeDate": "22/7/2026",
+    "campi": {
+      "prodotto": "Moringa in capsule",
+      "marca": "otal Nutrition Inc, Why Not Natural, Superfoods, Inc. DBA as Live it Up",
+      "sostanza/rischio": "Salmonella",
+      "paese di origine": "Stati Uniti d'America",
+      "news/avviso": "22/7/2026"
+    },
+    "product": "Moringa in capsule",
+    "brand": "otal Nutrition Inc, Why Not Natural, Superfoods, Inc. DBA as Live it Up",
+    "reasonShort": "Salmonella",
+    "country": "Stati Uniti d'America",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Immagine 1 Moringa",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2026-07/IMG_Live-it-up_0.jpg"
+      },
+      {
+        "name": "Immagine 2 Moringa",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2026-07/IMG_Moringa_0.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "integratori-base-di-moringa",
+    "published": "2026-07-22",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/moringa-capsule/",
+    "title": "Moringa in capsule a marchio Rosabella",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-casi-di-salmonellosi-resistente-diversi-antibiotici/",
+    "noticeDate": "2/3/2026",
+    "campi": {
+      "prodotto": "Moringa in capsule a marchio Rosabella",
+      "marca": "Rosabella",
+      "sostanza/rischio": "Salmonella",
+      "paese di origine": "Stati Uniti d'America",
+      "numero lotto": "1356",
+      "news/avviso": "2/3/2026"
+    },
+    "product": "Moringa in capsule a marchio Rosabella",
+    "brand": "Rosabella",
+    "reasonShort": "Salmonella",
+    "country": "Stati Uniti d'America",
+    "lots": [
+      "1356"
+    ],
+    "attachments": [
+      {
+        "name": "Moringa in capsule",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2026-03/IMG-02_0.jpg"
+      },
+      {
+        "name": "Numero lotto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2026-03/IMG-01_0.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "moringa-capsule",
+    "published": "2026-03-02",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/bustine-monodose-di-te-meridetox-e-ozlex/",
+    "title": "Bustine monodose di tè",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-presenza-di-sibutramina-bustine-di-te-meridetox-e-ozlex/",
+    "noticeDate": "25/11/2025",
+    "campi": {
+      "prodotto": "Bustine monodose di tè",
+      "marca": "Meridetox e Ozlex",
+      "sostanza/rischio": "sibutramina",
+      "paese di origine": "Turchia",
+      "numero lotto": "2025.8591",
+      "news/avviso": "25/11/2025"
+    },
+    "product": "Bustine monodose di tè",
+    "brand": "Meridetox e Ozlex",
+    "reasonShort": "sibutramina",
+    "country": "Turchia",
+    "lots": [
+      "2025.8591"
+    ],
+    "attachments": [
+      {
+        "name": "Meridetox e Ozlex",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2025-11/Ozlex%20tea%20_%20Meridetox_0_0.jpg"
+      },
+      {
+        "name": "Meridetox e Ozlex -1",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2025-11/Meridetox%20tea-2.jpg"
+      },
+      {
+        "name": "Meridetox e Ozlex -2",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2025-11/Ozlex%20tea-1.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bustine-monodose-di-te-meridetox-e-ozlex",
+    "published": "2025-11-25",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/latte-polvere/",
+    "title": "Latte in polvere",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-epidemia-di-botulismo/",
+    "noticeDate": "19/11/2025",
+    "campi": {
+      "prodotto": "Latte in polvere",
+      "sostanza/rischio": "Botulino",
+      "paese di origine": "Stati Uniti d'America",
+      "news/avviso": "19/11/2025"
+    },
+    "product": "Latte in polvere",
+    "reasonShort": "Botulino",
+    "country": "Stati Uniti d'America",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Latte in polvere - ByHeart Whole Nutrition",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2025-11/IMG_barattolo_1.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "latte-polvere",
+    "published": "2025-11-19",
+    "source": "official"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/pesto-lail-des-ours-o-ptits-oignons-cuisine-mobile-par-thierry-leloup/",
     "title": "Pesto a l'ail des ours",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-probabili-casi-di-botulino-legati-al-consumo-di-pesto-di/",
@@ -55,6 +227,92 @@
     "category": "info",
     "id": "bustine-monodose-di-te-ala-green-tea-meridetox-tea-premium",
     "published": "2024-07-09",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/bustine-monodose-di-te-meridetox-tea-premium/",
+    "title": "Bustine monodose di tè",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/sistema-di-allerta-europeo-alimenti-e-mangimi/",
+    "noticeDate": "30/04/2024",
+    "campi": {
+      "prodotto": "Bustine monodose di tè",
+      "marca": "Meridetox Tea Premium",
+      "sostanza/rischio": "sibutramina",
+      "paese di origine": "Turchia",
+      "news/avviso": "30/04/2024"
+    },
+    "product": "Bustine monodose di tè",
+    "brand": "Meridetox Tea Premium",
+    "reasonShort": "sibutramina",
+    "country": "Turchia",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Foto ritraenti la confezione e le bustine monodose di tè",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_100_0_immagine.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bustine-monodose-di-te-meridetox-tea-premium",
+    "published": "2024-04-30",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/96deg-alcool-dal-1960-fiume-bottiglie-100-ml-contraffatte-marchio-fiume/",
+    "title": "\"96° Alcool dal 1960-Fiume\" bottiglie 100 ml contraffatte",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-bottiglie-di-alcol-marchio-fiume-contraffatte/",
+    "noticeDate": "12/12/2023",
+    "campi": {
+      "prodotto": "\"96° Alcool dal 1960-Fiume\" bottiglie 100 ml contraffatte",
+      "marca": "marchio Fiume ditta LICOR contraffatto",
+      "sostanza/rischio": "alcool etilico miscelato a glicole etilenico",
+      "paese di origine": "Italia",
+      "news/avviso": "12/12/2023"
+    },
+    "product": "\"96° Alcool dal 1960-Fiume\" bottiglie 100 ml contraffatte",
+    "brand": "marchio Fiume ditta LICOR contraffatto",
+    "reasonShort": "alcool etilico miscelato a glicole etilenico",
+    "country": "Italia",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "foto bottiglia 1",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_99_0_immagine.jpg"
+      },
+      {
+        "name": "foto bottiglia 2",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_99_1_immagine.jpg"
+      },
+      {
+        "name": "foto bottiglia 3",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_99_2_immagine.jpg"
+      },
+      {
+        "name": "foto bottiglia 4",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_99_3_immagine.jpg"
+      },
+      {
+        "name": "foto bottiglia 5",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_99_4_immagine.jpg"
+      },
+      {
+        "name": "foto bottiglia 6",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_99_5_immagine.jpg"
+      },
+      {
+        "name": "contrassegno di Stato contraffatto 1",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_99_6_immagine.jpg"
+      },
+      {
+        "name": "contrassegno di Stato contraffatto 2",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_99_7_immagine.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "96deg-alcool-dal-1960-fiume-bottiglie-100-ml-contraffatte-marchio-fiume",
+    "published": "2023-12-12",
     "source": "official"
   },
   {
@@ -528,6 +786,33 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/omogeneizzato-al-gusto-mela-ananas-mellin/",
+    "title": "Omogeneizzato al gusto mela-ananas",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-di-sicurezza-omogeneizzato-mellin-gusto-mela-ananas/",
+    "noticeDate": "22/03/2021",
+    "campi": {
+      "prodotto": "Omogeneizzato al gusto mela-ananas",
+      "marca": "Mellin",
+      "sostanza/rischio": "Frammento di vetro",
+      "paese di origine": "Italia",
+      "numero lotto": "01600021",
+      "news/avviso": "22/03/2021"
+    },
+    "product": "Omogeneizzato al gusto mela-ananas",
+    "brand": "Mellin",
+    "reasonShort": "Frammento di vetro",
+    "country": "Italia",
+    "lots": [
+      "01600021"
+    ],
+    "attachments": [],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "omogeneizzato-al-gusto-mela-ananas-mellin",
+    "published": "2021-03-22",
+    "source": "official"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/capsule-di-fertilizzanti-fatburney/",
     "title": "Capsule di fertilizzanti",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-su-capusle-di-fertilizzanti-fatburney/",
@@ -816,6 +1101,55 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratori-alimentari/",
+    "title": "Integratori alimentari",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/integratori-alimentari-presenza-di-sostanze-sildenafil-e-tadalafil-non/",
+    "noticeDate": "18/06/2019",
+    "campi": {
+      "prodotto": "Integratori alimentari",
+      "sostanza/rischio": "Sildenafil e Tadalafil",
+      "paese di origine": "Spagna",
+      "news/avviso": "18/06/2019"
+    },
+    "product": "Integratori alimentari",
+    "reasonShort": "Sildenafil e Tadalafil",
+    "country": "Spagna",
+    "lots": [],
+    "attachments": [],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "integratori-alimentari",
+    "published": "2019-06-18",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/saint-felicien-confezioni-da-180-g-e-saint-marcellin-confezioni-da-80-g/",
+    "title": "SAINT- FELICIEN (confezioni da 180 g) e SAINT MARCELLIN (confezioni da 80 g)",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-presenza-di-dmba-integratore-alimentare-pwo-max-kiwi/",
+    "noticeDate": "03/05/2019",
+    "campi": {
+      "prodotto": "SAINT- FELICIEN (confezioni da 180 g) e SAINT MARCELLIN (confezioni da 80 g)",
+      "marca": "Fromagerie alpine, Carrefour, Reflet de France, Leclerc, Lidl, Auchan, Rochambeau, Prince des bois, Sonnailles et Prealpin",
+      "sostanza/rischio": "Escherichia coli",
+      "paese di origine": "Francia",
+      "numero lotto": "tutti i lotti da l 032 a l 116",
+      "news/avviso": "03/05/2019"
+    },
+    "product": "SAINT- FELICIEN (confezioni da 180 g) e SAINT MARCELLIN (confezioni da 80 g)",
+    "brand": "Fromagerie alpine, Carrefour, Reflet de France, Leclerc, Lidl, Auchan, Rochambeau, Prince des bois, Sonnailles et Prealpin",
+    "reasonShort": "Escherichia coli",
+    "country": "Francia",
+    "lots": [
+      "tutti i lotti da l 032 a l 116"
+    ],
+    "attachments": [],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "saint-felicien-confezioni-da-180-g-e-saint-marcellin-confezioni-da-80-g",
+    "published": "2019-05-03",
+    "source": "official"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/latte-di-riso-la-prima-infanzia-modilac/",
     "title": "Latte di riso per la prima infanzia",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-di-sicurezza-tossinfezione-alimentare-francia-causata-da-salmonella/",
@@ -986,6 +1320,526 @@
     "id": "tonno-fresco-garciden-ditta-distributrice",
     "published": "2017-05-13",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trance-di-pesce-spada/",
+    "title": "",
+    "noticeDate": "13 marzo 2017",
+    "campi": {
+      "data pubblicazione": "13 marzo 2017",
+      "marca": "EFFETI SURGELATI",
+      "denominazione": "trance di pesce spada",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "EFFETI SURGELATI",
+    "product": "trance di pesce spada",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo EFFETI SURGELATI - trance di pesce spada",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mercurio%20in%20sashimi_1761175125.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "trance-di-pesce-spada",
+    "published": "2017-03-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/torta-ricotta-e-pera/",
+    "title": "",
+    "noticeDate": "10 marzo 2017",
+    "campi": {
+      "data pubblicazione": "10 marzo 2017",
+      "marca": "Dolce Voglia",
+      "denominazione": "Torta ricotta e pera",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Dolce Voglia",
+    "product": "Torta ricotta e pera",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Dolce Voglia - Torta ricotta e pera",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO-MINISTERIALE-pdf310905_1761175123.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "torta-ricotta-e-pera",
+    "published": "2017-03-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamino-italiano-alla-cacciatora-dop/",
+    "title": "",
+    "noticeDate": "2 marzo 2017",
+    "campi": {
+      "data pubblicazione": "2 marzo 2017",
+      "marca": "La Bottega del Gusto",
+      "denominazione": "Salamino italiano alla cacciatora DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "La Bottega del Gusto",
+    "product": "Salamino italiano alla cacciatora DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo La Bottega del Gusto - Salamino italiano alla cacciatora DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/avviso%20richiamo_1761175119.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salamino-italiano-alla-cacciatora-dop",
+    "published": "2017-03-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/articolo-2250b-blister-6-pezzi-coltello-bistecca-con-lama-dentata/",
+    "title": "",
+    "noticeDate": "2 marzo 2017",
+    "campi": {
+      "data pubblicazione": "2 marzo 2017",
+      "marca": "ILSA - linea tutti x uno",
+      "denominazione": "Articolo 2250B - Blister 6 pezzi coltello bistecca con lama dentata",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "ILSA - linea tutti x uno",
+    "product": "Articolo 2250B - Blister 6 pezzi coltello bistecca con lama dentata",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ILSA - linea tutti x uno - Articolo 2250B - Blister 6 pezzi coltello bistecca con lama dentata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_di_richiamo%20coltelli%20REGISTRO%20REGIONALE%2030_2017_1761175121.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "articolo-2250b-blister-6-pezzi-coltello-bistecca-con-lama-dentata",
+    "published": "2017-03-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-classici/",
+    "title": "",
+    "noticeDate": "22 febbraio 2017",
+    "campi": {
+      "data pubblicazione": "22 febbraio 2017",
+      "marca": "Bionda Spiga",
+      "denominazione": "Crostini classici",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Bionda Spiga",
+    "product": "Crostini classici",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bionda Spiga - Crostini classici",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BIONDA%20SPIGA_1761175102.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostini-classici",
+    "published": "2017-02-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini/",
+    "title": "",
+    "noticeDate": "22 febbraio 2017",
+    "campi": {
+      "data pubblicazione": "22 febbraio 2017",
+      "marca": "Bontà di pane",
+      "denominazione": "Crostini",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Bontà di pane",
+    "product": "Crostini",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bontà di pane - Crostini",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BONTA%20DI%20PANE_1761175103.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostini",
+    "published": "2017-02-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-0/",
+    "title": "",
+    "noticeDate": "22 febbraio 2017",
+    "campi": {
+      "data pubblicazione": "22 febbraio 2017",
+      "marca": "Ica Foods Spa - Crik Crok",
+      "denominazione": "Cros&tini",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Ica Foods Spa - Crik Crok",
+    "product": "Cros&tini",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ica Foods Spa - Crik Crok - Cros&tini",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ICA%20CLASSICO_1761175105.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostini-0",
+    "published": "2017-02-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-pizza/",
+    "title": "",
+    "noticeDate": "22 febbraio 2017",
+    "campi": {
+      "data pubblicazione": "22 febbraio 2017",
+      "marca": "Ica foods Spa - Crik Crok",
+      "denominazione": "Cros&tini Pizza",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Ica foods Spa - Crik Crok",
+    "product": "Cros&tini Pizza",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ica foods Spa - Crik Crok - Cros&tini Pizza",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ICA%20PIZZA_1761175106.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostini-pizza",
+    "published": "2017-02-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-1/",
+    "title": "",
+    "noticeDate": "22 febbraio 2017",
+    "campi": {
+      "data pubblicazione": "22 febbraio 2017",
+      "marca": "PAM Panorama",
+      "denominazione": "Crostini",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "PAM Panorama",
+    "product": "Crostini",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PAM Panorama - Crostini",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PAM_1761175107.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostini-1",
+    "published": "2017-02-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-classici-0/",
+    "title": "",
+    "noticeDate": "22 febbraio 2017",
+    "campi": {
+      "data pubblicazione": "22 febbraio 2017",
+      "marca": "Primo",
+      "denominazione": "Crostini classici",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Primo",
+    "product": "Crostini classici",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Primo - Crostini classici",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PRIMO_1761175109.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostini-classici-0",
+    "published": "2017-02-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-snack/",
+    "title": "",
+    "noticeDate": "22 febbraio 2017",
+    "campi": {
+      "data pubblicazione": "22 febbraio 2017",
+      "marca": "San Giorgio",
+      "denominazione": "Crostini snack",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "San Giorgio",
+    "product": "Crostini snack",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo San Giorgio - Crostini snack",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/San%20giorgio%20Classico_1761175110.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostini-snack",
+    "published": "2017-02-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-snack-gusto-intenso/",
+    "title": "",
+    "noticeDate": "22 febbraio 2017",
+    "campi": {
+      "data pubblicazione": "22 febbraio 2017",
+      "marca": "San Giorgio",
+      "denominazione": "Crostini snack gusto intenso",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "San Giorgio",
+    "product": "Crostini snack gusto intenso",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo San Giorgio - Crostini snack gusto intenso",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/San%20Giorgio%20Intenso_1761175112.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostini-snack-gusto-intenso",
+    "published": "2017-02-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-snack-0/",
+    "title": "",
+    "noticeDate": "22 febbraio 2017",
+    "campi": {
+      "data pubblicazione": "22 febbraio 2017",
+      "marca": "Selex",
+      "denominazione": "Crostini snack",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Selex",
+    "product": "Crostini snack",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Selex - Crostini snack",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SELEX_1761175113.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostini-snack-0",
+    "published": "2017-02-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-dore/",
+    "title": "",
+    "noticeDate": "22 febbraio 2017",
+    "campi": {
+      "data pubblicazione": "22 febbraio 2017",
+      "marca": "Unes",
+      "denominazione": "Crostini dorè",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Unes",
+    "product": "Crostini dorè",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Unes - Crostini dorè",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/UNES_1761175115.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostini-dore",
+    "published": "2017-02-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-snack-1/",
+    "title": "",
+    "noticeDate": "22 febbraio 2017",
+    "campi": {
+      "data pubblicazione": "22 febbraio 2017",
+      "marca": "VALE",
+      "denominazione": "Crostini snack",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "VALE",
+    "product": "Crostini snack",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VALE - Crostini snack",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/VALE_1761175117.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostini-snack-1",
+    "published": "2017-02-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-grano-tenero-tipo-o-manitoba/",
+    "title": "",
+    "noticeDate": "21 febbraio 2017",
+    "campi": {
+      "data pubblicazione": "21 febbraio 2017",
+      "marca": "CARREFOUR",
+      "denominazione": "FARINA DI GRANO TENERO TIPO O MANITOBA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "CARREFOUR",
+    "product": "FARINA DI GRANO TENERO TIPO O MANITOBA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CARREFOUR - FARINA DI GRANO TENERO TIPO O MANITOBA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/all.%202%20ministeriale_1761175101.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "farina-di-grano-tenero-tipo-o-manitoba",
+    "published": "2017-02-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ricotta-di-pecora-ricotta-della-mafalda/",
+    "title": "",
+    "noticeDate": "17 febbraio 2017",
+    "campi": {
+      "data pubblicazione": "17 febbraio 2017",
+      "marca": "Ricotta di pecora Ricotta della Mafalda",
+      "denominazione": "Ricotta di pecora Ricotta della Mafalda",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Ricotta di pecora Ricotta della Mafalda",
+    "product": "Ricotta di pecora Ricotta della Mafalda",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ricotta di pecora Ricotta della Mafalda - Ricotta di pecora Ricotta della Mafalda",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/allegato%202%20con%20foto_1761175100.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ricotta-di-pecora-ricotta-della-mafalda",
+    "published": "2017-02-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-mais-gialla-bramata/",
+    "title": "",
+    "noticeDate": "10 febbraio 2017",
+    "campi": {
+      "data pubblicazione": "10 febbraio 2017",
+      "marca": "La Bresciana",
+      "denominazione": "Farina di mais gialla bramata",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "La Bresciana",
+    "product": "Farina di mais gialla bramata",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo La Bresciana - Farina di mais gialla bramata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_farina_di_mais_gialla_bramata_1761175099.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "farina-di-mais-gialla-bramata",
+    "published": "2017-02-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fustino-acciaio-olivio-da-25-litri/",
+    "title": "",
+    "noticeDate": "8 febbraio 2017",
+    "campi": {
+      "data pubblicazione": "8 febbraio 2017",
+      "marca": "Aginox",
+      "denominazione": "Fustino in acciaio \"Olivio\" da 2,5 litri",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "Aginox",
+    "product": "Fustino in acciaio \"Olivio\" da 2,5 litri",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Aginox - Fustino in acciaio \"Olivio\" da 2,5 litri",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20di%20richiamo_1761175098.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fustino-acciaio-olivio-da-25-litri",
+    "published": "2017-02-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caramelle-dure-ripiene-alla-frutta-500g-ai-gusti-ciliegia-mora/",
+    "title": "",
+    "noticeDate": "26 gennaio 2017",
+    "campi": {
+      "data pubblicazione": "26 gennaio 2017",
+      "marca": "PENNY Market Italia S.r.l.",
+      "denominazione": "Caramelle dure ripiene alla frutta 500g, ai gusti ciliegia, mora, arancia, limone e fragola",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "PENNY Market Italia S.r.l.",
+    "product": "Caramelle dure ripiene alla frutta 500g, ai gusti ciliegia, mora, arancia, limone e fragola",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PENNY Market Italia S.r.l. - Caramelle dure ripiene alla frutta 500g, ai gusti ciliegia, mora, arancia, limone e fragola",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARAMELLE%20SERRA_PENNY%2026_01_17_1761175096.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "caramelle-dure-ripiene-alla-frutta-500g-ai-gusti-ciliegia-mora",
+    "published": "2017-01-26",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/xm-energy-mix/",
@@ -2456,6 +3310,37 @@
     "category": "info",
     "id": "lida-daidaihua",
     "published": "2009-12-28",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/pate-di-maiale/",
+    "title": "Patè di maiale",
+    "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/richiamo-di-pate-di-maiale-proveniente-dalla-repubblica-ceca/",
+    "noticeDate": "3 /agosto/2026",
+    "campi": {
+      "prodotto": "Patè di maiale",
+      "sostanza/rischio": "Tossina botulinica tipo A",
+      "paese di origine": "Repubblica Ceca",
+      "news/avviso": "3 /agosto/2026"
+    },
+    "product": "Patè di maiale",
+    "reasonShort": "Tossina botulinica tipo A",
+    "country": "Repubblica Ceca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Immagine 1",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2026-08/picture_I.jpg"
+      },
+      {
+        "name": "Immagine 2",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2026-08/picture_II.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pate-di-maiale",
+    "published": "",
     "source": "official"
   }
 ]
