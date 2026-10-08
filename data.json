@@ -2538,6 +2538,448 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-acciughe-olio-di-oliva-80g/",
+    "title": "",
+    "noticeDate": "8 novembre 2017",
+    "campi": {
+      "data pubblicazione": "8 novembre 2017",
+      "marca": "ATHENA",
+      "denominazione": "Filetti di Acciughe in Olio di Oliva - 80g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ATHENA",
+    "product": "Filetti di Acciughe in Olio di Oliva - 80g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ATHENA - Filetti di Acciughe in Olio di Oliva - 80g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Ministero%20Richiamo%20Filetti%20Acciughe%2080g_1761176022.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filetti-di-acciughe-olio-di-oliva-80g",
+    "published": "2017-11-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/totano-gigante-olio-di-semi-di-girasole-assortito-aglio-e-paprika/",
+    "title": "",
+    "noticeDate": "8 novembre 2017",
+    "campi": {
+      "data pubblicazione": "8 novembre 2017",
+      "marca": "Sol&Mar",
+      "denominazione": "Totano gigante in olio di semi di girasole assortito, aglio e paprika",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Sol&Mar",
+    "product": "Totano gigante in olio di semi di girasole assortito, aglio e paprika",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sol&Mar - Totano gigante in olio di semi di girasole assortito, aglio e paprika",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20_%20Modello%20di%20richiamo%20_1__1761176025.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "totano-gigante-olio-di-semi-di-girasole-assortito-aglio-e-paprika",
+    "published": "2017-11-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggi-ovi-caprini-freschi-stagionati-e-speziati/",
+    "title": "",
+    "noticeDate": "27 ottobre 2017",
+    "campi": {
+      "data pubblicazione": "27 ottobre 2017",
+      "marca": "No è presente il marchio di vendita",
+      "denominazione": "formaggi ovi-caprini freschi, stagionati e speziati",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "No è presente il marchio di vendita",
+    "product": "formaggi ovi-caprini freschi, stagionati e speziati",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo No è presente il marchio di vendita - formaggi ovi-caprini freschi, stagionati e speziati",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20formaggi%20vari_1761176016.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggi-ovi-caprini-freschi-stagionati-e-speziati",
+    "published": "2017-10-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggi-ovi-caprini-freschi-stagionati-e-speziati-0/",
+    "title": "",
+    "noticeDate": "27 ottobre 2017",
+    "campi": {
+      "data pubblicazione": "27 ottobre 2017",
+      "marca": "Azienda Agricola Le Curti",
+      "denominazione": "formaggi ovi-caprini freschi, stagionati e speziati.",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Azienda Agricola Le Curti",
+    "product": "formaggi ovi-caprini freschi, stagionati e speziati.",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Azienda Agricola Le Curti - formaggi ovi-caprini freschi, stagionati e speziati.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20formaggi%20vari_1761176019.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggi-ovi-caprini-freschi-stagionati-e-speziati-0",
+    "published": "2017-10-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-cremoso-cereali-pittalis/",
+    "title": "",
+    "noticeDate": "25 ottobre 2017",
+    "campi": {
+      "data pubblicazione": "25 ottobre 2017",
+      "marca": "Pittalis srls",
+      "denominazione": "yogurt cremoso cereali pittalis",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Pittalis srls",
+    "product": "yogurt cremoso cereali pittalis",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pittalis srls - yogurt cremoso cereali pittalis",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20pittalis_1761176010.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "yogurt-cremoso-cereali-pittalis",
+    "published": "2017-10-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tacchino-arrosto-liberamente-0/",
+    "title": "",
+    "noticeDate": "25 ottobre 2017",
+    "campi": {
+      "data pubblicazione": "25 ottobre 2017",
+      "marca": "Casa Modena",
+      "denominazione": "Tacchino Arrosto Liberamente",
+      "motivo della segnalazione": "Revoca richiamo"
+    },
+    "brand": "Casa Modena",
+    "product": "Tacchino Arrosto Liberamente",
+    "reasonShort": "Revoca richiamo",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Casa Modena - Tacchino Arrosto Liberamente",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20di%20richiamo%20modulo%20ministero_1761176013.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tacchino-arrosto-liberamente-0",
+    "published": "2017-10-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coppa-di-testa-sv/",
+    "title": "",
+    "noticeDate": "19 ottobre 2017",
+    "campi": {
+      "data pubblicazione": "19 ottobre 2017",
+      "marca": "Antica Norcineria F.lli Ansuini snc",
+      "denominazione": "Coppa di testa sv",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Antica Norcineria F.lli Ansuini snc",
+    "product": "Coppa di testa sv",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Antica Norcineria F.lli Ansuini snc - Coppa di testa sv",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ANSUINI%20ritiro_1761176004.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "coppa-di-testa-sv",
+    "published": "2017-10-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinaci-millefoglie-surgelati-0/",
+    "title": "",
+    "noticeDate": "19 ottobre 2017",
+    "campi": {
+      "data pubblicazione": "19 ottobre 2017",
+      "marca": "Bonduelle",
+      "denominazione": "Spinaci millefoglie surgelati",
+      "motivo della segnalazione": "Revoca richiamo"
+    },
+    "brand": "Bonduelle",
+    "product": "Spinaci millefoglie surgelati",
+    "reasonShort": "Revoca richiamo",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bonduelle - Spinaci millefoglie surgelati",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20bonduelle_1761176007.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spinaci-millefoglie-surgelati-0",
+    "published": "2017-10-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-fresca-sv-e-pasta/",
+    "title": "",
+    "noticeDate": "13 ottobre 2017",
+    "campi": {
+      "data pubblicazione": "13 ottobre 2017",
+      "marca": "Bevanati Claudio e Figli",
+      "denominazione": "Salsiccia fresca S/V e in pasta",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Bevanati Claudio e Figli",
+    "product": "Salsiccia fresca S/V e in pasta",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bevanati Claudio e Figli - Salsiccia fresca S/V e in pasta",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20SALSICCIA%20BEVANATI_1761176001.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-fresca-sv-e-pasta",
+    "published": "2017-10-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/punjabi-wadi-palline-di-farina-speziate/",
+    "title": "",
+    "noticeDate": "12 ottobre 2017",
+    "campi": {
+      "data pubblicazione": "12 ottobre 2017",
+      "marca": "HEERA",
+      "denominazione": "Punjabi Wadi - Palline di farina speziate",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "HEERA",
+    "product": "Punjabi Wadi - Palline di farina speziate",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo HEERA - Punjabi Wadi - Palline di farina speziate",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo_1761175993.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "punjabi-wadi-palline-di-farina-speziate",
+    "published": "2017-10-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-mais/",
+    "title": "",
+    "noticeDate": "12 ottobre 2017",
+    "campi": {
+      "data pubblicazione": "12 ottobre 2017",
+      "marca": "buono & bio",
+      "denominazione": "farina di mais",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "buono & bio",
+    "product": "farina di mais",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo buono & bio - farina di mais",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20BUONO%20E%20BIO_1761175996.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "farina-di-mais",
+    "published": "2017-10-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fesa-di-tacchino-arrosto/",
+    "title": "",
+    "noticeDate": "12 ottobre 2017",
+    "campi": {
+      "data pubblicazione": "12 ottobre 2017",
+      "marca": "capitelli",
+      "denominazione": "fesa di tacchino arrosto",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "capitelli",
+    "product": "fesa di tacchino arrosto",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo capitelli - fesa di tacchino arrosto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/capitelli%20richiamo%20fesa_1761175998.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "fesa-di-tacchino-arrosto",
+    "published": "2017-10-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cime-di-rapa/",
+    "title": "",
+    "noticeDate": "11 ottobre 2017",
+    "campi": {
+      "data pubblicazione": "11 ottobre 2017",
+      "marca": "Gusto del Salento",
+      "denominazione": "Cime di Rapa",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Gusto del Salento",
+    "product": "Cime di Rapa",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gusto del Salento - Cime di Rapa",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tutti%20lotti%20con%20foto_1761175991.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cime-di-rapa",
+    "published": "2017-10-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cozze-italia-0/",
+    "title": "",
+    "noticeDate": "10 ottobre 2017",
+    "campi": {
+      "data pubblicazione": "10 ottobre 2017",
+      "marca": "ITTICA LUCIANI S.R.L.",
+      "denominazione": "COZZE ITALIA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ITTICA LUCIANI S.R.L.",
+    "product": "COZZE ITALIA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ITTICA LUCIANI S.R.L. - COZZE ITALIA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%202%20Richiamo%20Ittica%20Luciani%2027_09_17_1761175988.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cozze-italia-0",
+    "published": "2017-10-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tacchino-arrosto-liberamente/",
+    "title": "",
+    "noticeDate": "6 ottobre 2017",
+    "campi": {
+      "data pubblicazione": "6 ottobre 2017",
+      "marca": "Casa Modena",
+      "denominazione": "Tacchino Arrosto LiberaMente",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Casa Modena",
+    "product": "Tacchino Arrosto LiberaMente",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Casa Modena - Tacchino Arrosto LiberaMente",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20TACCHINO%20MINISTERO_1761175986.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tacchino-arrosto-liberamente",
+    "published": "2017-10-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/premium-musli-con-frutta-assortito/",
+    "title": "",
+    "noticeDate": "5 ottobre 2017",
+    "campi": {
+      "data pubblicazione": "5 ottobre 2017",
+      "marca": "CROWNFIELD",
+      "denominazione": "Premium Musli con frutta assortito",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "CROWNFIELD",
+    "product": "Premium Musli con frutta assortito",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CROWNFIELD - Premium Musli con frutta assortito",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20ministeriale%20richiamo17_59_C_1761175981.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "premium-musli-con-frutta-assortito",
+    "published": "2017-10-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-piccante/",
+    "title": "",
+    "noticeDate": "5 ottobre 2017",
+    "campi": {
+      "data pubblicazione": "5 ottobre 2017",
+      "marca": "Salumificio del Nera srl",
+      "denominazione": "Salame piccante",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio del Nera srl",
+    "product": "Salame piccante",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio del Nera srl - Salame piccante",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/IMG_0002_1761175984.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-piccante",
+    "published": "2017-10-05",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bis-molluschi-prodotto-sottovuoto/",
     "title": "",
     "noticeDate": "4 ottobre 2017",
@@ -2638,6 +3080,84 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "cozze-italia",
+    "published": "2017-10-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taleggio-dop-inc-piacere-naturale/",
+    "title": "",
+    "noticeDate": "4 ottobre 2017",
+    "campi": {
+      "data pubblicazione": "4 ottobre 2017",
+      "marca": "CAROZZI FORMAGGI SRL",
+      "denominazione": "TALEGGIO DOP INC PIACERE NATURALE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CAROZZI FORMAGGI SRL",
+    "product": "TALEGGIO DOP INC PIACERE NATURALE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CAROZZI FORMAGGI SRL - TALEGGIO DOP INC PIACERE NATURALE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/scheda%20richiamo%20pubblicata%20sito%20min_1761175975.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "taleggio-dop-inc-piacere-naturale",
+    "published": "2017-10-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taleggio-latte-crudo-0/",
+    "title": "",
+    "noticeDate": "4 ottobre 2017",
+    "campi": {
+      "data pubblicazione": "4 ottobre 2017",
+      "marca": "IPERAL SpA - PREINCARTATO DOPO PORZIONATURA",
+      "denominazione": "TALEGGIO LATTE CRUDO",
+      "motivo della segnalazione": "Revoca richiamo"
+    },
+    "brand": "IPERAL SpA - PREINCARTATO DOPO PORZIONATURA",
+    "product": "TALEGGIO LATTE CRUDO",
+    "reasonShort": "Revoca richiamo",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IPERAL SpA - PREINCARTATO DOPO PORZIONATURA - TALEGGIO LATTE CRUDO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20RICHIAMO_1761175977.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "taleggio-latte-crudo-0",
+    "published": "2017-10-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinaci-millefoglie-750-g-retail-spinaci-placca-15-25kg-food/",
+    "title": "",
+    "noticeDate": "4 ottobre 2017",
+    "campi": {
+      "data pubblicazione": "4 ottobre 2017",
+      "marca": "Bonduelle Italia srl",
+      "denominazione": "Spinaci Millefoglie 750 g retail / Spinaci Placca 1/5 2,5KG food service surgelati",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Bonduelle Italia srl",
+    "product": "Spinaci Millefoglie 750 g retail / Spinaci Placca 1/5 2,5KG food service surgelati",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bonduelle Italia srl - Spinaci Millefoglie 750 g retail / Spinaci Placca 1/5 2,5KG food service surgelati",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/spinaci%20Bonduelle_1761175979.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spinaci-millefoglie-750-g-retail-spinaci-placca-15-25kg-food",
     "published": "2017-10-04",
     "source": "operator"
   },
