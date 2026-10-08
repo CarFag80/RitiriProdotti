@@ -2538,6 +2538,188 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-gallina-guscio/",
+    "title": "",
+    "noticeDate": "11 settembre 2017",
+    "campi": {
+      "data pubblicazione": "11 settembre 2017",
+      "marca": "FATTORIE VALLE DEL MISA",
+      "denominazione": "UOVA DI GALLINA IN GUSCIO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "FATTORIE VALLE DEL MISA",
+    "product": "UOVA DI GALLINA IN GUSCIO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FATTORIE VALLE DEL MISA - UOVA DI GALLINA IN GUSCIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PRODOTTO%20ALIMENTARE%20FATTORIE%20VALLE%20DEL%20MISA_1761175306.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-di-gallina-guscio",
+    "published": "2017-09-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-norcia/",
+    "title": "",
+    "noticeDate": "8 settembre 2017",
+    "campi": {
+      "data pubblicazione": "8 settembre 2017",
+      "marca": "Lanzi Srl",
+      "denominazione": "Salame Norcia",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Lanzi Srl",
+    "product": "Salame Norcia",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Lanzi Srl - Salame Norcia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mod%202%20Richiamo%20Lanzi%20srl_1761175301.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salame-norcia",
+    "published": "2017-09-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinacio-500-g/",
+    "title": "",
+    "noticeDate": "7 settembre 2017",
+    "campi": {
+      "data pubblicazione": "7 settembre 2017",
+      "marca": "buongiorno freschezza",
+      "denominazione": "spinacio 500 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "buongiorno freschezza",
+    "product": "spinacio 500 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo buongiorno freschezza - spinacio 500 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/5.Richiamo%20prodotto%20L.24211071M2_1761175276.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spinacio-500-g",
+    "published": "2017-09-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinacio-500-g-0/",
+    "title": "",
+    "noticeDate": "7 settembre 2017",
+    "campi": {
+      "data pubblicazione": "7 settembre 2017",
+      "marca": "buongiorno freschezza",
+      "denominazione": "spinacio 500 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "buongiorno freschezza",
+    "product": "spinacio 500 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo buongiorno freschezza - spinacio 500 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20prodotto%20L.%2023910773M2_1761175281.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spinacio-500-g-0",
+    "published": "2017-09-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinacio-500-g-1/",
+    "title": "",
+    "noticeDate": "7 settembre 2017",
+    "campi": {
+      "data pubblicazione": "7 settembre 2017",
+      "marca": "buongiorno freschezza",
+      "denominazione": "spinacio 500 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "buongiorno freschezza",
+    "product": "spinacio 500 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo buongiorno freschezza - spinacio 500 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20prodotto%20L.%2024110968M2_1761175285.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spinacio-500-g-1",
+    "published": "2017-09-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinacio-500-g-2/",
+    "title": "",
+    "noticeDate": "7 settembre 2017",
+    "campi": {
+      "data pubblicazione": "7 settembre 2017",
+      "marca": "buongiorno freschezza",
+      "denominazione": "spinacio 500 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "buongiorno freschezza",
+    "product": "spinacio 500 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo buongiorno freschezza - spinacio 500 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20prodotto%20L.24010864M2_1761175291.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spinacio-500-g-2",
+    "published": "2017-09-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bonta-viva-bifidus-fibre-avena-noci-bonta-viva-bifidus-fibre/",
+    "title": "",
+    "noticeDate": "7 settembre 2017",
+    "campi": {
+      "data pubblicazione": "7 settembre 2017",
+      "marca": "Bontà viva",
+      "denominazione": "Bontà viva bifidus fibre \"Avena -noci\" Bontà viva bifidus fibre \"Cereali\" Bontà viva \"kiwi-cereali\"",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Bontà viva",
+    "product": "Bontà viva bifidus fibre \"Avena -noci\" Bontà viva bifidus fibre \"Cereali\" Bontà viva \"kiwi-cereali\"",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bontà viva - Bontà viva bifidus fibre \"Avena -noci\" Bontà viva bifidus fibre \"Cereali\" Bontà viva \"kiwi-cereali\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/NC_Senoble_1761175296.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "bonta-viva-bifidus-fibre-avena-noci-bonta-viva-bifidus-fibre",
+    "published": "2017-09-07",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratore-alimentare-desmodium/",
     "title": "Integratore alimentare",
     "noticeUrl": "https://www.salute.gov.it/new/",
@@ -2572,6 +2754,344 @@
     "id": "integratore-alimentare-desmodium",
     "published": "2017-09-05",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cubetti-di-pancetta-dolce-cubetti-di-pancetta-affumicata/",
+    "title": "",
+    "noticeDate": "5 settembre 2017",
+    "campi": {
+      "data pubblicazione": "5 settembre 2017",
+      "marca": "VALTIDONE INDUSTRIA ALIMENTARE",
+      "denominazione": "CUBETTI DI PANCETTA DOLCE / CUBETTI DI PANCETTA AFFUMICATA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "VALTIDONE INDUSTRIA ALIMENTARE",
+    "product": "CUBETTI DI PANCETTA DOLCE / CUBETTI DI PANCETTA AFFUMICATA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VALTIDONE INDUSTRIA ALIMENTARE - CUBETTI DI PANCETTA DOLCE / CUBETTI DI PANCETTA AFFUMICATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/VALTIDONE%20ALLEGATO%204%20_%20MODELLO%20RICHIAMO_1761175266.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cubetti-di-pancetta-dolce-cubetti-di-pancetta-affumicata",
+    "published": "2017-09-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taleggio-latte-crudo/",
+    "title": "",
+    "noticeDate": "5 settembre 2017",
+    "campi": {
+      "data pubblicazione": "5 settembre 2017",
+      "marca": "TALEGGIO LATTE CRUDO - IPERAL/CAROZZI",
+      "denominazione": "TALEGGIO LATTE CRUDO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "TALEGGIO LATTE CRUDO - IPERAL/CAROZZI",
+    "product": "TALEGGIO LATTE CRUDO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TALEGGIO LATTE CRUDO - IPERAL/CAROZZI - TALEGGIO LATTE CRUDO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_1761175271.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "taleggio-latte-crudo",
+    "published": "2017-09-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ricotta-pecorina/",
+    "title": "",
+    "noticeDate": "31 agosto 2017",
+    "campi": {
+      "data pubblicazione": "31 agosto 2017",
+      "marca": "ORO BRAND",
+      "denominazione": "RICOTTA PECORINA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ORO BRAND",
+    "product": "RICOTTA PECORINA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ORO BRAND - RICOTTA PECORINA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/DOCUMENTO%20RICHIAMO_1761175262.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ricotta-pecorina",
+    "published": "2017-08-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fettuccine/",
+    "title": "",
+    "noticeDate": "25 agosto 2017",
+    "campi": {
+      "data pubblicazione": "25 agosto 2017",
+      "marca": "RISTOPRONTO",
+      "denominazione": "FETTUCCINE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "RISTOPRONTO",
+    "product": "FETTUCCINE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo RISTOPRONTO - FETTUCCINE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20fettuccine%20ristopronto_1761175257.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fettuccine",
+    "published": "2017-08-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/atsuyaki-tamago-egg-block-eggs-omlette-block/",
+    "title": "",
+    "noticeDate": "23 agosto 2017",
+    "campi": {
+      "data pubblicazione": "23 agosto 2017",
+      "marca": "KAGERER & CO. GMBH",
+      "denominazione": "ATSUYAKI TAMAGO EGG BLOCK - EGGS OMLETTE BLOCK",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "KAGERER & CO. GMBH",
+    "product": "ATSUYAKI TAMAGO EGG BLOCK - EGGS OMLETTE BLOCK",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo KAGERER & CO. GMBH - ATSUYAKI TAMAGO EGG BLOCK - EGGS OMLETTE BLOCK",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20KAGERER_1761175248.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "atsuyaki-tamago-egg-block-eggs-omlette-block",
+    "published": "2017-08-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/atsuyaki-tamago-egg-block-eggs-omlette-block-0/",
+    "title": "",
+    "noticeDate": "23 agosto 2017",
+    "campi": {
+      "data pubblicazione": "23 agosto 2017",
+      "marca": "KAGERER & CO. GMBH",
+      "denominazione": "ATSUYAKI TAMAGO EGG BLOCK- EGGS OMLETTE BLOCK",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "KAGERER & CO. GMBH",
+    "product": "ATSUYAKI TAMAGO EGG BLOCK- EGGS OMLETTE BLOCK",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo KAGERER & CO. GMBH - ATSUYAKI TAMAGO EGG BLOCK- EGGS OMLETTE BLOCK",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20KAGERER_1761175253.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "atsuyaki-tamago-egg-block-eggs-omlette-block-0",
+    "published": "2017-08-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamelle-e-salsiccia/",
+    "title": "",
+    "noticeDate": "4 agosto 2017",
+    "campi": {
+      "data pubblicazione": "4 agosto 2017",
+      "marca": "F.lli Rizzi (carne proveniente da macello Sassi spa di Colorno (PR)",
+      "denominazione": "Salamelle e Salsiccia",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "F.lli Rizzi (carne proveniente da macello Sassi spa di Colorno (PR)",
+    "product": "Salamelle e Salsiccia",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo F.lli Rizzi (carne proveniente da macello Sassi spa di Colorno (PR) - Salamelle e Salsiccia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/avviso%20richiamo%20rizzi_1761175244.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salamelle-e-salsiccia",
+    "published": "2017-08-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-affumicato-preaffettato/",
+    "title": "",
+    "noticeDate": "1 agosto 2017",
+    "campi": {
+      "data pubblicazione": "1 agosto 2017",
+      "marca": "salmon noruego ahumado - ahuleva",
+      "denominazione": "salmone affumicato preaffettato",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "salmon noruego ahumado - ahuleva",
+    "product": "salmone affumicato preaffettato",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo salmon noruego ahumado - ahuleva - salmone affumicato preaffettato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/avviso%20richiamoimport%20fungo_1761175239.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salmone-affumicato-preaffettato",
+    "published": "2017-08-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carne-suina/",
+    "title": "",
+    "noticeDate": "27 luglio 2017",
+    "campi": {
+      "data pubblicazione": "27 luglio 2017",
+      "marca": "AMBROSINI CARNI SRL",
+      "denominazione": "CARNE SUINA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "AMBROSINI CARNI SRL",
+    "product": "CARNE SUINA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AMBROSINI CARNI SRL - CARNE SUINA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALLEGATO%204%20_%20Modello_richiamo_editabile%20COMPILATO_1761175235.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "carne-suina",
+    "published": "2017-07-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caramelle-dure-ripiene-alla-frutta-500g-ai-gusti-ciliegia-mora-0/",
+    "title": "",
+    "noticeDate": "26 luglio 2017",
+    "campi": {
+      "data pubblicazione": "26 luglio 2017",
+      "marca": "PENNY MARKET",
+      "denominazione": "Caramelle dure ripiene alla frutta 500g, ai gusti ciliegia, mora, arancia, limone e fragola",
+      "motivo della segnalazione": "Revoca richiamo"
+    },
+    "brand": "PENNY MARKET",
+    "product": "Caramelle dure ripiene alla frutta 500g, ai gusti ciliegia, mora, arancia, limone e fragola",
+    "reasonShort": "Revoca richiamo",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PENNY MARKET - Caramelle dure ripiene alla frutta 500g, ai gusti ciliegia, mora, arancia, limone e fragola",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20RICHIAMO%20PENNY%20MARKET_1761175230.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "caramelle-dure-ripiene-alla-frutta-500g-ai-gusti-ciliegia-mora-0",
+    "published": "2017-07-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-sarda-campidanese-0/",
+    "title": "",
+    "noticeDate": "24 luglio 2017",
+    "campi": {
+      "data pubblicazione": "24 luglio 2017",
+      "marca": "SALUMIFICIO CAMPIDANESE SU SARTIZZU DI FOIS BARBARA - 9-3701/L",
+      "denominazione": "SALSICCIA SARDA CAMPIDANESE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO CAMPIDANESE SU SARTIZZU DI FOIS BARBARA - 9-3701/L",
+    "product": "SALSICCIA SARDA CAMPIDANESE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO CAMPIDANESE SU SARTIZZU DI FOIS BARBARA - 9-3701/L - SALSICCIA SARDA CAMPIDANESE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20su%20sartizzu%20corretto_1761175226.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-sarda-campidanese-0",
+    "published": "2017-07-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/omegor-kids-integratore-alimentare-di-omega-3-algali-dha-epa-e/",
+    "title": "",
+    "noticeDate": "20 luglio 2017",
+    "campi": {
+      "data pubblicazione": "20 luglio 2017",
+      "marca": "U.G.A. Nutraceuticals Srl",
+      "denominazione": "Omegor Kids, integratore alimentare di omega -3 algali DHA, EPA e vitamina D3",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "U.G.A. Nutraceuticals Srl",
+    "product": "Omegor Kids, integratore alimentare di omega -3 algali DHA, EPA e vitamina D3",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo U.G.A. Nutraceuticals Srl - Omegor Kids, integratore alimentare di omega -3 algali DHA, EPA e vitamina D3",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Omegor_Kids_150ml_5ml_Lotti%20170267_%20170039_%20170038_1761175222.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "omegor-kids-integratore-alimentare-di-omega-3-algali-dha-epa-e",
+    "published": "2017-07-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-sarda-campidanese/",
+    "title": "",
+    "noticeDate": "19 luglio 2017",
+    "campi": {
+      "data pubblicazione": "19 luglio 2017",
+      "marca": "SALUMIFICIO CAMPIDANESE SU SARTIZZU DI FOIS BARBARA IT 9-3701/L-CE",
+      "denominazione": "SALSICCIA SARDA CAMPIDANESE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO CAMPIDANESE SU SARTIZZU DI FOIS BARBARA IT 9-3701/L-CE",
+    "product": "SALSICCIA SARDA CAMPIDANESE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO CAMPIDANESE SU SARTIZZU DI FOIS BARBARA IT 9-3701/L-CE - SALSICCIA SARDA CAMPIDANESE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo_1761175218.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-sarda-campidanese",
+    "published": "2017-07-19",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sgombro-olio-di-semi-di-girasole-linea-puros-filetti-di-sgombro/",
