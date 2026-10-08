@@ -1206,6 +1206,266 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aringa-argentata/",
+    "title": "",
+    "noticeDate": "1 marzo 2018",
+    "campi": {
+      "data pubblicazione": "1 marzo 2018",
+      "marca": "Tagliapietra",
+      "denominazione": "Aringa Argentata",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Tagliapietra",
+    "product": "Aringa Argentata",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Tagliapietra - Aringa Argentata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_18_15_A_1761176192.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "aringa-argentata",
+    "published": "2018-03-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/conchiglia-gianduia-prodotto-cotto-la-vendita-consumatore/",
+    "title": "",
+    "noticeDate": "28 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "28 febbraio 2018",
+      "marca": "Lidl",
+      "denominazione": "Conchiglia gianduia (PRODOTTO COTTO PER LA VENDITA A CONSUMATORE)",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Lidl",
+    "product": "Conchiglia gianduia (PRODOTTO COTTO PER LA VENDITA A CONSUMATORE)",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Lidl - Conchiglia gianduia (PRODOTTO COTTO PER LA VENDITA A CONSUMATORE)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_Conchiglia_gianduia_18_18_C_1761176184.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "conchiglia-gianduia-prodotto-cotto-la-vendita-consumatore",
+    "published": "2018-02-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-fermentato-gusto-mirtillo-ean-14289851/",
+    "title": "",
+    "noticeDate": "28 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "28 febbraio 2018",
+      "marca": "VITALIBRE",
+      "denominazione": "LATTE FERMENTATO GUSTO MIRTILLO (EAN 14289851)",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "VITALIBRE",
+    "product": "LATTE FERMENTATO GUSTO MIRTILLO (EAN 14289851)",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VITALIBRE - LATTE FERMENTATO GUSTO MIRTILLO (EAN 14289851)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Vitalibre%20modello%20MinSal_1761176188.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-fermentato-gusto-mirtillo-ean-14289851",
+    "published": "2018-02-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bastoncini-con-crusca-di-rumento-ac-conad/",
+    "title": "",
+    "noticeDate": "26 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "26 febbraio 2018",
+      "marca": "Conad",
+      "denominazione": "Bastoncini con crusca di rumento \"AC Conad\"",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Conad",
+    "product": "Bastoncini con crusca di rumento \"AC Conad\"",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Conad - Bastoncini con crusca di rumento \"AC Conad\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20BASTONCINI%20AC%20CONAD_1761176180.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bastoncini-con-crusca-di-rumento-ac-conad",
+    "published": "2018-02-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-sesamo-con-cacao-halva-marchio-baskaya-gusto-pistacchio/",
+    "title": "",
+    "noticeDate": "23 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2018",
+      "marca": "Baskaya",
+      "denominazione": "¿PASTA DI SESAMO con CACAO- Halva- marchio Baskaya ¿Gusto Pistacchio¿ ¿ conf. da 350 g.¿",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Baskaya",
+    "product": "¿PASTA DI SESAMO con CACAO- Halva- marchio Baskaya ¿Gusto Pistacchio¿ ¿ conf. da 350 g.¿",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Baskaya - ¿PASTA DI SESAMO con CACAO- Halva- marchio Baskaya ¿Gusto Pistacchio¿ ¿ conf. da 350 g.¿",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20helva%20pistacchio_1761176164.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pasta-di-sesamo-con-cacao-halva-marchio-baskaya-gusto-pistacchio",
+    "published": "2018-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-sesamo-con-cacao-halva-marchio-baskaya-gusto-cacao-conf-da/",
+    "title": "",
+    "noticeDate": "23 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2018",
+      "marca": "Baskaya",
+      "denominazione": "PASTA DI SESAMO con CACAO- Halva- marchio Baskaya ¿Gusto Cacao¿ conf. da 350 g.¿",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Baskaya",
+    "product": "PASTA DI SESAMO con CACAO- Halva- marchio Baskaya ¿Gusto Cacao¿ conf. da 350 g.¿",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Baskaya - PASTA DI SESAMO con CACAO- Halva- marchio Baskaya ¿Gusto Cacao¿ conf. da 350 g.¿",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20helva%20cacao_1761176168.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pasta-di-sesamo-con-cacao-halva-marchio-baskaya-gusto-cacao-conf-da",
+    "published": "2018-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-sesamo-con-cacao-halva-marchio-baskaya-gusto-vaniglia-conf/",
+    "title": "",
+    "noticeDate": "23 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2018",
+      "marca": "Baskaya",
+      "denominazione": "PASTA DI SESAMO con CACAO- Halva- marchio Baskaya ¿Gusto Vaniglia¿ - conf. da 350 g.¿",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Baskaya",
+    "product": "PASTA DI SESAMO con CACAO- Halva- marchio Baskaya ¿Gusto Vaniglia¿ - conf. da 350 g.¿",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Baskaya - PASTA DI SESAMO con CACAO- Halva- marchio Baskaya ¿Gusto Vaniglia¿ - conf. da 350 g.¿",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20helva%20vaniglia_1761176172.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pasta-di-sesamo-con-cacao-halva-marchio-baskaya-gusto-vaniglia-conf",
+    "published": "2018-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/dolcetti-di-marshmallow/",
+    "title": "",
+    "noticeDate": "23 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2018",
+      "marca": "ikea",
+      "denominazione": "dolcetti di marshmallow",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ikea",
+    "product": "dolcetti di marshmallow",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ikea - dolcetti di marshmallow",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ikea_1761176176.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "dolcetti-di-marshmallow",
+    "published": "2018-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tortine-assortite-torta-alle-mele-ean-20970277-torta-della-nonna/",
+    "title": "",
+    "noticeDate": "21 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "21 febbraio 2018",
+      "marca": "Milbona",
+      "denominazione": "Tortine assortite - Torta alle mele (EAN 20970277), Torta della nonna (EAN 20970284)",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Milbona",
+    "product": "Tortine assortite - Torta alle mele (EAN 20970277), Torta della nonna (EAN 20970284)",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Milbona - Tortine assortite - Torta alle mele (EAN 20970277), Torta della nonna (EAN 20970284)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO%20LIDL_Tortine%20_1__1761176157.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tortine-assortite-torta-alle-mele-ean-20970277-torta-della-nonna",
+    "published": "2018-02-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamino-piccante/",
+    "title": "",
+    "noticeDate": "21 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "21 febbraio 2018",
+      "marca": "ROBERTO AZZOCCHI SRL",
+      "denominazione": "SALAMINO PICCANTE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ROBERTO AZZOCCHI SRL",
+    "product": "SALAMINO PICCANTE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ROBERTO AZZOCCHI SRL - SALAMINO PICCANTE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salamino%20piccante%20azzocchi_1761176161.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salamino-piccante",
+    "published": "2018-02-21",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/sushigari-prodotto-base-di-zenzero-sushi-daily/",
     "title": "Sushigari (prodotto a base di zenzero)",
     "noticeUrl": "https://www.salute.gov.it/new/",
@@ -1274,6 +1534,240 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sgombro-olio-di-semi-di-girasole-linea-puros-filetti-di-sgombro/",
+    "title": "",
+    "noticeDate": "18 luglio 2017",
+    "campi": {
+      "data pubblicazione": "18 luglio 2017",
+      "marca": "PUROS",
+      "denominazione": "SGOMBRO IN OLIO DI SEMI DI GIRASOLE LINEA PUROS FILETTI DI SGOMBRO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "PUROS",
+    "product": "SGOMBRO IN OLIO DI SEMI DI GIRASOLE LINEA PUROS FILETTI DI SGOMBRO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PUROS - SGOMBRO IN OLIO DI SEMI DI GIRASOLE LINEA PUROS FILETTI DI SGOMBRO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo%20Sgombro_1761175214.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sgombro-olio-di-semi-di-girasole-linea-puros-filetti-di-sgombro",
+    "published": "2017-07-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filone-tonno-congelato-sotto-vuoto-0/",
+    "title": "",
+    "noticeDate": "13 luglio 2017",
+    "campi": {
+      "data pubblicazione": "13 luglio 2017",
+      "marca": "TRIVARIS",
+      "denominazione": "FILONE TONNO CONGELATO SOTTO VUOTO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "TRIVARIS",
+    "product": "FILONE TONNO CONGELATO SOTTO VUOTO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TRIVARIS - FILONE TONNO CONGELATO SOTTO VUOTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%202%20FILONE%20TONNO%20CONGELATO%20TRIVARIS%20LOTTO%20T150_17%20%20%20%20_2_%20_1__1761175198.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filone-tonno-congelato-sotto-vuoto-0",
+    "published": "2017-07-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/maxiburger-angus-200-g-atp/",
+    "title": "",
+    "noticeDate": "13 luglio 2017",
+    "campi": {
+      "data pubblicazione": "13 luglio 2017",
+      "marca": "SANDRI",
+      "denominazione": "MAXIBURGER ANGUS 200 g ATP",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "SANDRI",
+    "product": "MAXIBURGER ANGUS 200 g ATP",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SANDRI - MAXIBURGER ANGUS 200 g ATP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/aaa_Modulo%20Richiamo%20Ministeriale_1761175202.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "maxiburger-angus-200-g-atp",
+    "published": "2017-07-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carne-avicola/",
+    "title": "",
+    "noticeDate": "13 luglio 2017",
+    "campi": {
+      "data pubblicazione": "13 luglio 2017",
+      "marca": "Viustino 65 S.S.",
+      "denominazione": "Carne avicola",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Viustino 65 S.S.",
+    "product": "Carne avicola",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Viustino 65 S.S. - Carne avicola",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/doc00387820170713113615_1761175206.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "carne-avicola",
+    "published": "2017-07-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tonno-olio-di-girasole/",
+    "title": "",
+    "noticeDate": "13 luglio 2017",
+    "campi": {
+      "data pubblicazione": "13 luglio 2017",
+      "marca": "ALGARVE",
+      "denominazione": "TONNO IN OLIO DI GIRASOLE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ALGARVE",
+    "product": "TONNO IN OLIO DI GIRASOLE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ALGARVE - TONNO IN OLIO DI GIRASOLE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20standard%20per%20richiami_1761175210.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tonno-olio-di-girasole",
+    "published": "2017-07-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gatinais-cru-gatinais-eurl-blanccabricabri-azotegatinais-coupe/",
+    "title": "",
+    "noticeDate": "11 luglio 2017",
+    "campi": {
+      "data pubblicazione": "11 luglio 2017",
+      "marca": "FROMAGERIE BLANC EURL",
+      "denominazione": "GATINAIS CRU / GATINAIS-EURL BLANC/CABRI/CABRI AZOTE/GATINAIS COUPE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FROMAGERIE BLANC EURL",
+    "product": "GATINAIS CRU / GATINAIS-EURL BLANC/CABRI/CABRI AZOTE/GATINAIS COUPE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FROMAGERIE BLANC EURL - GATINAIS CRU / GATINAIS-EURL BLANC/CABRI/CABRI AZOTE/GATINAIS COUPE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALLEGATO%204%20_%20Modello_richiamo_editabile%20formaggio%20di%20capra_1761175195.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gatinais-cru-gatinais-eurl-blanccabricabri-azotegatinais-coupe",
+    "published": "2017-07-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mangime-cani-e-gatti-galletto/",
+    "title": "",
+    "noticeDate": "6 luglio 2017",
+    "campi": {
+      "data pubblicazione": "6 luglio 2017",
+      "marca": "Animal Star",
+      "denominazione": "Mangime per cani e gatti Galletto",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Animal Star",
+    "product": "Mangime per cani e gatti Galletto",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Animal Star - Mangime per cani e gatti Galletto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20galletto_1761175188.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mangime-cani-e-gatti-galletto",
+    "published": "2017-07-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mangime-cani-e-gatti-quaglia/",
+    "title": "",
+    "noticeDate": "6 luglio 2017",
+    "campi": {
+      "data pubblicazione": "6 luglio 2017",
+      "marca": "Animal Star",
+      "denominazione": "Mangime per cani e gatti Quaglia",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Animal Star",
+    "product": "Mangime per cani e gatti Quaglia",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Animal Star - Mangime per cani e gatti Quaglia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20quaglia_1761175192.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mangime-cani-e-gatti-quaglia",
+    "published": "2017-07-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filone-tonno-congelato-sotto-vuoto/",
+    "title": "",
+    "noticeDate": "4 luglio 2017",
+    "campi": {
+      "data pubblicazione": "4 luglio 2017",
+      "marca": "TRIVARIS",
+      "denominazione": "FILONE TONNO CONGELATO SOTTO VUOTO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "TRIVARIS",
+    "product": "FILONE TONNO CONGELATO SOTTO VUOTO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TRIVARIS - FILONE TONNO CONGELATO SOTTO VUOTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20FILONE%20TONNO%20CONGELATO%20TRIVARIS_1761175185.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filone-tonno-congelato-sotto-vuoto",
+    "published": "2017-07-04",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-pizza-tipo-00-di-grano-tenero/",
     "title": "",
     "noticeDate": "12 giugno 2017",
@@ -1296,6 +1790,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "farina-pizza-tipo-00-di-grano-tenero",
+    "published": "2017-06-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-casereccio-lotto-a12/",
+    "title": "",
+    "noticeDate": "12 giugno 2017",
+    "campi": {
+      "data pubblicazione": "12 giugno 2017",
+      "marca": "SALUMIFICIO ZORATTI SRL",
+      "denominazione": "Salame casereccio LOTTO A12",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO ZORATTI SRL",
+    "product": "Salame casereccio LOTTO A12",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO ZORATTI SRL - Salame casereccio LOTTO A12",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20ZORATTI%20PROTOCOLLATO_1761175182.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-casereccio-lotto-a12",
     "published": "2017-06-12",
     "source": "operator"
   },
