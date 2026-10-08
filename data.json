@@ -1174,6 +1174,396 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-grano-tenero-tipo0/",
+    "title": "",
+    "noticeDate": "18 aprile 2018",
+    "campi": {
+      "data pubblicazione": "18 aprile 2018",
+      "marca": "Consorzio Agroalimentare T.M.T. sca",
+      "denominazione": "Farina di grano tenero tipo\"0\"",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Consorzio Agroalimentare T.M.T. sca",
+    "product": "Farina di grano tenero tipo\"0\"",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Consorzio Agroalimentare T.M.T. sca - Farina di grano tenero tipo\"0\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20Farina%20grano%20tenero_Sarti_1761176763.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "farina-di-grano-tenero-tipo0",
+    "published": "2018-04-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pizza-bianca-farcita-con-salsa-al-tartufo-nero-e-prosciutto-cotto/",
+    "title": "",
+    "noticeDate": "10 aprile 2018",
+    "campi": {
+      "data pubblicazione": "10 aprile 2018",
+      "marca": "Deluxe",
+      "denominazione": "Pizza bianca farcita con salsa al tartufo nero e prosciutto cotto",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Deluxe",
+    "product": "Pizza bianca farcita con salsa al tartufo nero e prosciutto cotto",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Deluxe - Pizza bianca farcita con salsa al tartufo nero e prosciutto cotto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20Richiamo_354704_1761176761.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pizza-bianca-farcita-con-salsa-al-tartufo-nero-e-prosciutto-cotto",
+    "published": "2018-04-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mousse-di-baccala-mantecato/",
+    "title": "",
+    "noticeDate": "6 aprile 2018",
+    "campi": {
+      "data pubblicazione": "6 aprile 2018",
+      "marca": "Gastronomia Valdarnese",
+      "denominazione": "Mousse di baccala' mantecato",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Gastronomia Valdarnese",
+    "product": "Mousse di baccala' mantecato",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gastronomia Valdarnese - Mousse di baccala' mantecato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Baccala%20mantecato_1761176760.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mousse-di-baccala-mantecato",
+    "published": "2018-04-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/deco-vaschetta-tiramisu-0/",
+    "title": "",
+    "noticeDate": "5 aprile 2018",
+    "campi": {
+      "data pubblicazione": "5 aprile 2018",
+      "marca": "DECO'",
+      "denominazione": "DECO VASCHETTA TIRAMISU'",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "DECO'",
+    "product": "DECO VASCHETTA TIRAMISU'",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DECO' - DECO VASCHETTA TIRAMISU'",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModuloRichiamorevisionato_1761176758.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "deco-vaschetta-tiramisu-0",
+    "published": "2018-04-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-di-cioccolato/",
+    "title": "",
+    "noticeDate": "4 aprile 2018",
+    "campi": {
+      "data pubblicazione": "4 aprile 2018",
+      "marca": "BOCN SRL",
+      "denominazione": "SALAME DI CIOCCOLATO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "BOCN SRL",
+    "product": "SALAME DI CIOCCOLATO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BOCN SRL - SALAME DI CIOCCOLATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Avviso_same_cicc_18_37_C_1761176757.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salame-di-cioccolato",
+    "published": "2018-04-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/deco-vaschetta-tiramisu/",
+    "title": "",
+    "noticeDate": "3 aprile 2018",
+    "campi": {
+      "data pubblicazione": "3 aprile 2018",
+      "marca": "DECO'",
+      "denominazione": "DECO' Vaschetta Tiramisu'",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "DECO'",
+    "product": "DECO' Vaschetta Tiramisu'",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DECO' - DECO' Vaschetta Tiramisu'",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/5_%20RICHIAMO%20Tiramisu__1761176755.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "deco-vaschetta-tiramisu",
+    "published": "2018-04-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cozze-spagna-0/",
+    "title": "",
+    "noticeDate": "26 marzo 2018",
+    "campi": {
+      "data pubblicazione": "26 marzo 2018",
+      "marca": "L'ACQUACHIARA SRL",
+      "denominazione": "COZZE SPAGNA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "L'ACQUACHIARA SRL",
+    "product": "COZZE SPAGNA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo L'ACQUACHIARA SRL - COZZE SPAGNA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Acquachiara_353018_1761176751.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cozze-spagna-0",
+    "published": "2018-03-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongole-veraci-tapes-semidecussatus/",
+    "title": "",
+    "noticeDate": "26 marzo 2018",
+    "campi": {
+      "data pubblicazione": "26 marzo 2018",
+      "marca": "Ittica Luciani S.r.l.",
+      "denominazione": "vongole veraci (Tapes semidecussatus)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Ittica Luciani S.r.l.",
+    "product": "vongole veraci (Tapes semidecussatus)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ittica Luciani S.r.l. - vongole veraci (Tapes semidecussatus)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/All.%202%20richiamo%2026_03_18%20Lotto%20570_1761176752.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "vongole-veraci-tapes-semidecussatus",
+    "published": "2018-03-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongole-veraci-tapes-semidecussatus-0/",
+    "title": "",
+    "noticeDate": "26 marzo 2018",
+    "campi": {
+      "data pubblicazione": "26 marzo 2018",
+      "marca": "Ittica Luciani S.r.l.",
+      "denominazione": "vongole veraci (Tapes semidecussatus)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Ittica Luciani S.r.l.",
+    "product": "vongole veraci (Tapes semidecussatus)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ittica Luciani S.r.l. - vongole veraci (Tapes semidecussatus)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%202%20RICHIAMO%2026_03_18%20Lotto%20570_1761176754.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "vongole-veraci-tapes-semidecussatus-0",
+    "published": "2018-03-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cozze-spagna/",
+    "title": "",
+    "noticeDate": "23 marzo 2018",
+    "campi": {
+      "data pubblicazione": "23 marzo 2018",
+      "marca": "L'ACQUACHIARA SRL",
+      "denominazione": "COZZE SPAGNA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "L'ACQUACHIARA SRL",
+    "product": "COZZE SPAGNA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo L'ACQUACHIARA SRL - COZZE SPAGNA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Acquachiara_352932_1761176749.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cozze-spagna",
+    "published": "2018-03-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fettuccine-0/",
+    "title": "",
+    "noticeDate": "22 marzo 2018",
+    "campi": {
+      "data pubblicazione": "22 marzo 2018",
+      "marca": "RISTOPRONTO SRL",
+      "denominazione": "FETTUCCINE",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "RISTOPRONTO SRL",
+    "product": "FETTUCCINE",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo RISTOPRONTO SRL - FETTUCCINE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20RICHIAMO%20FETTUCCINE_1761176745.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fettuccine-0",
+    "published": "2018-03-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/porchetta-di-ariccia-igp-0/",
+    "title": "",
+    "noticeDate": "22 marzo 2018",
+    "campi": {
+      "data pubblicazione": "22 marzo 2018",
+      "marca": "FA.LU.CIOLI",
+      "denominazione": "PORCHETTA DI ARICCIA IGP",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "FA.LU.CIOLI",
+    "product": "PORCHETTA DI ARICCIA IGP",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FA.LU.CIOLI - PORCHETTA DI ARICCIA IGP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20RICHIAMO%20FALUCIOLI_1761176747.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "porchetta-di-ariccia-igp-0",
+    "published": "2018-03-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-di-verdure-coop-600-g-senza-glutine/",
+    "title": "",
+    "noticeDate": "22 marzo 2018",
+    "campi": {
+      "data pubblicazione": "22 marzo 2018",
+      "marca": "COOP",
+      "denominazione": "MINESTRONE DI VERDURE COOP 600 g SENZA GLUTINE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "COOP",
+    "product": "MINESTRONE DI VERDURE COOP 600 g SENZA GLUTINE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo COOP - MINESTRONE DI VERDURE COOP 600 g SENZA GLUTINE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20RICHIAMO%20del%20Prodotto%20%20Minestrone%20Coop_1761176748.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "minestrone-di-verdure-coop-600-g-senza-glutine",
+    "published": "2018-03-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamino-piccante-0/",
+    "title": "",
+    "noticeDate": "21 marzo 2018",
+    "campi": {
+      "data pubblicazione": "21 marzo 2018",
+      "marca": "ROBERTO AZZOCCHI SRL",
+      "denominazione": "SALAMINO PICCANTE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ROBERTO AZZOCCHI SRL",
+    "product": "SALAMINO PICCANTE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ROBERTO AZZOCCHI SRL - SALAMINO PICCANTE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salamino%20piccante%20azzocchi%20bis_1761176744.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salamino-piccante-0",
+    "published": "2018-03-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vedasi-dettagli-seguito/",
+    "title": "",
+    "noticeDate": "20 marzo 2018",
+    "campi": {
+      "data pubblicazione": "20 marzo 2018",
+      "marca": "Illy",
+      "denominazione": "Vedasi dettagli in seguito",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Illy",
+    "product": "Vedasi dettagli in seguito",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Illy - Vedasi dettagli in seguito",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_RICHIAMO_20180315_ILLY3_1761176743.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "vedasi-dettagli-seguito",
+    "published": "2018-03-20",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/alacce-olio-di-semi-di-girasole-alacce-con-peperoncino/",
     "title": "",
     "noticeDate": "16 marzo 2018",
@@ -1352,6 +1742,136 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "alacce-olio-di-semi-di-girasole-2",
+    "published": "2018-03-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/alacce-olio-di-semi-di-girasole-3/",
+    "title": "",
+    "noticeDate": "16 marzo 2018",
+    "campi": {
+      "data pubblicazione": "16 marzo 2018",
+      "marca": "Capricci di Franciacorta - Ditta Coradi",
+      "denominazione": "Alacce in olio di semi di girasole",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Capricci di Franciacorta - Ditta Coradi",
+    "product": "Alacce in olio di semi di girasole",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Capricci di Franciacorta - Ditta Coradi - Alacce in olio di semi di girasole",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Coradi%20_%20n.%201%20cartello%20richiamo%20lotto%20AB146_1761176737.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "alacce-olio-di-semi-di-girasole-3",
+    "published": "2018-03-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/alacce-olio-di-semi-di-girasole-4/",
+    "title": "",
+    "noticeDate": "16 marzo 2018",
+    "campi": {
+      "data pubblicazione": "16 marzo 2018",
+      "marca": "Capricci di Franciacorta - Ditta Coradi",
+      "denominazione": "Alacce in olio di semi di girasole",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Capricci di Franciacorta - Ditta Coradi",
+    "product": "Alacce in olio di semi di girasole",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Capricci di Franciacorta - Ditta Coradi - Alacce in olio di semi di girasole",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Coradi%20_%20n.%201%20cartello%20richiamo%20lotto%20AB150_1761176738.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "alacce-olio-di-semi-di-girasole-4",
+    "published": "2018-03-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/alacce-olio-di-semi-di-girasole-alacce-con-prezzemolo-0/",
+    "title": "",
+    "noticeDate": "16 marzo 2018",
+    "campi": {
+      "data pubblicazione": "16 marzo 2018",
+      "marca": "Capricci di Franciacorta - Ditta Coradi",
+      "denominazione": "Alacce in olio di semi di girasole - Alacce con prezzemolo",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Capricci di Franciacorta - Ditta Coradi",
+    "product": "Alacce in olio di semi di girasole - Alacce con prezzemolo",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Capricci di Franciacorta - Ditta Coradi - Alacce in olio di semi di girasole - Alacce con prezzemolo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Coradi%20_%20n.%202%20cartelli%20richiamo%20lotto%20AB353_1761176739.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "alacce-olio-di-semi-di-girasole-alacce-con-prezzemolo-0",
+    "published": "2018-03-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/alacce-olio-di-semi-di-girasole-5/",
+    "title": "",
+    "noticeDate": "16 marzo 2018",
+    "campi": {
+      "data pubblicazione": "16 marzo 2018",
+      "marca": "Capricci di Franciacorta - Ditta Coradi",
+      "denominazione": "Alacce in olio di semi di girasole",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Capricci di Franciacorta - Ditta Coradi",
+    "product": "Alacce in olio di semi di girasole",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Capricci di Franciacorta - Ditta Coradi - Alacce in olio di semi di girasole",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Coradi%20_%20n.%201%20cartello%20richiamo%20lotto%20AB356_1761176741.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "alacce-olio-di-semi-di-girasole-5",
+    "published": "2018-03-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-fermentato-gusto-mirtillo-ean-14289851-0/",
+    "title": "",
+    "noticeDate": "16 marzo 2018",
+    "campi": {
+      "data pubblicazione": "16 marzo 2018",
+      "marca": "VITALIBRE",
+      "denominazione": "LATTE FERMENTATO GUSTO MIRTILLO ( EAN 14289851)",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "VITALIBRE",
+    "product": "LATTE FERMENTATO GUSTO MIRTILLO ( EAN 14289851)",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VITALIBRE - LATTE FERMENTATO GUSTO MIRTILLO ( EAN 14289851)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1_Revoca%20richiamolatte_fermentato_1761176742.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-fermentato-gusto-mirtillo-ean-14289851-0",
     "published": "2018-03-16",
     "source": "operator"
   },
