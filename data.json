@@ -2506,6 +2506,214 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tortina-alla-ricotta-300-gr-scadenze-dal-22022018-al-01032018/",
+    "title": "",
+    "noticeDate": "19 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2018",
+      "marca": "Stabinger",
+      "denominazione": "Tortina alla ricotta 300 gr. (scadenze dal 22.02.2018 al 01.03.2018)",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Stabinger",
+    "product": "Tortina alla ricotta 300 gr. (scadenze dal 22.02.2018 al 01.03.2018)",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Stabinger - Tortina alla ricotta 300 gr. (scadenze dal 22.02.2018 al 01.03.2018)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Tortina%20alla%20ricotta%20300%20gr_1761176149.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tortina-alla-ricotta-300-gr-scadenze-dal-22022018-al-01032018",
+    "published": "2018-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/torte-e-tranci-vari-strudel-e-altri-prodotti-di-pasticceria/",
+    "title": "",
+    "noticeDate": "19 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2018",
+      "marca": "Stabinger",
+      "denominazione": "Torte e tranci vari, strudel e altri prodotti di pasticceria",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Stabinger",
+    "product": "Torte e tranci vari, strudel e altri prodotti di pasticceria",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Stabinger - Torte e tranci vari, strudel e altri prodotti di pasticceria",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Lista%20completa%20prodotti%20Stabinger_1761176153.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "torte-e-tranci-vari-strudel-e-altri-prodotti-di-pasticceria",
+    "published": "2018-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-torta-margherita-e-muffins-0/",
+    "title": "",
+    "noticeDate": "14 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "14 febbraio 2018",
+      "marca": "PEDON",
+      "denominazione": "PREPARATO PER TORTA MARGHERITA E MUFFINS",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "PEDON",
+    "product": "PREPARATO PER TORTA MARGHERITA E MUFFINS",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PEDON - PREPARATO PER TORTA MARGHERITA E MUFFINS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%201%20marchio%20Pedon_1761176135.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-torta-margherita-e-muffins-0",
+    "published": "2018-02-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-torta-margherita-e-muffins-1/",
+    "title": "",
+    "noticeDate": "14 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "14 febbraio 2018",
+      "marca": "DECO'",
+      "denominazione": "PREPARATO PER TORTA MARGHERITA E MUFFINS",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "DECO'",
+    "product": "PREPARATO PER TORTA MARGHERITA E MUFFINS",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DECO' - PREPARATO PER TORTA MARGHERITA E MUFFINS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%202%20marchio%20Deco_1761176139.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-torta-margherita-e-muffins-1",
+    "published": "2018-02-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-torta-margherita-e-muffins-2/",
+    "title": "",
+    "noticeDate": "14 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "14 febbraio 2018",
+      "marca": "KOILIA",
+      "denominazione": "PREPARATO PER TORTA MARGHERITA E MUFFINS",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "KOILIA",
+    "product": "PREPARATO PER TORTA MARGHERITA E MUFFINS",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo KOILIA - PREPARATO PER TORTA MARGHERITA E MUFFINS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%203%20marchio%20Koilia_1761176142.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-torta-margherita-e-muffins-2",
+    "published": "2018-02-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-torta-margherita-e-muffins-3/",
+    "title": "",
+    "noticeDate": "14 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "14 febbraio 2018",
+      "marca": "PEDON",
+      "denominazione": "PREPARATO PER TORTA MARGHERITA E MUFFINS",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "PEDON",
+    "product": "PREPARATO PER TORTA MARGHERITA E MUFFINS",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PEDON - PREPARATO PER TORTA MARGHERITA E MUFFINS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%204%20marchio%20Pedon%20_1__1761176146.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-torta-margherita-e-muffins-3",
+    "published": "2018-02-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-sesamo-al-cacao-halva-lotto-052017-tmc01052020-conf-da/",
+    "title": "",
+    "noticeDate": "13 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "13 febbraio 2018",
+      "marca": "Baskaya",
+      "denominazione": "¿PASTA DI SESAMO AL CACAO - Halva - ¿ Lotto 05.2017 - T.M.C.01.05.2020 conf. da",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Baskaya",
+    "product": "¿PASTA DI SESAMO AL CACAO - Halva - ¿ Lotto 05.2017 - T.M.C.01.05.2020 conf. da",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Baskaya - ¿PASTA DI SESAMO AL CACAO - Halva - ¿ Lotto 05.2017 - T.M.C.01.05.2020 conf. da",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20halva_1761176132.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pasta-di-sesamo-al-cacao-halva-lotto-052017-tmc01052020-conf-da",
+    "published": "2018-02-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-semola-bio-pipe-rigate-135/",
+    "title": "",
+    "noticeDate": "8 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "8 febbraio 2018",
+      "marca": "Valbio",
+      "denominazione": "Pasta di semola BIO - PIPE RIGATE 135",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Valbio",
+    "product": "Pasta di semola BIO - PIPE RIGATE 135",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Valbio - Pasta di semola BIO - PIPE RIGATE 135",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20pipe%20VALDIGRANO%20_%20L171295089_1761176129.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasta-di-semola-bio-pipe-rigate-135",
+    "published": "2018-02-08",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/sushigari-prodotto-base-di-zenzero-sushi-daily/",
     "title": "Sushigari (prodotto a base di zenzero)",
     "noticeUrl": "https://www.salute.gov.it/new/",
@@ -2538,6 +2746,58 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-intero-con-confetti-al-cioccolato-120g-gusto-banana-e-gusto/",
+    "title": "",
+    "noticeDate": "25 gennaio 2018",
+    "campi": {
+      "data pubblicazione": "25 gennaio 2018",
+      "marca": "PASCOLI ITALIANI",
+      "denominazione": "Yogurt intero con confetti al cioccolato 120g gusto Banana e gusto Fragola",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "PASCOLI ITALIANI",
+    "product": "Yogurt intero con confetti al cioccolato 120g gusto Banana e gusto Fragola",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PASCOLI ITALIANI - Yogurt intero con confetti al cioccolato 120g gusto Banana e gusto Fragola",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2018.01.24%20_%20Yogurt%20confetti%20Banana%20_%20Fragola%20120g%20Pascoli%20Italiani%20_%20LA..._1761176125.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "yogurt-intero-con-confetti-al-cioccolato-120g-gusto-banana-e-gusto",
+    "published": "2018-01-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-intero-con-confetti-al-cioccolato-120-gr-gusto-banana-e/",
+    "title": "",
+    "noticeDate": "23 gennaio 2018",
+    "campi": {
+      "data pubblicazione": "23 gennaio 2018",
+      "marca": "Eurospin Italia Spa",
+      "denominazione": "Yogurt intero con confetti al cioccolato 120 gr gusto Banana e gusto Fragola",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "Eurospin Italia Spa",
+    "product": "Yogurt intero con confetti al cioccolato 120 gr gusto Banana e gusto Fragola",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Eurospin Italia Spa - Yogurt intero con confetti al cioccolato 120 gr gusto Banana e gusto Fragola",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/doc02364120180122111111_1761176122.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "yogurt-intero-con-confetti-al-cioccolato-120-gr-gusto-banana-e",
+    "published": "2018-01-23",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/colatura-di-alici-di-cetara/",
     "title": "",
     "noticeDate": "19 gennaio 2018",
@@ -2560,6 +2820,266 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "colatura-di-alici-di-cetara",
+    "published": "2018-01-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/atte-parzialmente-scremato-uht-lunga-conservazione-senza-lattosio/",
+    "title": "",
+    "noticeDate": "19 gennaio 2018",
+    "campi": {
+      "data pubblicazione": "19 gennaio 2018",
+      "marca": "IT 08 4 CE",
+      "denominazione": "ATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "IT 08 4 CE",
+    "product": "ATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IT 08 4 CE - ATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/16309%20_%20Modello_richiamo_20171116_1761176091.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "atte-parzialmente-scremato-uht-lunga-conservazione-senza-lattosio",
+    "published": "2018-01-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-parzialmente-scremato-uht-lunga-conservazione-senza-lattosio/",
+    "title": "",
+    "noticeDate": "19 gennaio 2018",
+    "campi": {
+      "data pubblicazione": "19 gennaio 2018",
+      "marca": "IT 08 4 CE",
+      "denominazione": "LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "IT 08 4 CE",
+    "product": "LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IT 08 4 CE - LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/16309%20_%20Modello_richiamo_20171116_1761176094.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-parzialmente-scremato-uht-lunga-conservazione-senza-lattosio",
+    "published": "2018-01-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-parzialmente-scremato-uht-lunga-conservazione-senza-0/",
+    "title": "",
+    "noticeDate": "19 gennaio 2018",
+    "campi": {
+      "data pubblicazione": "19 gennaio 2018",
+      "marca": "IT 08 4 CE",
+      "denominazione": "LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO (<0,01%)",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "IT 08 4 CE",
+    "product": "LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO (<0,01%)",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IT 08 4 CE - LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO (<0,01%)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/16310%20_%20Modello_richiamo_20171116_1761176096.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-parzialmente-scremato-uht-lunga-conservazione-senza-0",
+    "published": "2018-01-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-parzialmente-scremato-uht-lunga-conservazione-senza-1/",
+    "title": "",
+    "noticeDate": "19 gennaio 2018",
+    "campi": {
+      "data pubblicazione": "19 gennaio 2018",
+      "marca": "IT 08 4 CE",
+      "denominazione": "LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO (<0,01%)",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "IT 08 4 CE",
+    "product": "LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO (<0,01%)",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IT 08 4 CE - LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO (<0,01%)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/16324%20_%20Modello_richiamo_20171116_1761176099.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-parzialmente-scremato-uht-lunga-conservazione-senza-1",
+    "published": "2018-01-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-accadi-1-di-grassi-uht-lunga-conservazione-senza-lattosio/",
+    "title": "",
+    "noticeDate": "19 gennaio 2018",
+    "campi": {
+      "data pubblicazione": "19 gennaio 2018",
+      "marca": "IT 08 4 CE",
+      "denominazione": "LATTE ACCADI' 1% DI GRASSI UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "IT 08 4 CE",
+    "product": "LATTE ACCADI' 1% DI GRASSI UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IT 08 4 CE - LATTE ACCADI' 1% DI GRASSI UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/16360%20_%20Modello_richiamo_20171116_1761176102.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-accadi-1-di-grassi-uht-lunga-conservazione-senza-lattosio",
+    "published": "2018-01-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-parzialmente-scremato-uht-lunga-conservazione-senza-2/",
+    "title": "",
+    "noticeDate": "19 gennaio 2018",
+    "campi": {
+      "data pubblicazione": "19 gennaio 2018",
+      "marca": "ACCADI' GRANAROLO",
+      "denominazione": "LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO ACCADI'",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "ACCADI' GRANAROLO",
+    "product": "LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO ACCADI'",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ACCADI' GRANAROLO - LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO ACCADI'",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/16309%20_%20Modello_richiamo_20171116_1761176105.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-parzialmente-scremato-uht-lunga-conservazione-senza-2",
+    "published": "2018-01-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-parzialmente-scremato-uht-lunga-conservazione-senza-3/",
+    "title": "",
+    "noticeDate": "19 gennaio 2018",
+    "campi": {
+      "data pubblicazione": "19 gennaio 2018",
+      "marca": "ACCADI' GRANAROLO",
+      "denominazione": "LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO (<0,01%)",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "ACCADI' GRANAROLO",
+    "product": "LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO (<0,01%)",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ACCADI' GRANAROLO - LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO (<0,01%)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/16310%20_%20Modello_richiamo_20171116_1761176108.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-parzialmente-scremato-uht-lunga-conservazione-senza-3",
+    "published": "2018-01-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-parzialmente-scremato-uht-lunga-conservazione-senza-4/",
+    "title": "",
+    "noticeDate": "19 gennaio 2018",
+    "campi": {
+      "data pubblicazione": "19 gennaio 2018",
+      "marca": "ACCADI' GRANAROLO",
+      "denominazione": "LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO (<0,01%)",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "ACCADI' GRANAROLO",
+    "product": "LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO (<0,01%)",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ACCADI' GRANAROLO - LATTE PARZIALMENTE SCREMATO UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO (<0,01%)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/16324%20_%20Modello_richiamo_20171116_1761176112.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-parzialmente-scremato-uht-lunga-conservazione-senza-4",
+    "published": "2018-01-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-accadi-1-di-grassi-uht-lunga-conservazione-senza-lattosio-0/",
+    "title": "",
+    "noticeDate": "19 gennaio 2018",
+    "campi": {
+      "data pubblicazione": "19 gennaio 2018",
+      "marca": "ACCADI' GRANAROLO",
+      "denominazione": "LATTE ACCADI' 1% DI GRASSI UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "ACCADI' GRANAROLO",
+    "product": "LATTE ACCADI' 1% DI GRASSI UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ACCADI' GRANAROLO - LATTE ACCADI' 1% DI GRASSI UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/16360%20_%20Modello_richiamo_20171116_1761176115.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-accadi-1-di-grassi-uht-lunga-conservazione-senza-lattosio-0",
+    "published": "2018-01-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-accadi-1-di-grassi-uht-lunga-conservazione-senza-lattosio-1/",
+    "title": "",
+    "noticeDate": "19 gennaio 2018",
+    "campi": {
+      "data pubblicazione": "19 gennaio 2018",
+      "marca": "ACCADI' GRANAROLO",
+      "denominazione": "LATTE ACCADI' 1% DI GRASSI UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "ACCADI' GRANAROLO",
+    "product": "LATTE ACCADI' 1% DI GRASSI UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ACCADI' GRANAROLO - LATTE ACCADI' 1% DI GRASSI UHT A LUNGA CONSERVAZIONE SENZA LATTOSIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/16361%20_%20Modello_richiamo_20171116_1761176118.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-accadi-1-di-grassi-uht-lunga-conservazione-senza-lattosio-1",
     "published": "2018-01-19",
     "source": "operator"
   },
