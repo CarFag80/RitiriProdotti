@@ -2474,6 +2474,500 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/missoltino/",
+    "title": "",
+    "noticeDate": "23 luglio 2018",
+    "campi": {
+      "data pubblicazione": "23 luglio 2018",
+      "marca": "MISULTIN STORE SRL",
+      "denominazione": "MISSOLTINO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MISULTIN STORE SRL",
+    "product": "MISSOLTINO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MISULTIN STORE SRL - MISSOLTINO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1761176980.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "missoltino",
+    "published": "2018-07-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/passatino-di-lenticchie/",
+    "title": "",
+    "noticeDate": "20 luglio 2018",
+    "campi": {
+      "data pubblicazione": "20 luglio 2018",
+      "marca": "Baby Kiss",
+      "denominazione": "Passatino di lenticchie",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Baby Kiss",
+    "product": "Passatino di lenticchie",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Baby Kiss - Passatino di lenticchie",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20ritiro%20richiamo%20Ministeriale_1761176976.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "passatino-di-lenticchie",
+    "published": "2018-07-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamino-di-puro-suino/",
+    "title": "",
+    "noticeDate": "19 luglio 2018",
+    "campi": {
+      "data pubblicazione": "19 luglio 2018",
+      "marca": "CAVALLERI CARNI SRL DI CAVALLERI ANGELO E FIGLI",
+      "denominazione": "SALAMINO DI PURO SUINO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CAVALLERI CARNI SRL DI CAVALLERI ANGELO E FIGLI",
+    "product": "SALAMINO DI PURO SUINO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CAVALLERI CARNI SRL DI CAVALLERI ANGELO E FIGLI - SALAMINO DI PURO SUINO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20SALAMINI%20CAVALLERI%20PAITONE%20BS_1761176971.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salamino-di-puro-suino",
+    "published": "2018-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/passatino-di-lenticchie-biologico/",
+    "title": "",
+    "noticeDate": "17 luglio 2018",
+    "campi": {
+      "data pubblicazione": "17 luglio 2018",
+      "marca": "BABYKISS",
+      "denominazione": "PASSATINO DI LENTICCHIE BIOLOGICO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "BABYKISS",
+    "product": "PASSATINO DI LENTICCHIE BIOLOGICO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BABYKISS - PASSATINO DI LENTICCHIE BIOLOGICO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALL%203_%20AVVISO%20RICHIAMO%20PRODOTTO%20_%20Passatino%20di%20Lenticchie_1761176963.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "passatino-di-lenticchie-biologico",
+    "published": "2018-07-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-fegato-take-away/",
+    "title": "",
+    "noticeDate": "17 luglio 2018",
+    "campi": {
+      "data pubblicazione": "17 luglio 2018",
+      "marca": "C.I.R. sas di Mecarelli C. & C",
+      "denominazione": "Salsa fegato Take away",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "C.I.R. sas di Mecarelli C. & C",
+    "product": "Salsa fegato Take away",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo C.I.R. sas di Mecarelli C. & C - Salsa fegato Take away",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALL.2%20RICHIAMO%20SALSA_DI_FEGATO_1761176967.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsa-fegato-take-away",
+    "published": "2018-07-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fette-di-tonno-pinne-gialle-congelato/",
+    "title": "",
+    "noticeDate": "16 luglio 2018",
+    "campi": {
+      "data pubblicazione": "16 luglio 2018",
+      "marca": "Nordic Seafood A/S - Melega & Prini srl",
+      "denominazione": "Fette di tonno pinne gialle - congelato",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Nordic Seafood A/S - Melega & Prini srl",
+    "product": "Fette di tonno pinne gialle - congelato",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nordic Seafood A/S - Melega & Prini srl - Fette di tonno pinne gialle - congelato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiami_1761176954.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fette-di-tonno-pinne-gialle-congelato",
+    "published": "2018-07-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fette-di-tonno-pinne-gialle-surgelate-0/",
+    "title": "",
+    "noticeDate": "16 luglio 2018",
+    "campi": {
+      "data pubblicazione": "16 luglio 2018",
+      "marca": "Nordic Seafood A/S - Melega & Prini srl",
+      "denominazione": "Fette di tonno pinne gialle - surgelate",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Nordic Seafood A/S - Melega & Prini srl",
+    "product": "Fette di tonno pinne gialle - surgelate",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nordic Seafood A/S - Melega & Prini srl - Fette di tonno pinne gialle - surgelate",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20richiamo%20per%20rettifica_1761176958.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fette-di-tonno-pinne-gialle-surgelate-0",
+    "published": "2018-07-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-quanto-basta-2-persone-90g/",
+    "title": "",
+    "noticeDate": "13 luglio 2018",
+    "campi": {
+      "data pubblicazione": "13 luglio 2018",
+      "marca": "CEIT272L",
+      "denominazione": "Prosciutto Cotto Quanto Basta per 2 persone 90g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CEIT272L",
+    "product": "Prosciutto Cotto Quanto Basta per 2 persone 90g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CEIT272L - Prosciutto Cotto Quanto Basta per 2 persone 90g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20ROSTELLO_1761176946.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "prosciutto-cotto-quanto-basta-2-persone-90g",
+    "published": "2018-07-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-quanto-basta-2-persone-90g-lotto-8278001840/",
+    "title": "",
+    "noticeDate": "13 luglio 2018",
+    "campi": {
+      "data pubblicazione": "13 luglio 2018",
+      "marca": "Cesare Fiorucci CEIT272L",
+      "denominazione": "Prosciutto Cotto Quanto Basta per 2 persone 90g lotto 8278001840",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Cesare Fiorucci CEIT272L",
+    "product": "Prosciutto Cotto Quanto Basta per 2 persone 90g lotto 8278001840",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cesare Fiorucci CEIT272L - Prosciutto Cotto Quanto Basta per 2 persone 90g lotto 8278001840",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20ROSTELLO_1761176950.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "prosciutto-cotto-quanto-basta-2-persone-90g-lotto-8278001840",
+    "published": "2018-07-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caciotta-di-pecora-0/",
+    "title": "",
+    "noticeDate": "12 luglio 2018",
+    "campi": {
+      "data pubblicazione": "12 luglio 2018",
+      "marca": "MOSERHOF",
+      "denominazione": "Caciotta di pecora",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "MOSERHOF",
+    "product": "Caciotta di pecora",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MOSERHOF - Caciotta di pecora",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20revoca%20richiamo%20Moserhof_1761176929.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "caciotta-di-pecora-0",
+    "published": "2018-07-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caciotta-di-pecora-1/",
+    "title": "",
+    "noticeDate": "12 luglio 2018",
+    "campi": {
+      "data pubblicazione": "12 luglio 2018",
+      "marca": "MOSERHOF",
+      "denominazione": "Caciotta di pecora",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "MOSERHOF",
+    "product": "Caciotta di pecora",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MOSERHOF - Caciotta di pecora",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Moserhof1_1761176933.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "caciotta-di-pecora-1",
+    "published": "2018-07-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-surgelato-0/",
+    "title": "",
+    "noticeDate": "12 luglio 2018",
+    "campi": {
+      "data pubblicazione": "12 luglio 2018",
+      "marca": "GREEN GROCER'S/FRESHONA",
+      "denominazione": "MAIS SURGELATO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "GREEN GROCER'S/FRESHONA",
+    "product": "MAIS SURGELATO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GREEN GROCER'S/FRESHONA - MAIS SURGELATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato_1%20aggiornato_mais_1761176937.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mais-surgelato-0",
+    "published": "2018-07-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-di-verdure-surgelate-base-di-carote-fagiolini-piselli-mais-0/",
+    "title": "",
+    "noticeDate": "12 luglio 2018",
+    "campi": {
+      "data pubblicazione": "12 luglio 2018",
+      "marca": "GREEN GROCER'S/ FRESHONA",
+      "denominazione": "MIX DI VERDURE SURGELATE A BASE DI CAROTE, FAGIOLINI, PISELLI, MAIS",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "GREEN GROCER'S/ FRESHONA",
+    "product": "MIX DI VERDURE SURGELATE A BASE DI CAROTE, FAGIOLINI, PISELLI, MAIS",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GREEN GROCER'S/ FRESHONA - MIX DI VERDURE SURGELATE A BASE DI CAROTE, FAGIOLINI, PISELLI, MAIS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato_2%20aggiornato_mix_verdure_1761176941.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mix-di-verdure-surgelate-base-di-carote-fagiolini-piselli-mais-0",
+    "published": "2018-07-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fette-di-tonno-pinne-gialle-surgelate/",
+    "title": "",
+    "noticeDate": "11 luglio 2018",
+    "campi": {
+      "data pubblicazione": "11 luglio 2018",
+      "marca": "Nordic Seafood A/S - Melega & Prini srl",
+      "denominazione": "Fette di tonno pinne gialle - surgelate",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Nordic Seafood A/S - Melega & Prini srl",
+    "product": "Fette di tonno pinne gialle - surgelate",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nordic Seafood A/S - Melega & Prini srl - Fette di tonno pinne gialle - surgelate",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Melega_1761176925.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fette-di-tonno-pinne-gialle-surgelate",
+    "published": "2018-07-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sugo-alle-vongole/",
+    "title": "",
+    "noticeDate": "10 luglio 2018",
+    "campi": {
+      "data pubblicazione": "10 luglio 2018",
+      "marca": "LE CONSERVE DELLA NONNA",
+      "denominazione": "SUGO ALLE VONGOLE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "LE CONSERVE DELLA NONNA",
+    "product": "SUGO ALLE VONGOLE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LE CONSERVE DELLA NONNA - SUGO ALLE VONGOLE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20per%20richiamo%20La017_1761176906.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sugo-alle-vongole",
+    "published": "2018-07-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-crostata-e-cookies-0/",
+    "title": "",
+    "noticeDate": "10 luglio 2018",
+    "campi": {
+      "data pubblicazione": "10 luglio 2018",
+      "marca": "PEDON",
+      "denominazione": "PREPARATO PER CROSTATA E COOKIES",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "PEDON",
+    "product": "PREPARATO PER CROSTATA E COOKIES",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PEDON - PREPARATO PER CROSTATA E COOKIES",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20121219_1761176910.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-crostata-e-cookies-0",
+    "published": "2018-07-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-crostata-e-cookies-1/",
+    "title": "",
+    "noticeDate": "10 luglio 2018",
+    "campi": {
+      "data pubblicazione": "10 luglio 2018",
+      "marca": "PEDON",
+      "denominazione": "PREPARATO PER CROSTATA E COOKIES",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "PEDON",
+    "product": "PREPARATO PER CROSTATA E COOKIES",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PEDON - PREPARATO PER CROSTATA E COOKIES",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20300120_1761176913.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-crostata-e-cookies-1",
+    "published": "2018-07-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-crostata/",
+    "title": "",
+    "noticeDate": "10 luglio 2018",
+    "campi": {
+      "data pubblicazione": "10 luglio 2018",
+      "marca": "PEDON",
+      "denominazione": "PREPARATO PER CROSTATA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "PEDON",
+    "product": "PREPARATO PER CROSTATA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PEDON - PREPARATO PER CROSTATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20131219_1761176917.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-crostata",
+    "published": "2018-07-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pizzette-crude-di-pasta-sfoglia-surgelate/",
+    "title": "",
+    "noticeDate": "10 luglio 2018",
+    "campi": {
+      "data pubblicazione": "10 luglio 2018",
+      "marca": "Carrefour",
+      "denominazione": "Pizzette crude di pasta sfoglia surgelate",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Carrefour",
+    "product": "Pizzette crude di pasta sfoglia surgelate",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Carrefour - Pizzette crude di pasta sfoglia surgelate",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLORICHIAMOMINISTEROSALUTE_pizzette_1761176921.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pizzette-crude-di-pasta-sfoglia-surgelate",
+    "published": "2018-07-10",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-kombucha-zenzero/",
     "title": "",
     "noticeDate": "9 luglio 2018",
@@ -2652,6 +3146,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "mettwurst-insaccato-crudo-spalmabile",
+    "published": "2018-07-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pecorino-toscano-dop-stagionato/",
+    "title": "",
+    "noticeDate": "9 luglio 2018",
+    "campi": {
+      "data pubblicazione": "9 luglio 2018",
+      "marca": "Pascoli Italiani",
+      "denominazione": "Pecorino Toscano DOP stagionato",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Pascoli Italiani",
+    "product": "Pecorino Toscano DOP stagionato",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pascoli Italiani - Pecorino Toscano DOP stagionato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Pecorino%20DOP_1761176902.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pecorino-toscano-dop-stagionato",
     "published": "2018-07-09",
     "source": "operator"
   },
