@@ -2474,6 +2474,526 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coop-scamorza-bianca-fette/",
+    "title": "",
+    "noticeDate": "18 ottobre 2018",
+    "campi": {
+      "data pubblicazione": "18 ottobre 2018",
+      "marca": "CUOR DI FETTE",
+      "denominazione": "COOP SCAMORZA BIANCA FETTE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CUOR DI FETTE",
+    "product": "COOP SCAMORZA BIANCA FETTE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CUOR DI FETTE - COOP SCAMORZA BIANCA FETTE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_PARMAREGGIO_Scamorza_Bianca_16.10.2018_1761177797.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "coop-scamorza-bianca-fette",
+    "published": "2018-10-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tonno-allolio-di-oliva/",
+    "title": "",
+    "noticeDate": "17 ottobre 2018",
+    "campi": {
+      "data pubblicazione": "17 ottobre 2018",
+      "marca": "MAREBLU S.R.L.",
+      "denominazione": "Tonno all'olio di oliva",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "MAREBLU S.R.L.",
+    "product": "Tonno all'olio di oliva",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MAREBLU S.R.L. - Tonno all'olio di oliva",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALLEG%20A_Mareblu_tonno%2012x80g_1761177791.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tonno-allolio-di-oliva",
+    "published": "2018-10-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tonno-allolio-di-oliva-0/",
+    "title": "",
+    "noticeDate": "17 ottobre 2018",
+    "campi": {
+      "data pubblicazione": "17 ottobre 2018",
+      "marca": "MAREBLU S.R.L.",
+      "denominazione": "Tonno all'olio di oliva",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "MAREBLU S.R.L.",
+    "product": "Tonno all'olio di oliva",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MAREBLU S.R.L. - Tonno all'olio di oliva",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALLEG%20B_Mareblu_tonno%206x80g_1761177794.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tonno-allolio-di-oliva-0",
+    "published": "2018-10-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/deco-pomodorini-0/",
+    "title": "",
+    "noticeDate": "15 ottobre 2018",
+    "campi": {
+      "data pubblicazione": "15 ottobre 2018",
+      "marca": "DECO'",
+      "denominazione": "Decò pomodorini",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DECO'",
+    "product": "Decò pomodorini",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DECO' - Decò pomodorini",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1_pdfsam_Richiamo%20%20a%20PORTALE_1__1761177789.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "deco-pomodorini-0",
+    "published": "2018-10-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coconut-milk-nature-bevanda-base-di-latte-di-cocco/",
+    "title": "",
+    "noticeDate": "11 ottobre 2018",
+    "campi": {
+      "data pubblicazione": "11 ottobre 2018",
+      "marca": "ECOMIL",
+      "denominazione": "COCONUT MILK NATURE - Bevanda a base di latte di cocco",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "ECOMIL",
+    "product": "COCONUT MILK NATURE - Bevanda a base di latte di cocco",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ECOMIL - COCONUT MILK NATURE - Bevanda a base di latte di cocco",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Ecomil%20_%20Coconut%209_10_2018_1761177786.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "coconut-milk-nature-bevanda-base-di-latte-di-cocco",
+    "published": "2018-10-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/deco-pomodorini/",
+    "title": "",
+    "noticeDate": "10 ottobre 2018",
+    "campi": {
+      "data pubblicazione": "10 ottobre 2018",
+      "marca": "Futuragri",
+      "denominazione": "Decò Pomodorini",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Futuragri",
+    "product": "Decò Pomodorini",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Futuragri - Decò Pomodorini",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20%20a%20PORTALE_1__1761177784.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "deco-pomodorini",
+    "published": "2018-10-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/marlin-affumicato-premium/",
+    "title": "",
+    "noticeDate": "9 ottobre 2018",
+    "campi": {
+      "data pubblicazione": "9 ottobre 2018",
+      "marca": "BERNARDINI GASTONE",
+      "denominazione": "MARLIN AFFUMICATO PREMIUM",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "BERNARDINI GASTONE",
+    "product": "MARLIN AFFUMICATO PREMIUM",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BERNARDINI GASTONE - MARLIN AFFUMICATO PREMIUM",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/marlin_BERNARDINI_1761177769.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "marlin-affumicato-premium",
+    "published": "2018-10-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-guscio-cat-0/",
+    "title": "",
+    "noticeDate": "9 ottobre 2018",
+    "campi": {
+      "data pubblicazione": "9 ottobre 2018",
+      "marca": "Le Rosselline dell'Avicola Peligna",
+      "denominazione": "Uova fresche in guscio cat. A",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "Le Rosselline dell'Avicola Peligna",
+    "product": "Uova fresche in guscio cat. A",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Le Rosselline dell'Avicola Peligna - Uova fresche in guscio cat. A",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/IT%20E971D%20CE_revoca%20richiamo_1761177771.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-fresche-guscio-cat-0",
+    "published": "2018-10-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-guscio-0/",
+    "title": "",
+    "noticeDate": "9 ottobre 2018",
+    "campi": {
+      "data pubblicazione": "9 ottobre 2018",
+      "marca": "OVO FUCENS Soc. Sempl.",
+      "denominazione": "UOVA FRESCHE IN GUSCIO",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "OVO FUCENS Soc. Sempl.",
+    "product": "UOVA FRESCHE IN GUSCIO",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo OVO FUCENS Soc. Sempl. - UOVA FRESCHE IN GUSCIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/006%20AQ%20702_revoca%20richiamo_1761177774.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-fresche-guscio-0",
+    "published": "2018-10-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-gallina-fresche-da-allevamento-terra/",
+    "title": "",
+    "noticeDate": "9 ottobre 2018",
+    "campi": {
+      "data pubblicazione": "9 ottobre 2018",
+      "marca": "AZIENDA AGRICOLA BOSI LUIGI",
+      "denominazione": "UOVA DI GALLINA FRESCHE DA ALLEVAMENTO A TERRA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "AZIENDA AGRICOLA BOSI LUIGI",
+    "product": "UOVA DI GALLINA FRESCHE DA ALLEVAMENTO A TERRA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AZIENDA AGRICOLA BOSI LUIGI - UOVA DI GALLINA FRESCHE DA ALLEVAMENTO A TERRA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/IT%20X8HOM%20CE_modello%20richiamo%2031_10_2018_1761177776.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-di-gallina-fresche-da-allevamento-terra",
+    "published": "2018-10-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-gallina-fresche-da-allevamento-terra-0/",
+    "title": "",
+    "noticeDate": "9 ottobre 2018",
+    "campi": {
+      "data pubblicazione": "9 ottobre 2018",
+      "marca": "AZIENDA AGRICOLA BOSI LUIGI",
+      "denominazione": "UOVA DI GALLINA FRESCHE DA ALLEVAMENTO A TERRA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "AZIENDA AGRICOLA BOSI LUIGI",
+    "product": "UOVA DI GALLINA FRESCHE DA ALLEVAMENTO A TERRA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AZIENDA AGRICOLA BOSI LUIGI - UOVA DI GALLINA FRESCHE DA ALLEVAMENTO A TERRA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/IT%20X8HOM%20CE_modello%20richiamo%2001_11__1761177779.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-di-gallina-fresche-da-allevamento-terra-0",
+    "published": "2018-10-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-gallina-fresche-da-allevamento-terra-1/",
+    "title": "",
+    "noticeDate": "9 ottobre 2018",
+    "campi": {
+      "data pubblicazione": "9 ottobre 2018",
+      "marca": "AZIENDA AGRICOLA BOSI LUIGI",
+      "denominazione": "UOVA DI GALLINA FRESCHE DA ALLEVAMENTO A TERRA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "AZIENDA AGRICOLA BOSI LUIGI",
+    "product": "UOVA DI GALLINA FRESCHE DA ALLEVAMENTO A TERRA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AZIENDA AGRICOLA BOSI LUIGI - UOVA DI GALLINA FRESCHE DA ALLEVAMENTO A TERRA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/IT%20X8HOM%20CE_modello%20richiamo%2002_11__1761177781.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-di-gallina-fresche-da-allevamento-terra-1",
+    "published": "2018-10-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pomodori-secchi-gusti-sardi-250-gr/",
+    "title": "",
+    "noticeDate": "8 ottobre 2018",
+    "campi": {
+      "data pubblicazione": "8 ottobre 2018",
+      "marca": "La Dispensa del Fattore di Frau Emanuela",
+      "denominazione": "Pomodori Secchi Gusti Sardi 250 gr",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "La Dispensa del Fattore di Frau Emanuela",
+    "product": "Pomodori Secchi Gusti Sardi 250 gr",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo La Dispensa del Fattore di Frau Emanuela - Pomodori Secchi Gusti Sardi 250 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_RICHIAMO_Pomodori_secchi_GustiSardi_250_gr___lotto_PG090818_1761177767.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pomodori-secchi-gusti-sardi-250-gr",
+    "published": "2018-10-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/protein-white-31-gusto-crema-limone/",
+    "title": "",
+    "noticeDate": "4 ottobre 2018",
+    "campi": {
+      "data pubblicazione": "4 ottobre 2018",
+      "marca": "+watt",
+      "denominazione": "Protein+ White 31% (gusto Crema-Limone)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "+watt",
+    "product": "Protein+ White 31% (gusto Crema-Limone)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo +watt - Protein+ White 31% (gusto Crema-Limone)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_371799_1761177760.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "protein-white-31-gusto-crema-limone",
+    "published": "2018-10-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata/",
+    "title": "",
+    "noticeDate": "4 ottobre 2018",
+    "campi": {
+      "data pubblicazione": "4 ottobre 2018",
+      "marca": "Macelleria Partenzi di Partenzi Francesco",
+      "denominazione": "Salsiccia stagionata",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Macelleria Partenzi di Partenzi Francesco",
+    "product": "Salsiccia stagionata",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Macelleria Partenzi di Partenzi Francesco - Salsiccia stagionata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo_Salsiccia%20Partenzi_1761177762.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-stagionata",
+    "published": "2018-10-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pomodori-secchi-gusti-sardi-250-g/",
+    "title": "",
+    "noticeDate": "4 ottobre 2018",
+    "campi": {
+      "data pubblicazione": "4 ottobre 2018",
+      "marca": "La Dispensa del Fattore di Frau Emanuele Via Nazionale 253 09027 Serrenti (SU)",
+      "denominazione": "Pomodori Secchi Gusti Sardi 250 g",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "La Dispensa del Fattore di Frau Emanuele Via Nazionale 253 09027 Serrenti (SU)",
+    "product": "Pomodori Secchi Gusti Sardi 250 g",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo La Dispensa del Fattore di Frau Emanuele Via Nazionale 253 09027 Serrenti (SU) - Pomodori Secchi Gusti Sardi 250 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20RICHIAMO%20Pomodori%20secchi%20GustiSardi%20250%20gr%20_%20lotto%20PG090818_1761177764.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pomodori-secchi-gusti-sardi-250-g",
+    "published": "2018-10-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggella/",
+    "title": "",
+    "noticeDate": "3 ottobre 2018",
+    "campi": {
+      "data pubblicazione": "3 ottobre 2018",
+      "marca": "SOCIETA AGRICOLA F.LLI PONTI",
+      "denominazione": "FORMAGGELLA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SOCIETA AGRICOLA F.LLI PONTI",
+    "product": "FORMAGGELLA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SOCIETA AGRICOLA F.LLI PONTI - FORMAGGELLA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20SOC%20AGR%20F.LLI%20PONTI%20NOVA%20MILANESE%20formaggella_1761177756.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggella",
+    "published": "2018-10-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/croissant-lievitazione-naturale-con-crema-al-latte/",
+    "title": "",
+    "noticeDate": "3 ottobre 2018",
+    "campi": {
+      "data pubblicazione": "3 ottobre 2018",
+      "marca": "BAULI SPA",
+      "denominazione": "CROISSANT A LIEVITAZIONE NATURALE CON CREMA AL LATTE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "BAULI SPA",
+    "product": "CROISSANT A LIEVITAZIONE NATURALE CON CREMA AL LATTE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BAULI SPA - CROISSANT A LIEVITAZIONE NATURALE CON CREMA AL LATTE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20sito%20Minist.%203_1761177758.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "croissant-lievitazione-naturale-con-crema-al-latte",
+    "published": "2018-10-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cous-cous-pollo-e-verdure/",
+    "title": "",
+    "noticeDate": "28 settembre 2018",
+    "campi": {
+      "data pubblicazione": "28 settembre 2018",
+      "marca": "Gastronomia d'Italia - SMA",
+      "denominazione": "Cous Cous pollo e verdure",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Gastronomia d'Italia - SMA",
+    "product": "Cous Cous pollo e verdure",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gastronomia d'Italia - SMA - Cous Cous pollo e verdure",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20cous%20cous%20Gastronomia%20di%20Italia_1761177752.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cous-cous-pollo-e-verdure",
+    "published": "2018-09-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cous-cous-pollo-e-verdure-200g/",
+    "title": "",
+    "noticeDate": "28 settembre 2018",
+    "campi": {
+      "data pubblicazione": "28 settembre 2018",
+      "marca": "GASTRONOMIA D'ITALIA",
+      "denominazione": "COUS COUS POLLO E VERDURE 200g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "GASTRONOMIA D'ITALIA",
+    "product": "COUS COUS POLLO E VERDURE 200g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GASTRONOMIA D'ITALIA - COUS COUS POLLO E VERDURE 200g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cous%20cous%20pollo%20AUCHAN%20_%2027.09.18__1761177754.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cous-cous-pollo-e-verdure-200g",
+    "published": "2018-09-28",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-naturale-fonte-itala-effervescente-chiarissima-e/",
     "title": "",
     "noticeDate": "20 settembre 2018",
