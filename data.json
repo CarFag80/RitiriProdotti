@@ -2474,6 +2474,500 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-naturale-fonte-itala-effervescente-chiarissima-e/",
+    "title": "",
+    "noticeDate": "20 settembre 2018",
+    "campi": {
+      "data pubblicazione": "20 settembre 2018",
+      "marca": "Fonte Itala",
+      "denominazione": "Acqua Minerale Naturale Fonte Itala Effervescente, Chiarissima e Frizzante",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Fonte Itala",
+    "product": "Acqua Minerale Naturale Fonte Itala Effervescente, Chiarissima e Frizzante",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fonte Itala - Acqua Minerale Naturale Fonte Itala Effervescente, Chiarissima e Frizzante",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20OSA%20_%20Fonte%20Itala%20Srl_1761177750.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "acqua-minerale-naturale-fonte-itala-effervescente-chiarissima-e",
+    "published": "2018-09-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caffe-100-arabica-macinato-bio/",
+    "title": "",
+    "noticeDate": "17 settembre 2018",
+    "campi": {
+      "data pubblicazione": "17 settembre 2018",
+      "marca": "CORSINO CORSINI",
+      "denominazione": "Caffè 100% ARABICA MACINATO BIO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CORSINO CORSINI",
+    "product": "Caffè 100% ARABICA MACINATO BIO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CORSINO CORSINI - Caffè 100% ARABICA MACINATO BIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/caffe%20CORSINI_1761177748.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "caffe-100-arabica-macinato-bio",
+    "published": "2018-09-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-guscio-cat/",
+    "title": "",
+    "noticeDate": "14 settembre 2018",
+    "campi": {
+      "data pubblicazione": "14 settembre 2018",
+      "marca": "Rosselline dell'Avicola Peligna",
+      "denominazione": "Uova fresche in guscio cat. A",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Rosselline dell'Avicola Peligna",
+    "product": "Uova fresche in guscio cat. A",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Rosselline dell'Avicola Peligna - Uova fresche in guscio cat. A",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO_1_1761177746.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-guscio-cat",
+    "published": "2018-09-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/funghi-porcini-secchi-speciali/",
+    "title": "",
+    "noticeDate": "13 settembre 2018",
+    "campi": {
+      "data pubblicazione": "13 settembre 2018",
+      "marca": "BARESA",
+      "denominazione": "FUNGHI PORCINI SECCHI SPECIALI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BARESA",
+    "product": "FUNGHI PORCINI SECCHI SPECIALI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BARESA - FUNGHI PORCINI SECCHI SPECIALI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20_%20Modello%20di%20Richiamo%20K180047_1761177744.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "funghi-porcini-secchi-speciali",
+    "published": "2018-09-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-guscio/",
+    "title": "",
+    "noticeDate": "12 settembre 2018",
+    "campi": {
+      "data pubblicazione": "12 settembre 2018",
+      "marca": "Ovo Fucens Soc. sempl.",
+      "denominazione": "Uova fresche in guscio",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Ovo Fucens Soc. sempl.",
+    "product": "Uova fresche in guscio",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ovo Fucens Soc. sempl. - Uova fresche in guscio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Digitalizzato_20180912_1761177735.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-guscio",
+    "published": "2018-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-2/",
+    "title": "",
+    "noticeDate": "12 settembre 2018",
+    "campi": {
+      "data pubblicazione": "12 settembre 2018",
+      "marca": "AVICOLA PELIGNA DI MARGIOTTA MARIP",
+      "denominazione": "UOVA FRESCHE",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "AVICOLA PELIGNA DI MARGIOTTA MARIP",
+    "product": "UOVA FRESCHE",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AVICOLA PELIGNA DI MARGIOTTA MARIP - UOVA FRESCHE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20Margiotta%201_1761177737.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-fresche-2",
+    "published": "2018-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-3/",
+    "title": "",
+    "noticeDate": "12 settembre 2018",
+    "campi": {
+      "data pubblicazione": "12 settembre 2018",
+      "marca": "AVICOLA PELIGNA DI MARGIOTTA MARIO",
+      "denominazione": "UOVA FRESCHE",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "AVICOLA PELIGNA DI MARGIOTTA MARIO",
+    "product": "UOVA FRESCHE",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AVICOLA PELIGNA DI MARGIOTTA MARIO - UOVA FRESCHE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20Margiotta%202_1761177739.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-fresche-3",
+    "published": "2018-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-4/",
+    "title": "",
+    "noticeDate": "12 settembre 2018",
+    "campi": {
+      "data pubblicazione": "12 settembre 2018",
+      "marca": "AVICOLA PELIGNA DI MARGIOTTA MARIO",
+      "denominazione": "UOVA FRESCHE",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "AVICOLA PELIGNA DI MARGIOTTA MARIO",
+    "product": "UOVA FRESCHE",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AVICOLA PELIGNA DI MARGIOTTA MARIO - UOVA FRESCHE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20Margiotta%203_1761177742.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-fresche-4",
+    "published": "2018-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/funghi-porcini-speciali/",
+    "title": "",
+    "noticeDate": "10 settembre 2018",
+    "campi": {
+      "data pubblicazione": "10 settembre 2018",
+      "marca": "BARESA",
+      "denominazione": "Funghi porcini speciali",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BARESA",
+    "product": "Funghi porcini speciali",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BARESA - Funghi porcini speciali",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20funghi%20porcini%20secchi_1761177733.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "funghi-porcini-speciali",
+    "published": "2018-09-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uvetta-ricoperta-di-cioccolato-fondente/",
+    "title": "",
+    "noticeDate": "24 agosto 2018",
+    "campi": {
+      "data pubblicazione": "24 agosto 2018",
+      "marca": "Passioni - Auchan",
+      "denominazione": "Uvetta ricoperta di cioccolato fondente",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Passioni - Auchan",
+    "product": "Uvetta ricoperta di cioccolato fondente",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Passioni - Auchan - Uvetta ricoperta di cioccolato fondente",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20LOTTO%2017207_1761177723.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uvetta-ricoperta-di-cioccolato-fondente",
+    "published": "2018-08-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uvetta-ricoperta-di-cioccolato-fondente-0/",
+    "title": "",
+    "noticeDate": "24 agosto 2018",
+    "campi": {
+      "data pubblicazione": "24 agosto 2018",
+      "marca": "Passioni - Auchan",
+      "denominazione": "Uvetta ricoperta di cioccolato fondente",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Passioni - Auchan",
+    "product": "Uvetta ricoperta di cioccolato fondente",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Passioni - Auchan - Uvetta ricoperta di cioccolato fondente",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20LOTTO%2017251_1761177724.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uvetta-ricoperta-di-cioccolato-fondente-0",
+    "published": "2018-08-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uvetta-ricoperta-di-cioccolato-fondente-1/",
+    "title": "",
+    "noticeDate": "24 agosto 2018",
+    "campi": {
+      "data pubblicazione": "24 agosto 2018",
+      "marca": "Passioni - Auchan",
+      "denominazione": "Uvetta ricoperta di cioccolato fondente",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Passioni - Auchan",
+    "product": "Uvetta ricoperta di cioccolato fondente",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Passioni - Auchan - Uvetta ricoperta di cioccolato fondente",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20LOTTO%2017287_1761177726.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uvetta-ricoperta-di-cioccolato-fondente-1",
+    "published": "2018-08-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uvetta-ricoperta-di-cioccolato-fondente-2/",
+    "title": "",
+    "noticeDate": "24 agosto 2018",
+    "campi": {
+      "data pubblicazione": "24 agosto 2018",
+      "marca": "Passioni - Auchan",
+      "denominazione": "Uvetta ricoperta di cioccolato fondente",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Passioni - Auchan",
+    "product": "Uvetta ricoperta di cioccolato fondente",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Passioni - Auchan - Uvetta ricoperta di cioccolato fondente",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20LOTTO%2018058_1761177728.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uvetta-ricoperta-di-cioccolato-fondente-2",
+    "published": "2018-08-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uvetta-ricoperta-di-cioccolato-fondente-3/",
+    "title": "",
+    "noticeDate": "24 agosto 2018",
+    "campi": {
+      "data pubblicazione": "24 agosto 2018",
+      "marca": "Passioni - Auchan",
+      "denominazione": "Uvetta ricoperta di cioccolato fondente",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Passioni - Auchan",
+    "product": "Uvetta ricoperta di cioccolato fondente",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Passioni - Auchan - Uvetta ricoperta di cioccolato fondente",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20LOTTO%2018087_1761177729.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uvetta-ricoperta-di-cioccolato-fondente-3",
+    "published": "2018-08-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uvetta-ricoperta-di-cioccolato-fondente-4/",
+    "title": "",
+    "noticeDate": "24 agosto 2018",
+    "campi": {
+      "data pubblicazione": "24 agosto 2018",
+      "marca": "Passioni - Auchan",
+      "denominazione": "Uvetta ricoperta di cioccolato fondente",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Passioni - Auchan",
+    "product": "Uvetta ricoperta di cioccolato fondente",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Passioni - Auchan - Uvetta ricoperta di cioccolato fondente",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20LOTTO%2018163_1761177731.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uvetta-ricoperta-di-cioccolato-fondente-4",
+    "published": "2018-08-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-la-casareccia/",
+    "title": "",
+    "noticeDate": "20 agosto 2018",
+    "campi": {
+      "data pubblicazione": "20 agosto 2018",
+      "marca": "COMACAR - TERREMERSE SOC. COOP",
+      "denominazione": "Salsiccia stagionata \"La Casareccia\"",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "COMACAR - TERREMERSE SOC. COOP",
+    "product": "Salsiccia stagionata \"La Casareccia\"",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo COMACAR - TERREMERSE SOC. COOP - Salsiccia stagionata \"La Casareccia\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20ministero%20da%20inviare%20all_AUSL_1761177717.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-stagionata-la-casareccia",
+    "published": "2018-08-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-la-casareccia-0/",
+    "title": "",
+    "noticeDate": "20 agosto 2018",
+    "campi": {
+      "data pubblicazione": "20 agosto 2018",
+      "marca": "COMACAR - TERREMERSE SOC. COOP",
+      "denominazione": "SALSICCIA STAGIONATA \"LA CASARECCIA\"",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "COMACAR - TERREMERSE SOC. COOP",
+    "product": "SALSICCIA STAGIONATA \"LA CASARECCIA\"",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo COMACAR - TERREMERSE SOC. COOP - SALSICCIA STAGIONATA \"LA CASARECCIA\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20ministero%20da%20inviare%20all_AUSL_1761177719.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-stagionata-la-casareccia-0",
+    "published": "2018-08-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-la-casareccia-1/",
+    "title": "",
+    "noticeDate": "20 agosto 2018",
+    "campi": {
+      "data pubblicazione": "20 agosto 2018",
+      "marca": "TERREMERSE SOC. COOP",
+      "denominazione": "SALSICCIA STAGIONATA \"LA CASARECCIA\"",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "TERREMERSE SOC. COOP",
+    "product": "SALSICCIA STAGIONATA \"LA CASARECCIA\"",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TERREMERSE SOC. COOP - SALSICCIA STAGIONATA \"LA CASARECCIA\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20senza%20data%20scadenza_1761177721.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-stagionata-la-casareccia-1",
+    "published": "2018-08-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-affumicato-norvegese-kv-nordic/",
+    "title": "",
+    "noticeDate": "17 agosto 2018",
+    "campi": {
+      "data pubblicazione": "17 agosto 2018",
+      "marca": "KV NORDIC",
+      "denominazione": "Salmone affumicato norvegese KV NORDIC",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "KV NORDIC",
+    "product": "Salmone affumicato norvegese KV NORDIC",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo KV NORDIC - Salmone affumicato norvegese KV NORDIC",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello_0137_1761177715.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salmone-affumicato-norvegese-kv-nordic",
+    "published": "2018-08-17",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/papassini-dolci-misti/",
     "title": "",
     "noticeDate": "14 agosto 2018",
@@ -2496,6 +2990,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "papassini-dolci-misti",
+    "published": "2018-08-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/papassini-alle-noci/",
+    "title": "",
+    "noticeDate": "14 agosto 2018",
+    "campi": {
+      "data pubblicazione": "14 agosto 2018",
+      "marca": "SARRIA - I DOLCI DELLA SARDEGNA",
+      "denominazione": "PAPASSINI ALLE NOCI",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "SARRIA - I DOLCI DELLA SARDEGNA",
+    "product": "PAPASSINI ALLE NOCI",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SARRIA - I DOLCI DELLA SARDEGNA - PAPASSINI ALLE NOCI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/papassini%20alle%20noci_13082018_173131_1761177713.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "papassini-alle-noci",
     "published": "2018-08-14",
     "source": "operator"
   },
