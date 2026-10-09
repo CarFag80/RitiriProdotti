@@ -1174,6 +1174,526 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-tante-torte/",
+    "title": "",
+    "noticeDate": "28 dicembre 2018",
+    "campi": {
+      "data pubblicazione": "28 dicembre 2018",
+      "marca": "TRE MULINI AMO ESSERE",
+      "denominazione": "Preparato tante torte",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "TRE MULINI AMO ESSERE",
+    "product": "Preparato tante torte",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TRE MULINI AMO ESSERE - Preparato tante torte",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/25a%20_%202018.12.21%20_%20Preparato%20per%20torte%20400%20g%20_%20MOLINO%20ROSSETTO_1761178545.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-tante-torte",
+    "published": "2018-12-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-torta-margherita/",
+    "title": "",
+    "noticeDate": "28 dicembre 2018",
+    "campi": {
+      "data pubblicazione": "28 dicembre 2018",
+      "marca": "MOLINO ROSSETTO",
+      "denominazione": "Preparato per Torta Margherita",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "MOLINO ROSSETTO",
+    "product": "Preparato per Torta Margherita",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MOLINO ROSSETTO - Preparato per Torta Margherita",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamopreparatotortamargheritaMolinoRossetto_1761178547.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-torta-margherita",
+    "published": "2018-12-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelato-alla-soia-vaniglia-variegato-al-cioccolato/",
+    "title": "",
+    "noticeDate": "27 dicembre 2018",
+    "campi": {
+      "data pubblicazione": "27 dicembre 2018",
+      "marca": "DESPAR -VITAL",
+      "denominazione": "Gelato alla soia vaniglia variegato al cioccolato",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "DESPAR -VITAL",
+    "product": "Gelato alla soia vaniglia variegato al cioccolato",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DESPAR -VITAL - Gelato alla soia vaniglia variegato al cioccolato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Avviso%20richiamo%20coppa%20vital%20var%20cioccolato%20LX229_1761178542.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gelato-alla-soia-vaniglia-variegato-al-cioccolato",
+    "published": "2018-12-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelato-alla-soia-vanigllia-variegato-amarena/",
+    "title": "",
+    "noticeDate": "27 dicembre 2018",
+    "campi": {
+      "data pubblicazione": "27 dicembre 2018",
+      "marca": "DESPAR - VITAL",
+      "denominazione": "Gelato alla soia vanigllia variegato amarena",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "DESPAR - VITAL",
+    "product": "Gelato alla soia vanigllia variegato amarena",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DESPAR - VITAL - Gelato alla soia vanigllia variegato amarena",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20VARIEGATO%20AMARENA%20LX229_1761178544.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gelato-alla-soia-vanigllia-variegato-amarena",
+    "published": "2018-12-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/dolce-di-natale-al-cioccolato-vegano/",
+    "title": "",
+    "noticeDate": "21 dicembre 2018",
+    "campi": {
+      "data pubblicazione": "21 dicembre 2018",
+      "marca": "DESPAR VEGGIE",
+      "denominazione": "DOLCE DI NATALE AL CIOCCOLATO VEGANO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "DESPAR VEGGIE",
+    "product": "DOLCE DI NATALE AL CIOCCOLATO VEGANO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DESPAR VEGGIE - DOLCE DI NATALE AL CIOCCOLATO VEGANO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20PER%20RICHIAMO%20PRODOTTO_1761178540.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "dolce-di-natale-al-cioccolato-vegano",
+    "published": "2018-12-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pecorino-semistagionato-garante/",
+    "title": "",
+    "noticeDate": "21 dicembre 2018",
+    "campi": {
+      "data pubblicazione": "21 dicembre 2018",
+      "marca": "La fonte",
+      "denominazione": "Pecorino semistagionato garante",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "La fonte",
+    "product": "Pecorino semistagionato garante",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo La fonte - Pecorino semistagionato garante",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/All%203%20Fup%20379568%20_%20modello%20revoca%20richiamo%20caseif%20La%20Fonte_1761178541.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pecorino-semistagionato-garante",
+    "published": "2018-12-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filone-di-pesce-spada-decongelato-0/",
+    "title": "",
+    "noticeDate": "19 dicembre 2018",
+    "campi": {
+      "data pubblicazione": "19 dicembre 2018",
+      "marca": "TURLA PIERINO",
+      "denominazione": "FILONE DI PESCE SPADA DECONGELATO",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "TURLA PIERINO",
+    "product": "FILONE DI PESCE SPADA DECONGELATO",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TURLA PIERINO - FILONE DI PESCE SPADA DECONGELATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20REVOCA%20DEL%20RICHIAMO%20FILONE%20PESCE%20SPADA_1761178539.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filone-di-pesce-spada-decongelato-0",
+    "published": "2018-12-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/niedditas-cozze-raccolte-nel-golfo-di-oristano/",
+    "title": "",
+    "noticeDate": "18 dicembre 2018",
+    "campi": {
+      "data pubblicazione": "18 dicembre 2018",
+      "marca": "CPA Arborea - CE IT 37 CSM",
+      "denominazione": "Niedditas - Cozze raccolte nel Golfo di Oristano",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "CPA Arborea - CE IT 37 CSM",
+    "product": "Niedditas - Cozze raccolte nel Golfo di Oristano",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CPA Arborea - CE IT 37 CSM - Niedditas - Cozze raccolte nel Golfo di Oristano",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20richiamo%2017%2012%202018_1761178538.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "niedditas-cozze-raccolte-nel-golfo-di-oristano",
+    "published": "2018-12-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/siena-salsiccia-secca/",
+    "title": "",
+    "noticeDate": "14 dicembre 2018",
+    "campi": {
+      "data pubblicazione": "14 dicembre 2018",
+      "marca": "Salumificio Ciliani S.r.l.",
+      "denominazione": "Siena salsiccia secca",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio Ciliani S.r.l.",
+    "product": "Siena salsiccia secca",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio Ciliani S.r.l. - Siena salsiccia secca",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo_1761178537.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "siena-salsiccia-secca",
+    "published": "2018-12-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nieddittas-cozze-raccolte-nel-golfo-di-oristano/",
+    "title": "",
+    "noticeDate": "13 dicembre 2018",
+    "campi": {
+      "data pubblicazione": "13 dicembre 2018",
+      "marca": "CPA Arborea - A.N. CE IT 37 CSM",
+      "denominazione": "Nieddittas - Cozze raccolte nel Golfo di Oristano",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CPA Arborea - A.N. CE IT 37 CSM",
+    "product": "Nieddittas - Cozze raccolte nel Golfo di Oristano",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CPA Arborea - A.N. CE IT 37 CSM - Nieddittas - Cozze raccolte nel Golfo di Oristano",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo%20_%20finale_1761178535.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "nieddittas-cozze-raccolte-nel-golfo-di-oristano",
+    "published": "2018-12-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ciauscolo-igp-500600-gr-0/",
+    "title": "",
+    "noticeDate": "13 dicembre 2018",
+    "campi": {
+      "data pubblicazione": "13 dicembre 2018",
+      "marca": "Ciriaci",
+      "denominazione": "Ciauscolo IGP 500/600 gr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Ciriaci",
+    "product": "Ciauscolo IGP 500/600 gr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ciriaci - Ciauscolo IGP 500/600 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20Ciriaci%20corretto_1761178536.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ciauscolo-igp-500600-gr-0",
+    "published": "2018-12-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-morbido/",
+    "title": "",
+    "noticeDate": "12 dicembre 2018",
+    "campi": {
+      "data pubblicazione": "12 dicembre 2018",
+      "marca": "Rovetano",
+      "denominazione": "salame morbido",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Rovetano",
+    "product": "salame morbido",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Rovetano - salame morbido",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoRegoliIvano._1761178532.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-morbido",
+    "published": "2018-12-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-pecorino-semistagionato/",
+    "title": "",
+    "noticeDate": "12 dicembre 2018",
+    "campi": {
+      "data pubblicazione": "12 dicembre 2018",
+      "marca": "Caseificio La Fonte",
+      "denominazione": "Formaggio Pecorino semistagionato",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Caseificio La Fonte",
+    "product": "Formaggio Pecorino semistagionato",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caseificio La Fonte - Formaggio Pecorino semistagionato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Pecorino_1761178533.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-pecorino-semistagionato",
+    "published": "2018-12-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ciauscolo-igp-500600-gr/",
+    "title": "",
+    "noticeDate": "12 dicembre 2018",
+    "campi": {
+      "data pubblicazione": "12 dicembre 2018",
+      "marca": "Ciriaci",
+      "denominazione": "ciauscolo IGP 500/600 gr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Ciriaci",
+    "product": "ciauscolo IGP 500/600 gr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ciriaci - ciauscolo IGP 500/600 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamo_1761178534.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ciauscolo-igp-500600-gr",
+    "published": "2018-12-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/dessert-alla-vaniglia/",
+    "title": "",
+    "noticeDate": "11 dicembre 2018",
+    "campi": {
+      "data pubblicazione": "11 dicembre 2018",
+      "marca": "CONAD",
+      "denominazione": "Dessert alla vaniglia",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "CONAD",
+    "product": "Dessert alla vaniglia",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONAD - Dessert alla vaniglia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20DESSERT%20GELATO%20CONAD_1761178531.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "dessert-alla-vaniglia",
+    "published": "2018-12-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-cotto-mignon/",
+    "title": "",
+    "noticeDate": "7 dicembre 2018",
+    "campi": {
+      "data pubblicazione": "7 dicembre 2018",
+      "marca": "LA GRANDA TRASFORMAZIONE S.R.L.",
+      "denominazione": "SALAME COTTO MIGNON",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LA GRANDA TRASFORMAZIONE S.R.L.",
+    "product": "SALAME COTTO MIGNON",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA GRANDA TRASFORMAZIONE S.R.L. - SALAME COTTO MIGNON",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/La%20Granda%20_%20Salame%20cotto%20Mignon%207_12_2018_1761178529.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-cotto-mignon",
+    "published": "2018-12-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filone-di-pesce-spada-decongelato/",
+    "title": "",
+    "noticeDate": "7 dicembre 2018",
+    "campi": {
+      "data pubblicazione": "7 dicembre 2018",
+      "marca": "TURLA PIERINO",
+      "denominazione": "FILONE DI PESCE SPADA DECONGELATO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "TURLA PIERINO",
+    "product": "FILONE DI PESCE SPADA DECONGELATO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TURLA PIERINO - FILONE DI PESCE SPADA DECONGELATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO%20FILONE%20PESCE%20SPADA_1761178530.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filone-di-pesce-spada-decongelato",
+    "published": "2018-12-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coppa-di-testa-maiale-farcita-0/",
+    "title": "",
+    "noticeDate": "6 dicembre 2018",
+    "campi": {
+      "data pubblicazione": "6 dicembre 2018",
+      "marca": "antica gastronomia",
+      "denominazione": "coppa di testa maiale farcita",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "antica gastronomia",
+    "product": "coppa di testa maiale farcita",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo antica gastronomia - coppa di testa maiale farcita",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiesta%20REVOCA%20RICHIAMO_1761177995.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "coppa-di-testa-maiale-farcita-0",
+    "published": "2018-12-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pecorino-toscano-dop-stagionato-0/",
+    "title": "",
+    "noticeDate": "5 dicembre 2018",
+    "campi": {
+      "data pubblicazione": "5 dicembre 2018",
+      "marca": "Pascoli ITALIANI",
+      "denominazione": "Pecorino Toscano DOP Stagionato",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "Pascoli ITALIANI",
+    "product": "Pecorino Toscano DOP Stagionato",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pascoli ITALIANI - Pecorino Toscano DOP Stagionato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Pecorino%20Toscano_1761177985.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pecorino-toscano-dop-stagionato-0",
+    "published": "2018-12-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/marlin-affumicato-premium-0/",
+    "title": "",
+    "noticeDate": "5 dicembre 2018",
+    "campi": {
+      "data pubblicazione": "5 dicembre 2018",
+      "marca": "GASTONE BERNARDINI",
+      "denominazione": "MARLIN AFFUMICATO PREMIUM",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "GASTONE BERNARDINI",
+    "product": "MARLIN AFFUMICATO PREMIUM",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GASTONE BERNARDINI - MARLIN AFFUMICATO PREMIUM",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MARLIN_1761177990.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "marlin-affumicato-premium-0",
+    "published": "2018-12-05",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trance-di-pesce-spada-0/",
     "title": "",
     "noticeDate": "4 dicembre 2018",
