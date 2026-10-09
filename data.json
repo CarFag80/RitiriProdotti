@@ -1174,6 +1174,500 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-bonta-di-semi-600-gr/",
+    "title": "",
+    "noticeDate": "8 luglio 2018",
+    "campi": {
+      "data pubblicazione": "8 luglio 2018",
+      "marca": "Findus",
+      "denominazione": "Minestrone bontà di semi 600 gr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Findus",
+    "product": "Minestrone bontà di semi 600 gr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Findus - Minestrone bontà di semi 600 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20BONTA_%20DI%20SEMI%20600GR%20LOTTO%207306_1761176832.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "minestrone-bonta-di-semi-600-gr",
+    "published": "2018-07-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-sapori-orientali-600-gr/",
+    "title": "",
+    "noticeDate": "8 luglio 2018",
+    "campi": {
+      "data pubblicazione": "8 luglio 2018",
+      "marca": "Findus",
+      "denominazione": "Minestrone sapori orientali 600 gr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Findus",
+    "product": "Minestrone sapori orientali 600 gr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Findus - Minestrone sapori orientali 600 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20SAPORI%20ORIENTALI%20600GR%20LOTTO%207257_1761176835.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "minestrone-sapori-orientali-600-gr",
+    "published": "2018-07-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-sapori-orientali-600-gr-lotto-7292/",
+    "title": "",
+    "noticeDate": "8 luglio 2018",
+    "campi": {
+      "data pubblicazione": "8 luglio 2018",
+      "marca": "Findus",
+      "denominazione": "Minestrone sapori orientali 600 gr lotto 7292",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Findus",
+    "product": "Minestrone sapori orientali 600 gr lotto 7292",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Findus - Minestrone sapori orientali 600 gr lotto 7292",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20SAPORI%20ORIENTALI%20600GR%20LOTTO%207292_1761176838.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "minestrone-sapori-orientali-600-gr-lotto-7292",
+    "published": "2018-07-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-sapori-orientali-600-gr-lotto-7318/",
+    "title": "",
+    "noticeDate": "8 luglio 2018",
+    "campi": {
+      "data pubblicazione": "8 luglio 2018",
+      "marca": "Findus",
+      "denominazione": "Minestrone sapori orientali 600 gr lotto 7318",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Findus",
+    "product": "Minestrone sapori orientali 600 gr lotto 7318",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Findus - Minestrone sapori orientali 600 gr lotto 7318",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20SAPORI%20ORIENTALI%20600GR%20LOTTO%207318_1761176841.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "minestrone-sapori-orientali-600-gr-lotto-7318",
+    "published": "2018-07-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-sapori-orientali-600gr-lotto-8011/",
+    "title": "",
+    "noticeDate": "8 luglio 2018",
+    "campi": {
+      "data pubblicazione": "8 luglio 2018",
+      "marca": "Findus",
+      "denominazione": "Minestrone sapori orientali 600gr lotto 8011",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Findus",
+    "product": "Minestrone sapori orientali 600gr lotto 8011",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Findus - Minestrone sapori orientali 600gr lotto 8011",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20SAPORI%20ORIENTALI%20600GR%20LOTTO%208011_1761176844.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "minestrone-sapori-orientali-600gr-lotto-8011",
+    "published": "2018-07-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-tradizione-1-kg-lotto-7308/",
+    "title": "",
+    "noticeDate": "8 luglio 2018",
+    "campi": {
+      "data pubblicazione": "8 luglio 2018",
+      "marca": "Findus",
+      "denominazione": "Minestrone tradizione 1 kg lotto 7308",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Findus",
+    "product": "Minestrone tradizione 1 kg lotto 7308",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Findus - Minestrone tradizione 1 kg lotto 7308",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%201%20KG%20LOTTO%207308_1761176847.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "minestrone-tradizione-1-kg-lotto-7308",
+    "published": "2018-07-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-tradizione-1-kg-lotto-7310/",
+    "title": "",
+    "noticeDate": "8 luglio 2018",
+    "campi": {
+      "data pubblicazione": "8 luglio 2018",
+      "marca": "Findus",
+      "denominazione": "Minestrone tradizione 1 kg lotto 7310",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Findus",
+    "product": "Minestrone tradizione 1 kg lotto 7310",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Findus - Minestrone tradizione 1 kg lotto 7310",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%201%20KG%20LOTTO%207310_1761176850.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "minestrone-tradizione-1-kg-lotto-7310",
+    "published": "2018-07-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-tradizione-1-kg-lotto-7251/",
+    "title": "",
+    "noticeDate": "8 luglio 2018",
+    "campi": {
+      "data pubblicazione": "8 luglio 2018",
+      "marca": "Findus",
+      "denominazione": "Minestrone tradizione 1 kg lotto 7251",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Findus",
+    "product": "Minestrone tradizione 1 kg lotto 7251",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Findus - Minestrone tradizione 1 kg lotto 7251",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%201KG%20LOTTO%207251_1761176853.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "minestrone-tradizione-1-kg-lotto-7251",
+    "published": "2018-07-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-tradizione-1-kg-lotto-7334/",
+    "title": "",
+    "noticeDate": "8 luglio 2018",
+    "campi": {
+      "data pubblicazione": "8 luglio 2018",
+      "marca": "Findus",
+      "denominazione": "Minestrone tradizione 1 kg lotto 7334",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Findus",
+    "product": "Minestrone tradizione 1 kg lotto 7334",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Findus - Minestrone tradizione 1 kg lotto 7334",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%201KG%20LOTTO%207334_1761176856.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "minestrone-tradizione-1-kg-lotto-7334",
+    "published": "2018-07-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-tradizione-400-gr-lotto-7326/",
+    "title": "",
+    "noticeDate": "8 luglio 2018",
+    "campi": {
+      "data pubblicazione": "8 luglio 2018",
+      "marca": "Findus",
+      "denominazione": "Minestrone tradizione 400 gr lotto 7326",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Findus",
+    "product": "Minestrone tradizione 400 gr lotto 7326",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Findus - Minestrone tradizione 400 gr lotto 7326",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%20400%20GR%20LOTTO%207326_1761176859.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "minestrone-tradizione-400-gr-lotto-7326",
+    "published": "2018-07-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-tradizione-400-gr-lotto-7303/",
+    "title": "",
+    "noticeDate": "8 luglio 2018",
+    "campi": {
+      "data pubblicazione": "8 luglio 2018",
+      "marca": "Findus",
+      "denominazione": "Minestrone tradizione 400 gr lotto 7303",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Findus",
+    "product": "Minestrone tradizione 400 gr lotto 7303",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Findus - Minestrone tradizione 400 gr lotto 7303",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%20400GR%20LOTTO%207303_1761176862.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "minestrone-tradizione-400-gr-lotto-7303",
+    "published": "2018-07-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-crostata-e-cookies/",
+    "title": "",
+    "noticeDate": "5 luglio 2018",
+    "campi": {
+      "data pubblicazione": "5 luglio 2018",
+      "marca": "PEDON",
+      "denominazione": "PREPARATO PER CROSTATA E COOKIES",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "PEDON",
+    "product": "PREPARATO PER CROSTATA E COOKIES",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PEDON - PREPARATO PER CROSTATA E COOKIES",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/18_63_C_Modulo%20richiamo_1761176824.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-crostata-e-cookies",
+    "published": "2018-07-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bocconcini-stagionati/",
+    "title": "",
+    "noticeDate": "5 luglio 2018",
+    "campi": {
+      "data pubblicazione": "5 luglio 2018",
+      "marca": "Cà del Botto srl",
+      "denominazione": "Bocconcini stagionati",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Cà del Botto srl",
+    "product": "Bocconcini stagionati",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cà del Botto srl - Bocconcini stagionati",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Avviso%20di%20richiamo%20ministero_1761176826.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "bocconcini-stagionati",
+    "published": "2018-07-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-di-finocchietto-e-mandorle-segreti-di-sicilia/",
+    "title": "",
+    "noticeDate": "5 luglio 2018",
+    "campi": {
+      "data pubblicazione": "5 luglio 2018",
+      "marca": "Frantoi Cutrera srl",
+      "denominazione": "Pesto di finocchietto e mandorle - Segreti di Sicilia",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Frantoi Cutrera srl",
+    "product": "Pesto di finocchietto e mandorle - Segreti di Sicilia",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Frantoi Cutrera srl - Pesto di finocchietto e mandorle - Segreti di Sicilia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PESTO%20FRANTOI%20CUTRERA_1761176829.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pesto-di-finocchietto-e-mandorle-segreti-di-sicilia",
+    "published": "2018-07-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vitello-tonnato/",
+    "title": "",
+    "noticeDate": "2 luglio 2018",
+    "campi": {
+      "data pubblicazione": "2 luglio 2018",
+      "marca": "Il Ceppo",
+      "denominazione": "Vitello tonnato",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Il Ceppo",
+    "product": "Vitello tonnato",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Il Ceppo - Vitello tonnato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/18_30_B_Modulo_di_richiamo_prodotto_Il_Ceppo_Srl%20_1__1761176821.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "vitello-tonnato",
+    "published": "2018-07-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gamberetto-congelato-parapenaeus-longirostris-500-g/",
+    "title": "",
+    "noticeDate": "25 giugno 2018",
+    "campi": {
+      "data pubblicazione": "25 giugno 2018",
+      "marca": "IT 2068 CE",
+      "denominazione": "Gamberetto congelato (Parapenaeus longirostris) 500 g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "IT 2068 CE",
+    "product": "Gamberetto congelato (Parapenaeus longirostris) 500 g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IT 2068 CE - Gamberetto congelato (Parapenaeus longirostris) 500 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20gamberetti%20Medipesca%20srl_1761176818.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gamberetto-congelato-parapenaeus-longirostris-500-g",
+    "published": "2018-06-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/brodo-granulare-istantaneo-funghi-120-g/",
+    "title": "",
+    "noticeDate": "21 giugno 2018",
+    "campi": {
+      "data pubblicazione": "21 giugno 2018",
+      "marca": "Bauer S.P.A.",
+      "denominazione": "BRODO GRANULARE ISTANTANEO FUNGHI 120 g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Bauer S.P.A.",
+    "product": "BRODO GRANULARE ISTANTANEO FUNGHI 120 g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bauer S.P.A. - BRODO GRANULARE ISTANTANEO FUNGHI 120 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20bauer%20brodo%20granulare%20funghi%20L8440_1761176815.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "brodo-granulare-istantaneo-funghi-120-g",
+    "published": "2018-06-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfogliatine-di-patate-fritte/",
+    "title": "",
+    "noticeDate": "20 giugno 2018",
+    "campi": {
+      "data pubblicazione": "20 giugno 2018",
+      "marca": "Cipster",
+      "denominazione": "Sfogliatine di patate fritte",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Cipster",
+    "product": "Sfogliatine di patate fritte",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cipster - Sfogliatine di patate fritte",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cipster%20_%20Mondelez%20Italia%20SRL%2019_06_2018_1761176813.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfogliatine-di-patate-fritte",
+    "published": "2018-06-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-mineralle-san-benedetto/",
+    "title": "",
+    "noticeDate": "19 giugno 2018",
+    "campi": {
+      "data pubblicazione": "19 giugno 2018",
+      "marca": "ACQUA MINERALLE SAN BENEDETTO",
+      "denominazione": "ACQUA MINERALLE SAN BENEDETTO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ACQUA MINERALLE SAN BENEDETTO",
+    "product": "ACQUA MINERALLE SAN BENEDETTO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ACQUA MINERALLE SAN BENEDETTO - ACQUA MINERALLE SAN BENEDETTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20ACQUA%20SAN%20BENEDETTO_lotto%20corretto_1761176810.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "acqua-mineralle-san-benedetto",
+    "published": "2018-06-19",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-san-benedetto/",
     "title": "",
     "noticeDate": "15 giugno 2018",
@@ -1196,6 +1690,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "acqua-minerale-san-benedetto",
+    "published": "2018-06-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-san-benedetto-0/",
+    "title": "",
+    "noticeDate": "15 giugno 2018",
+    "campi": {
+      "data pubblicazione": "15 giugno 2018",
+      "marca": "ACQUA MINERALE SAN BENEDETTO",
+      "denominazione": "ACQUA MINERALE SAN BENEDETTO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ACQUA MINERALE SAN BENEDETTO",
+    "product": "ACQUA MINERALE SAN BENEDETTO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ACQUA MINERALE SAN BENEDETTO - ACQUA MINERALE SAN BENEDETTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20ACQUA%20SAN%20BENEDETTO_corr_1761176808.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "acqua-minerale-san-benedetto-0",
     "published": "2018-06-15",
     "source": "operator"
   },
