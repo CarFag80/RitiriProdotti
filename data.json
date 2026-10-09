@@ -702,6 +702,448 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/emacrit-bustine/",
+    "title": "",
+    "noticeDate": "27 luglio 2021",
+    "campi": {
+      "data pubblicazione": "27 luglio 2021",
+      "marca": "PHARMA-LINE SRL",
+      "denominazione": "EMACRIT BUSTINE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "PHARMA-LINE SRL",
+    "product": "EMACRIT BUSTINE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PHARMA-LINE SRL - EMACRIT BUSTINE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO_SG20003_1761186824.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "emacrit-bustine",
+    "published": "2021-07-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-naturale-100-cl-plose-tmc-13072023/",
+    "title": "",
+    "noticeDate": "27 luglio 2021",
+    "campi": {
+      "data pubblicazione": "27 luglio 2021",
+      "marca": "Acqua Plose",
+      "denominazione": "Acqua minerale naturale 100 cl PLOSE (TMC 13.07.2023)",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Acqua Plose",
+    "product": "Acqua minerale naturale 100 cl PLOSE (TMC 13.07.2023)",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Acqua Plose - Acqua minerale naturale 100 cl PLOSE (TMC 13.07.2023)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModulorichiamoPLOSE100clTMC13.07.2023_1761186828.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "acqua-minerale-naturale-100-cl-plose-tmc-13072023",
+    "published": "2021-07-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-naturale-100-cl-plose-tmc-14072023/",
+    "title": "",
+    "noticeDate": "27 luglio 2021",
+    "campi": {
+      "data pubblicazione": "27 luglio 2021",
+      "marca": "Acqua Plose",
+      "denominazione": "Acqua minerale naturale 100 cl PLOSE (TMC 14.07.2023)",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Acqua Plose",
+    "product": "Acqua minerale naturale 100 cl PLOSE (TMC 14.07.2023)",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Acqua Plose - Acqua minerale naturale 100 cl PLOSE (TMC 14.07.2023)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModulorichiamoPLOSE100clTMC14.07.2023_1761186831.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "acqua-minerale-naturale-100-cl-plose-tmc-14072023",
+    "published": "2021-07-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-naturale-100-cl-plose-tmc-15072023/",
+    "title": "",
+    "noticeDate": "27 luglio 2021",
+    "campi": {
+      "data pubblicazione": "27 luglio 2021",
+      "marca": "Acqua Plose",
+      "denominazione": "Acqua minerale naturale 100 cl PLOSE (TMC 15.07.2023)",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Acqua Plose",
+    "product": "Acqua minerale naturale 100 cl PLOSE (TMC 15.07.2023)",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Acqua Plose - Acqua minerale naturale 100 cl PLOSE (TMC 15.07.2023)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModulorichiamoPLOSE100clTMC15.07.2023_1761186835.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "acqua-minerale-naturale-100-cl-plose-tmc-15072023",
+    "published": "2021-07-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-naturale-100-cl-plose-tmc-19072023/",
+    "title": "",
+    "noticeDate": "27 luglio 2021",
+    "campi": {
+      "data pubblicazione": "27 luglio 2021",
+      "marca": "Acqua Plose",
+      "denominazione": "Acqua minerale naturale 100 cl PLOSE (TMC 19.07.2023)",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Acqua Plose",
+    "product": "Acqua minerale naturale 100 cl PLOSE (TMC 19.07.2023)",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Acqua Plose - Acqua minerale naturale 100 cl PLOSE (TMC 19.07.2023)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModulorichiamoPLOSE100clTMC19.07.2023_1761186839.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "acqua-minerale-naturale-100-cl-plose-tmc-19072023",
+    "published": "2021-07-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-naturale-75cl-plose-tmc-20072023/",
+    "title": "",
+    "noticeDate": "27 luglio 2021",
+    "campi": {
+      "data pubblicazione": "27 luglio 2021",
+      "marca": "Acqua Plose",
+      "denominazione": "Acqua minerale naturale 75cl PLOSE (TMC 20.07.2023)",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Acqua Plose",
+    "product": "Acqua minerale naturale 75cl PLOSE (TMC 20.07.2023)",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Acqua Plose - Acqua minerale naturale 75cl PLOSE (TMC 20.07.2023)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModulorichiamoPLOSE75clTMC20.07.2023_1761186843.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "acqua-minerale-naturale-75cl-plose-tmc-20072023",
+    "published": "2021-07-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-naturale-50-cl-plose-tmc-21072023/",
+    "title": "",
+    "noticeDate": "27 luglio 2021",
+    "campi": {
+      "data pubblicazione": "27 luglio 2021",
+      "marca": "Acqua Plose",
+      "denominazione": "Acqua minerale naturale 50 cl PLOSE (TMC 21.07.2023)",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Acqua Plose",
+    "product": "Acqua minerale naturale 50 cl PLOSE (TMC 21.07.2023)",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Acqua Plose - Acqua minerale naturale 50 cl PLOSE (TMC 21.07.2023)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModulorichiamoPLOSE50clTMC21.07.2023_1761186847.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "acqua-minerale-naturale-50-cl-plose-tmc-21072023",
+    "published": "2021-07-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-naturale-100-cl-plose-tmc-21072023/",
+    "title": "",
+    "noticeDate": "27 luglio 2021",
+    "campi": {
+      "data pubblicazione": "27 luglio 2021",
+      "marca": "Acqua Plose",
+      "denominazione": "Acqua minerale naturale 100 cl PLOSE (TMC 21.07.2023)",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Acqua Plose",
+    "product": "Acqua minerale naturale 100 cl PLOSE (TMC 21.07.2023)",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Acqua Plose - Acqua minerale naturale 100 cl PLOSE (TMC 21.07.2023)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModulorichiamoPLOSE100clTMC21.07.2023_1761186851.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "acqua-minerale-naturale-100-cl-plose-tmc-21072023",
+    "published": "2021-07-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/emacrit-bustine-0/",
+    "title": "",
+    "noticeDate": "27 luglio 2021",
+    "campi": {
+      "data pubblicazione": "27 luglio 2021",
+      "marca": "SIGMAR",
+      "denominazione": "EMACRIT BUSTINE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SIGMAR",
+    "product": "EMACRIT BUSTINE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SIGMAR - EMACRIT BUSTINE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO_SG20003_1761186856.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "emacrit-bustine-0",
+    "published": "2021-07-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/emacrit-bustine-1/",
+    "title": "",
+    "noticeDate": "27 luglio 2021",
+    "campi": {
+      "data pubblicazione": "27 luglio 2021",
+      "marca": "PHARMA LINE S.R.L.",
+      "denominazione": "EMACRIT BUSTINE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "PHARMA LINE S.R.L.",
+    "product": "EMACRIT BUSTINE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PHARMA LINE S.R.L. - EMACRIT BUSTINE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO_SG20003_1761186860.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "emacrit-bustine-1",
+    "published": "2021-07-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/stortina-di-nonna-maria/",
+    "title": "",
+    "noticeDate": "26 luglio 2021",
+    "campi": {
+      "data pubblicazione": "26 luglio 2021",
+      "marca": "L'Artigiano del Salame",
+      "denominazione": "Stortina di nonna Maria",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "L'Artigiano del Salame",
+    "product": "Stortina di nonna Maria",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo L'Artigiano del Salame - Stortina di nonna Maria",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamo_stortina_1761186817.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "stortina-di-nonna-maria",
+    "published": "2021-07-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fontina-dop/",
+    "title": "",
+    "noticeDate": "26 luglio 2021",
+    "campi": {
+      "data pubblicazione": "26 luglio 2021",
+      "marca": "COOPERATIVA PRODUTTORI LATTE E FONTINA SOC. COOP. A.R.L.",
+      "denominazione": "FONTINA DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "COOPERATIVA PRODUTTORI LATTE E FONTINA SOC. COOP. A.R.L.",
+    "product": "FONTINA DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo COOPERATIVA PRODUTTORI LATTE E FONTINA SOC. COOP. A.R.L. - FONTINA DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamo_1761186820.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "fontina-dop",
+    "published": "2021-07-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crakers-biologici-semintegrali-sesamo-e-rosmarino/",
+    "title": "",
+    "noticeDate": "23 luglio 2021",
+    "campi": {
+      "data pubblicazione": "23 luglio 2021",
+      "marca": "ECOR",
+      "denominazione": "CRAKERS BIOLOGICI SEMINTEGRALI SESAMO E ROSMARINO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ECOR",
+    "product": "CRAKERS BIOLOGICI SEMINTEGRALI SESAMO E ROSMARINO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ECOR - CRAKERS BIOLOGICI SEMINTEGRALI SESAMO E ROSMARINO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20ecor_1761186813.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crakers-biologici-semintegrali-sesamo-e-rosmarino",
+    "published": "2021-07-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-al-tartufo-bianco/",
+    "title": "",
+    "noticeDate": "22 luglio 2021",
+    "campi": {
+      "data pubblicazione": "22 luglio 2021",
+      "marca": "FILOTEI GROUP SRL-VIA SALARIA 136, 63043 ARQUATA DEL TRONTO (AP)",
+      "denominazione": "SALSA AL TARTUFO BIANCO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "FILOTEI GROUP SRL-VIA SALARIA 136, 63043 ARQUATA DEL TRONTO (AP)",
+    "product": "SALSA AL TARTUFO BIANCO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FILOTEI GROUP SRL-VIA SALARIA 136, 63043 ARQUATA DEL TRONTO (AP) - SALSA AL TARTUFO BIANCO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Filotei_1761186799.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsa-al-tartufo-bianco",
+    "published": "2021-07-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cacio-e-pepe-condimento-pasta/",
+    "title": "",
+    "noticeDate": "22 luglio 2021",
+    "campi": {
+      "data pubblicazione": "22 luglio 2021",
+      "marca": "I.T.L SRL VIA PESCARA, 4-TORGIANO (PG)",
+      "denominazione": "CACIO E PEPE CONDIMENTO PER PASTA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "I.T.L SRL VIA PESCARA, 4-TORGIANO (PG)",
+    "product": "CACIO E PEPE CONDIMENTO PER PASTA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo I.T.L SRL VIA PESCARA, 4-TORGIANO (PG) - CACIO E PEPE CONDIMENTO PER PASTA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELL~1%20_1__1761186802.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cacio-e-pepe-condimento-pasta",
+    "published": "2021-07-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cacio-e-pepe-condimento-pasta-0/",
+    "title": "",
+    "noticeDate": "22 luglio 2021",
+    "campi": {
+      "data pubblicazione": "22 luglio 2021",
+      "marca": "I.T.L SRL VIA PESCARA, 4-TORGIANO (PG)",
+      "denominazione": "CACIO E PEPE CONDIMENTO PER PASTA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "I.T.L SRL VIA PESCARA, 4-TORGIANO (PG)",
+    "product": "CACIO E PEPE CONDIMENTO PER PASTA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo I.T.L SRL VIA PESCARA, 4-TORGIANO (PG) - CACIO E PEPE CONDIMENTO PER PASTA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELL~2%20_1__1761186806.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cacio-e-pepe-condimento-pasta-0",
+    "published": "2021-07-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/biocrackers-al-sesamo-e-rosmarino-con-olio-extravergine-di-oliva-10/",
+    "title": "",
+    "noticeDate": "22 luglio 2021",
+    "campi": {
+      "data pubblicazione": "22 luglio 2021",
+      "marca": "Nuova Industria Biscotti Crich spa",
+      "denominazione": "Biocrackers al Sesamo e Rosmarino con Olio Extravergine di Oliva 10%",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Nuova Industria Biscotti Crich spa",
+    "product": "Biocrackers al Sesamo e Rosmarino con Olio Extravergine di Oliva 10%",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nuova Industria Biscotti Crich spa - Biocrackers al Sesamo e Rosmarino con Olio Extravergine di Oliva 10%",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20biocrackers_1761186810.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "biocrackers-al-sesamo-e-rosmarino-con-olio-extravergine-di-oliva-10",
+    "published": "2021-07-22",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/naturefoods-gomasio-biologico/",
     "title": "",
     "noticeDate": "21 luglio 2021",
@@ -750,6 +1192,84 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "naturefoods-gomasio-biologico-0",
+    "published": "2021-07-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/naturefoods-gomasio-biologico-1/",
+    "title": "",
+    "noticeDate": "21 luglio 2021",
+    "campi": {
+      "data pubblicazione": "21 luglio 2021",
+      "marca": "NATUREFOODS",
+      "denominazione": "NATUREFOODS GOMASIO BIOLOGICO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "NATUREFOODS",
+    "product": "NATUREFOODS GOMASIO BIOLOGICO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NATUREFOODS - NATUREFOODS GOMASIO BIOLOGICO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/NATURE_A21021_1761186789.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "naturefoods-gomasio-biologico-1",
+    "published": "2021-07-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/naturefoods-gomasio-biologico-2/",
+    "title": "",
+    "noticeDate": "21 luglio 2021",
+    "campi": {
+      "data pubblicazione": "21 luglio 2021",
+      "marca": "NATUREFOODS",
+      "denominazione": "NATUREFOODS GOMASIO BIOLOGICO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "NATUREFOODS",
+    "product": "NATUREFOODS GOMASIO BIOLOGICO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NATUREFOODS - NATUREFOODS GOMASIO BIOLOGICO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/NATURE_A21021_1761186792.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "naturefoods-gomasio-biologico-2",
+    "published": "2021-07-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gomasio-condimento-da-tavola-base-di-semi-di-sesamo/",
+    "title": "",
+    "noticeDate": "21 luglio 2021",
+    "campi": {
+      "data pubblicazione": "21 luglio 2021",
+      "marca": "SAPORI DALLA NATURA",
+      "denominazione": "GOMASIO - CONDIMENTO DA TAVOLA A BASE DI SEMI DI SESAMO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SAPORI DALLA NATURA",
+    "product": "GOMASIO - CONDIMENTO DA TAVOLA A BASE DI SEMI DI SESAMO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SAPORI DALLA NATURA - GOMASIO - CONDIMENTO DA TAVOLA A BASE DI SEMI DI SESAMO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SAPORI_A21021_1761186795.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gomasio-condimento-da-tavola-base-di-semi-di-sesamo",
     "published": "2021-07-21",
     "source": "operator"
   },
