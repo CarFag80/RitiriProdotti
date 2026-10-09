@@ -702,6 +702,500 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/naturefoods-gomasio-biologico/",
+    "title": "",
+    "noticeDate": "21 luglio 2021",
+    "campi": {
+      "data pubblicazione": "21 luglio 2021",
+      "marca": "NATUREFOODS",
+      "denominazione": "NATUREFOODS GOMASIO BIOLOGICO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "NATUREFOODS",
+    "product": "NATUREFOODS GOMASIO BIOLOGICO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NATUREFOODS - NATUREFOODS GOMASIO BIOLOGICO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/NATURE_A20296_1761186782.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "naturefoods-gomasio-biologico",
+    "published": "2021-07-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/naturefoods-gomasio-biologico-0/",
+    "title": "",
+    "noticeDate": "21 luglio 2021",
+    "campi": {
+      "data pubblicazione": "21 luglio 2021",
+      "marca": "NATUREFOODS",
+      "denominazione": "NATUREFOODS GOMASIO BIOLOGICO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "NATUREFOODS",
+    "product": "NATUREFOODS GOMASIO BIOLOGICO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NATUREFOODS - NATUREFOODS GOMASIO BIOLOGICO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/NATURE_A21088_1761186785.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "naturefoods-gomasio-biologico-0",
+    "published": "2021-07-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostata-con-confettura-28-di-ciliegie/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "LAGO",
+      "denominazione": "CROSTATA CON CONFETTURA (28%) DI CILIEGIE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LAGO",
+    "product": "CROSTATA CON CONFETTURA (28%) DI CILIEGIE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LAGO - CROSTATA CON CONFETTURA (28%) DI CILIEGIE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_488347_21.06.30.LagoGroup_CartelloRichiamoMinisteriale%20_2__1761186732.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostata-con-confettura-28-di-ciliegie",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Budget",
+      "denominazione": "Burro",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Budget",
+    "product": "Burro",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Budget - Burro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Budget_1761186734.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-0/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Bur-Bon",
+      "denominazione": "Burro",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Bur-Bon",
+    "product": "Burro",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bur-Bon - Burro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Bur_Bon_1761186737.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro-0",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-1/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Burro generico",
+      "denominazione": "Burro",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Burro generico",
+    "product": "Burro",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Burro generico - Burro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Burro%20generico_1761186740.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro-1",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-2/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Cattel",
+      "denominazione": "Burro",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Cattel",
+    "product": "Burro",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cattel - Burro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Cattel_1761186743.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro-2",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-3/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Granarolo",
+      "denominazione": "Burro",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Granarolo",
+    "product": "Burro",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Granarolo - Burro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Granarolo_1761186746.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro-3",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-4/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Latteria",
+      "denominazione": "Burro",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Latteria",
+    "product": "Burro",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Latteria - Burro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Latteria_1761186748.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro-4",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-5/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Nonna Tita",
+      "denominazione": "Burro",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Nonna Tita",
+    "product": "Burro",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nonna Tita - Burro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Nonna%20Tita_1761186751.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro-5",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-6/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Valis",
+      "denominazione": "Burro",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Valis",
+    "product": "Burro",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Valis - Burro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Valis_1761186754.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro-6",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-granarolo-8gx125pz/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Granarolo S.p.A.",
+      "denominazione": "BURRO GRANAROLO 8GX125pz",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Granarolo S.p.A.",
+    "product": "BURRO GRANAROLO 8GX125pz",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Granarolo S.p.A. - BURRO GRANAROLO 8GX125pz",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_pagineAree_4633_listaFile_itemName_0_file%20ref%20147%20scad%2006_10_21_1761186757.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro-granarolo-8gx125pz",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-granarolo-8gx125pz-0/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Granarolo S.p.A.",
+      "denominazione": "BURRO GRANAROLO 8GX125pz",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Granarolo S.p.A.",
+    "product": "BURRO GRANAROLO 8GX125pz",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Granarolo S.p.A. - BURRO GRANAROLO 8GX125pz",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_pagineAree_4633_listaFile_itemName_0_file%20ref%20147%20scad%2009_09_21_1761186760.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro-granarolo-8gx125pz-0",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-granarolo-8gx125pz-1/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Granarolo S.p.A.",
+      "denominazione": "BURRO GRANAROLO 8GX125pz",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Granarolo S.p.A.",
+    "product": "BURRO GRANAROLO 8GX125pz",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Granarolo S.p.A. - BURRO GRANAROLO 8GX125pz",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_pagineAree_4633_listaFile_itemName_0_file%20ref%20147%20scad%2013_10_21_1761186763.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro-granarolo-8gx125pz-1",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-granarolo-8gx125pz-2/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Granarolo S.p.A.",
+      "denominazione": "BURRO GRANAROLO 8GX125pz",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Granarolo S.p.A.",
+    "product": "BURRO GRANAROLO 8GX125pz",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Granarolo S.p.A. - BURRO GRANAROLO 8GX125pz",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_pagineAree_4633_listaFile_itemName_0_file%20ref%20147%20scad%2016_09_21_1761186766.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro-granarolo-8gx125pz-2",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-granarolo-8gx125pz-3/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Granarolo S.p.A.",
+      "denominazione": "BURRO GRANAROLO 8GX125pz",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Granarolo S.p.A.",
+    "product": "BURRO GRANAROLO 8GX125pz",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Granarolo S.p.A. - BURRO GRANAROLO 8GX125pz",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_pagineAree_4633_listaFile_itemName_0_file%20ref%20147%20scad%2028_08_21_1761186769.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro-granarolo-8gx125pz-3",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-granarolo-1000g/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Granarolo S.p.A.",
+      "denominazione": "BURRO GRANAROLO 1000G",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Granarolo S.p.A.",
+    "product": "BURRO GRANAROLO 1000G",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Granarolo S.p.A. - BURRO GRANAROLO 1000G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_pagineAree_4633_listaFile_itemName_0_file%20ref%20177%20scad%2004_09_21_1761186772.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro-granarolo-1000g",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-granarolo-1000g-0/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Granarolo S.p.A.",
+      "denominazione": "BURRO GRANAROLO 1000G",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Granarolo S.p.A.",
+    "product": "BURRO GRANAROLO 1000G",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Granarolo S.p.A. - BURRO GRANAROLO 1000G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_pagineAree_4633_listaFile_itemName_0_file%20ref%20177%20scad%2009_09_21_1761186776.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro-granarolo-1000g-0",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-granarolo-1000g-1/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Granarolo S.p.A.",
+      "denominazione": "BURRO GRANAROLO 1000G",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Granarolo S.p.A.",
+    "product": "BURRO GRANAROLO 1000G",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Granarolo S.p.A. - BURRO GRANAROLO 1000G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_pagineAree_4633_listaFile_itemName_0_file%20ref%20177%20scad%2016_09_21_1761186779.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro-granarolo-1000g-1",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/code-di-gambero-indopacifico-sgusciato-congelato-individualmente/",
     "title": "",
     "noticeDate": "16 luglio 2021",
@@ -724,6 +1218,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "code-di-gambero-indopacifico-sgusciato-congelato-individualmente",
+    "published": "2021-07-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-prod-biologico-conf-180g/",
+    "title": "",
+    "noticeDate": "16 luglio 2021",
+    "campi": {
+      "data pubblicazione": "16 luglio 2021",
+      "marca": "SARCHIO SPA",
+      "denominazione": "SEMI DI SESAMO prod. biologico conf. 180g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SARCHIO SPA",
+    "product": "SEMI DI SESAMO prod. biologico conf. 180g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SARCHIO SPA - SEMI DI SESAMO prod. biologico conf. 180g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20SEMI%20DI%20SESAMO%20ditta%20Sarchio%20Carpi%20Modena_1761186729.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-sesamo-prod-biologico-conf-180g",
     "published": "2021-07-16",
     "source": "operator"
   },
