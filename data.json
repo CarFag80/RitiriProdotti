@@ -670,6 +670,526 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vegan-mozarelli-prodotto-vegetale-base-di-olio-di-colza-e-farina-di/",
+    "title": "",
+    "noticeDate": "16 agosto 2021",
+    "campi": {
+      "data pubblicazione": "16 agosto 2021",
+      "marca": "Vemondo",
+      "denominazione": "VEGAN MOZARELLI (Prodotto vegetale a base di olio di colza e farina di mandorle )",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Vemondo",
+    "product": "VEGAN MOZARELLI (Prodotto vegetale a base di olio di colza e farina di mandorle )",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Vemondo - VEGAN MOZARELLI (Prodotto vegetale a base di olio di colza e farina di mandorle )",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/mozzarelli_MODELLO_DI_RICHIAMOLIDL_1761187677.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "vegan-mozarelli-prodotto-vegetale-base-di-olio-di-colza-e-farina-di",
+    "published": "2021-08-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crackers-integrali/",
+    "title": "",
+    "noticeDate": "13 agosto 2021",
+    "campi": {
+      "data pubblicazione": "13 agosto 2021",
+      "marca": "Certossa",
+      "denominazione": "Crackers integrali",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Certossa",
+    "product": "Crackers integrali",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Certossa - Crackers integrali",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_Crackers%20integrali%20_6011_1761187670.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crackers-integrali",
+    "published": "2021-08-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crackers-salati-senza-granelli-di-sale-superficie/",
+    "title": "",
+    "noticeDate": "13 agosto 2021",
+    "campi": {
+      "data pubblicazione": "13 agosto 2021",
+      "marca": "Certossa",
+      "denominazione": "Crackers salati senza granelli di sale in superficie",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Certossa",
+    "product": "Crackers salati senza granelli di sale in superficie",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Certossa - Crackers salati senza granelli di sale in superficie",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/lidl_certossa_6031_1761187673.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crackers-salati-senza-granelli-di-sale-superficie",
+    "published": "2021-08-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bisfrolla-con-confettura-di-mora-rossa-e-mirtillo-nero/",
+    "title": "",
+    "noticeDate": "12 agosto 2021",
+    "campi": {
+      "data pubblicazione": "12 agosto 2021",
+      "marca": "Confiserie Firenze",
+      "denominazione": "Bisfrolla con confettura di mora rossa e mirtillo nero",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Confiserie Firenze",
+    "product": "Bisfrolla con confettura di mora rossa e mirtillo nero",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Confiserie Firenze - Bisfrolla con confettura di mora rossa e mirtillo nero",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BISFROLLA%20MORA%20E%20MIRTILLO_LDL_1761187634.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bisfrolla-con-confettura-di-mora-rossa-e-mirtillo-nero",
+    "published": "2021-08-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bisfrolline-con-marmellata-al-limone/",
+    "title": "",
+    "noticeDate": "12 agosto 2021",
+    "campi": {
+      "data pubblicazione": "12 agosto 2021",
+      "marca": "Valdenza",
+      "denominazione": "Bisfrolline con marmellata al limone",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Valdenza",
+    "product": "Bisfrolline con marmellata al limone",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Valdenza - Bisfrolline con marmellata al limone",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BISFROLLINE%20LIMONE_1761187637.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bisfrolline-con-marmellata-al-limone",
+    "published": "2021-08-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bisfrolline-con-confettura-di-mora-rossa-e-mirtillo-nero/",
+    "title": "",
+    "noticeDate": "12 agosto 2021",
+    "campi": {
+      "data pubblicazione": "12 agosto 2021",
+      "marca": "Valdenza",
+      "denominazione": "Bisfrolline con confettura di mora rossa e mirtillo nero",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Valdenza",
+    "product": "Bisfrolline con confettura di mora rossa e mirtillo nero",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Valdenza - Bisfrolline con confettura di mora rossa e mirtillo nero",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BISFROLLINE%20MORA%20E%20MIRTILLO_1761187641.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bisfrolline-con-confettura-di-mora-rossa-e-mirtillo-nero",
+    "published": "2021-08-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/frolline-con-confettura-di-more-rosse-e-mirtilli-neri/",
+    "title": "",
+    "noticeDate": "12 agosto 2021",
+    "campi": {
+      "data pubblicazione": "12 agosto 2021",
+      "marca": "La Dolce",
+      "denominazione": "Frolline con confettura di more rosse e mirtilli neri",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "La Dolce",
+    "product": "Frolline con confettura di more rosse e mirtilli neri",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo La Dolce - Frolline con confettura di more rosse e mirtilli neri",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LA%20DOLCE%20FROLLINA%20MORA%20E%20MIRTILLO_1761187644.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "frolline-con-confettura-di-more-rosse-e-mirtilli-neri",
+    "published": "2021-08-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/frolline-con-scorzette-e-marmellata-di-limone/",
+    "title": "",
+    "noticeDate": "12 agosto 2021",
+    "campi": {
+      "data pubblicazione": "12 agosto 2021",
+      "marca": "La Dolce",
+      "denominazione": "Frolline con scorzette e marmellata di limone",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "La Dolce",
+    "product": "Frolline con scorzette e marmellata di limone",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo La Dolce - Frolline con scorzette e marmellata di limone",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LA%20DOLCE%20FROLLINE%20LIMONE_1761187648.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "frolline-con-scorzette-e-marmellata-di-limone",
+    "published": "2021-08-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/torta-ai-frutti-di-bosco/",
+    "title": "",
+    "noticeDate": "12 agosto 2021",
+    "campi": {
+      "data pubblicazione": "12 agosto 2021",
+      "marca": "La Dolce",
+      "denominazione": "Torta ai frutti di bosco",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "La Dolce",
+    "product": "Torta ai frutti di bosco",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo La Dolce - Torta ai frutti di bosco",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LA%20DOLCE%20TORTA%20BOSCO_1761187652.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "torta-ai-frutti-di-bosco",
+    "published": "2021-08-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/torta-di-mele/",
+    "title": "",
+    "noticeDate": "12 agosto 2021",
+    "campi": {
+      "data pubblicazione": "12 agosto 2021",
+      "marca": "La Dolce",
+      "denominazione": "Torta di mele",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "La Dolce",
+    "product": "Torta di mele",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo La Dolce - Torta di mele",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LA%20DOLCE%20TORTA%20MELA_1761187655.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "torta-di-mele",
+    "published": "2021-08-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/torta-ai-frutti-di-bosco-0/",
+    "title": "",
+    "noticeDate": "12 agosto 2021",
+    "campi": {
+      "data pubblicazione": "12 agosto 2021",
+      "marca": "Dolci del Castello",
+      "denominazione": "Torta ai frutti di bosco",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Dolci del Castello",
+    "product": "Torta ai frutti di bosco",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Dolci del Castello - Torta ai frutti di bosco",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/TORTA%20AI%20FRUTTI%20DI%20BOSCO_1761187659.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "torta-ai-frutti-di-bosco-0",
+    "published": "2021-08-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/torta-croccante-con-mirtili-e-more/",
+    "title": "",
+    "noticeDate": "12 agosto 2021",
+    "campi": {
+      "data pubblicazione": "12 agosto 2021",
+      "marca": "Dolci del castello",
+      "denominazione": "Torta croccante con mirtili e more",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Dolci del castello",
+    "product": "Torta croccante con mirtili e more",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Dolci del castello - Torta croccante con mirtili e more",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/TORTA%20CROCCANTE%20CON%20MIRTILLI%20E%20MORE_1761187662.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "torta-croccante-con-mirtili-e-more",
+    "published": "2021-08-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/torta-di-mele-0/",
+    "title": "",
+    "noticeDate": "12 agosto 2021",
+    "campi": {
+      "data pubblicazione": "12 agosto 2021",
+      "marca": "Dolci del Castello",
+      "denominazione": "Torta di mele",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Dolci del Castello",
+    "product": "Torta di mele",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Dolci del Castello - Torta di mele",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/TORTA%20DI%20MELE%20_1761187666.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "torta-di-mele-0",
+    "published": "2021-08-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cracker-salato-superficie-500gr/",
+    "title": "",
+    "noticeDate": "11 agosto 2021",
+    "campi": {
+      "data pubblicazione": "11 agosto 2021",
+      "marca": "CRACKER DESPAR",
+      "denominazione": "CRACKER SALATO IN SUPERFICIE 500gr",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "CRACKER DESPAR",
+    "product": "CRACKER SALATO IN SUPERFICIE 500gr",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CRACKER DESPAR - CRACKER SALATO IN SUPERFICIE 500gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20cracker%20sal_Despar_Crich%206081_1761187611.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cracker-salato-superficie-500gr",
+    "published": "2021-08-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cracker-salato-superficie-500gr-0/",
+    "title": "",
+    "noticeDate": "11 agosto 2021",
+    "campi": {
+      "data pubblicazione": "11 agosto 2021",
+      "marca": "CRACKER DESPAR",
+      "denominazione": "CRACKER SALATO IN SUPERFICIE 500gr",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "CRACKER DESPAR",
+    "product": "CRACKER SALATO IN SUPERFICIE 500gr",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CRACKER DESPAR - CRACKER SALATO IN SUPERFICIE 500gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20cracker%20sal_Despar_Crich%206031_1761187614.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cracker-salato-superficie-500gr-0",
+    "published": "2021-08-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cracker-salati-superficie-500gr/",
+    "title": "",
+    "noticeDate": "11 agosto 2021",
+    "campi": {
+      "data pubblicazione": "11 agosto 2021",
+      "marca": "CRACKER BENNET",
+      "denominazione": "CRACKER SALATI IN SUPERFICIE 500gr",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "CRACKER BENNET",
+    "product": "CRACKER SALATI IN SUPERFICIE 500gr",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CRACKER BENNET - CRACKER SALATI IN SUPERFICIE 500gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20cracker%20sal_Bennet_Crich%206091_1761187617.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cracker-salati-superficie-500gr",
+    "published": "2021-08-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cracker-salati-superficie-500gr-0/",
+    "title": "",
+    "noticeDate": "11 agosto 2021",
+    "campi": {
+      "data pubblicazione": "11 agosto 2021",
+      "marca": "CRACKER BENNET",
+      "denominazione": "CRACKER SALATI IN SUPERFICIE 500gr",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "CRACKER BENNET",
+    "product": "CRACKER SALATI IN SUPERFICIE 500gr",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CRACKER BENNET - CRACKER SALATI IN SUPERFICIE 500gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20cracker%20sal_Bennet_Crich%206031_1761187620.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cracker-salati-superficie-500gr-0",
+    "published": "2021-08-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cracker-250gr-integrale-girasole/",
+    "title": "",
+    "noticeDate": "11 agosto 2021",
+    "campi": {
+      "data pubblicazione": "11 agosto 2021",
+      "marca": "PIOVESANA",
+      "denominazione": "CRACKER 250gr INTEGRALE GIRASOLE",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "PIOVESANA",
+    "product": "CRACKER 250gr INTEGRALE GIRASOLE",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PIOVESANA - CRACKER 250gr INTEGRALE GIRASOLE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cracker%20250g%20integrali%20Piovesana_1761187624.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cracker-250gr-integrale-girasole",
+    "published": "2021-08-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cracker-250gr-integrale-girasole-0/",
+    "title": "",
+    "noticeDate": "11 agosto 2021",
+    "campi": {
+      "data pubblicazione": "11 agosto 2021",
+      "marca": "PIOVESANA",
+      "denominazione": "CRACKER 250gr INTEGRALE GIRASOLE",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "PIOVESANA",
+    "product": "CRACKER 250gr INTEGRALE GIRASOLE",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PIOVESANA - CRACKER 250gr INTEGRALE GIRASOLE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cracker%20250g%20integrali%20Piovesana_1761187627.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cracker-250gr-integrale-girasole-0",
+    "published": "2021-08-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/biscotti-frollini-500-g/",
+    "title": "",
+    "noticeDate": "11 agosto 2021",
+    "campi": {
+      "data pubblicazione": "11 agosto 2021",
+      "marca": "BISCOTTI CRICH",
+      "denominazione": "BISCOTTI FROLLINI 500 G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "BISCOTTI CRICH",
+    "product": "BISCOTTI FROLLINI 500 G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BISCOTTI CRICH - BISCOTTI FROLLINI 500 G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20biscotti%20frollini%20Crich%206031_1761187631.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "biscotti-frollini-500-g",
+    "published": "2021-08-11",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/moringa-polvere-e-moringa-capsule/",
     "title": "Moringa Polvere e Moringa Capsule",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-sui-prodotti-moringa-polvere-e-moringa-capsule-usati/",
