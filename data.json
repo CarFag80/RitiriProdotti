@@ -1174,6 +1174,448 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coop/",
+    "title": "",
+    "noticeDate": "22 novembre 2018",
+    "campi": {
+      "data pubblicazione": "22 novembre 2018",
+      "marca": "821159/0010 COOP SCAMORZA BIANCA A FETTE 140X10",
+      "denominazione": "COOP",
+      "motivo della segnalazione": "Revoca per analisi di revisione favorevole"
+    },
+    "brand": "821159/0010 COOP SCAMORZA BIANCA A FETTE 140X10",
+    "product": "COOP",
+    "reasonShort": "Revoca per analisi di revisione favorevole",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo 821159/0010 COOP SCAMORZA BIANCA A FETTE 140X10 - COOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO_REVOCA_RICHIAMO_SCAMORZA_19.11.18_1761177880.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "coop",
+    "published": "2018-11-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vitello-tonnato-1/",
+    "title": "",
+    "noticeDate": "22 novembre 2018",
+    "campi": {
+      "data pubblicazione": "22 novembre 2018",
+      "marca": "GASTRONOMIA D'ITALIA",
+      "denominazione": "VITELLO TONNATO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "GASTRONOMIA D'ITALIA",
+    "product": "VITELLO TONNATO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GASTRONOMIA D'ITALIA - VITELLO TONNATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LA%20SORGENTE_richiamo_Vit%20tonnato_%2021.11.18_1761177884.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "vitello-tonnato-1",
+    "published": "2018-11-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelatina-fogli-0/",
+    "title": "",
+    "noticeDate": "22 novembre 2018",
+    "campi": {
+      "data pubblicazione": "22 novembre 2018",
+      "marca": "Paneangeli",
+      "denominazione": "gelatina in fogli",
+      "motivo della segnalazione": "Revoca per analisi di revisione favorevole"
+    },
+    "brand": "Paneangeli",
+    "product": "gelatina in fogli",
+    "reasonShort": "Revoca per analisi di revisione favorevole",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Paneangeli - gelatina in fogli",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20RICHIAMO_1761177888.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gelatina-fogli-0",
+    "published": "2018-11-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelatina-fogli-1/",
+    "title": "",
+    "noticeDate": "22 novembre 2018",
+    "campi": {
+      "data pubblicazione": "22 novembre 2018",
+      "marca": "Paneangeli",
+      "denominazione": "Gelatina in fogli",
+      "motivo della segnalazione": "Revoca per analisi di revisione favorevole"
+    },
+    "brand": "Paneangeli",
+    "product": "Gelatina in fogli",
+    "reasonShort": "Revoca per analisi di revisione favorevole",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Paneangeli - Gelatina in fogli",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20RICHIAMO_1761177892.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gelatina-fogli-1",
+    "published": "2018-11-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-gallina-fresche-da-allevamento-batteria-1/",
+    "title": "",
+    "noticeDate": "22 novembre 2018",
+    "campi": {
+      "data pubblicazione": "22 novembre 2018",
+      "marca": "avicola sagittario di Galante & C.",
+      "denominazione": "Uova di Gallina fresche da allevamento in batteria",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "avicola sagittario di Galante & C.",
+    "product": "Uova di Gallina fresche da allevamento in batteria",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo avicola sagittario di Galante & C. - Uova di Gallina fresche da allevamento in batteria",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20%20revoca%20richiamo%20avicola%20sagittario%201_1761177895.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-di-gallina-fresche-da-allevamento-batteria-1",
+    "published": "2018-11-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panettone-il-gran-nocciolato/",
+    "title": "",
+    "noticeDate": "21 novembre 2018",
+    "campi": {
+      "data pubblicazione": "21 novembre 2018",
+      "marca": "MAINA PANETTONI",
+      "denominazione": "PANETTONE IL GRAN NOCCIOLATO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "MAINA PANETTONI",
+    "product": "PANETTONE IL GRAN NOCCIOLATO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MAINA PANETTONI - PANETTONE IL GRAN NOCCIOLATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Maina%20_%20Panettone%20Il%20Gran%20Nocciolato%2019_11_18_1761177872.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "panettone-il-gran-nocciolato",
+    "published": "2018-11-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vitello-tonnato-0/",
+    "title": "",
+    "noticeDate": "21 novembre 2018",
+    "campi": {
+      "data pubblicazione": "21 novembre 2018",
+      "marca": "GASTRONOMIA D'ITALIA",
+      "denominazione": "VITELLO TONNATO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "GASTRONOMIA D'ITALIA",
+    "product": "VITELLO TONNATO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GASTRONOMIA D'ITALIA - VITELLO TONNATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LA%20SORGENTE_richiamo_Vit%20tonnato_%2021.11.18_1761177876.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "vitello-tonnato-0",
+    "published": "2018-11-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/marshmallow-palla-rossa/",
+    "title": "",
+    "noticeDate": "15 novembre 2018",
+    "campi": {
+      "data pubblicazione": "15 novembre 2018",
+      "marca": "Le Monelle",
+      "denominazione": "MARSHMALLOW PALLA ROSSA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Le Monelle",
+    "product": "MARSHMALLOW PALLA ROSSA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Le Monelle - MARSHMALLOW PALLA ROSSA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20NSIS_1761177869.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "marshmallow-palla-rossa",
+    "published": "2018-11-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wellness-mix-alla-frutta-0/",
+    "title": "",
+    "noticeDate": "13 novembre 2018",
+    "campi": {
+      "data pubblicazione": "13 novembre 2018",
+      "marca": "WELLNESS GR. 100/12",
+      "denominazione": "WELLNESS MIX ALLA FRUTTA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "WELLNESS GR. 100/12",
+    "product": "WELLNESS MIX ALLA FRUTTA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo WELLNESS GR. 100/12 - WELLNESS MIX ALLA FRUTTA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Wellness_gr_100_12_1761177862.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "wellness-mix-alla-frutta-0",
+    "published": "2018-11-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wellness-mix/",
+    "title": "",
+    "noticeDate": "13 novembre 2018",
+    "campi": {
+      "data pubblicazione": "13 novembre 2018",
+      "marca": "WELLNESS MIX",
+      "denominazione": "WELLNESS MIX",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "WELLNESS MIX",
+    "product": "WELLNESS MIX",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo WELLNESS MIX - WELLNESS MIX",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Wellness_Mix_1761177865.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "wellness-mix",
+    "published": "2018-11-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-kombucha-zenzero/",
+    "title": "",
+    "noticeDate": "9 luglio 2018",
+    "campi": {
+      "data pubblicazione": "9 luglio 2018",
+      "marca": "Karma",
+      "denominazione": "Bevanda kombucha Zenzero",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Karma",
+    "product": "Bevanda kombucha Zenzero",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Karma - Bevanda kombucha Zenzero",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20KOMBUCHA%20zenzero_1761176876.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-kombucha-zenzero",
+    "published": "2018-07-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-kombucha-te-verde/",
+    "title": "",
+    "noticeDate": "9 luglio 2018",
+    "campi": {
+      "data pubblicazione": "9 luglio 2018",
+      "marca": "Karma",
+      "denominazione": "Bevanda kombucha Te' verde",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Karma",
+    "product": "Bevanda kombucha Te' verde",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Karma - Bevanda kombucha Te' verde",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20KOMBUCHA%20TE%27%20VERDE_1761176879.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-kombucha-te-verde",
+    "published": "2018-07-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-kombucha-melograno/",
+    "title": "",
+    "noticeDate": "9 luglio 2018",
+    "campi": {
+      "data pubblicazione": "9 luglio 2018",
+      "marca": "Karma",
+      "denominazione": "Bevanda kombucha melograno",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Karma",
+    "product": "Bevanda kombucha melograno",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Karma - Bevanda kombucha melograno",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20KOMBUCHA%20melograno_1761176883.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-kombucha-melograno",
+    "published": "2018-07-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-surgelato/",
+    "title": "",
+    "noticeDate": "9 luglio 2018",
+    "campi": {
+      "data pubblicazione": "9 luglio 2018",
+      "marca": "FRESHONA",
+      "denominazione": "MAIS SURGELATO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FRESHONA",
+    "product": "MAIS SURGELATO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FRESHONA - MAIS SURGELATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato_1%20CORRETTO_mais_1761176886.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mais-surgelato",
+    "published": "2018-07-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-di-verdure-surgelate-base-di-carote-fagiolini-piselli-mais/",
+    "title": "",
+    "noticeDate": "9 luglio 2018",
+    "campi": {
+      "data pubblicazione": "9 luglio 2018",
+      "marca": "FRESHONA",
+      "denominazione": "MIX DI VERDURE SURGELATE A BASE DI CAROTE, FAGIOLINI, PISELLI, MAIS.",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FRESHONA",
+    "product": "MIX DI VERDURE SURGELATE A BASE DI CAROTE, FAGIOLINI, PISELLI, MAIS.",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FRESHONA - MIX DI VERDURE SURGELATE A BASE DI CAROTE, FAGIOLINI, PISELLI, MAIS.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato_2%20CORRETTO_mix_1761176889.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mix-di-verdure-surgelate-base-di-carote-fagiolini-piselli-mais",
+    "published": "2018-07-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/4-mixed-vegetables/",
+    "title": "",
+    "noticeDate": "9 luglio 2018",
+    "campi": {
+      "data pubblicazione": "9 luglio 2018",
+      "marca": "PINGUIN",
+      "denominazione": "4 MIXED VEGETABLES",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "PINGUIN",
+    "product": "4 MIXED VEGETABLES",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PINGUIN - 4 MIXED VEGETABLES",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PINGUIN_1761176893.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "4-mixed-vegetables",
+    "published": "2018-07-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mettwurst-insaccato-crudo-spalmabile/",
+    "title": "",
+    "noticeDate": "9 luglio 2018",
+    "campi": {
+      "data pubblicazione": "9 luglio 2018",
+      "marca": "KIEM - Kastelbell",
+      "denominazione": "METTWURST - Insaccato crudo spalmabile",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "KIEM - Kastelbell",
+    "product": "METTWURST - Insaccato crudo spalmabile",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo KIEM - Kastelbell - METTWURST - Insaccato crudo spalmabile",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Kiem_1761176899.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mettwurst-insaccato-crudo-spalmabile",
+    "published": "2018-07-09",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-bonta-di-semi-600-gr/",
     "title": "",
     "noticeDate": "8 luglio 2018",
@@ -1456,6 +1898,84 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "minestrone-tradizione-400-gr-lotto-7303",
+    "published": "2018-07-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-tradizione-400-gr-lotto-7304/",
+    "title": "",
+    "noticeDate": "8 luglio 2018",
+    "campi": {
+      "data pubblicazione": "8 luglio 2018",
+      "marca": "Findus",
+      "denominazione": "Minestrone tradizione 400 gr lotto 7304",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Findus",
+    "product": "Minestrone tradizione 400 gr lotto 7304",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Findus - Minestrone tradizione 400 gr lotto 7304",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%20400GR%20LOTTO%207303_1761176866.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "minestrone-tradizione-400-gr-lotto-7304",
+    "published": "2018-07-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-tradizione-400-gr-lotto-7327/",
+    "title": "",
+    "noticeDate": "8 luglio 2018",
+    "campi": {
+      "data pubblicazione": "8 luglio 2018",
+      "marca": "Findus",
+      "denominazione": "Minestrone tradizione 400 gr lotto 7327",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Findus",
+    "product": "Minestrone tradizione 400 gr lotto 7327",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Findus - Minestrone tradizione 400 gr lotto 7327",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%20400GR%20LOTTO7327_1761176869.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "minestrone-tradizione-400-gr-lotto-7327",
+    "published": "2018-07-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-tradizione-nt-1-kg-lotto-7311/",
+    "title": "",
+    "noticeDate": "8 luglio 2018",
+    "campi": {
+      "data pubblicazione": "8 luglio 2018",
+      "marca": "Findus",
+      "denominazione": "Minestrone tradizione NT 1 kg lotto 7311",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Findus",
+    "product": "Minestrone tradizione NT 1 kg lotto 7311",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Findus - Minestrone tradizione NT 1 kg lotto 7311",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%201KG%20NT%20LOTTO%207311_1761176872.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "minestrone-tradizione-nt-1-kg-lotto-7311",
     "published": "2018-07-08",
     "source": "operator"
   },
