@@ -1,5 +1,180 @@
 [
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratori-alimentari-falcon-labs/",
+    "title": "Integratori alimentari",
+    "noticeUrl": "https://www.salute.gov.it/new/",
+    "noticeDate": "12/03/2018",
+    "campi": {
+      "prodotto": "Integratori alimentari",
+      "marca": "Falcon Labs",
+      "sostanza/rischio": "steroidi",
+      "paese di origine": "Irlanda",
+      "numero lotto": "SUPERCLEN 60 capsule lotto 77142 con scadenza agosto 2018",
+      "news/avviso": "12/03/2018"
+    },
+    "product": "Integratori alimentari",
+    "brand": "Falcon Labs",
+    "reasonShort": "steroidi",
+    "country": "Irlanda",
+    "lots": [
+      "SUPERCLEN 60 capsule lotto 77142 con scadenza agosto 2018"
+    ],
+    "attachments": [
+      {
+        "name": "Integratori alimentari",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_63_foto_itemFoto_0_immagine.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "integratori-alimentari-falcon-labs",
+    "published": "2018-03-12",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/sushigari-prodotto-base-di-zenzero-sushi-daily/",
+    "title": "Sushigari (prodotto a base di zenzero)",
+    "noticeUrl": "https://www.salute.gov.it/new/",
+    "noticeDate": "30/01/2018",
+    "campi": {
+      "prodotto": "Sushigari (prodotto a base di zenzero)",
+      "marca": "Sushi Daily",
+      "sostanza/rischio": "Frammenti di vetro nelle confezioni",
+      "paese di origine": "Cina",
+      "numero lotto": "18081 con scadenza 2 giugno 2018",
+      "news/avviso": "30/01/2018"
+    },
+    "product": "Sushigari (prodotto a base di zenzero)",
+    "brand": "Sushi Daily",
+    "reasonShort": "Frammenti di vetro nelle confezioni",
+    "country": "Cina",
+    "lots": [
+      "18081 con scadenza 2 giugno 2018"
+    ],
+    "attachments": [
+      {
+        "name": "Sushigari (prodotto a base di zenzero)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_62_foto_itemFoto_0_immagine___ex_bmp.png"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sushigari-prodotto-base-di-zenzero-sushi-daily",
+    "published": "2018-01-30",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratore-alimentare-desmodium/",
+    "title": "Integratore alimentare",
+    "noticeUrl": "https://www.salute.gov.it/new/",
+    "noticeDate": "05/09/2017",
+    "campi": {
+      "prodotto": "Integratore alimentare",
+      "marca": "DESMODIUM",
+      "sostanza/rischio": "Mefedrone, Catinone, Norefedrina",
+      "paese di origine": "Francia",
+      "numero lotto": "Lotto 17023/1",
+      "news/avviso": "05/09/2017"
+    },
+    "product": "Integratore alimentare",
+    "brand": "DESMODIUM",
+    "reasonShort": "Mefedrone, Catinone, Norefedrina",
+    "country": "Francia",
+    "lots": [
+      "Lotto 17023/1"
+    ],
+    "attachments": [
+      {
+        "name": "Foto confezione",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_61_foto_itemFoto_0_immagine.jpg"
+      },
+      {
+        "name": "Foto tappo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_61_foto_itemFoto_1_immagine.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "integratore-alimentare-desmodium",
+    "published": "2017-09-05",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/tonno-fresco-garciden/",
+    "title": "Tonno fresco",
+    "noticeUrl": "https://www.salute.gov.it/new/",
+    "noticeDate": "13/05/2017",
+    "campi": {
+      "prodotto": "Tonno fresco",
+      "marca": "Garciden",
+      "sostanza/rischio": "Istamina",
+      "paese di origine": "Spagna",
+      "news/avviso": "13/05/2017"
+    },
+    "product": "Tonno fresco",
+    "brand": "Garciden",
+    "reasonShort": "Istamina",
+    "country": "Spagna",
+    "lots": [],
+    "attachments": [],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tonno-fresco-garciden",
+    "published": "2017-05-13",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/tonno-fresco-garciden-ditta-distributrice/",
+    "title": "Tonno fresco",
+    "noticeUrl": "https://www.salute.gov.it/new/",
+    "noticeDate": "13/05/2017",
+    "campi": {
+      "prodotto": "Tonno fresco",
+      "marca": "Garciden (ditta distributrice)",
+      "sostanza/rischio": "Istamina",
+      "paese di origine": "Spagna",
+      "news/avviso": "13/05/2017"
+    },
+    "product": "Tonno fresco",
+    "brand": "Garciden (ditta distributrice)",
+    "reasonShort": "Istamina",
+    "country": "Spagna",
+    "lots": [],
+    "attachments": [],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tonno-fresco-garciden-ditta-distributrice",
+    "published": "2017-05-13",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/xm-energy-mix/",
+    "title": "XM+ Energy Mix",
+    "noticeUrl": "https://www.salute.gov.it/new/",
+    "noticeDate": "04/07/2016",
+    "campi": {
+      "prodotto": "XM+ Energy Mix",
+      "sostanza/rischio": "Ephedra Nevalensis",
+      "paese di origine": "USA via Olanda",
+      "news/avviso": "04/07/2016"
+    },
+    "product": "XM+ Energy Mix",
+    "reasonShort": "Ephedra Nevalensis",
+    "country": "USA via Olanda",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "XM+ Energy Mix",
+        "url": "https://www.salute.gov.it/new/sites/default/files/2025-04/Immagineavviso.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "xm-energy-mix",
+    "published": "2016-07-04",
+    "source": "official"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/coppa-di-testa-salumificio-monsano-srl/",
     "title": "Coppa di testa",
     "noticeUrl": "https://www.salute.gov.it/new/",
@@ -134,6 +309,115 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/mitili-retine-prodotti-da-stabilimento-irsvem-numero-di-riconoscimento/",
+    "title": "Mitili in retine",
+    "noticeUrl": "https://www.salute.gov.it/new/",
+    "noticeDate": "04/03/2015",
+    "campi": {
+      "prodotto": "Mitili in retine",
+      "marca": "Prodotti da stabilimento IRSVEM, numero di riconoscimento CE IT 2 CDM, sito a Bacoli (Napoli)",
+      "sostanza/rischio": "Riscontro di virus dell’epatite A e Norovirus",
+      "paese di origine": "Italia",
+      "news/avviso": "04/03/2015"
+    },
+    "product": "Mitili in retine",
+    "brand": "Prodotti da stabilimento IRSVEM, numero di riconoscimento CE IT 2 CDM, sito a Bacoli (Napoli)",
+    "reasonShort": "Riscontro di virus dell’epatite A e Norovirus",
+    "country": "Italia",
+    "lots": [],
+    "attachments": [],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mitili-retine-prodotti-da-stabilimento-irsvem-numero-di-riconoscimento",
+    "published": "2015-03-04",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/ragu-contadino-barilla-con-vino-rosso-barilla/",
+    "title": "Ragù Contadino Barilla con vino rosso",
+    "noticeUrl": "https://www.salute.gov.it/new/",
+    "noticeDate": "02/02/2015",
+    "campi": {
+      "prodotto": "Ragù Contadino Barilla con vino rosso",
+      "marca": "Barilla",
+      "sostanza/rischio": "allergeni: latte e sedano",
+      "paese di origine": "Italia",
+      "numero lotto": "666136704",
+      "news/avviso": "02/02/2015"
+    },
+    "product": "Ragù Contadino Barilla con vino rosso",
+    "brand": "Barilla",
+    "reasonShort": "allergeni: latte e sedano",
+    "country": "Italia",
+    "lots": [
+      "666136704"
+    ],
+    "attachments": [],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ragu-contadino-barilla-con-vino-rosso-barilla",
+    "published": "2015-02-02",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/snickers-shake-350ml-prodotto-mars-chocolate-uk-ltd-da-milchwerke/",
+    "title": "Snickers Shake 350ml",
+    "noticeUrl": "https://www.salute.gov.it/new/",
+    "noticeDate": "21/08/2014",
+    "campi": {
+      "prodotto": "Snickers Shake 350ml",
+      "marca": "prodotto per Mars Chocolate UK Ltd da Milchwerke Mittelelbe GmbH (Germania)",
+      "sostanza/rischio": "Bacillus Subtilis",
+      "paese di origine": "Regno Unito",
+      "news/avviso": "21/08/2014"
+    },
+    "product": "Snickers Shake 350ml",
+    "brand": "prodotto per Mars Chocolate UK Ltd da Milchwerke Mittelelbe GmbH (Germania)",
+    "reasonShort": "Bacillus Subtilis",
+    "country": "Regno Unito",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "bottiglia Snickers",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_45_foto_itemFoto_0_immagine.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "snickers-shake-350ml-prodotto-mars-chocolate-uk-ltd-da-milchwerke",
+    "published": "2014-08-21",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/condimento-al-pesto-con-tartufo-szarvasgomba-pesto-gourmand-company/",
+    "title": "condimento al pesto con tartufo \"Szarvasgomba pesto\"",
+    "noticeUrl": "https://www.salute.gov.it/new/",
+    "noticeDate": "19/06/2014",
+    "campi": {
+      "prodotto": "condimento al pesto con tartufo \"Szarvasgomba pesto\"",
+      "marca": "Gourmand Company",
+      "sostanza/rischio": "sospetta presenza tossina botulinica",
+      "paese di origine": "Ungheria",
+      "news/avviso": "19/06/2014"
+    },
+    "product": "condimento al pesto con tartufo \"Szarvasgomba pesto\"",
+    "brand": "Gourmand Company",
+    "reasonShort": "sospetta presenza tossina botulinica",
+    "country": "Ungheria",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "confezione pesto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_44_foto_itemFoto_0_immagine.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "condimento-al-pesto-con-tartufo-szarvasgomba-pesto-gourmand-company",
+    "published": "2014-06-19",
+    "source": "official"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/alimento-miracle-frooties-distribuito-da-miracle-fruit-world-llc/",
     "title": "alimento Miracle Frooties",
     "noticeUrl": "https://www.salute.gov.it/new/",
@@ -171,6 +455,39 @@
     "category": "info",
     "id": "alimento-miracle-frooties-distribuito-da-miracle-fruit-world-llc",
     "published": "2014-06-03",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/max-erectum-forte-vi-pro-production-sro-czech-republic/",
+    "title": "Max Erectum Forte",
+    "noticeUrl": "https://www.salute.gov.it/new/",
+    "noticeDate": "07/05/2014",
+    "campi": {
+      "prodotto": "Max Erectum Forte",
+      "marca": "VI PRO Production s.r.o. , Czech Republic",
+      "sostanza/rischio": "hydroxythiohomosildenafil",
+      "paese di origine": "Repubblica Ceca",
+      "numero lotto": "06082013, scad. 06/08/2015",
+      "news/avviso": "07/05/2014"
+    },
+    "product": "Max Erectum Forte",
+    "brand": "VI PRO Production s.r.o. , Czech Republic",
+    "reasonShort": "hydroxythiohomosildenafil",
+    "country": "Repubblica Ceca",
+    "lots": [
+      "06082013",
+      "scad. 06/08/2015"
+    ],
+    "attachments": [
+      {
+        "name": "Immagine raffigurante l'integratore alimentare Max Erectum Forte",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_42_foto_itemFoto_0_immagine.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "max-erectum-forte-vi-pro-production-sro-czech-republic",
+    "published": "2014-05-07",
     "source": "official"
   },
   {
@@ -573,6 +890,60 @@
     "category": "risk",
     "id": "bevande-superalcoliche",
     "published": "2012-09-18",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/sorbitol-food-grade-mistral/",
+    "title": "Sorbitol Food Grade",
+    "noticeUrl": "https://www.salute.gov.it/new/",
+    "noticeDate": "30/03/2012",
+    "campi": {
+      "prodotto": "Sorbitol Food Grade",
+      "marca": "Mistral",
+      "paese di origine": "Irlanda del Nord",
+      "numero lotto": "CAS 50-70-4",
+      "news/avviso": "30/03/2012"
+    },
+    "product": "Sorbitol Food Grade",
+    "brand": "Mistral",
+    "country": "Irlanda del Nord",
+    "lots": [
+      "CAS 50-70-4"
+    ],
+    "attachments": [
+      {
+        "name": "etichetta prodotto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_avvisiSicurezzaAlimentare_25_foto_itemFoto0_immagine.jpg"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sorbitol-food-grade-mistral",
+    "published": "2012-03-30",
+    "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/sorbitol-food-grade-cargill-manchester/",
+    "title": "Sorbitol food grade",
+    "noticeUrl": "https://www.salute.gov.it/new/",
+    "noticeDate": "24/03/2012",
+    "campi": {
+      "prodotto": "Sorbitol food grade",
+      "marca": "Cargill Manchester",
+      "sostanza/rischio": "Sorbitolo",
+      "paese di origine": "Regno Unito",
+      "news/avviso": "24/03/2012"
+    },
+    "product": "Sorbitol food grade",
+    "brand": "Cargill Manchester",
+    "reasonShort": "Sorbitolo",
+    "country": "Regno Unito",
+    "lots": [],
+    "attachments": [],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sorbitol-food-grade-cargill-manchester",
+    "published": "2012-03-24",
     "source": "official"
   },
   {
