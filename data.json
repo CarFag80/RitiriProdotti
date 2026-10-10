@@ -1,5 +1,473 @@
 [
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-cat/",
+    "title": "",
+    "noticeDate": "27 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "27 ottobre 2021",
+      "marca": "L'UOVO FRESCO DEL RAPARO OVO",
+      "denominazione": "UOVA FRESCHE CAT A",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "L'UOVO FRESCO DEL RAPARO OVO",
+    "product": "UOVA FRESCHE CAT A",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo L'UOVO FRESCO DEL RAPARO OVO - UOVA FRESCHE CAT A",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Aloisio_1761189357.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-cat",
+    "published": "2021-10-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carpaccio-di-pesce-spada-affumicato-0/",
+    "title": "",
+    "noticeDate": "27 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "27 ottobre 2021",
+      "marca": "Gastronomia valdarnese",
+      "denominazione": "Carpaccio di pesce spada affumicato",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Gastronomia valdarnese",
+    "product": "Carpaccio di pesce spada affumicato",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gastronomia valdarnese - Carpaccio di pesce spada affumicato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20spada%20affumicato80g_1761189359.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "carpaccio-di-pesce-spada-affumicato-0",
+    "published": "2021-10-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carpaccio-di-pesce-spada-affumicato-1/",
+    "title": "",
+    "noticeDate": "27 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "27 ottobre 2021",
+      "marca": "Gastronomia valdarnese",
+      "denominazione": "Carpaccio di pesce spada affumicato",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Gastronomia valdarnese",
+    "product": "Carpaccio di pesce spada affumicato",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gastronomia valdarnese - Carpaccio di pesce spada affumicato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20spada%20affumicato100g_1761189361.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "carpaccio-di-pesce-spada-affumicato-1",
+    "published": "2021-10-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mini-cotolette-vegetali/",
+    "title": "",
+    "noticeDate": "26 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "26 ottobre 2021",
+      "marca": "Almaverde Bio",
+      "denominazione": "Mini Cotolette Vegetali",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Almaverde Bio",
+    "product": "Mini Cotolette Vegetali",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Almaverde Bio - Mini Cotolette Vegetali",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo_1761189354.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mini-cotolette-vegetali",
+    "published": "2021-10-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wurstel-di-puro-suino-classico-bonazza-4-pz-100-g/",
+    "title": "",
+    "noticeDate": "25 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "25 ottobre 2021",
+      "marca": "BONAZZA",
+      "denominazione": "WURSTEL DI PURO SUINO CLASSICO BONAZZA 4 PZ 100 g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "BONAZZA",
+    "product": "WURSTEL DI PURO SUINO CLASSICO BONAZZA 4 PZ 100 g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BONAZZA - WURSTEL DI PURO SUINO CLASSICO BONAZZA 4 PZ 100 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MOD%20Richiamo%20WPS4PZBONAZZA_1761189332.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "wurstel-di-puro-suino-classico-bonazza-4-pz-100-g",
+    "published": "2021-10-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wurstel-di-puro-suino-classico-bonazza-4-pz-100-g-0/",
+    "title": "",
+    "noticeDate": "25 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "25 ottobre 2021",
+      "marca": "BONAZZA",
+      "denominazione": "WURSTEL DI PURO SUINO CLASSICO BONAZZA 4 PZ 100 g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "BONAZZA",
+    "product": "WURSTEL DI PURO SUINO CLASSICO BONAZZA 4 PZ 100 g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BONAZZA - WURSTEL DI PURO SUINO CLASSICO BONAZZA 4 PZ 100 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MOD%20Richiamo%20WPS4PZBONAZZA_1761189335.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "wurstel-di-puro-suino-classico-bonazza-4-pz-100-g-0",
+    "published": "2021-10-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wurstel-di-puro-suino-becher-3-pz-250-g/",
+    "title": "",
+    "noticeDate": "25 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "25 ottobre 2021",
+      "marca": "BECHER",
+      "denominazione": "WURSTEL DI PURO SUINO BECHER 3 PZ 250 g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "BECHER",
+    "product": "WURSTEL DI PURO SUINO BECHER 3 PZ 250 g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BECHER - WURSTEL DI PURO SUINO BECHER 3 PZ 250 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MOD%20Richiamo%20WPS3PZBECHER_1761189337.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "wurstel-di-puro-suino-becher-3-pz-250-g",
+    "published": "2021-10-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wurstel-di-puro-suino-classico-bonazza-3-pz-250-g/",
+    "title": "",
+    "noticeDate": "25 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "25 ottobre 2021",
+      "marca": "BONAZZA",
+      "denominazione": "WURSTEL DI PURO SUINO CLASSICO BONAZZA 3 PZ 250 g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "BONAZZA",
+    "product": "WURSTEL DI PURO SUINO CLASSICO BONAZZA 3 PZ 250 g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BONAZZA - WURSTEL DI PURO SUINO CLASSICO BONAZZA 3 PZ 250 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MOD%20Richiamo%20WPS3PZBONAZZA_1761189339.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "wurstel-di-puro-suino-classico-bonazza-3-pz-250-g",
+    "published": "2021-10-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wurstel-di-puro-suino-bona-die-4-pz-100-g/",
+    "title": "",
+    "noticeDate": "25 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "25 ottobre 2021",
+      "marca": "BONA DIE",
+      "denominazione": "WURSTEL DI PURO SUINO BONA DIE 4 PZ 100 g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "BONA DIE",
+    "product": "WURSTEL DI PURO SUINO BONA DIE 4 PZ 100 g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BONA DIE - WURSTEL DI PURO SUINO BONA DIE 4 PZ 100 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/mod_bona_die_4PZ_1761189341.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "wurstel-di-puro-suino-bona-die-4-pz-100-g",
+    "published": "2021-10-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pistacchio-crudo-sgusciato-vassoio-bio/",
+    "title": "",
+    "noticeDate": "25 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "25 ottobre 2021",
+      "marca": "PISTACCHIO CRUDO SGUSCIATO",
+      "denominazione": "PISTACCHIO CRUDO SGUSCIATO \"VASSOIO BIO\"",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "PISTACCHIO CRUDO SGUSCIATO",
+    "product": "PISTACCHIO CRUDO SGUSCIATO \"VASSOIO BIO\"",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PISTACCHIO CRUDO SGUSCIATO - PISTACCHIO CRUDO SGUSCIATO \"VASSOIO BIO\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartellorichiamolotto211018056%20_1__1761189343.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pistacchio-crudo-sgusciato-vassoio-bio",
+    "published": "2021-10-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pistacchio-crudo-sgusciato/",
+    "title": "",
+    "noticeDate": "25 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "25 ottobre 2021",
+      "marca": "U - PISTACCHIO CRUDO SGUSCIATO \"VASSOIO BIO\"",
+      "denominazione": "PISTACCHIO CRUDO SGUSCIATO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "U - PISTACCHIO CRUDO SGUSCIATO \"VASSOIO BIO\"",
+    "product": "PISTACCHIO CRUDO SGUSCIATO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo U - PISTACCHIO CRUDO SGUSCIATO \"VASSOIO BIO\" - PISTACCHIO CRUDO SGUSCIATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartellorichiamolotto211018056%20_1__1761189345.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pistacchio-crudo-sgusciato",
+    "published": "2021-10-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pistacchio-crudo-sgusciato-0/",
+    "title": "",
+    "noticeDate": "25 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "25 ottobre 2021",
+      "marca": "U - PISTACCHIO CRUDO SGUSCIATO \"VASSOIO BIO\"",
+      "denominazione": "PISTACCHIO CRUDO SGUSCIATO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "U - PISTACCHIO CRUDO SGUSCIATO \"VASSOIO BIO\"",
+    "product": "PISTACCHIO CRUDO SGUSCIATO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo U - PISTACCHIO CRUDO SGUSCIATO \"VASSOIO BIO\" - PISTACCHIO CRUDO SGUSCIATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartellorichiamolotto211013067%20_1__1761189347.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pistacchio-crudo-sgusciato-0",
+    "published": "2021-10-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tosano-winner-mix-vasch-ts16ccr-gr2508/",
+    "title": "",
+    "noticeDate": "25 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "25 ottobre 2021",
+      "marca": "TOSANO WINNER MIX \"VASCH. TS16CCR\" GR.250/8",
+      "denominazione": "TOSANO WINNER MIX \"VASCH. TS16CCR\" GR.250/8",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "TOSANO WINNER MIX \"VASCH. TS16CCR\" GR.250/8",
+    "product": "TOSANO WINNER MIX \"VASCH. TS16CCR\" GR.250/8",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TOSANO WINNER MIX \"VASCH. TS16CCR\" GR.250/8 - TOSANO WINNER MIX \"VASCH. TS16CCR\" GR.250/8",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamolotto211015002%20_1__1761189350.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tosano-winner-mix-vasch-ts16ccr-gr2508",
+    "published": "2021-10-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ts16-tosano-winner-mix-vaschetta-gr25012/",
+    "title": "",
+    "noticeDate": "25 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "25 ottobre 2021",
+      "marca": "TS16 TOSANO WINNER MIX \"VASCHETTA\" GR.250/12",
+      "denominazione": "TS16 TOSANO WINNER MIX \"VASCHETTA\" GR.250/12",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "TS16 TOSANO WINNER MIX \"VASCHETTA\" GR.250/12",
+    "product": "TS16 TOSANO WINNER MIX \"VASCHETTA\" GR.250/12",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TS16 TOSANO WINNER MIX \"VASCHETTA\" GR.250/12 - TS16 TOSANO WINNER MIX \"VASCHETTA\" GR.250/12",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamolotto211018047%20_1__1761189352.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ts16-tosano-winner-mix-vaschetta-gr25012",
+    "published": "2021-10-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carpaccio-di-pesce-spada-affumicato/",
+    "title": "",
+    "noticeDate": "23 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "23 ottobre 2021",
+      "marca": "Gastronomia Valdarnese",
+      "denominazione": "Carpaccio di pesce spada affumicato",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "Gastronomia Valdarnese",
+    "product": "Carpaccio di pesce spada affumicato",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gastronomia Valdarnese - Carpaccio di pesce spada affumicato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20gastronomia%20%20valdarnese_1761189328.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "carpaccio-di-pesce-spada-affumicato",
+    "published": "2021-10-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ciambella-1/",
+    "title": "",
+    "noticeDate": "23 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "23 ottobre 2021",
+      "marca": "Panificio Toscano",
+      "denominazione": "Ciambella",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "Panificio Toscano",
+    "product": "Ciambella",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Panificio Toscano - Ciambella",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/mantovana%20revoche_1761189330.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ciambella-1",
+    "published": "2021-10-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongole-del-pacifico-precotte-sgusciate-e-surgelate/",
+    "title": "",
+    "noticeDate": "22 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "22 ottobre 2021",
+      "marca": "veliero",
+      "denominazione": "vongole del pacifico precotte sgusciate e surgelate",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "veliero",
+    "product": "vongole del pacifico precotte sgusciate e surgelate",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo veliero - vongole del pacifico precotte sgusciate e surgelate",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20RICHIAMO%20Asur%2022_10_2021_1761189324.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "vongole-del-pacifico-precotte-sgusciate-e-surgelate",
+    "published": "2021-10-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesce-spada-affumicato/",
+    "title": "",
+    "noticeDate": "22 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "22 ottobre 2021",
+      "marca": "Gastronomia Valdarnese",
+      "denominazione": "Pesce spada affumicato",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Gastronomia Valdarnese",
+    "product": "Pesce spada affumicato",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gastronomia Valdarnese - Pesce spada affumicato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo.jpg1_1761189326.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pesce-spada-affumicato",
+    "published": "2021-10-22",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/reflumed/",
     "title": "",
     "noticeDate": "20 ottobre 2021",
@@ -48,6 +516,58 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "reflumed-0",
+    "published": "2021-10-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/reflumed-1/",
+    "title": "",
+    "noticeDate": "20 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "20 ottobre 2021",
+      "marca": "Named srl",
+      "denominazione": "Reflumed",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Named srl",
+    "product": "Reflumed",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Named srl - Reflumed",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Reflumed%20lotto%20200188_1761189320.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "reflumed-1",
+    "published": "2021-10-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/reflumed-2/",
+    "title": "",
+    "noticeDate": "20 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "20 ottobre 2021",
+      "marca": "Named srl",
+      "denominazione": "Reflumed",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Named srl",
+    "product": "Reflumed",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Named srl - Reflumed",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Reflumed%20lotto%20200189_1761189323.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "reflumed-2",
     "published": "2021-10-20",
     "source": "operator"
   },
