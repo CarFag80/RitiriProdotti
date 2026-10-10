@@ -1,5 +1,473 @@
 [
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-alimentare-tipo-zuppa-al-gusto-verdure/",
+    "title": "",
+    "noticeDate": "1 aprile 2022",
+    "campi": {
+      "data pubblicazione": "1 aprile 2022",
+      "marca": "TISANOREICA GIANLUCA MECH",
+      "denominazione": "Preparato alimentare tipo zuppa al gusto verdure",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "TISANOREICA GIANLUCA MECH",
+    "product": "Preparato alimentare tipo zuppa al gusto verdure",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TISANOREICA GIANLUCA MECH - Preparato alimentare tipo zuppa al gusto verdure",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_zuppa%20di%20verdure_lot%2021S3_03388_1761191129.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-alimentare-tipo-zuppa-al-gusto-verdure",
+    "published": "2022-04-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spezia-margaz/",
+    "title": "",
+    "noticeDate": "25 marzo 2022",
+    "campi": {
+      "data pubblicazione": "25 marzo 2022",
+      "marca": "44",
+      "denominazione": "Spezia Margaz",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "44",
+    "product": "Spezia Margaz",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo 44 - Spezia Margaz",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761191128.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "spezia-margaz",
+    "published": "2022-03-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-sottovuoto/",
+    "title": "",
+    "noticeDate": "21 marzo 2022",
+    "campi": {
+      "data pubblicazione": "21 marzo 2022",
+      "marca": "SALUMIFICIO A. LOVISON SRL",
+      "denominazione": "SALSICCIA SOTTOVUOTO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO A. LOVISON SRL",
+    "product": "SALSICCIA SOTTOVUOTO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO A. LOVISON SRL - SALSICCIA SOTTOVUOTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20lovison_1761191125.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-sottovuoto",
+    "published": "2022-03-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-polvere-cioccolata-classica-12/",
+    "title": "",
+    "noticeDate": "17 marzo 2022",
+    "campi": {
+      "data pubblicazione": "17 marzo 2022",
+      "marca": "Naturera Polot",
+      "denominazione": "Preparato in polvere per cioccolata classica",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Naturera Polot",
+    "product": "Preparato in polvere per cioccolata classica",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Naturera Polot - Preparato in polvere per cioccolata classica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_Cioccolata%20%20tradizionale%20kg1%20_%20L%2021003131_1761190503.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "preparato-polvere-cioccolata-classica-12",
+    "published": "2022-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-polvere-cioccolata-fondente-2/",
+    "title": "",
+    "noticeDate": "17 marzo 2022",
+    "campi": {
+      "data pubblicazione": "17 marzo 2022",
+      "marca": "Naturera Polot",
+      "denominazione": "Preparato in polvere per cioccolata fondente",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Naturera Polot",
+    "product": "Preparato in polvere per cioccolata fondente",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Naturera Polot - Preparato in polvere per cioccolata fondente",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_Cioccolata%20%20fondente%20%20kg1_%20L20009328_1761190508.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "preparato-polvere-cioccolata-fondente-2",
+    "published": "2022-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-polvere-sorbetto-al-limone-0/",
+    "title": "",
+    "noticeDate": "17 marzo 2022",
+    "campi": {
+      "data pubblicazione": "17 marzo 2022",
+      "marca": "Sù",
+      "denominazione": "Preparato in polvere per sorbetto al limone",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Sù",
+    "product": "Preparato in polvere per sorbetto al limone",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sù - Preparato in polvere per sorbetto al limone",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2022_02_10_ModelloRichiamo_Preparato_per_Sorbetto_Limone_S%C3%B9_Lotto_20007571_TMC170923__1761190513.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "preparato-polvere-sorbetto-al-limone-0",
+    "published": "2022-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-polvere-sorbetto-al-limone-1/",
+    "title": "",
+    "noticeDate": "17 marzo 2022",
+    "campi": {
+      "data pubblicazione": "17 marzo 2022",
+      "marca": "Sù",
+      "denominazione": "Preparato in polvere per sorbetto al limone",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Sù",
+    "product": "Preparato in polvere per sorbetto al limone",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sù - Preparato in polvere per sorbetto al limone",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2022_02_10_ModelloRichiamo_Preparato_per_Sorbetto_Limone_S%C3%B9_Lotto%2021000073_TMC130124__1761190518.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "preparato-polvere-sorbetto-al-limone-1",
+    "published": "2022-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-polvere-cioccolata-fondente-3/",
+    "title": "",
+    "noticeDate": "17 marzo 2022",
+    "campi": {
+      "data pubblicazione": "17 marzo 2022",
+      "marca": "Naturera Polot",
+      "denominazione": "Preparato in polvere per cioccolata fondente",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Naturera Polot",
+    "product": "Preparato in polvere per cioccolata fondente",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Naturera Polot - Preparato in polvere per cioccolata fondente",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_Cioccolata%20%20fondente%20%20kg1%20_%20L21003133_1761191123.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "preparato-polvere-cioccolata-fondente-3",
+    "published": "2022-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-polvere-cioccolata-fondente-4/",
+    "title": "",
+    "noticeDate": "17 marzo 2022",
+    "campi": {
+      "data pubblicazione": "17 marzo 2022",
+      "marca": "Naturera Polot",
+      "denominazione": "Preparato in polvere per cioccolata fondente",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Naturera Polot",
+    "product": "Preparato in polvere per cioccolata fondente",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Naturera Polot - Preparato in polvere per cioccolata fondente",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_Cioccolata%20%20fondente%20%20kg1%20_%20L20008003_1761191124.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "preparato-polvere-cioccolata-fondente-4",
+    "published": "2022-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/antipasto-emiliano/",
+    "title": "",
+    "noticeDate": "5 novembre 2021",
+    "campi": {
+      "data pubblicazione": "5 novembre 2021",
+      "marca": "Cuor di Terra",
+      "denominazione": "Antipasto Emiliano",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Cuor di Terra",
+    "product": "Antipasto Emiliano",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cuor di Terra - Antipasto Emiliano",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_Richiamo_Antipasto%20emiliano%20cuor%20di%20terra_1761189369.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "antipasto-emiliano",
+    "published": "2021-11-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/elicoidali-integrali-bio/",
+    "title": "",
+    "noticeDate": "5 novembre 2021",
+    "campi": {
+      "data pubblicazione": "5 novembre 2021",
+      "marca": "natura chiama Selex",
+      "denominazione": "Elicoidali integrali bio",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "natura chiama Selex",
+    "product": "Elicoidali integrali bio",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo natura chiama Selex - Elicoidali integrali bio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/AQInfo_17_2021_10_29_ELICOIDALI_INTEGRALI_BIO_CARTELLO_RICHIAMO_1761189371.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "elicoidali-integrali-bio",
+    "published": "2021-11-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farfalle-integrali-bio/",
+    "title": "",
+    "noticeDate": "5 novembre 2021",
+    "campi": {
+      "data pubblicazione": "5 novembre 2021",
+      "marca": "natura chiama Selex",
+      "denominazione": "Farfalle integrali bio",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "natura chiama Selex",
+    "product": "Farfalle integrali bio",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo natura chiama Selex - Farfalle integrali bio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/AQInfo_17_2021_10_29_FARFALLE_INTEGRALI_BIO_CARTELLO_RICHIAMO_1761189374.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "farfalle-integrali-bio",
+    "published": "2021-11-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fusilli-integrali-bio/",
+    "title": "",
+    "noticeDate": "5 novembre 2021",
+    "campi": {
+      "data pubblicazione": "5 novembre 2021",
+      "marca": "Natura chiama Selex",
+      "denominazione": "Fusilli integrali Bio",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Natura chiama Selex",
+    "product": "Fusilli integrali Bio",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Natura chiama Selex - Fusilli integrali Bio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/AQInfo_17_2021_10_29_FUSILLI_INTEGRALI_BIO_CARTELLO_RICHIAMO_1761189377.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "fusilli-integrali-bio",
+    "published": "2021-11-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/penne-rigate-integrali-bio/",
+    "title": "",
+    "noticeDate": "5 novembre 2021",
+    "campi": {
+      "data pubblicazione": "5 novembre 2021",
+      "marca": "Natura chiama Selex",
+      "denominazione": "Penne rigate integrali bio",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Natura chiama Selex",
+    "product": "Penne rigate integrali bio",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Natura chiama Selex - Penne rigate integrali bio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/AQInfo_17_2021_10_29_PENNE_RIGATE_INTEGRALI_BIO_CARTELLO_RICHIAMO_1761189379.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "penne-rigate-integrali-bio",
+    "published": "2021-11-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spaghetti-integrali-bio/",
+    "title": "",
+    "noticeDate": "5 novembre 2021",
+    "campi": {
+      "data pubblicazione": "5 novembre 2021",
+      "marca": "Natura chiama Selex",
+      "denominazione": "Spaghetti integrali bio",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Natura chiama Selex",
+    "product": "Spaghetti integrali bio",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Natura chiama Selex - Spaghetti integrali bio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/AQInfo_17_2021_10_29_SPAGHETTI_INTEGRALI_BIO_CARTELLO_RICHIAMO_1761189382.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "spaghetti-integrali-bio",
+    "published": "2021-11-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-gragnano-igp-calamarata/",
+    "title": "",
+    "noticeDate": "5 novembre 2021",
+    "campi": {
+      "data pubblicazione": "5 novembre 2021",
+      "marca": "Saper di Sapori",
+      "denominazione": "Pasta di Gragnano IGP Calamarata",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Saper di Sapori",
+    "product": "Pasta di Gragnano IGP Calamarata",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Saper di Sapori - Pasta di Gragnano IGP Calamarata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/AQInfo_18_2021_10_29_PASTA_GRAGNANO_IGP_CALAMARATA_CARTELLO_RICHIAMO_1761189385.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pasta-di-gragnano-igp-calamarata",
+    "published": "2021-11-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-gragnano-igp-spaghettoni/",
+    "title": "",
+    "noticeDate": "5 novembre 2021",
+    "campi": {
+      "data pubblicazione": "5 novembre 2021",
+      "marca": "Saper di Sapori",
+      "denominazione": "Pasta di Gragnano IGP Spaghettoni",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Saper di Sapori",
+    "product": "Pasta di Gragnano IGP Spaghettoni",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Saper di Sapori - Pasta di Gragnano IGP Spaghettoni",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/AQInfo_18_2021_10_29_PASTA_GRAGNANO_IGP_SPAGHETTONI_CARTELLO_RICHIAMO_1761189388.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pasta-di-gragnano-igp-spaghettoni",
+    "published": "2021-11-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/strolghino/",
+    "title": "",
+    "noticeDate": "28 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "28 ottobre 2021",
+      "marca": "TERRE DUCALI",
+      "denominazione": "STROLGHINO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "TERRE DUCALI",
+    "product": "STROLGHINO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TERRE DUCALI - STROLGHINO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo%20SKM_C300i211021160601_1761189366.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "strolghino",
+    "published": "2021-10-28",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-cat/",
     "title": "",
     "noticeDate": "27 ottobre 2021",
@@ -74,6 +542,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "carpaccio-di-pesce-spada-affumicato-1",
+    "published": "2021-10-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/polenta-rapida-coop-375g/",
+    "title": "",
+    "noticeDate": "27 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "27 ottobre 2021",
+      "marca": "COOP",
+      "denominazione": "POLENTA RAPIDA COOP 375G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "COOP",
+    "product": "POLENTA RAPIDA COOP 375G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo COOP - POLENTA RAPIDA COOP 375G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLOALLERTAPRECOTTACOOP_%20_1__1761189364.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "polenta-rapida-coop-375g",
     "published": "2021-10-27",
     "source": "operator"
   },
@@ -24150,6 +24644,19 @@
     "category": "info",
     "product": "504 Gateway Time-out",
     "id": "stomaben",
+    "published": "",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-sottovuoto-0/",
+    "title": "504 Gateway Time-out",
+    "campi": {},
+    "lots": [],
+    "attachments": [],
+    "topic": "",
+    "category": "info",
+    "product": "504 Gateway Time-out",
+    "id": "salsiccia-sottovuoto-0",
     "published": "",
     "source": "operator"
   }
