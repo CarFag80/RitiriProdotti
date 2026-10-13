@@ -1150,6 +1150,474 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/luganega/",
+    "title": "",
+    "noticeDate": "7 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "7 febbraio 2019",
+      "marca": "Fattorie Novella sentieri",
+      "denominazione": "Luganega",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Fattorie Novella sentieri",
+    "product": "Luganega",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fattorie Novella sentieri - Luganega",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/20190206_Richiamo_%20AZ_AGR_FATTORIE%20NOVELLA%20SENTIERI_1761178605.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "luganega",
+    "published": "2019-02-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-alla-toscan/",
+    "title": "",
+    "noticeDate": "6 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "6 febbraio 2019",
+      "marca": "GASTRONOMIA TOSCANA",
+      "denominazione": "Crostini alla Toscan",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "GASTRONOMIA TOSCANA",
+    "product": "Crostini alla Toscan",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GASTRONOMIA TOSCANA - Crostini alla Toscan",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/crostini%20TOSCANA_1761178586.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostini-alla-toscan",
+    "published": "2019-02-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dop-dolce/",
+    "title": "",
+    "noticeDate": "6 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "6 febbraio 2019",
+      "marca": "Casa Leonardi",
+      "denominazione": "Gorgonzola DOP Dolce",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Casa Leonardi",
+    "product": "Gorgonzola DOP Dolce",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Casa Leonardi - Gorgonzola DOP Dolce",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO__ottavo_Casa_Leonardi_lotto_0083002_1761178588.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gorgonzola-dop-dolce",
+    "published": "2019-02-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dop-dolce-0/",
+    "title": "",
+    "noticeDate": "6 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "6 febbraio 2019",
+      "marca": "COLLE MAGGIO",
+      "denominazione": "GORGONZOLA DOP dolce",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "COLLE MAGGIO",
+    "product": "GORGONZOLA DOP dolce",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo COLLE MAGGIO - GORGONZOLA DOP dolce",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_Colle_Maggio_lotto_0088003_1761178590.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gorgonzola-dop-dolce-0",
+    "published": "2019-02-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dop-dolce-1/",
+    "title": "",
+    "noticeDate": "6 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "6 febbraio 2019",
+      "marca": "CASA LEONARDI",
+      "denominazione": "GORGONZOLA DOP dolce",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CASA LEONARDI",
+    "product": "GORGONZOLA DOP dolce",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASA LEONARDI - GORGONZOLA DOP dolce",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_ottaco_Casa_Leonardi_lotto_0074035_1761178593.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gorgonzola-dop-dolce-1",
+    "published": "2019-02-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dop-dolce-2/",
+    "title": "",
+    "noticeDate": "6 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "6 febbraio 2019",
+      "marca": "BELLA ITALIA",
+      "denominazione": "GORGONZOLA DOP dolce",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "BELLA ITALIA",
+    "product": "GORGONZOLA DOP dolce",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BELLA ITALIA - GORGONZOLA DOP dolce",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_ottavo_Bella_italia_lotto_0074040_1761178595.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gorgonzola-dop-dolce-2",
+    "published": "2019-02-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dop-dolce-3/",
+    "title": "",
+    "noticeDate": "6 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "6 febbraio 2019",
+      "marca": "IGOR BLU",
+      "denominazione": "GORGONZOLA DOP dolce",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "IGOR BLU",
+    "product": "GORGONZOLA DOP dolce",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IGOR BLU - GORGONZOLA DOP dolce",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_ottavo_Igor_blu_lotti_0073033_73034_73036_1761178597.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gorgonzola-dop-dolce-3",
+    "published": "2019-02-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dop-dolce-4/",
+    "title": "",
+    "noticeDate": "6 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "6 febbraio 2019",
+      "marca": "NOVARI'",
+      "denominazione": "GORGONZOLA DOP dolce",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "NOVARI'",
+    "product": "GORGONZOLA DOP dolce",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NOVARI' - GORGONZOLA DOP dolce",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_ottavo_Novari__lotto_0074027_1761178600.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gorgonzola-dop-dolce-4",
+    "published": "2019-02-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dop-dolce-5/",
+    "title": "",
+    "noticeDate": "6 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "6 febbraio 2019",
+      "marca": "IGOR BLU",
+      "denominazione": "Gorgonzola DOP Dolce",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "IGOR BLU",
+    "product": "Gorgonzola DOP Dolce",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IGOR BLU - Gorgonzola DOP Dolce",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_Preconf_Igor_blu_lotto_00716005_1761178602.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gorgonzola-dop-dolce-5",
+    "published": "2019-02-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fruttissima-ace-200-ml/",
+    "title": "",
+    "noticeDate": "5 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "5 febbraio 2019",
+      "marca": "FRUTTISSIMA",
+      "denominazione": "FRUTTISSIMA ACE - 200 ml",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "FRUTTISSIMA",
+    "product": "FRUTTISSIMA ACE - 200 ml",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FRUTTISSIMA - FRUTTISSIMA ACE - 200 ml",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MOD08%20_%20Modulo%20ritiro_richiamo%20dal%20mercato%20di%20prodotto%20alimentare%20ASL%20_3_%20ACE%20200%20ml_1761178584.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fruttissima-ace-200-ml",
+    "published": "2019-02-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cha-siu-roasted-pork/",
+    "title": "",
+    "noticeDate": "4 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "4 febbraio 2019",
+      "marca": "LUCKY DUCK INTERNATIONAL FOOD BV",
+      "denominazione": "CHA SIU - ROASTED PORK",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "LUCKY DUCK INTERNATIONAL FOOD BV",
+    "product": "CHA SIU - ROASTED PORK",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LUCKY DUCK INTERNATIONAL FOOD BV - CHA SIU - ROASTED PORK",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_LUCKY%20DUCK.pdf_1761178582.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cha-siu-roasted-pork",
+    "published": "2019-02-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bacche-di-goji-125-gr/",
+    "title": "",
+    "noticeDate": "1 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "1 febbraio 2019",
+      "marca": "Abbasciano",
+      "denominazione": "bacche di goji 125 gr",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Abbasciano",
+    "product": "bacche di goji 125 gr",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Abbasciano - bacche di goji 125 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20BACCHE%20GOJI%20G.125_1761178573.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bacche-di-goji-125-gr",
+    "published": "2019-02-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bacche-di-goji-500-gr/",
+    "title": "",
+    "noticeDate": "1 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "1 febbraio 2019",
+      "marca": "Abbasciano",
+      "denominazione": "bacche di goji 500 gr",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Abbasciano",
+    "product": "bacche di goji 500 gr",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Abbasciano - bacche di goji 500 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20BACCHE%20GOJI%20G.500_1761178575.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bacche-di-goji-500-gr",
+    "published": "2019-02-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bacche-di-goji-10-kg/",
+    "title": "",
+    "noticeDate": "1 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "1 febbraio 2019",
+      "marca": "Abbasciano",
+      "denominazione": "bacche di goji 10 kg",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Abbasciano",
+    "product": "bacche di goji 10 kg",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Abbasciano - bacche di goji 10 kg",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20BACCHE%20GOJI%20KG.10_1761178577.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bacche-di-goji-10-kg",
+    "published": "2019-02-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/saltamix-15-gr/",
+    "title": "",
+    "noticeDate": "1 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "1 febbraio 2019",
+      "marca": "Abbaciano",
+      "denominazione": "SALTAMIX 15 gr",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Abbaciano",
+    "product": "SALTAMIX 15 gr",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Abbaciano - SALTAMIX 15 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20SALTAMIX%20GOJI%20G.150_1761178580.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "saltamix-15-gr",
+    "published": "2019-02-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ragu-di-vitello-top/",
+    "title": "",
+    "noticeDate": "30 gennaio 2019",
+    "campi": {
+      "data pubblicazione": "30 gennaio 2019",
+      "marca": "ESSELUNGA",
+      "denominazione": "RAGU¿ DI VITELLO TOP",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "ESSELUNGA",
+    "product": "RAGU¿ DI VITELLO TOP",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ESSELUNGA - RAGU¿ DI VITELLO TOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Esselunga%20Spa%20_%20allegato%205_1761178568.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ragu-di-vitello-top",
+    "published": "2019-01-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lasagne-al-forno/",
+    "title": "",
+    "noticeDate": "30 gennaio 2019",
+    "campi": {
+      "data pubblicazione": "30 gennaio 2019",
+      "marca": "ESSELUNGA",
+      "denominazione": "LASAGNE AL FORNO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "ESSELUNGA",
+    "product": "LASAGNE AL FORNO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ESSELUNGA - LASAGNE AL FORNO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Esselunga%20Spa%20_%20allegato%203_1761178569.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lasagne-al-forno",
+    "published": "2019-01-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cannelloni-di-carne/",
+    "title": "",
+    "noticeDate": "30 gennaio 2019",
+    "campi": {
+      "data pubblicazione": "30 gennaio 2019",
+      "marca": "ESSELUNGA",
+      "denominazione": "CANNELLONI DI CARNE",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "ESSELUNGA",
+    "product": "CANNELLONI DI CARNE",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ESSELUNGA - CANNELLONI DI CARNE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Esselunga%20Spa%20_%20allegato%204_1761178571.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cannelloni-di-carne",
+    "published": "2019-01-30",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/latte-di-riso-la-prima-infanzia-modilac/",
     "title": "Latte di riso per la prima infanzia",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-di-sicurezza-tossinfezione-alimentare-francia-causata-da-salmonella/",
@@ -1172,6 +1640,58 @@
     "id": "latte-di-riso-la-prima-infanzia-modilac",
     "published": "2019-01-25",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tortina-alla-ricotta/",
+    "title": "",
+    "noticeDate": "23 gennaio 2019",
+    "campi": {
+      "data pubblicazione": "23 gennaio 2019",
+      "marca": "Stabinger",
+      "denominazione": "Tortina alla ricotta",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Stabinger",
+    "product": "Tortina alla ricotta",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Stabinger - Tortina alla ricotta",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_1761178564.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tortina-alla-ricotta",
+    "published": "2019-01-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ghiaccio-tritato-ghiaccio-cocktails/",
+    "title": "",
+    "noticeDate": "23 gennaio 2019",
+    "campi": {
+      "data pubblicazione": "23 gennaio 2019",
+      "marca": "POLO NORD ICE CUBES",
+      "denominazione": "GHIACCIO TRITATO - GHIACCIO PER COCKTAILS",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "POLO NORD ICE CUBES",
+    "product": "GHIACCIO TRITATO - GHIACCIO PER COCKTAILS",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo POLO NORD ICE CUBES - GHIACCIO TRITATO - GHIACCIO PER COCKTAILS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20Richiamo_19_06_C_2019_0222_1761178566.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ghiaccio-tritato-ghiaccio-cocktails",
+    "published": "2019-01-23",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/capricciosa/",
