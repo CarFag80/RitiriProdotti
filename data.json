@@ -1049,6 +1049,240 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/scorza-darancia-candita-ricoperta-di-cioccolato-fondente/",
+    "title": "",
+    "noticeDate": "10 luglio 2019",
+    "campi": {
+      "data pubblicazione": "10 luglio 2019",
+      "marca": "DESPAR TEATRO ITALIA/T'A",
+      "denominazione": "SCORZA D'ARANCIA CANDITA RICOPERTA DI CIOCCOLATO FONDENTE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "DESPAR TEATRO ITALIA/T'A",
+    "product": "SCORZA D'ARANCIA CANDITA RICOPERTA DI CIOCCOLATO FONDENTE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DESPAR TEATRO ITALIA/T'A - SCORZA D'ARANCIA CANDITA RICOPERTA DI CIOCCOLATO FONDENTE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20Richiamo%20prodotti%20marchio%20DESPAR%20new_1761179435.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "scorza-darancia-candita-ricoperta-di-cioccolato-fondente",
+    "published": "2019-07-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/dragees-arancia-candita-ricoperta-di-cioccolato-fondente-0/",
+    "title": "",
+    "noticeDate": "10 luglio 2019",
+    "campi": {
+      "data pubblicazione": "10 luglio 2019",
+      "marca": "T'A MILANO S.R.L.",
+      "denominazione": "DRAGEES ARANCIA CANDITA RICOPERTA DI CIOCCOLATO FONDENTE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "T'A MILANO S.R.L.",
+    "product": "DRAGEES ARANCIA CANDITA RICOPERTA DI CIOCCOLATO FONDENTE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo T'A MILANO S.R.L. - DRAGEES ARANCIA CANDITA RICOPERTA DI CIOCCOLATO FONDENTE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20RICHIAMO%20prodotti%20marchio%20T_A%20Milano%20new_1761179437.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "dragees-arancia-candita-ricoperta-di-cioccolato-fondente-0",
+    "published": "2019-07-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/dragees-arancia-candita-ricoperta-di-cioccolato-fondente/",
+    "title": "",
+    "noticeDate": "3 luglio 2019",
+    "campi": {
+      "data pubblicazione": "3 luglio 2019",
+      "marca": "T'A MILANO SRL",
+      "denominazione": "Dragees arancia candita ricoperta di cioccolato fondente",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "T'A MILANO SRL",
+    "product": "Dragees arancia candita ricoperta di cioccolato fondente",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo T'A MILANO SRL - Dragees arancia candita ricoperta di cioccolato fondente",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20dragees_1761179433.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "dragees-arancia-candita-ricoperta-di-cioccolato-fondente",
+    "published": "2019-07-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trance-di-verdesca-congelate/",
+    "title": "",
+    "noticeDate": "1 luglio 2019",
+    "campi": {
+      "data pubblicazione": "1 luglio 2019",
+      "marca": "PANAPESCA",
+      "denominazione": "TRANCE DI VERDESCA CONGELATE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "PANAPESCA",
+    "product": "TRANCE DI VERDESCA CONGELATE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PANAPESCA - TRANCE DI VERDESCA CONGELATE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Mercurio%20in%20verdesca_1761179432.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "trance-di-verdesca-congelate",
+    "published": "2019-07-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-pop-corn/",
+    "title": "",
+    "noticeDate": "28 giugno 2019",
+    "campi": {
+      "data pubblicazione": "28 giugno 2019",
+      "marca": "Cerreto amanti del biologico",
+      "denominazione": "Mais per pop corn",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Cerreto amanti del biologico",
+    "product": "Mais per pop corn",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cerreto amanti del biologico - Mais per pop corn",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mais%20per%20pop%20corn%20bio_Cerreto_27_06_2019_1761179423.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mais-pop-corn",
+    "published": "2019-06-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-pop-corn-biologico/",
+    "title": "",
+    "noticeDate": "28 giugno 2019",
+    "campi": {
+      "data pubblicazione": "28 giugno 2019",
+      "marca": "Carrefour bio",
+      "denominazione": "Mais pop corn biologico",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Carrefour bio",
+    "product": "Mais pop corn biologico",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Carrefour bio - Mais pop corn biologico",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mais%20pop%20corn%20Carrefour%20bio_27_06_2019%20_1761179425.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mais-pop-corn-biologico",
+    "published": "2019-06-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-pop-corn-biologico-0/",
+    "title": "",
+    "noticeDate": "28 giugno 2019",
+    "campi": {
+      "data pubblicazione": "28 giugno 2019",
+      "marca": "CARREFOUR BIO",
+      "denominazione": "MAIS POP CORN BIOLOGICO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CARREFOUR BIO",
+    "product": "MAIS POP CORN BIOLOGICO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CARREFOUR BIO - MAIS POP CORN BIOLOGICO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mais%20pop%20corn%20Carrefour%20bio_27_06_2019%20_1761179426.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mais-pop-corn-biologico-0",
+    "published": "2019-06-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/curcuma-fitosoma-ed-echinacea-0/",
+    "title": "",
+    "noticeDate": "28 giugno 2019",
+    "campi": {
+      "data pubblicazione": "28 giugno 2019",
+      "marca": "PROCEMSA",
+      "denominazione": "CURCUMA FITOSOMA ED ECHINACEA",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "PROCEMSA",
+    "product": "CURCUMA FITOSOMA ED ECHINACEA",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PROCEMSA - CURCUMA FITOSOMA ED ECHINACEA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20MOVART%2013_06_19_1761179428.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "curcuma-fitosoma-ed-echinacea-0",
+    "published": "2019-06-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/curcuma-fitosoma-ed-echinacea-1/",
+    "title": "",
+    "noticeDate": "28 giugno 2019",
+    "campi": {
+      "data pubblicazione": "28 giugno 2019",
+      "marca": "SCHARPER SPA VIALE ORTLES, 12 - 20139 MILANO",
+      "denominazione": "CURCUMA FITOSOMA ED ECHINACEA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SCHARPER SPA VIALE ORTLES, 12 - 20139 MILANO",
+    "product": "CURCUMA FITOSOMA ED ECHINACEA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SCHARPER SPA VIALE ORTLES, 12 - 20139 MILANO - CURCUMA FITOSOMA ED ECHINACEA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20MOVART_1761179430.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "curcuma-fitosoma-ed-echinacea-1",
+    "published": "2019-06-28",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratore-alimentare-passion-pleasure-sichuan-wellong-pharmaceutical/",
     "title": "Integratore alimentare “Passion & Pleasure”",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/integratore-alimentare-contenente-sostanze-ad-attivita-farmacologica-non/",
@@ -1077,6 +1311,32 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nic-nacs-original-125g-con-sticker-promo/",
+    "title": "",
+    "noticeDate": "27 giugno 2019",
+    "campi": {
+      "data pubblicazione": "27 giugno 2019",
+      "marca": "LORENZ SNACK-WORLD",
+      "denominazione": "NIC NAC¿S ORIGINAL 125g con sticker Promo",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "LORENZ SNACK-WORLD",
+    "product": "NIC NAC¿S ORIGINAL 125g con sticker Promo",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LORENZ SNACK-WORLD - NIC NAC¿S ORIGINAL 125g con sticker Promo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModelloRichiamoNicNacs20190625_it_1761179421.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "nic-nacs-original-125g-con-sticker-promo",
+    "published": "2019-06-27",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratori-alimentari-konsar-future-nutrition-inc/",
     "title": "Integratori alimentari",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-di-sicurezza-integratori-alimentari/",
@@ -1101,6 +1361,188 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bisu-formaggio-morbido-latte-crudo-0/",
+    "title": "",
+    "noticeDate": "26 giugno 2019",
+    "campi": {
+      "data pubblicazione": "26 giugno 2019",
+      "marca": "PE.RA. FORMAGGI S.A.S.",
+      "denominazione": "BISU' formaggio morbido a latte crudo",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "PE.RA. FORMAGGI S.A.S.",
+    "product": "BISU' formaggio morbido a latte crudo",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PE.RA. FORMAGGI S.A.S. - BISU' formaggio morbido a latte crudo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20RICHIAMO_BISU_%20formaggio%20morbido%20a%20latte%20crudi_PE.RA.%20FORMAGGI%20S.A.S._240619_1761179413.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bisu-formaggio-morbido-latte-crudo-0",
+    "published": "2019-06-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/curcumina-plus-95-60-compresse-30-compresse-1/",
+    "title": "",
+    "noticeDate": "26 giugno 2019",
+    "campi": {
+      "data pubblicazione": "26 giugno 2019",
+      "marca": "LINEA@",
+      "denominazione": "CURCUMINA PLUS 95% - 60 compresse - 30 compresse",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LINEA@",
+    "product": "CURCUMINA PLUS 95% - 60 compresse - 30 compresse",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LINEA@ - CURCUMINA PLUS 95% - 60 compresse - 30 compresse",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/20190620RichiamoCurcumimnaPlus%20_4__1761179415.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "curcumina-plus-95-60-compresse-30-compresse-1",
+    "published": "2019-06-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/curcumina-piperina-60-compresse-90-compresse/",
+    "title": "",
+    "noticeDate": "26 giugno 2019",
+    "campi": {
+      "data pubblicazione": "26 giugno 2019",
+      "marca": "AIF",
+      "denominazione": "CURCUMINA PIPERINA+ - 60 compresse - 90 compresse",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "AIF",
+    "product": "CURCUMINA PIPERINA+ - 60 compresse - 90 compresse",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AIF - CURCUMINA PIPERINA+ - 60 compresse - 90 compresse",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/20190620RichiamoCurcumimnaPiperinaAif%20_3__1761179417.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "curcumina-piperina-60-compresse-90-compresse",
+    "published": "2019-06-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crcmn-p-180-compresse/",
+    "title": "",
+    "noticeDate": "26 giugno 2019",
+    "campi": {
+      "data pubblicazione": "26 giugno 2019",
+      "marca": "HB",
+      "denominazione": "CRCMN-P 180 compresse",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "HB",
+    "product": "CRCMN-P 180 compresse",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo HB - CRCMN-P 180 compresse",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/20190620RichiamoCRCMN_P%20_2__1761179418.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crcmn-p-180-compresse",
+    "published": "2019-06-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelatino-alla-stracciatella-di-nocciole/",
+    "title": "",
+    "noticeDate": "26 giugno 2019",
+    "campi": {
+      "data pubblicazione": "26 giugno 2019",
+      "marca": "Italiamo",
+      "denominazione": "Gelatino alla stracciatella di nocciole",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Italiamo",
+    "product": "Gelatino alla stracciatella di nocciole",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Italiamo - Gelatino alla stracciatella di nocciole",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Notifica_396413_Modello%20di%20Richiamo_1761179420.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gelatino-alla-stracciatella-di-nocciole",
+    "published": "2019-06-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salametto-classicosalame-mignon/",
+    "title": "",
+    "noticeDate": "25 giugno 2019",
+    "campi": {
+      "data pubblicazione": "25 giugno 2019",
+      "marca": "SALUMIFICIO ALIPRANDI SPA",
+      "denominazione": "SALAMETTO CLASSICO/SALAME MIGNON",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO ALIPRANDI SPA",
+    "product": "SALAMETTO CLASSICO/SALAME MIGNON",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO ALIPRANDI SPA - SALAMETTO CLASSICO/SALAME MIGNON",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20salametto%20Aliprandi%20Gussago%20BS_1761179412.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salametto-classicosalame-mignon",
+    "published": "2019-06-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/movart-integratore-alimentare-base-di-curcuma-fitosoma-ed-0/",
+    "title": "",
+    "noticeDate": "19 giugno 2019",
+    "campi": {
+      "data pubblicazione": "19 giugno 2019",
+      "marca": "Scharper spa- vle Ortis , 12- 20139 Milano",
+      "denominazione": "Movart- integratore alimentare a base di curcuma fitosoma ed echinacea",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Scharper spa- vle Ortis , 12- 20139 Milano",
+    "product": "Movart- integratore alimentare a base di curcuma fitosoma ed echinacea",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Scharper spa- vle Ortis , 12- 20139 Milano - Movart- integratore alimentare a base di curcuma fitosoma ed echinacea",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Movart%20M80315%20_003__1761179411.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "movart-integratore-alimentare-base-di-curcuma-fitosoma-ed-0",
+    "published": "2019-06-19",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratori-alimentari/",
     "title": "Integratori alimentari",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/integratori-alimentari-presenza-di-sostanze-sildenafil-e-tadalafil-non/",
@@ -1121,6 +1563,84 @@
     "id": "integratori-alimentari",
     "published": "2019-06-18",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-san-lorenzo/",
+    "title": "",
+    "noticeDate": "17 giugno 2019",
+    "campi": {
+      "data pubblicazione": "17 giugno 2019",
+      "marca": "Santini",
+      "denominazione": "Salame San lorenzo",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Santini",
+    "product": "Salame San lorenzo",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Santini - Salame San lorenzo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Salumificio_Santini_Cartello_richiamo%20_1761179409.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-san-lorenzo",
+    "published": "2019-06-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/curcuma-fitosoma-ed-echinacea/",
+    "title": "",
+    "noticeDate": "16 giugno 2019",
+    "campi": {
+      "data pubblicazione": "16 giugno 2019",
+      "marca": "FARMACEUTICI PROCEMSA",
+      "denominazione": "CURCUMA FITOSOMA ED ECHINACEA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FARMACEUTICI PROCEMSA",
+    "product": "CURCUMA FITOSOMA ED ECHINACEA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FARMACEUTICI PROCEMSA - CURCUMA FITOSOMA ED ECHINACEA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_Movart_lotto_M70349_1761179408.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "curcuma-fitosoma-ed-echinacea",
+    "published": "2019-06-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-di-formaggi-grattugiati/",
+    "title": "",
+    "noticeDate": "14 giugno 2019",
+    "campi": {
+      "data pubblicazione": "14 giugno 2019",
+      "marca": "Gran Soresina mix formaggi grattugiati",
+      "denominazione": "Mix di formaggi grattugiati",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Gran Soresina mix formaggi grattugiati",
+    "product": "Mix di formaggi grattugiati",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gran Soresina mix formaggi grattugiati - Mix di formaggi grattugiati",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/latteria%20Soresina_cartello_clienti_richiamo%20grattugiato%20mix%20lotto%2000%209114_1761179407.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mix-di-formaggi-grattugiati",
+    "published": "2019-06-14",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/saint-felicien-confezioni-da-180-g-e-saint-marcellin-confezioni-da-80-g/",
