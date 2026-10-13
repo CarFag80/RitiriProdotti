@@ -1022,6 +1022,266 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aglio-olio-e-peperoncino/",
+    "title": "",
+    "noticeDate": "12 agosto 2019",
+    "campi": {
+      "data pubblicazione": "12 agosto 2019",
+      "marca": "conserve della nonna",
+      "denominazione": "aglio, olio e peperoncino",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "conserve della nonna",
+    "product": "aglio, olio e peperoncino",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo conserve della nonna - aglio, olio e peperoncino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20PP309%20%20LA277_1761179516.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "aglio-olio-e-peperoncino",
+    "published": "2019-08-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aglio-olio-e-peperoncino-0/",
+    "title": "",
+    "noticeDate": "12 agosto 2019",
+    "campi": {
+      "data pubblicazione": "12 agosto 2019",
+      "marca": "Eccellenze d'Italia",
+      "denominazione": "Aglio, olio e peperoncino",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Eccellenze d'Italia",
+    "product": "Aglio, olio e peperoncino",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Eccellenze d'Italia - Aglio, olio e peperoncino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20PP613ED%20%20LA277_%20LA278_1761179519.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "aglio-olio-e-peperoncino-0",
+    "published": "2019-08-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-e-fagioli/",
+    "title": "",
+    "noticeDate": "9 agosto 2019",
+    "campi": {
+      "data pubblicazione": "9 agosto 2019",
+      "marca": "Euroverde soc. agr. srl",
+      "denominazione": "PASTA E FAGIOLI",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Euroverde soc. agr. srl",
+    "product": "PASTA E FAGIOLI",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Euroverde soc. agr. srl - PASTA E FAGIOLI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello_richiamo_pasta_e_fagioli_1761179509.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pasta-e-fagioli",
+    "published": "2019-08-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/stoccafisso-reidratato-polpa-500g-0/",
+    "title": "",
+    "noticeDate": "9 agosto 2019",
+    "campi": {
+      "data pubblicazione": "9 agosto 2019",
+      "marca": "Tagliapietra",
+      "denominazione": "STOCCAFISSO REIDRATATO POLPA 500G",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Tagliapietra",
+    "product": "STOCCAFISSO REIDRATATO POLPA 500G",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Tagliapietra - STOCCAFISSO REIDRATATO POLPA 500G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/400817_Fup_401211_Mod_Richiamo_Ministero_Aggiornato_1761179513.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "stoccafisso-reidratato-polpa-500g-0",
+    "published": "2019-08-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-campagnolo/",
+    "title": "",
+    "noticeDate": "7 agosto 2019",
+    "campi": {
+      "data pubblicazione": "7 agosto 2019",
+      "marca": "Salumi Pasini",
+      "denominazione": "Salame Campagnolo",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumi Pasini",
+    "product": "Salame Campagnolo",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumi Pasini - Salame Campagnolo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20SALAME%20CAMPAGNOLO%20LOTTO%20N.%201056_1761179503.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-campagnolo",
+    "published": "2019-08-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-golfetta/",
+    "title": "",
+    "noticeDate": "7 agosto 2019",
+    "campi": {
+      "data pubblicazione": "7 agosto 2019",
+      "marca": "CONAD SC",
+      "denominazione": "SALAME GOLFETTA",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "CONAD SC",
+    "product": "SALAME GOLFETTA",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONAD SC - SALAME GOLFETTA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_20171116_1764239674.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salame-golfetta",
+    "published": "2019-08-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostata-alla-ciliegia-le-dolci-passioni/",
+    "title": "",
+    "noticeDate": "6 agosto 2019",
+    "campi": {
+      "data pubblicazione": "6 agosto 2019",
+      "marca": "NARDONE PRODUZIONI DOLCIARIE SRL",
+      "denominazione": "CROSTATA ALLA CILIEGIA - LE DOLCI PASSIONI",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "NARDONE PRODUZIONI DOLCIARIE SRL",
+    "product": "CROSTATA ALLA CILIEGIA - LE DOLCI PASSIONI",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NARDONE PRODUZIONI DOLCIARIE SRL - CROSTATA ALLA CILIEGIA - LE DOLCI PASSIONI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ciliegia%20pdf_1761179490.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "crostata-alla-ciliegia-le-dolci-passioni",
+    "published": "2019-08-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostata-allalbicocca-le-dolci-passioni/",
+    "title": "",
+    "noticeDate": "6 agosto 2019",
+    "campi": {
+      "data pubblicazione": "6 agosto 2019",
+      "marca": "NARDONE PRODUZIONI DOLCIARIE SRL",
+      "denominazione": "CROSTATA ALL'ALBICOCCA -LE DOLCI PASSIONI",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "NARDONE PRODUZIONI DOLCIARIE SRL",
+    "product": "CROSTATA ALL'ALBICOCCA -LE DOLCI PASSIONI",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NARDONE PRODUZIONI DOLCIARIE SRL - CROSTATA ALL'ALBICOCCA -LE DOLCI PASSIONI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/albicoccapdf_1761179493.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "crostata-allalbicocca-le-dolci-passioni",
+    "published": "2019-08-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostata-ai-frutti-di-bosco-le-dolci-passioni/",
+    "title": "",
+    "noticeDate": "6 agosto 2019",
+    "campi": {
+      "data pubblicazione": "6 agosto 2019",
+      "marca": "NARDONE PRODUZIONI DOLCIARIE SRL",
+      "denominazione": "CROSTATA AI FRUTTI DI BOSCO - LE DOLCI PASSIONI",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "NARDONE PRODUZIONI DOLCIARIE SRL",
+    "product": "CROSTATA AI FRUTTI DI BOSCO - LE DOLCI PASSIONI",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NARDONE PRODUZIONI DOLCIARIE SRL - CROSTATA AI FRUTTI DI BOSCO - LE DOLCI PASSIONI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CROSTATA%20AI%20FRUTTI%20DI%20BOSCO%20con%20foto_1761179496.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "crostata-ai-frutti-di-bosco-le-dolci-passioni",
+    "published": "2019-08-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/maximum-curcuma-1/",
+    "title": "",
+    "noticeDate": "6 agosto 2019",
+    "campi": {
+      "data pubblicazione": "6 agosto 2019",
+      "marca": "NATURANDO S.R.L.",
+      "denominazione": "MAXIMUM CURCUMA",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "NATURANDO S.R.L.",
+    "product": "MAXIMUM CURCUMA",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NATURANDO S.R.L. - MAXIMUM CURCUMA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/NATURANDO%20modulo%20revoca%20richiamo_1761179499.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "maximum-curcuma-1",
+    "published": "2019-08-06",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/movart/",
     "title": "",
     "noticeDate": "5 agosto 2019",
@@ -3514,6 +3774,240 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-naturale-fonte-itala-effervescente-chiarissima-e/",
+    "title": "",
+    "noticeDate": "20 settembre 2018",
+    "campi": {
+      "data pubblicazione": "20 settembre 2018",
+      "marca": "Fonte Itala",
+      "denominazione": "Acqua Minerale Naturale Fonte Itala Effervescente, Chiarissima e Frizzante",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Fonte Itala",
+    "product": "Acqua Minerale Naturale Fonte Itala Effervescente, Chiarissima e Frizzante",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fonte Itala - Acqua Minerale Naturale Fonte Itala Effervescente, Chiarissima e Frizzante",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20OSA%20_%20Fonte%20Itala%20Srl_1761177750.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "acqua-minerale-naturale-fonte-itala-effervescente-chiarissima-e",
+    "published": "2018-09-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caffe-100-arabica-macinato-bio/",
+    "title": "",
+    "noticeDate": "17 settembre 2018",
+    "campi": {
+      "data pubblicazione": "17 settembre 2018",
+      "marca": "CORSINO CORSINI",
+      "denominazione": "Caffè 100% ARABICA MACINATO BIO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CORSINO CORSINI",
+    "product": "Caffè 100% ARABICA MACINATO BIO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CORSINO CORSINI - Caffè 100% ARABICA MACINATO BIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/caffe%20CORSINI_1761177748.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "caffe-100-arabica-macinato-bio",
+    "published": "2018-09-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-guscio-cat/",
+    "title": "",
+    "noticeDate": "14 settembre 2018",
+    "campi": {
+      "data pubblicazione": "14 settembre 2018",
+      "marca": "Rosselline dell'Avicola Peligna",
+      "denominazione": "Uova fresche in guscio cat. A",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Rosselline dell'Avicola Peligna",
+    "product": "Uova fresche in guscio cat. A",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Rosselline dell'Avicola Peligna - Uova fresche in guscio cat. A",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO_1_1761177746.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-guscio-cat",
+    "published": "2018-09-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/funghi-porcini-secchi-speciali/",
+    "title": "",
+    "noticeDate": "13 settembre 2018",
+    "campi": {
+      "data pubblicazione": "13 settembre 2018",
+      "marca": "BARESA",
+      "denominazione": "FUNGHI PORCINI SECCHI SPECIALI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BARESA",
+    "product": "FUNGHI PORCINI SECCHI SPECIALI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BARESA - FUNGHI PORCINI SECCHI SPECIALI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20_%20Modello%20di%20Richiamo%20K180047_1761177744.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "funghi-porcini-secchi-speciali",
+    "published": "2018-09-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-guscio/",
+    "title": "",
+    "noticeDate": "12 settembre 2018",
+    "campi": {
+      "data pubblicazione": "12 settembre 2018",
+      "marca": "Ovo Fucens Soc. sempl.",
+      "denominazione": "Uova fresche in guscio",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Ovo Fucens Soc. sempl.",
+    "product": "Uova fresche in guscio",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ovo Fucens Soc. sempl. - Uova fresche in guscio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Digitalizzato_20180912_1761177735.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-guscio",
+    "published": "2018-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-2/",
+    "title": "",
+    "noticeDate": "12 settembre 2018",
+    "campi": {
+      "data pubblicazione": "12 settembre 2018",
+      "marca": "AVICOLA PELIGNA DI MARGIOTTA MARIP",
+      "denominazione": "UOVA FRESCHE",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "AVICOLA PELIGNA DI MARGIOTTA MARIP",
+    "product": "UOVA FRESCHE",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AVICOLA PELIGNA DI MARGIOTTA MARIP - UOVA FRESCHE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20Margiotta%201_1761177737.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-fresche-2",
+    "published": "2018-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-3/",
+    "title": "",
+    "noticeDate": "12 settembre 2018",
+    "campi": {
+      "data pubblicazione": "12 settembre 2018",
+      "marca": "AVICOLA PELIGNA DI MARGIOTTA MARIO",
+      "denominazione": "UOVA FRESCHE",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "AVICOLA PELIGNA DI MARGIOTTA MARIO",
+    "product": "UOVA FRESCHE",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AVICOLA PELIGNA DI MARGIOTTA MARIO - UOVA FRESCHE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20Margiotta%202_1761177739.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-fresche-3",
+    "published": "2018-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-4/",
+    "title": "",
+    "noticeDate": "12 settembre 2018",
+    "campi": {
+      "data pubblicazione": "12 settembre 2018",
+      "marca": "AVICOLA PELIGNA DI MARGIOTTA MARIO",
+      "denominazione": "UOVA FRESCHE",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "AVICOLA PELIGNA DI MARGIOTTA MARIO",
+    "product": "UOVA FRESCHE",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AVICOLA PELIGNA DI MARGIOTTA MARIO - UOVA FRESCHE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20Margiotta%203_1761177742.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-fresche-4",
+    "published": "2018-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/funghi-porcini-speciali/",
+    "title": "",
+    "noticeDate": "10 settembre 2018",
+    "campi": {
+      "data pubblicazione": "10 settembre 2018",
+      "marca": "BARESA",
+      "denominazione": "Funghi porcini speciali",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BARESA",
+    "product": "Funghi porcini speciali",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BARESA - Funghi porcini speciali",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20funghi%20porcini%20secchi_1761177733.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "funghi-porcini-speciali",
+    "published": "2018-09-10",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uvetta-ricoperta-di-cioccolato-fondente/",
     "title": "",
     "noticeDate": "24 agosto 2018",
@@ -3640,6 +4134,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "uvetta-ricoperta-di-cioccolato-fondente-3",
+    "published": "2018-08-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uvetta-ricoperta-di-cioccolato-fondente-4/",
+    "title": "",
+    "noticeDate": "24 agosto 2018",
+    "campi": {
+      "data pubblicazione": "24 agosto 2018",
+      "marca": "Passioni - Auchan",
+      "denominazione": "Uvetta ricoperta di cioccolato fondente",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Passioni - Auchan",
+    "product": "Uvetta ricoperta di cioccolato fondente",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Passioni - Auchan - Uvetta ricoperta di cioccolato fondente",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20LOTTO%2018163_1761177731.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uvetta-ricoperta-di-cioccolato-fondente-4",
     "published": "2018-08-24",
     "source": "operator"
   },
