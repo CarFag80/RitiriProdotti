@@ -2,7 +2,7 @@ name: Aggiorna richiami
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # ogni 12 ore
+    - cron: "0 */3 * * *"   # ogni 3 ore (repository pubblico: minuti Actions illimitati; a regime ogni run dura pochi minuti grazie alla cache)
   workflow_dispatch:          # avvio manuale dal tab "Actions" su GitHub
     inputs:
       limit:
@@ -10,10 +10,16 @@ on:
         required: false
         default: ""
 
+# Una sola run alla volta: se ne parte una a mano mentre ce n'è un'altra in
+# corso, si mette in coda invece di sovrapporsi (e pestarsi i commit).
+concurrency:
+  group: aggiorna-richiami
+  cancel-in-progress: false
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 45  # oltre questo tempo si ferma da sola; il lavoro fatto fin lì resta comunque salvato (vedi i checkpoint in scraper.py)
+    timeout-minutes: 45  # tetto di sicurezza; lo scraper si ferma da solo prima (budget di 35 minuti) e pubblica quanto fatto
     permissions:
       contents: write
     steps:
