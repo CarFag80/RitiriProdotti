@@ -29,6 +29,7 @@ COSA È VERIFICATO E COSA NO
 """
 
 import json
+import random
 import re
 import subprocess
 import sys
@@ -56,6 +57,31 @@ OUTPUT_PATH = "data.json"
 # viene interrotta, il lavoro fatto fin lì non va perso — la run successiva
 # riparte da dove si era fermata grazie alla cache, invece che da zero.
 CHECKPOINT_EVERY = 20
+CHECKPOINT_MAX_SECONDS = 300  # checkpoint anche a tempo: almeno ogni 5 minuti
+# Budget di tempo dello scraping (in secondi). Scaduto, lo scraper smette di
+# scaricare schede NUOVE ma tiene quelle già in cache, salva e termina
+# regolarmente: la run finisce "verde", pubblica quanto fatto e la prossima
+# riparte da lì. Deve stare sotto il timeout-minutes del workflow (45 min,
+# di cui qualche minuto serve per installare le dipendenze).
+MAX_RUNTIME_SECONDS = 35 * 60
+
+# Il sito del Ministero blocca chi fa troppe richieste ravvicinate (pagina
+# "Sorry, you have been blocked"): nella run di prova, dopo ~200 schede a
+# 2 secondi l'una, tutte le successive sono arrivate come pagine di blocco.
+# Quindi: ritmo più lento e irregolare, e se ci blocca ci fermiamo invece di
+# insistere (la prossima run parte con un altro indirizzo e riprende).
+DELAY_RANGE = (3.0, 6.0)        # pausa casuale tra una scheda e l'altra (secondi)
+BLOCK_BACKOFF_SECONDS = 120     # attesa dopo il primo blocco, prima di riprovare
+MAX_CONSECUTIVE_BLOCKS = 2      # dopo questi blocchi di fila, ci fermiamo per questa run
+BLOCK_MARKERS = (
+    "sorry, you have been blocked",
+    "attention required",
+    "just a moment",
+    "please enable cookies",
+    "browser validation",
+    "verifying you are human",
+    "access denied",
+)
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -305,7 +331,8 @@ def to_iso(it_date):
     if m:
         d, mth, y = m.groups()
         return f"{y}-{int(mth):02d}-{int(d):02d}"
-    m = re.match(r"^(\d{1,2})\s+([A-Za-zàèéìòù]+)\s+(\d{4})$", it_date)
+    # "17 settembre 2026" (operatori) e "3 /agosto/2026" (ufficiali recenti)
+    m = re.match(r"^(\d{1,2})\s*/?\s*([A-Za-zàèéìòù]+)\s*/?\s*(\d{4})$", it_date)
     if m:
         d, month_name, y = m.groups()
         mth = IT_MONTHS.get(month_name.lower())
@@ -315,13 +342,27 @@ def to_iso(it_date):
 
 
 # ------------------------------------------------------------------- main --
+class Blocked(Exception):
+    pass
+
+
+def looks_blocked(html):
+    low = (html or "").lower()
+    return any(m in low for m in BLOCK_MARKERS)
+
+
+def is_valid_record(rec):
+    """Una scheda vera ha sempre almeno un campo etichetta/valore. Il solo
+    titolo NON basta: la pagina di blocco anti-bot ha un titolo
+    ("Sorry, you have been blocked") ma nessun campo."""
+    return bool(rec.get("campi")) and not looks_blocked(rec.get("title", ""))
+
+
 def load_cache():
-    """Rilegge il data.json della run precedente (portato dentro dal
-    checkout) e lo indicizza per sourceUrl, così le schede già scaricate e
-    con contenuto valido non vengono riscaricate ogni volta: rende le run
-    successive molto più veloci e leggere, sia in tempo che in minuti
-    Actions. Le schede "vuote" (vedi fetch_detail) NON vengono tenute in
-    cache, così si riprovano da sole alla run successiva."""
+    """Rilegge il data.json della run precedente e tiene SOLO le schede
+    valide (vedi is_valid_record): così quelle "fantasma" salvate per
+    errore (pagine di blocco) vengono scartate e riscaricate. Le schede già
+    valide non si riscaricano, e le run successive diventano veloci."""
     try:
         with open(OUTPUT_PATH, encoding="utf-8") as f:
             data = json.load(f)
@@ -331,24 +372,27 @@ def load_cache():
     except Exception as e:
         print(f"data.json precedente non leggibile ({e}): riparto da zero.")
         return {}
-    cache = {r["sourceUrl"]: r for r in data if r.get("sourceUrl") and (r.get("title") or r.get("campi"))}
-    print(f"Cache: {len(cache)} schede già valide, verranno riusate senza riscaricarle.")
+    cache = {r["sourceUrl"]: r for r in data if r.get("sourceUrl") and is_valid_record(r)}
+    scartate = len(data) - len(cache)
+    print(f"Cache: {len(cache)} schede valide riusate senza riscaricarle"
+          + (f"; {scartate} schede non valide (es. pagine di blocco) scartate e da riscaricare." if scartate else "."))
     return cache
 
 
 def fetch_detail(browser, url, source, timeout_ms=20000, retries=1):
-    """Scarica e interpreta una scheda. Se il contenuto risulta vuoto (né
-    titolo né campi: tipicamente un blocco anti-bot o una pagina rimossa)
-    ritenta una volta prima di arrendersi, invece di salvare una scheda
-    fantasma con solo l'etichetta e nessun testo."""
+    """Scarica e interpreta una scheda. Restituisce (record, errore).
+    Se la pagina è un blocco anti-bot, errore = Blocked (nessun ritentativo
+    qui: insistere peggiora il blocco, se ne occupa il chiamante)."""
     last_err = None
     for attempt in range(retries + 1):
         try:
             html = browser.get(url, wait_ms=1200, timeout_ms=timeout_ms)
             rec = parse_detail(html, url, source=source)
-            if rec.get("title") or rec.get("campi"):
+            if is_valid_record(rec):
                 return rec, None
-            last_err = "pagina arrivata vuota (probabile blocco anti-bot o contenuto non più disponibile)"
+            if looks_blocked(html):
+                return None, Blocked("il sito ha risposto con una pagina di blocco")
+            last_err = "pagina senza i campi attesi (struttura diversa o contenuto non più disponibile)"
         except Exception as e:
             last_err = str(e)
         if attempt < retries:
@@ -393,29 +437,52 @@ def git_checkpoint(records, message):
         print(f"Checkpoint fallito ({e}); proseguo comunque lo scraping.")
 
 
-def scrape_source(browser, records, cache, label, source, list_url, pattern, limit, click_label=None):
+def scrape_source(browser, store, label, source, list_url, pattern, limit, deadline, state, click_label=None):
+    """`store` è un dizionario sourceUrl -> scheda, già riempito con la
+    cache: ciò che c'è già non si riscarica e non si perde mai, nemmeno se
+    questa run non riesce a ricontattare il sito."""
     print(f"\n=== {label} ===")
     try:
         urls = discover_urls(browser, list_url, pattern, limit=limit, click_label=click_label)
         since_checkpoint = 0
+        last_cp = time.time()
+        rimaste = 0
         for i, url in enumerate(urls, 1):
-            cached = cache.get(url)
-            if cached:
-                records.append(cached)
+            if url in store:
                 print(f"[{i}/{len(urls)}] cache {url}")
                 continue
+            if state["blocked"] or time.time() > deadline:
+                rimaste += 1
+                continue
             rec, err = fetch_detail(browser, url, source)
+            if isinstance(err, Blocked):
+                state["blocks"] += 1
+                print(f"[{i}/{len(urls)}] BLOCCATO dal sito ({state['blocks']}/{MAX_CONSECUTIVE_BLOCKS}) {url}")
+                if state["blocks"] >= MAX_CONSECUTIVE_BLOCKS:
+                    state["blocked"] = True
+                    print("Il sito ci sta bloccando: mi fermo qui per questa run, "
+                          "la prossima ripartirà da dove siamo arrivati.")
+                else:
+                    print(f"Attendo {BLOCK_BACKOFF_SECONDS}s prima di riprovare...")
+                    time.sleep(BLOCK_BACKOFF_SECONDS)
+                rimaste += 1
+                continue
+            state["blocks"] = 0
             if rec:
-                records.append(rec)
+                store[url] = rec
                 flag = " (senza data!)" if not rec.get("published") else ""
                 print(f"[{i}/{len(urls)}] ok  {url}{flag}")
                 since_checkpoint += 1
-                if since_checkpoint >= CHECKPOINT_EVERY:
-                    git_checkpoint(records, f"Checkpoint parziale richiami ({label.lower()})")
-                    since_checkpoint = 0
             else:
                 print(f"[{i}/{len(urls)}] SALTATO {url}: {err}")
-            time.sleep(0.5)
+            if since_checkpoint and (since_checkpoint >= CHECKPOINT_EVERY
+                                     or time.time() - last_cp > CHECKPOINT_MAX_SECONDS):
+                git_checkpoint(list(store.values()), f"Checkpoint parziale richiami ({label.lower()})")
+                since_checkpoint = 0
+                last_cp = time.time()
+            time.sleep(random.uniform(*DELAY_RANGE))
+        if rimaste:
+            print(f"{rimaste} schede di '{label}' restano da scaricare: ci penserà la prossima run.")
     except Exception as e:
         print(f"FONTE '{label}' SALTATA per errore imprevisto: {e}")
 
@@ -423,24 +490,26 @@ def scrape_source(browser, records, cache, label, source, list_url, pattern, lim
 def main():
     limit = int(sys.argv[1]) if len(sys.argv) > 1 else None
     cache = load_cache()
+    start = time.time()
+    store = dict(cache)                      # parte da tutto ciò che è già valido
+    state = {"blocked": False, "blocks": 0}  # condiviso fra le due fonti
 
     with Browser() as b:
-        records = []
-        # Isolate ogni fonte nel proprio try/except (dentro scrape_source):
-        # se una va in errore, non deve impedire il salvataggio dell'altra.
-        scrape_source(b, records, cache, "RICHIAMI UFFICIALI", "official",
-                      OFFICIAL_URL, "avvisi-sicurezza-alimentare", limit)
-        scrape_source(b, records, cache, "RICHIAMI DEGLI OPERATORI", "operator",
+        scrape_source(b, store, "RICHIAMI UFFICIALI", "official",
+                      OFFICIAL_URL, "avvisi-sicurezza-alimentare", limit,
+                      deadline=start + MAX_RUNTIME_SECONDS / 2, state=state)
+        scrape_source(b, store, "RICHIAMI DEGLI OPERATORI", "operator",
                       OPERATOR_URL, "ext-avviso-sicurezza-alimentare", limit,
+                      deadline=start + MAX_RUNTIME_SECONDS, state=state,
                       click_label=OPERATOR_TAB_LABEL)
 
-        if not records:
-            raise SystemExit(
-                "Nessuna scheda trovata da nessuna delle due fonti. "
-                "Controlla il log qui sopra per capire dove si è fermato."
-            )
+    if not store:
+        raise SystemExit(
+            "Nessuna scheda valida da nessuna delle due fonti. "
+            "Controlla il log qui sopra per capire dove si è fermato."
+        )
 
-    records = save_records(records)
+    records = save_records(list(store.values()))
     official_count = sum(1 for r in records if r.get("source") == "official")
     operator_count = sum(1 for r in records if r.get("source") == "operator")
     print(f"\nSalvati {len(records)} richiami ({official_count} ufficiali, {operator_count} operatori) in {OUTPUT_PATH}")
