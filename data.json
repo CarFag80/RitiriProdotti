@@ -3774,6 +3774,188 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-kombucha-zenzero/",
+    "title": "",
+    "noticeDate": "9 luglio 2018",
+    "campi": {
+      "data pubblicazione": "9 luglio 2018",
+      "marca": "Karma",
+      "denominazione": "Bevanda kombucha Zenzero",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Karma",
+    "product": "Bevanda kombucha Zenzero",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Karma - Bevanda kombucha Zenzero",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20KOMBUCHA%20zenzero_1761176876.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-kombucha-zenzero",
+    "published": "2018-07-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-kombucha-te-verde/",
+    "title": "",
+    "noticeDate": "9 luglio 2018",
+    "campi": {
+      "data pubblicazione": "9 luglio 2018",
+      "marca": "Karma",
+      "denominazione": "Bevanda kombucha Te' verde",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Karma",
+    "product": "Bevanda kombucha Te' verde",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Karma - Bevanda kombucha Te' verde",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20KOMBUCHA%20TE%27%20VERDE_1761176879.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-kombucha-te-verde",
+    "published": "2018-07-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-kombucha-melograno/",
+    "title": "",
+    "noticeDate": "9 luglio 2018",
+    "campi": {
+      "data pubblicazione": "9 luglio 2018",
+      "marca": "Karma",
+      "denominazione": "Bevanda kombucha melograno",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Karma",
+    "product": "Bevanda kombucha melograno",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Karma - Bevanda kombucha melograno",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20KOMBUCHA%20melograno_1761176883.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-kombucha-melograno",
+    "published": "2018-07-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-surgelato/",
+    "title": "",
+    "noticeDate": "9 luglio 2018",
+    "campi": {
+      "data pubblicazione": "9 luglio 2018",
+      "marca": "FRESHONA",
+      "denominazione": "MAIS SURGELATO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FRESHONA",
+    "product": "MAIS SURGELATO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FRESHONA - MAIS SURGELATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato_1%20CORRETTO_mais_1761176886.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mais-surgelato",
+    "published": "2018-07-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-di-verdure-surgelate-base-di-carote-fagiolini-piselli-mais/",
+    "title": "",
+    "noticeDate": "9 luglio 2018",
+    "campi": {
+      "data pubblicazione": "9 luglio 2018",
+      "marca": "FRESHONA",
+      "denominazione": "MIX DI VERDURE SURGELATE A BASE DI CAROTE, FAGIOLINI, PISELLI, MAIS.",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FRESHONA",
+    "product": "MIX DI VERDURE SURGELATE A BASE DI CAROTE, FAGIOLINI, PISELLI, MAIS.",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FRESHONA - MIX DI VERDURE SURGELATE A BASE DI CAROTE, FAGIOLINI, PISELLI, MAIS.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato_2%20CORRETTO_mix_1761176889.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mix-di-verdure-surgelate-base-di-carote-fagiolini-piselli-mais",
+    "published": "2018-07-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/4-mixed-vegetables/",
+    "title": "",
+    "noticeDate": "9 luglio 2018",
+    "campi": {
+      "data pubblicazione": "9 luglio 2018",
+      "marca": "PINGUIN",
+      "denominazione": "4 MIXED VEGETABLES",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "PINGUIN",
+    "product": "4 MIXED VEGETABLES",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PINGUIN - 4 MIXED VEGETABLES",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PINGUIN_1761176893.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "4-mixed-vegetables",
+    "published": "2018-07-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mettwurst-insaccato-crudo-spalmabile/",
+    "title": "",
+    "noticeDate": "9 luglio 2018",
+    "campi": {
+      "data pubblicazione": "9 luglio 2018",
+      "marca": "KIEM - Kastelbell",
+      "denominazione": "METTWURST - Insaccato crudo spalmabile",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "KIEM - Kastelbell",
+    "product": "METTWURST - Insaccato crudo spalmabile",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo KIEM - Kastelbell - METTWURST - Insaccato crudo spalmabile",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Kiem_1761176899.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mettwurst-insaccato-crudo-spalmabile",
+    "published": "2018-07-09",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-bonta-di-semi-600-gr/",
     "title": "",
     "noticeDate": "8 luglio 2018",
@@ -4056,6 +4238,84 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "minestrone-tradizione-400-gr-lotto-7303",
+    "published": "2018-07-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-tradizione-400-gr-lotto-7304/",
+    "title": "",
+    "noticeDate": "8 luglio 2018",
+    "campi": {
+      "data pubblicazione": "8 luglio 2018",
+      "marca": "Findus",
+      "denominazione": "Minestrone tradizione 400 gr lotto 7304",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Findus",
+    "product": "Minestrone tradizione 400 gr lotto 7304",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Findus - Minestrone tradizione 400 gr lotto 7304",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%20400GR%20LOTTO%207303_1761176866.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "minestrone-tradizione-400-gr-lotto-7304",
+    "published": "2018-07-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-tradizione-400-gr-lotto-7327/",
+    "title": "",
+    "noticeDate": "8 luglio 2018",
+    "campi": {
+      "data pubblicazione": "8 luglio 2018",
+      "marca": "Findus",
+      "denominazione": "Minestrone tradizione 400 gr lotto 7327",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Findus",
+    "product": "Minestrone tradizione 400 gr lotto 7327",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Findus - Minestrone tradizione 400 gr lotto 7327",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%20400GR%20LOTTO7327_1761176869.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "minestrone-tradizione-400-gr-lotto-7327",
+    "published": "2018-07-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-tradizione-nt-1-kg-lotto-7311/",
+    "title": "",
+    "noticeDate": "8 luglio 2018",
+    "campi": {
+      "data pubblicazione": "8 luglio 2018",
+      "marca": "Findus",
+      "denominazione": "Minestrone tradizione NT 1 kg lotto 7311",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Findus",
+    "product": "Minestrone tradizione NT 1 kg lotto 7311",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Findus - Minestrone tradizione NT 1 kg lotto 7311",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%201KG%20NT%20LOTTO%207311_1761176872.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "minestrone-tradizione-nt-1-kg-lotto-7311",
     "published": "2018-07-08",
     "source": "operator"
   },
@@ -4844,6 +5104,266 @@
     "id": "integratori-alimentari-falcon-labs",
     "published": "2018-03-12",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aringa-argentata/",
+    "title": "",
+    "noticeDate": "1 marzo 2018",
+    "campi": {
+      "data pubblicazione": "1 marzo 2018",
+      "marca": "Tagliapietra",
+      "denominazione": "Aringa Argentata",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Tagliapietra",
+    "product": "Aringa Argentata",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Tagliapietra - Aringa Argentata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_18_15_A_1761176192.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "aringa-argentata",
+    "published": "2018-03-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/conchiglia-gianduia-prodotto-cotto-la-vendita-consumatore/",
+    "title": "",
+    "noticeDate": "28 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "28 febbraio 2018",
+      "marca": "Lidl",
+      "denominazione": "Conchiglia gianduia (PRODOTTO COTTO PER LA VENDITA A CONSUMATORE)",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Lidl",
+    "product": "Conchiglia gianduia (PRODOTTO COTTO PER LA VENDITA A CONSUMATORE)",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Lidl - Conchiglia gianduia (PRODOTTO COTTO PER LA VENDITA A CONSUMATORE)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_Conchiglia_gianduia_18_18_C_1761176184.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "conchiglia-gianduia-prodotto-cotto-la-vendita-consumatore",
+    "published": "2018-02-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-fermentato-gusto-mirtillo-ean-14289851/",
+    "title": "",
+    "noticeDate": "28 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "28 febbraio 2018",
+      "marca": "VITALIBRE",
+      "denominazione": "LATTE FERMENTATO GUSTO MIRTILLO (EAN 14289851)",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "VITALIBRE",
+    "product": "LATTE FERMENTATO GUSTO MIRTILLO (EAN 14289851)",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VITALIBRE - LATTE FERMENTATO GUSTO MIRTILLO (EAN 14289851)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Vitalibre%20modello%20MinSal_1761176188.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-fermentato-gusto-mirtillo-ean-14289851",
+    "published": "2018-02-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bastoncini-con-crusca-di-rumento-ac-conad/",
+    "title": "",
+    "noticeDate": "26 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "26 febbraio 2018",
+      "marca": "Conad",
+      "denominazione": "Bastoncini con crusca di rumento \"AC Conad\"",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Conad",
+    "product": "Bastoncini con crusca di rumento \"AC Conad\"",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Conad - Bastoncini con crusca di rumento \"AC Conad\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20BASTONCINI%20AC%20CONAD_1761176180.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bastoncini-con-crusca-di-rumento-ac-conad",
+    "published": "2018-02-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-sesamo-con-cacao-halva-marchio-baskaya-gusto-pistacchio/",
+    "title": "",
+    "noticeDate": "23 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2018",
+      "marca": "Baskaya",
+      "denominazione": "¿PASTA DI SESAMO con CACAO- Halva- marchio Baskaya ¿Gusto Pistacchio¿ ¿ conf. da 350 g.¿",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Baskaya",
+    "product": "¿PASTA DI SESAMO con CACAO- Halva- marchio Baskaya ¿Gusto Pistacchio¿ ¿ conf. da 350 g.¿",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Baskaya - ¿PASTA DI SESAMO con CACAO- Halva- marchio Baskaya ¿Gusto Pistacchio¿ ¿ conf. da 350 g.¿",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20helva%20pistacchio_1761176164.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pasta-di-sesamo-con-cacao-halva-marchio-baskaya-gusto-pistacchio",
+    "published": "2018-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-sesamo-con-cacao-halva-marchio-baskaya-gusto-cacao-conf-da/",
+    "title": "",
+    "noticeDate": "23 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2018",
+      "marca": "Baskaya",
+      "denominazione": "PASTA DI SESAMO con CACAO- Halva- marchio Baskaya ¿Gusto Cacao¿ conf. da 350 g.¿",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Baskaya",
+    "product": "PASTA DI SESAMO con CACAO- Halva- marchio Baskaya ¿Gusto Cacao¿ conf. da 350 g.¿",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Baskaya - PASTA DI SESAMO con CACAO- Halva- marchio Baskaya ¿Gusto Cacao¿ conf. da 350 g.¿",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20helva%20cacao_1761176168.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pasta-di-sesamo-con-cacao-halva-marchio-baskaya-gusto-cacao-conf-da",
+    "published": "2018-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-sesamo-con-cacao-halva-marchio-baskaya-gusto-vaniglia-conf/",
+    "title": "",
+    "noticeDate": "23 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2018",
+      "marca": "Baskaya",
+      "denominazione": "PASTA DI SESAMO con CACAO- Halva- marchio Baskaya ¿Gusto Vaniglia¿ - conf. da 350 g.¿",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Baskaya",
+    "product": "PASTA DI SESAMO con CACAO- Halva- marchio Baskaya ¿Gusto Vaniglia¿ - conf. da 350 g.¿",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Baskaya - PASTA DI SESAMO con CACAO- Halva- marchio Baskaya ¿Gusto Vaniglia¿ - conf. da 350 g.¿",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20helva%20vaniglia_1761176172.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pasta-di-sesamo-con-cacao-halva-marchio-baskaya-gusto-vaniglia-conf",
+    "published": "2018-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/dolcetti-di-marshmallow/",
+    "title": "",
+    "noticeDate": "23 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2018",
+      "marca": "ikea",
+      "denominazione": "dolcetti di marshmallow",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ikea",
+    "product": "dolcetti di marshmallow",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ikea - dolcetti di marshmallow",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ikea_1761176176.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "dolcetti-di-marshmallow",
+    "published": "2018-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tortine-assortite-torta-alle-mele-ean-20970277-torta-della-nonna/",
+    "title": "",
+    "noticeDate": "21 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "21 febbraio 2018",
+      "marca": "Milbona",
+      "denominazione": "Tortine assortite - Torta alle mele (EAN 20970277), Torta della nonna (EAN 20970284)",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Milbona",
+    "product": "Tortine assortite - Torta alle mele (EAN 20970277), Torta della nonna (EAN 20970284)",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Milbona - Tortine assortite - Torta alle mele (EAN 20970277), Torta della nonna (EAN 20970284)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO%20LIDL_Tortine%20_1__1761176157.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tortine-assortite-torta-alle-mele-ean-20970277-torta-della-nonna",
+    "published": "2018-02-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamino-piccante/",
+    "title": "",
+    "noticeDate": "21 febbraio 2018",
+    "campi": {
+      "data pubblicazione": "21 febbraio 2018",
+      "marca": "ROBERTO AZZOCCHI SRL",
+      "denominazione": "SALAMINO PICCANTE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ROBERTO AZZOCCHI SRL",
+    "product": "SALAMINO PICCANTE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ROBERTO AZZOCCHI SRL - SALAMINO PICCANTE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salamino%20piccante%20azzocchi_1761176161.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salamino-piccante",
+    "published": "2018-02-21",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tortina-alla-ricotta-300-gr-scadenze-dal-22022018-al-01032018/",
