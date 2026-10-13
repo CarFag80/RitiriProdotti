@@ -1150,6 +1150,474 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/dolcetti-marshmallow-sotsak-skumtopp/",
+    "title": "",
+    "noticeDate": "13 marzo 2019",
+    "campi": {
+      "data pubblicazione": "13 marzo 2019",
+      "marca": "IKEA",
+      "denominazione": "dolcetti marshmallow SÖTSAK SKUMTOPP",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "IKEA",
+    "product": "dolcetti marshmallow SÖTSAK SKUMTOPP",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IKEA - dolcetti marshmallow SÖTSAK SKUMTOPP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20ministero_1761178662.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "dolcetti-marshmallow-sotsak-skumtopp",
+    "published": "2019-03-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/citterino-0/",
+    "title": "",
+    "noticeDate": "12 marzo 2019",
+    "campi": {
+      "data pubblicazione": "12 marzo 2019",
+      "marca": "Giuseppe Citterio Salumificio spa",
+      "denominazione": "Citterino",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Giuseppe Citterio Salumificio spa",
+    "product": "Citterino",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Giuseppe Citterio Salumificio spa - Citterino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Citterio_integrato_1761178659.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "citterino-0",
+    "published": "2019-03-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/citterino/",
+    "title": "",
+    "noticeDate": "8 marzo 2019",
+    "campi": {
+      "data pubblicazione": "8 marzo 2019",
+      "marca": "Giuseppe Citterio Salumificio spa",
+      "denominazione": "Citterino",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Giuseppe Citterio Salumificio spa",
+    "product": "Citterino",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Giuseppe Citterio Salumificio spa - Citterino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Citterio_1_1761178656.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "citterino",
+    "published": "2019-03-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-grano-tenero-tipo-00-0/",
+    "title": "",
+    "noticeDate": "4 marzo 2019",
+    "campi": {
+      "data pubblicazione": "4 marzo 2019",
+      "marca": "SELEX",
+      "denominazione": "FARINA DI GRANO TENERO TIPO 00",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "SELEX",
+    "product": "FARINA DI GRANO TENERO TIPO 00",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SELEX - FARINA DI GRANO TENERO TIPO 00",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/385786_Richiamo_Selex_1761178653.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "farina-di-grano-tenero-tipo-00-0",
+    "published": "2019-03-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-grano-tenero-tipo-00/",
+    "title": "",
+    "noticeDate": "28 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "28 febbraio 2019",
+      "marca": "CUORE MEDITERRANEO",
+      "denominazione": "FARINA GRANO TENERO TIPO 00",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "CUORE MEDITERRANEO",
+    "product": "FARINA GRANO TENERO TIPO 00",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CUORE MEDITERRANEO - FARINA GRANO TENERO TIPO 00",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_386210_OSAmodulodirichiamoprodottinonconformicuorem%20_1__1761178646.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "farina-grano-tenero-tipo-00",
+    "published": "2019-02-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-grano-tenero-tipo-00/",
+    "title": "",
+    "noticeDate": "28 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "28 febbraio 2019",
+      "marca": "SELEX",
+      "denominazione": "FARINA DI GRANO TENERO TIPO 00",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "SELEX",
+    "product": "FARINA DI GRANO TENERO TIPO 00",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SELEX - FARINA DI GRANO TENERO TIPO 00",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_386210_OSAmodulodirichiamoprodottinonconformiselexok_1761178649.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "farina-di-grano-tenero-tipo-00",
+    "published": "2019-02-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/integratore-alimentare-0/",
+    "title": "",
+    "noticeDate": "20 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "20 febbraio 2019",
+      "marca": "GINKGO SIMUL. CPS.; BIOGIN CPS.",
+      "denominazione": "INTEGRATORE ALIMENTARE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "GINKGO SIMUL. CPS.; BIOGIN CPS.",
+    "product": "INTEGRATORE ALIMENTARE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GINKGO SIMUL. CPS.; BIOGIN CPS. - INTEGRATORE ALIMENTARE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Rettifica%20Richiamo%20Ginkgo%20s.%20term.conservaz_1761178643.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "integratore-alimentare-0",
+    "published": "2019-02-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/integratore-alimentare/",
+    "title": "",
+    "noticeDate": "18 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "18 febbraio 2019",
+      "marca": "GINKGO SIMUL CPS. , BIOGIN CPS.",
+      "denominazione": "Integratore alimentare",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "GINKGO SIMUL CPS. , BIOGIN CPS.",
+    "product": "Integratore alimentare",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GINKGO SIMUL CPS. , BIOGIN CPS. - Integratore alimentare",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALL.2_%20NATURSIMUL_1761178640.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "integratore-alimentare",
+    "published": "2019-02-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-norvegese-affumicato-0/",
+    "title": "",
+    "noticeDate": "15 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "15 febbraio 2019",
+      "marca": "HoVa Fine Foods ApS",
+      "denominazione": "SALMONE NORVEGESE AFFUMICATO",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "HoVa Fine Foods ApS",
+    "product": "SALMONE NORVEGESE AFFUMICATO",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo HoVa Fine Foods ApS - SALMONE NORVEGESE AFFUMICATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_richiamo_Salmone_ESSELUNGA_1761178637.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salmone-norvegese-affumicato-0",
+    "published": "2019-02-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-norvegese-affumicato/",
+    "title": "",
+    "noticeDate": "12 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "12 febbraio 2019",
+      "marca": "HoVa Fine Foods ApS",
+      "denominazione": "SALMONE NORVEGESE AFFUMICATO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "HoVa Fine Foods ApS",
+    "product": "SALMONE NORVEGESE AFFUMICATO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo HoVa Fine Foods ApS - SALMONE NORVEGESE AFFUMICATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ESSELUNGA_RICHIAMO_SALMONE_1761178635.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salmone-norvegese-affumicato",
+    "published": "2019-02-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dop-dolce-6/",
+    "title": "",
+    "noticeDate": "11 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "11 febbraio 2019",
+      "marca": "COLLE MAGGIO",
+      "denominazione": "GORGONZOLA DOP DOLCE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "COLLE MAGGIO",
+    "product": "GORGONZOLA DOP DOLCE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo COLLE MAGGIO - GORGONZOLA DOP DOLCE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/gorgonzola%20colle%20maggio_1761178621.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gorgonzola-dop-dolce-6",
+    "published": "2019-02-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/luganega-0/",
+    "title": "",
+    "noticeDate": "11 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "11 febbraio 2019",
+      "marca": "FATTORIE NOVELLA SENTIERI",
+      "denominazione": "LUGANEGA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "FATTORIE NOVELLA SENTIERI",
+    "product": "LUGANEGA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FATTORIE NOVELLA SENTIERI - LUGANEGA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_cartello_corretto_Fattorie_Novella_Sentieri_1761178623.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "luganega-0",
+    "published": "2019-02-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-alla-toscana-4/",
+    "title": "",
+    "noticeDate": "11 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "11 febbraio 2019",
+      "marca": "GASTRONOMIA TOSCANA",
+      "denominazione": "Crostini alla Toscana",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "GASTRONOMIA TOSCANA",
+    "product": "Crostini alla Toscana",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GASTRONOMIA TOSCANA - Crostini alla Toscana",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/crostini_06_07_09%20febbraio_1761178626.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostini-alla-toscana-4",
+    "published": "2019-02-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-alla-toscana-5/",
+    "title": "",
+    "noticeDate": "11 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "11 febbraio 2019",
+      "marca": "GASTRONOMIA TOSCANA",
+      "denominazione": "Crostini alla Toscana",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "GASTRONOMIA TOSCANA",
+    "product": "Crostini alla Toscana",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GASTRONOMIA TOSCANA - Crostini alla Toscana",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/crostini_09%20febbraio_1761178629.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostini-alla-toscana-5",
+    "published": "2019-02-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-alla-toscana-6/",
+    "title": "",
+    "noticeDate": "11 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "11 febbraio 2019",
+      "marca": "GASTRONOMIA TOSCANA",
+      "denominazione": "Crostini alla Toscana",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "GASTRONOMIA TOSCANA",
+    "product": "Crostini alla Toscana",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GASTRONOMIA TOSCANA - Crostini alla Toscana",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/crostini_10%20febbraio_1761178632.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostini-alla-toscana-6",
+    "published": "2019-02-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-alla-toscana-1/",
+    "title": "",
+    "noticeDate": "8 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "8 febbraio 2019",
+      "marca": "GASTRONOMIA TOSCANA",
+      "denominazione": "Crostini alla Toscana",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "GASTRONOMIA TOSCANA",
+    "product": "Crostini alla Toscana",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GASTRONOMIA TOSCANA - Crostini alla Toscana",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Gastronomia%20Toscana%20_%20Crostini_06_07_09febb_1761178612.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostini-alla-toscana-1",
+    "published": "2019-02-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-alla-toscana-2/",
+    "title": "",
+    "noticeDate": "8 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "8 febbraio 2019",
+      "marca": "GASTRONOMIA TOSCANA",
+      "denominazione": "Crostini alla Toscana",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "GASTRONOMIA TOSCANA",
+    "product": "Crostini alla Toscana",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GASTRONOMIA TOSCANA - Crostini alla Toscana",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Gastronomia%20Toscana%20_%20Crostini_09febb_1761178615.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostini-alla-toscana-2",
+    "published": "2019-02-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-alla-toscana-3/",
+    "title": "",
+    "noticeDate": "8 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "8 febbraio 2019",
+      "marca": "GASTRONOMIA TOSCANA",
+      "denominazione": "Crostini alla Toscana",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "GASTRONOMIA TOSCANA",
+    "product": "Crostini alla Toscana",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GASTRONOMIA TOSCANA - Crostini alla Toscana",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Gastronomia%20Toscana%20_%20Crostini_10febb_1761178618.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostini-alla-toscana-3",
+    "published": "2019-02-08",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/luganega/",
     "title": "",
     "noticeDate": "7 febbraio 2019",
@@ -1172,6 +1640,58 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "luganega",
+    "published": "2019-02-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-alla-toscana/",
+    "title": "",
+    "noticeDate": "7 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "7 febbraio 2019",
+      "marca": "UNICOOP",
+      "denominazione": "Crostini alla Toscana",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "UNICOOP",
+    "product": "Crostini alla Toscana",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo UNICOOP - Crostini alla Toscana",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/crostini%20UNICOOP_1761178607.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostini-alla-toscana",
+    "published": "2019-02-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-alla-toscana-0/",
+    "title": "",
+    "noticeDate": "7 febbraio 2019",
+    "campi": {
+      "data pubblicazione": "7 febbraio 2019",
+      "marca": "GASTRONOMIA TOSCANA",
+      "denominazione": "Crostini alla Toscana",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "GASTRONOMIA TOSCANA",
+    "product": "Crostini alla Toscana",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GASTRONOMIA TOSCANA - Crostini alla Toscana",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/crostini_1761178610.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostini-alla-toscana-0",
     "published": "2019-02-07",
     "source": "operator"
   },
