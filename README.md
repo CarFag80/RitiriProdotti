@@ -1,4 +1,4 @@
-# Richiami ” feed dei ritiri prodotto
+# Richiami â€” feed dei ritiri prodotto
 
 Sito mobile-first (`index.html`, un solo file, nessuna build) + scraper Python
 che genera `data.json` da due fonti del Ministero della Salute.
@@ -83,7 +83,7 @@ Se sul server accanto c'Ã¨ un `data.json` piÃ¹ fresco, quello ha la preceden
 
 1. Carica la cartella su GitHub.
 2. Collegala a Netlify: **Add new site â†’ Import an existing project â†’ Deploy with GitHub**.
-3. Il workflow GitHub Actions aggiornerÃ  i dati ogni 6 ore, Netlify ripubblicherÃ  automaticamente.
+3. Il workflow GitHub Actions aggiornerÃ  i dati ogni 3 ore, Netlify ripubblicherÃ  automaticamente. Il sito del Ministero blocca chi fa troppe richieste ravvicinate, quindi lo scraper va piano (pausa casuale tra le schede), si ferma da solo se viene bloccato e riprende alla run successiva: lo storico completo si scarica in piÃ¹ run, poi a regime ogni run dura pochi minuti.
 
 ## Prossimi passi suggeriti
 
