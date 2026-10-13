@@ -1022,6 +1022,136 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/movart/",
+    "title": "",
+    "noticeDate": "5 agosto 2019",
+    "campi": {
+      "data pubblicazione": "5 agosto 2019",
+      "marca": "scharper spa",
+      "denominazione": "movart",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "scharper spa",
+    "product": "movart",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo scharper spa - movart",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20di%20richiamo%20lotto%20M80315_1761179478.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "movart",
+    "published": "2019-08-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bio-schokopudding-150g-budino-al-cioccolato-bio-150g/",
+    "title": "",
+    "noticeDate": "5 agosto 2019",
+    "campi": {
+      "data pubblicazione": "5 agosto 2019",
+      "marca": "SÖBBEKE",
+      "denominazione": "Bio Schokopudding 150g - Budino al cioccolato bio 150g",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "SÖBBEKE",
+    "product": "Bio Schokopudding 150g - Budino al cioccolato bio 150g",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SÖBBEKE - Bio Schokopudding 150g - Budino al cioccolato bio 150g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20SOBBEKE_1761179481.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bio-schokopudding-150g-budino-al-cioccolato-bio-150g",
+    "published": "2019-08-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ciotola-di-bambu/",
+    "title": "",
+    "noticeDate": "5 agosto 2019",
+    "campi": {
+      "data pubblicazione": "5 agosto 2019",
+      "marca": "TEDI s.r.l.",
+      "denominazione": "CIOTOLA DI BAMBÙ",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "TEDI s.r.l.",
+    "product": "CIOTOLA DI BAMBÙ",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TEDI s.r.l. - CIOTOLA DI BAMBÙ",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20tedi%20italia_1761179484.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ciotola-di-bambu",
+    "published": "2019-08-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/stoccafisso-reidratato-polpa-500g/",
+    "title": "",
+    "noticeDate": "5 agosto 2019",
+    "campi": {
+      "data pubblicazione": "5 agosto 2019",
+      "marca": "Tagliapietra",
+      "denominazione": "STOCCAFISSO REIDRATATO POLPA 500G",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Tagliapietra",
+    "product": "STOCCAFISSO REIDRATATO POLPA 500G",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Tagliapietra - STOCCAFISSO REIDRATATO POLPA 500G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/400817_modello%20richiamo%20ministeriale%20_2__1761179487.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "stoccafisso-reidratato-polpa-500g",
+    "published": "2019-08-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/glucosammina-cloridrato-condroitin-solfato-bio-curcumin-bcm-95/",
+    "title": "",
+    "noticeDate": "1 agosto 2019",
+    "campi": {
+      "data pubblicazione": "1 agosto 2019",
+      "marca": "CARTIJOINT FORTE 20 CPR",
+      "denominazione": "Glucosammina cloridrato, Condroitin solfato, Bio-Curcumin BCM-95",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "CARTIJOINT FORTE 20 CPR",
+    "product": "Glucosammina cloridrato, Condroitin solfato, Bio-Curcumin BCM-95",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CARTIJOINT FORTE 20 CPR - Glucosammina cloridrato, Condroitin solfato, Bio-Curcumin BCM-95",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20per%20revoca%20di%20richiamo%20Cartijoint%20Forte%20lotto%2024_18%20_3__1761179475.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "glucosammina-cloridrato-condroitin-solfato-bio-curcumin-bcm-95",
+    "published": "2019-08-01",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratori-base-di-curcuma-associati-casi-di-epatite-vari-marchi-e/",
     "title": "Integratori a base di curcuma associati a casi di epatite",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/integratori-alimentari-contenenti-estratti-e-preparati-di-curcuma-longa/",
@@ -1047,6 +1177,396 @@
     "id": "integratori-base-di-curcuma-associati-casi-di-epatite-vari-marchi-e",
     "published": "2019-07-26",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/miglio-decorticato-soffiato/",
+    "title": "",
+    "noticeDate": "26 luglio 2019",
+    "campi": {
+      "data pubblicazione": "26 luglio 2019",
+      "marca": "VIVIBIO/NATURA'",
+      "denominazione": "MIGLIO DECORTICATO SOFFIATO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "VIVIBIO/NATURA'",
+    "product": "MIGLIO DECORTICATO SOFFIATO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VIVIBIO/NATURA' - MIGLIO DECORTICATO SOFFIATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_miglio_1761179464.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "miglio-decorticato-soffiato",
+    "published": "2019-07-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/plum-cake-preparato-con-yogurt-senza-glutine-benesi-coop-confezione/",
+    "title": "",
+    "noticeDate": "26 luglio 2019",
+    "campi": {
+      "data pubblicazione": "26 luglio 2019",
+      "marca": "COOP Italia Soc.Coop.",
+      "denominazione": "¿Plum Cake preparato con yogurt - senza glutine Benesì COOP¿ confezione da 6 pezzi",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "COOP Italia Soc.Coop.",
+    "product": "¿Plum Cake preparato con yogurt - senza glutine Benesì COOP¿ confezione da 6 pezzi",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo COOP Italia Soc.Coop. - ¿Plum Cake preparato con yogurt - senza glutine Benesì COOP¿ confezione da 6 pezzi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_CL086D_1761179467.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "plum-cake-preparato-con-yogurt-senza-glutine-benesi-coop-confezione",
+    "published": "2019-07-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/plum-cake-preparato-con-yogurt-senza-glutine-benesi-coop-0/",
+    "title": "",
+    "noticeDate": "26 luglio 2019",
+    "campi": {
+      "data pubblicazione": "26 luglio 2019",
+      "marca": "Coop Italia Soc.Coop.",
+      "denominazione": "¿Plum Cake preparato con yogurt - senza glutine Benesì COOP¿ confezione da 6 pezzi",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Coop Italia Soc.Coop.",
+    "product": "¿Plum Cake preparato con yogurt - senza glutine Benesì COOP¿ confezione da 6 pezzi",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coop Italia Soc.Coop. - ¿Plum Cake preparato con yogurt - senza glutine Benesì COOP¿ confezione da 6 pezzi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_CL164P_1761179469.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "plum-cake-preparato-con-yogurt-senza-glutine-benesi-coop-0",
+    "published": "2019-07-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/miglio-decorticato-soffiato-0/",
+    "title": "",
+    "noticeDate": "26 luglio 2019",
+    "campi": {
+      "data pubblicazione": "26 luglio 2019",
+      "marca": "VIVIBIO",
+      "denominazione": "MIGLIO DECORTICATO SOFFIATO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "VIVIBIO",
+    "product": "MIGLIO DECORTICATO SOFFIATO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VIVIBIO - MIGLIO DECORTICATO SOFFIATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20MIGLIO_1761179472.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "miglio-decorticato-soffiato-0",
+    "published": "2019-07-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-alici-panati-congelati/",
+    "title": "",
+    "noticeDate": "23 luglio 2019",
+    "campi": {
+      "data pubblicazione": "23 luglio 2019",
+      "marca": "ADRIATIC FISH",
+      "denominazione": "FILETTI DI ALICI PANATI CONGELATI",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "ADRIATIC FISH",
+    "product": "FILETTI DI ALICI PANATI CONGELATI",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ADRIATIC FISH - FILETTI DI ALICI PANATI CONGELATI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_1761179457.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "filetti-di-alici-panati-congelati",
+    "published": "2019-07-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-0/",
+    "title": "",
+    "noticeDate": "23 luglio 2019",
+    "campi": {
+      "data pubblicazione": "23 luglio 2019",
+      "marca": "F.B.M. lavorazione carni",
+      "denominazione": "Salsiccia",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "F.B.M. lavorazione carni",
+    "product": "Salsiccia",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo F.B.M. lavorazione carni - Salsiccia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20FBM%20salsiccia_1761179459.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salsiccia-0",
+    "published": "2019-07-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-0/",
+    "title": "",
+    "noticeDate": "23 luglio 2019",
+    "campi": {
+      "data pubblicazione": "23 luglio 2019",
+      "marca": "Salumificio Bianco Angelo",
+      "denominazione": "SALAME",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio Bianco Angelo",
+    "product": "SALAME",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio Bianco Angelo - SALAME",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/allegato%20richiamo19_27_B_1761179462.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-0",
+    "published": "2019-07-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confettura-extra-amarena/",
+    "title": "",
+    "noticeDate": "22 luglio 2019",
+    "campi": {
+      "data pubblicazione": "22 luglio 2019",
+      "marca": "CONAD",
+      "denominazione": "CONFETTURA EXTRA AMARENA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "CONAD",
+    "product": "CONFETTURA EXTRA AMARENA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONAD - CONFETTURA EXTRA AMARENA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20confettura%20per%20pubblicazione_1761179455.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "confettura-extra-amarena",
+    "published": "2019-07-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bocconcino-gr-200-0/",
+    "title": "",
+    "noticeDate": "18 luglio 2019",
+    "campi": {
+      "data pubblicazione": "18 luglio 2019",
+      "marca": "AZZOCCHI ROBERTO SRL",
+      "denominazione": "Bocconcino gr. 200",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "AZZOCCHI ROBERTO SRL",
+    "product": "Bocconcino gr. 200",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AZZOCCHI ROBERTO SRL - Bocconcino gr. 200",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_bocconcini_1761179452.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "bocconcino-gr-200-0",
+    "published": "2019-07-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bocconcino-gr-200/",
+    "title": "",
+    "noticeDate": "17 luglio 2019",
+    "campi": {
+      "data pubblicazione": "17 luglio 2019",
+      "marca": "AZZOCCHI ROBERTO SRL",
+      "denominazione": "Bocconcino gr 200",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "AZZOCCHI ROBERTO SRL",
+    "product": "Bocconcino gr 200",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AZZOCCHI ROBERTO SRL - Bocconcino gr 200",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20bocconcini184_1761179450.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "bocconcino-gr-200",
+    "published": "2019-07-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pistacchi-tostati-salati/",
+    "title": "",
+    "noticeDate": "12 luglio 2019",
+    "campi": {
+      "data pubblicazione": "12 luglio 2019",
+      "marca": "+performance",
+      "denominazione": "Pistacchi tostati salati",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "+performance",
+    "product": "Pistacchi tostati salati",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo +performance - Pistacchi tostati salati",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Recall%20Pistacchi%20_performance%20ItalyCash_1761179439.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pistacchi-tostati-salati",
+    "published": "2019-07-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pistacchi-tostati-salati-0/",
+    "title": "",
+    "noticeDate": "12 luglio 2019",
+    "campi": {
+      "data pubblicazione": "12 luglio 2019",
+      "marca": "Euro Company",
+      "denominazione": "Pistacchi tostati salati",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Euro Company",
+    "product": "Pistacchi tostati salati",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Euro Company - Pistacchi tostati salati",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Recall%20Pistacchi%20EuroCompany_1761179441.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pistacchi-tostati-salati-0",
+    "published": "2019-07-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pistacchi-tostati-salati-1/",
+    "title": "",
+    "noticeDate": "12 luglio 2019",
+    "campi": {
+      "data pubblicazione": "12 luglio 2019",
+      "marca": "Noi&Voi",
+      "denominazione": "Pistacchi tostati salati",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Noi&Voi",
+    "product": "Pistacchi tostati salati",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Noi&Voi - Pistacchi tostati salati",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Recall%20Pistacchi%20Noi_Voi_1761179443.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pistacchi-tostati-salati-1",
+    "published": "2019-07-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/dragee-fondente-allarancia/",
+    "title": "",
+    "noticeDate": "12 luglio 2019",
+    "campi": {
+      "data pubblicazione": "12 luglio 2019",
+      "marca": "CIOCCOLATITALIANI",
+      "denominazione": "DRAGEE FONDENTE ALL'ARANCIA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "CIOCCOLATITALIANI",
+    "product": "DRAGEE FONDENTE ALL'ARANCIA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CIOCCOLATITALIANI - DRAGEE FONDENTE ALL'ARANCIA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/dragees%20cioccolatitaliani_1761179445.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "dragee-fondente-allarancia",
+    "published": "2019-07-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/dragee-fondente-allarancia-0/",
+    "title": "",
+    "noticeDate": "12 luglio 2019",
+    "campi": {
+      "data pubblicazione": "12 luglio 2019",
+      "marca": "CIOCCOLATITALIANI",
+      "denominazione": "DRAGEE FONDENTE ALL'ARANCIA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "CIOCCOLATITALIANI",
+    "product": "DRAGEE FONDENTE ALL'ARANCIA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CIOCCOLATITALIANI - DRAGEE FONDENTE ALL'ARANCIA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cioccolatitaliani_1761179448.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "dragee-fondente-allarancia-0",
+    "published": "2019-07-12",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/scorza-darancia-candita-ricoperta-di-cioccolato-fondente/",
