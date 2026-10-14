@@ -943,6 +943,32 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/squacquerone-di-romagna-dop-3/",
+    "title": "",
+    "noticeDate": "14 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "14 ottobre 2020",
+      "marca": "Caseificio Pascoli",
+      "denominazione": "Squacquerone di Romagna DOP",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Caseificio Pascoli",
+    "product": "Squacquerone di Romagna DOP",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caseificio Pascoli - Squacquerone di Romagna DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/4_RICHIAMO%20SQUACQUERONE%20ROM.DOP_1761182234.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "squacquerone-di-romagna-dop-3",
+    "published": "2020-10-14",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/squacquerone-romagna-dop/",
     "title": "",
     "noticeDate": "13 ottobre 2020",
