@@ -2295,6 +2295,474 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/capsule-compatibili-dolce-gusto-caffelatte-dolce-gusto-cioccolosa/",
+    "title": "",
+    "noticeDate": "16 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "16 dicembre 2019",
+      "marca": "101 Caffè Srl",
+      "denominazione": "Capsule compatibili Dolce Gusto: Caffelatte Dolce Gusto, Cioccolosa Dolce Gusto",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "101 Caffè Srl",
+    "product": "Capsule compatibili Dolce Gusto: Caffelatte Dolce Gusto, Cioccolosa Dolce Gusto",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo 101 Caffè Srl - Capsule compatibili Dolce Gusto: Caffelatte Dolce Gusto, Cioccolosa Dolce Gusto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_101_Caff%C3%A8_13122019_1761180464.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "capsule-compatibili-dolce-gusto-caffelatte-dolce-gusto-cioccolosa",
+    "published": "2019-12-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/stracchino-allantica/",
+    "title": "",
+    "noticeDate": "11 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "11 dicembre 2019",
+      "marca": "Società Agricola Locatelli Guglielmo & C. S.S.",
+      "denominazione": "Stracchino all'antica",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Società Agricola Locatelli Guglielmo & C. S.S.",
+    "product": "Stracchino all'antica",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Società Agricola Locatelli Guglielmo & C. S.S. - Stracchino all'antica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo_1761180450.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "stracchino-allantica",
+    "published": "2019-12-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-torta-margherita-1/",
+    "title": "",
+    "noticeDate": "11 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "11 dicembre 2019",
+      "marca": "MOLINO ROSSETTO",
+      "denominazione": "Preparato per Torta Margherita",
+      "motivo della segnalazione": "Revoca per analisi di revisione favorevole"
+    },
+    "brand": "MOLINO ROSSETTO",
+    "product": "Preparato per Torta Margherita",
+    "reasonShort": "Revoca per analisi di revisione favorevole",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MOLINO ROSSETTO - Preparato per Torta Margherita",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_Richiamo_Notifica_379482_Preparato%20torta%20margherita%20Molino%20Rossetto_1761180453.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "preparato-torta-margherita-1",
+    "published": "2019-12-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-tanti-dolci-0/",
+    "title": "",
+    "noticeDate": "11 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "11 dicembre 2019",
+      "marca": "MOLINO ROSSETTO",
+      "denominazione": "Preparato per Tanti dolci",
+      "motivo della segnalazione": "Revoca per analisi di revisione favorevole"
+    },
+    "brand": "MOLINO ROSSETTO",
+    "product": "Preparato per Tanti dolci",
+    "reasonShort": "Revoca per analisi di revisione favorevole",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MOLINO ROSSETTO - Preparato per Tanti dolci",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_Richiamo_Notifica_379482_Preparato%20per%20tanti%20dolci%20Molino%20Rossetto_1761180457.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "preparato-tanti-dolci-0",
+    "published": "2019-12-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/miscela-tanti-dolci-0/",
+    "title": "",
+    "noticeDate": "11 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "11 dicembre 2019",
+      "marca": "CUORE DI",
+      "denominazione": "Miscela per Tanti Dolci",
+      "motivo della segnalazione": "Revoca per analisi di revisione favorevole"
+    },
+    "brand": "CUORE DI",
+    "product": "Miscela per Tanti Dolci",
+    "reasonShort": "Revoca per analisi di revisione favorevole",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CUORE DI - Miscela per Tanti Dolci",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_Richiamo_Notifica_379482_%20MISCELA%20PER%20TANTI%20DOLCI%20CUORE%20DI_1761180460.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "miscela-tanti-dolci-0",
+    "published": "2019-12-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-effervescente-naturale-acqua-di-nepi-0/",
+    "title": "",
+    "noticeDate": "10 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "10 dicembre 2019",
+      "marca": "Acqua di Nepi S.p.a.",
+      "denominazione": "Acqua minerale effervescente naturale Acqua di Nepi",
+      "motivo della segnalazione": "Revoca per analisi di revisione favorevole"
+    },
+    "brand": "Acqua di Nepi S.p.a.",
+    "product": "Acqua minerale effervescente naturale Acqua di Nepi",
+    "reasonShort": "Revoca per analisi di revisione favorevole",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Acqua di Nepi S.p.a. - Acqua minerale effervescente naturale Acqua di Nepi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20di%20richiamo_1761180446.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "acqua-minerale-effervescente-naturale-acqua-di-nepi-0",
+    "published": "2019-12-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/matt-non-solo-pane-zenzerelli-bio-grissini-con-zenzero-e-lime-bio/",
+    "title": "",
+    "noticeDate": "3 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2019",
+      "marca": "Matt",
+      "denominazione": "Matt non solo pane Zenzerelli bio - grissini con zenzero e lime bio",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Matt",
+    "product": "Matt non solo pane Zenzerelli bio - grissini con zenzero e lime bio",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Matt - Matt non solo pane Zenzerelli bio - grissini con zenzero e lime bio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Zenzerelli%20bio%20Matt_1761180443.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "matt-non-solo-pane-zenzerelli-bio-grissini-con-zenzero-e-lime-bio",
+    "published": "2019-12-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bresaola-di-tacchino/",
+    "title": "",
+    "noticeDate": "27 novembre 2019",
+    "campi": {
+      "data pubblicazione": "27 novembre 2019",
+      "marca": "Rigamonti",
+      "denominazione": "Bresaola di tacchino",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Rigamonti",
+    "product": "Bresaola di tacchino",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Rigamonti - Bresaola di tacchino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo_1761180440.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "bresaola-di-tacchino",
+    "published": "2019-11-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/treccine-alla-pizzaiola-lotto-3719/",
+    "title": "",
+    "noticeDate": "26 novembre 2019",
+    "campi": {
+      "data pubblicazione": "26 novembre 2019",
+      "marca": "Bio's Merenderia",
+      "denominazione": "Treccine alla Pizzaiola - Lotto 3719",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Bio's Merenderia",
+    "product": "Treccine alla Pizzaiola - Lotto 3719",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bio's Merenderia - Treccine alla Pizzaiola - Lotto 3719",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Treccine%20Bio_s_1761180410.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "treccine-alla-pizzaiola-lotto-3719",
+    "published": "2019-11-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/treccine-alla-pizzaiola-bio-lotto-3819/",
+    "title": "",
+    "noticeDate": "26 novembre 2019",
+    "campi": {
+      "data pubblicazione": "26 novembre 2019",
+      "marca": "Bio's Merenderia",
+      "denominazione": "Treccine alla Pizzaiola Bio - Lotto 3819",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Bio's Merenderia",
+    "product": "Treccine alla Pizzaiola Bio - Lotto 3819",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bio's Merenderia - Treccine alla Pizzaiola Bio - Lotto 3819",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Treccine%20Bio_s%202_1761180413.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "treccine-alla-pizzaiola-bio-lotto-3819",
+    "published": "2019-11-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/treccine-alla-pizzaiola-bio-lotto-3719/",
+    "title": "",
+    "noticeDate": "26 novembre 2019",
+    "campi": {
+      "data pubblicazione": "26 novembre 2019",
+      "marca": "Bio's Merenderia",
+      "denominazione": "Treccine alla Pizzaiola Bio - Lotto 3719",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Bio's Merenderia",
+    "product": "Treccine alla Pizzaiola Bio - Lotto 3719",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bio's Merenderia - Treccine alla Pizzaiola Bio - Lotto 3719",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Treccine%20Bio_s_1761180416.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "treccine-alla-pizzaiola-bio-lotto-3719",
+    "published": "2019-11-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfogliatine-lupino-e-rosmarino-bio/",
+    "title": "",
+    "noticeDate": "26 novembre 2019",
+    "campi": {
+      "data pubblicazione": "26 novembre 2019",
+      "marca": "Bio's Merenderia",
+      "denominazione": "Sfogliatine lupino e rosmarino Bio",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Bio's Merenderia",
+    "product": "Sfogliatine lupino e rosmarino Bio",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bio's Merenderia - Sfogliatine lupino e rosmarino Bio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Sfogliatine%20Bio_s_1761180419.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfogliatine-lupino-e-rosmarino-bio",
+    "published": "2019-11-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/rustici-cocco-bio/",
+    "title": "",
+    "noticeDate": "26 novembre 2019",
+    "campi": {
+      "data pubblicazione": "26 novembre 2019",
+      "marca": "Bio's Merenderia",
+      "denominazione": "Rustici cocco Bio",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Bio's Merenderia",
+    "product": "Rustici cocco Bio",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bio's Merenderia - Rustici cocco Bio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Rustici%20Bio_s_1761180423.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "rustici-cocco-bio",
+    "published": "2019-11-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/schiacciatina-sesamo-bio/",
+    "title": "",
+    "noticeDate": "26 novembre 2019",
+    "campi": {
+      "data pubblicazione": "26 novembre 2019",
+      "marca": "Bio's Merenderia",
+      "denominazione": "Schiacciatina sesamo Bio",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Bio's Merenderia",
+    "product": "Schiacciatina sesamo Bio",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bio's Merenderia - Schiacciatina sesamo Bio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Schiacciatina%20Bio_s_1761180426.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "schiacciatina-sesamo-bio",
+    "published": "2019-11-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crackers-integrali-alla-spirulina-bio/",
+    "title": "",
+    "noticeDate": "26 novembre 2019",
+    "campi": {
+      "data pubblicazione": "26 novembre 2019",
+      "marca": "Bio' Merenderia",
+      "denominazione": "Crackers integrali alla spirulina Bio",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Bio' Merenderia",
+    "product": "Crackers integrali alla spirulina Bio",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bio' Merenderia - Crackers integrali alla spirulina Bio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Crackers%20Bio_s_1761180429.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "crackers-integrali-alla-spirulina-bio",
+    "published": "2019-11-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bocconcini-sesamo-bio/",
+    "title": "",
+    "noticeDate": "26 novembre 2019",
+    "campi": {
+      "data pubblicazione": "26 novembre 2019",
+      "marca": "Bio's Merenderia",
+      "denominazione": "Bocconcini sesamo Bio",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Bio's Merenderia",
+    "product": "Bocconcini sesamo Bio",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bio's Merenderia - Bocconcini sesamo Bio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Bocconcini%20Bio_s_1761180433.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "bocconcini-sesamo-bio",
+    "published": "2019-11-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cotechino-da-cuocere-x-1-sv/",
+    "title": "",
+    "noticeDate": "26 novembre 2019",
+    "campi": {
+      "data pubblicazione": "26 novembre 2019",
+      "marca": "ROMANO MAINELLI",
+      "denominazione": "COTECHINO DA CUOCERE X 1 SV",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ROMANO MAINELLI",
+    "product": "COTECHINO DA CUOCERE X 1 SV",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ROMANO MAINELLI - COTECHINO DA CUOCERE X 1 SV",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_COTECHINO_Romano%20Mainelli%20Srl_1761180436.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cotechino-da-cuocere-x-1-sv",
+    "published": "2019-11-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cotechini-da-cuocere/",
+    "title": "",
+    "noticeDate": "25 novembre 2019",
+    "campi": {
+      "data pubblicazione": "25 novembre 2019",
+      "marca": "SALUMIFICIO MAINELLI ROMANO SRL",
+      "denominazione": "COTECHINI DA CUOCERE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SALUMIFICIO MAINELLI ROMANO SRL",
+    "product": "COTECHINI DA CUOCERE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO MAINELLI ROMANO SRL - COTECHINI DA CUOCERE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_COTECHINI_DA_CUOCERE_SALUMIFICO_MAINELLI_ROMANO_1761180407.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cotechini-da-cuocere",
+    "published": "2019-11-25",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uvetta-sultanina-250g/",
     "title": "",
     "noticeDate": "22 novembre 2019",
@@ -2317,6 +2785,58 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "uvetta-sultanina-250g",
+    "published": "2019-11-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/seppia-indopacifica-pulita-congelata-2040-iqf/",
+    "title": "",
+    "noticeDate": "22 novembre 2019",
+    "campi": {
+      "data pubblicazione": "22 novembre 2019",
+      "marca": "delizie di pescato sottozero qualità extra",
+      "denominazione": "seppia indopacifica pulita congelata 20/40 IQF",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "delizie di pescato sottozero qualità extra",
+    "product": "seppia indopacifica pulita congelata 20/40 IQF",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo delizie di pescato sottozero qualità extra - seppia indopacifica pulita congelata 20/40 IQF",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLORICHIAMO%20clienti%20Seppie%20India%20_1761180401.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "seppia-indopacifica-pulita-congelata-2040-iqf",
+    "published": "2019-11-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cozze-cilene-sgusciate-precotte-surgelate-250g/",
+    "title": "",
+    "noticeDate": "22 novembre 2019",
+    "campi": {
+      "data pubblicazione": "22 novembre 2019",
+      "marca": "SELEX SPA VIA C. COLOMBO 51 TREZZANO SUL NAVIGLIO (MI)",
+      "denominazione": "COZZE CILENE SGUSCIATE PRECOTTE SURGELATE 250G.",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SELEX SPA VIA C. COLOMBO 51 TREZZANO SUL NAVIGLIO (MI)",
+    "product": "COZZE CILENE SGUSCIATE PRECOTTE SURGELATE 250G.",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SELEX SPA VIA C. COLOMBO 51 TREZZANO SUL NAVIGLIO (MI) - COZZE CILENE SGUSCIATE PRECOTTE SURGELATE 250G.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Selex_Panapesca_CozzeCileneLottoRD17_Cartello_1761180404.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cozze-cilene-sgusciate-precotte-surgelate-250g",
     "published": "2019-11-22",
     "source": "operator"
   },
