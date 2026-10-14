@@ -966,6 +966,266 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bastoncini-con-crusca-di-frumento-gr375/",
+    "title": "",
+    "noticeDate": "19 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2020",
+      "marca": "CONAD",
+      "denominazione": "BASTONCINI CON CRUSCA DI FRUMENTO GR.375",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CONAD",
+    "product": "BASTONCINI CON CRUSCA DI FRUMENTO GR.375",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONAD - BASTONCINI CON CRUSCA DI FRUMENTO GR.375",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BASTONCINI%20con%20CRUSCA%20FRUMENTO%20CONAD_1761181213.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bastoncini-con-crusca-di-frumento-gr375",
+    "published": "2020-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica/",
+    "title": "",
+    "noticeDate": "18 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "18 febbraio 2020",
+      "marca": "Coca-Cola original Taste",
+      "denominazione": "Bevanda analcolica",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Coca-Cola original Taste",
+    "product": "Bevanda analcolica",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coca-Cola original Taste - Bevanda analcolica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelli%20di%20richiamo%20COCA%20COLA%20e%20CL200107_5_1761181201.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-analcolica",
+    "published": "2020-02-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-0/",
+    "title": "",
+    "noticeDate": "18 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "18 febbraio 2020",
+      "marca": "Coca-Cola Original Taste",
+      "denominazione": "Bevanda analcolica",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Coca-Cola Original Taste",
+    "product": "Bevanda analcolica",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coca-Cola Original Taste - Bevanda analcolica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelli%20di%20richiamo%20COCA%20COLA%20e%20CL200107_5_1761181202.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-analcolica-0",
+    "published": "2020-02-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-1/",
+    "title": "",
+    "noticeDate": "18 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "18 febbraio 2020",
+      "marca": "Coca-Cola Original Taste",
+      "denominazione": "Bevanda analcolica",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Coca-Cola Original Taste",
+    "product": "Bevanda analcolica",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coca-Cola Original Taste - Bevanda analcolica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelli%20di%20richiamo%20COCA%20COLA%20e%20L200108_6_1761181203.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-analcolica-1",
+    "published": "2020-02-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-2/",
+    "title": "",
+    "noticeDate": "18 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "18 febbraio 2020",
+      "marca": "Coca-Cola Original Taste",
+      "denominazione": "Bevanda analcolica",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Coca-Cola Original Taste",
+    "product": "Bevanda analcolica",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coca-Cola Original Taste - Bevanda analcolica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelli%20di%20richiamo%20COCA%20COLA%20e%20L191220_3_1761181204.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-analcolica-2",
+    "published": "2020-02-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-3/",
+    "title": "",
+    "noticeDate": "18 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "18 febbraio 2020",
+      "marca": "Coca-Cola Original Taste",
+      "denominazione": "Bevanda analcolica",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Coca-Cola Original Taste",
+    "product": "Bevanda analcolica",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coca-Cola Original Taste - Bevanda analcolica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelli%20di%20richiamo%20COCA%20COLA%20e%20L191221_4_1761181206.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-analcolica-3",
+    "published": "2020-02-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-4/",
+    "title": "",
+    "noticeDate": "18 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "18 febbraio 2020",
+      "marca": "Coca-Cola Original Taste",
+      "denominazione": "Bevanda analcolica",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Coca-Cola Original Taste",
+    "product": "Bevanda analcolica",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coca-Cola Original Taste - Bevanda analcolica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelli%20di%20richiamo%20COCA%20COLA%20e%20L200109_7_1761181207.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-analcolica-4",
+    "published": "2020-02-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-5/",
+    "title": "",
+    "noticeDate": "18 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "18 febbraio 2020",
+      "marca": "Coca-Cola Zero Zuccheri",
+      "denominazione": "Bevanda analcolica",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Coca-Cola Zero Zuccheri",
+    "product": "Bevanda analcolica",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coca-Cola Zero Zuccheri - Bevanda analcolica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelli%20di%20richiamo%20%20COCA%20COLA%20ZERO_L200109_8_1761181208.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-analcolica-5",
+    "published": "2020-02-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-6/",
+    "title": "",
+    "noticeDate": "18 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "18 febbraio 2020",
+      "marca": "Coca-Cola Original Taste",
+      "denominazione": "Bevanda analcolica",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Coca-Cola Original Taste",
+    "product": "Bevanda analcolica",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coca-Cola Original Taste - Bevanda analcolica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelli%20di%20richiamo%20COCA%20COLA%20eL191218_1_1761181210.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-analcolica-6",
+    "published": "2020-02-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-7/",
+    "title": "",
+    "noticeDate": "18 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "18 febbraio 2020",
+      "marca": "Coca-Cola Original Taste",
+      "denominazione": "Bevanda analcolica",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Coca-Cola Original Taste",
+    "product": "Bevanda analcolica",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coca-Cola Original Taste - Bevanda analcolica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelli%20di%20richiamo%20COCA%20COLA%20e%20L191219_2_1761181212.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-analcolica-7",
+    "published": "2020-02-18",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/sprin-home-tyj-spring-roll-pastry-tee-yih-jia-food-manufactering-pte/",
     "title": "SPRIN HOME TYJ SPRING ROLL PASTRY",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/sprin-home-tyj-spring-roll-pastry-provenienti-da-singapore/",
@@ -3723,6 +3983,240 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia/",
+    "title": "",
+    "noticeDate": "12 giugno 2019",
+    "campi": {
+      "data pubblicazione": "12 giugno 2019",
+      "marca": "F.B.M. LAVORAZIONE CARNI",
+      "denominazione": "Salsiccia",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "F.B.M. LAVORAZIONE CARNI",
+    "product": "Salsiccia",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo F.B.M. LAVORAZIONE CARNI - Salsiccia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO_2_1761179404.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia",
+    "published": "2019-06-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tartare-bovino-adulto/",
+    "title": "",
+    "noticeDate": "12 giugno 2019",
+    "campi": {
+      "data pubblicazione": "12 giugno 2019",
+      "marca": "LIDL ITALIA SRL",
+      "denominazione": "TARTARE BOVINO ADULTO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LIDL ITALIA SRL",
+    "product": "TARTARE BOVINO ADULTO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LIDL ITALIA SRL - TARTARE BOVINO ADULTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_tartare_1761179406.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tartare-bovino-adulto",
+    "published": "2019-06-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bigger-cotoletta-di-tacchino-xxl-0/",
+    "title": "",
+    "noticeDate": "11 giugno 2019",
+    "campi": {
+      "data pubblicazione": "11 giugno 2019",
+      "marca": "AIA",
+      "denominazione": "BIGGER COTOLETTA DI TACCHINO XXL",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "AIA",
+    "product": "BIGGER COTOLETTA DI TACCHINO XXL",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AIA - BIGGER COTOLETTA DI TACCHINO XXL",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20B3973_10_06_19_2%20_1_19_17_B_1761179399.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bigger-cotoletta-di-tacchino-xxl-0",
+    "published": "2019-06-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinacine-e-4-spinacine-0/",
+    "title": "",
+    "noticeDate": "11 giugno 2019",
+    "campi": {
+      "data pubblicazione": "11 giugno 2019",
+      "marca": "AIA",
+      "denominazione": "SPINACINE E 4 SPINACINE",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "AIA",
+    "product": "SPINACINE E 4 SPINACINE",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AIA - SPINACINE E 4 SPINACINE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_A2926_B4003_10_06_19_2%20_2__19_17_B_1761179400.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spinacine-e-4-spinacine-0",
+    "published": "2019-06-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/curcuma-piperina-0/",
+    "title": "",
+    "noticeDate": "11 giugno 2019",
+    "campi": {
+      "data pubblicazione": "11 giugno 2019",
+      "marca": "RUBIGEN",
+      "denominazione": "CURCUMA &PIPERINA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "RUBIGEN",
+    "product": "CURCUMA &PIPERINA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo RUBIGEN - CURCUMA &PIPERINA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoMinSanCurcumaPiperinaRubigenL.210219NATUR_FARMAscan_1761179401.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "curcuma-piperina-0",
+    "published": "2019-06-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/shal-cur-curcumina-boswellia-bromelina/",
+    "title": "",
+    "noticeDate": "11 giugno 2019",
+    "campi": {
+      "data pubblicazione": "11 giugno 2019",
+      "marca": "VERSALIS",
+      "denominazione": "SHAL-CUR (Curcumina, Boswellia), Bromelina",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "VERSALIS",
+    "product": "SHAL-CUR (Curcumina, Boswellia), Bromelina",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VERSALIS - SHAL-CUR (Curcumina, Boswellia), Bromelina",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Versalis_1761179402.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "shal-cur-curcumina-boswellia-bromelina",
+    "published": "2019-06-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bombardino-liquore-alluovo/",
+    "title": "",
+    "noticeDate": "11 giugno 2019",
+    "campi": {
+      "data pubblicazione": "11 giugno 2019",
+      "marca": "Psenner",
+      "denominazione": "Bombardino liquore all'uovo",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Psenner",
+    "product": "Bombardino liquore all'uovo",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Psenner - Bombardino liquore all'uovo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Bombardino%20Psenner%20_%20L%2018325_1761179403.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "bombardino-liquore-alluovo",
+    "published": "2019-06-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gucosammina-cloridrato-condroitin-solfato-bio-curcumin-bcm-95/",
+    "title": "",
+    "noticeDate": "6 giugno 2019",
+    "campi": {
+      "data pubblicazione": "6 giugno 2019",
+      "marca": "CARTIJOINT FORTE 20 CPR",
+      "denominazione": "Gucosammina cloridrato, Condroitin solfato, Bio-Curcumin BCM-95",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CARTIJOINT FORTE 20 CPR",
+    "product": "Gucosammina cloridrato, Condroitin solfato, Bio-Curcumin BCM-95",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CARTIJOINT FORTE 20 CPR - Gucosammina cloridrato, Condroitin solfato, Bio-Curcumin BCM-95",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761179398.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gucosammina-cloridrato-condroitin-solfato-bio-curcumin-bcm-95",
+    "published": "2019-06-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/movart-integratore-alimentare-base-di-curcuma-fitosoma-ed-echinacea/",
+    "title": "",
+    "noticeDate": "3 giugno 2019",
+    "campi": {
+      "data pubblicazione": "3 giugno 2019",
+      "marca": "Scharper spa- viale Orltes 12 mIlano",
+      "denominazione": "Movart- integratore alimentare a base di curcuma fitosoma ed echinacea",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Scharper spa- viale Orltes 12 mIlano",
+    "product": "Movart- integratore alimentare a base di curcuma fitosoma ed echinacea",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Scharper spa- viale Orltes 12 mIlano - Movart- integratore alimentare a base di curcuma fitosoma ed echinacea",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20Movart_1761179398.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "movart-integratore-alimentare-base-di-curcuma-fitosoma-ed-echinacea",
+    "published": "2019-06-03",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/curcuma-max-30-capsule-curcuma-max-60-capsule-artdol/",
     "title": "",
     "noticeDate": "31 maggio 2019",
@@ -3823,6 +4317,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "brodo-granulare-istantaneo-funghi-120g",
+    "published": "2019-05-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/dado-da-brodo-funghi-porcini-60g/",
+    "title": "",
+    "noticeDate": "31 maggio 2019",
+    "campi": {
+      "data pubblicazione": "31 maggio 2019",
+      "marca": "Bauer S.p.a.",
+      "denominazione": "Dado da brodo funghi porcini 60g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Bauer S.p.a.",
+    "product": "Dado da brodo funghi porcini 60g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bauer S.p.a. - Dado da brodo funghi porcini 60g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20dado%20fungo%20l.10304_1761179396.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "dado-da-brodo-funghi-porcini-60g",
     "published": "2019-05-31",
     "source": "operator"
   },
