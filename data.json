@@ -865,6 +865,500 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-abruzzese-appassita-piccante-0/",
+    "title": "",
+    "noticeDate": "2 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "2 dicembre 2020",
+      "marca": "TAVOLA ITALIA",
+      "denominazione": "SALSICCIA ABRUZZESE APPASSITA PICCANTE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "TAVOLA ITALIA",
+    "product": "SALSICCIA ABRUZZESE APPASSITA PICCANTE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TAVOLA ITALIA - SALSICCIA ABRUZZESE APPASSITA PICCANTE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Sorrentino_2020_11_30%20Richiamo%20Salsicce%20Appasite%20Piccanti_1761183216.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-abruzzese-appassita-piccante-0",
+    "published": "2020-12-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panriso-integrale-4-cereali-e-quinoa-200g/",
+    "title": "",
+    "noticeDate": "2 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "2 dicembre 2020",
+      "marca": "RISO SCOTTI S.p.A.",
+      "denominazione": "PANRISO INTEGRALE 4 CEREALI E QUINOA - 200g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "RISO SCOTTI S.p.A.",
+    "product": "PANRISO INTEGRALE 4 CEREALI E QUINOA - 200g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo RISO SCOTTI S.p.A. - PANRISO INTEGRALE 4 CEREALI E QUINOA - 200g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PANRISO%20Allerta%20Sesamo%20CARTELLO%20Richiamo_1761183220.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "panriso-integrale-4-cereali-e-quinoa-200g",
+    "published": "2020-12-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-500g-semi-di-sesamo-5kg/",
+    "title": "",
+    "noticeDate": "1 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "1 dicembre 2020",
+      "marca": "Bongiovanni srl",
+      "denominazione": "Semi di sesamo 500g / Semi di sesamo 5kg",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Bongiovanni srl",
+    "product": "Semi di sesamo 500g / Semi di sesamo 5kg",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bongiovanni srl - Semi di sesamo 500g / Semi di sesamo 5kg",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_BONGIOVANNI_1761183203.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-sesamo-500g-semi-di-sesamo-5kg",
+    "published": "2020-12-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-latte-crudo-formaggella/",
+    "title": "",
+    "noticeDate": "1 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "1 dicembre 2020",
+      "marca": "CHIARELLI PIERLUIGI",
+      "denominazione": "FORMAGGIO A LATTE CRUDO - FORMAGGELLA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CHIARELLI PIERLUIGI",
+    "product": "FORMAGGIO A LATTE CRUDO - FORMAGGELLA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CHIARELLI PIERLUIGI - FORMAGGIO A LATTE CRUDO - FORMAGGELLA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Listeria%20Chiarelli%20Pierluigi_1761183207.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-latte-crudo-formaggella",
+    "published": "2020-12-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-pane-7-cereali/",
+    "title": "",
+    "noticeDate": "1 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "1 dicembre 2020",
+      "marca": "Ruggeri srl",
+      "denominazione": "PREPARATO PER PANE 7 CEREALI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Ruggeri srl",
+    "product": "PREPARATO PER PANE 7 CEREALI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ruggeri srl - PREPARATO PER PANE 7 CEREALI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_453518_CARTELLO%20RICHIAMO%20PANE%207%20CEREALI%20LOTTO%20W1105SC_%20W1106SC_%20W1117SC_%20W1118SC%20_1__1761183211.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "preparato-pane-7-cereali",
+    "published": "2020-12-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-intero-uht/",
+    "title": "",
+    "noticeDate": "30 novembre 2020",
+    "campi": {
+      "data pubblicazione": "30 novembre 2020",
+      "marca": "Milbona",
+      "denominazione": "Latte intero UHT",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Milbona",
+    "product": "Latte intero UHT",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Milbona - Latte intero UHT",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LIDL_RICHIAMO_latte_MILBONA_1761183146.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "latte-intero-uht",
+    "published": "2020-11-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-abruzzese-appassita-piccante/",
+    "title": "",
+    "noticeDate": "30 novembre 2020",
+    "campi": {
+      "data pubblicazione": "30 novembre 2020",
+      "marca": "TAVOLA ITALIA",
+      "denominazione": "SALSICCIA ABRUZZESE APPASSITA PICCANTE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "TAVOLA ITALIA",
+    "product": "SALSICCIA ABRUZZESE APPASSITA PICCANTE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TAVOLA ITALIA - SALSICCIA ABRUZZESE APPASSITA PICCANTE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Sorrentino_2020_11_30%20Richiamo%20Salsicce%20Appasite%20Piccanti_1761183150.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-abruzzese-appassita-piccante",
+    "published": "2020-11-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-semi-di-sesamo/",
+    "title": "",
+    "noticeDate": "30 novembre 2020",
+    "campi": {
+      "data pubblicazione": "30 novembre 2020",
+      "marca": "YES ORGANIC",
+      "denominazione": "OLIO DI SEMI DI SESAMO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "YES ORGANIC",
+    "product": "OLIO DI SEMI DI SESAMO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo YES ORGANIC - OLIO DI SEMI DI SESAMO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/YES%20ORG%2C%20250%2025.11_1761183153.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "olio-di-semi-di-sesamo",
+    "published": "2020-11-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-semi-di-sesamo-0/",
+    "title": "",
+    "noticeDate": "30 novembre 2020",
+    "campi": {
+      "data pubblicazione": "30 novembre 2020",
+      "marca": "yes organic",
+      "denominazione": "OLIO DI SEMI DI SESAMO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "yes organic",
+    "product": "OLIO DI SEMI DI SESAMO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo yes organic - OLIO DI SEMI DI SESAMO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/yes%20org%20500_1761183156.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "olio-di-semi-di-sesamo-0",
+    "published": "2020-11-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-semi-di-sesamo-1/",
+    "title": "",
+    "noticeDate": "30 novembre 2020",
+    "campi": {
+      "data pubblicazione": "30 novembre 2020",
+      "marca": "YES ORGANIC",
+      "denominazione": "OLIO DI SEMI DI SESAMO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "YES ORGANIC",
+    "product": "OLIO DI SEMI DI SESAMO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo YES ORGANIC - OLIO DI SEMI DI SESAMO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/YES%20ORG%2C%20250%2025.11_1761183160.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "olio-di-semi-di-sesamo-1",
+    "published": "2020-11-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-semi-di-sesamo-2/",
+    "title": "",
+    "noticeDate": "30 novembre 2020",
+    "campi": {
+      "data pubblicazione": "30 novembre 2020",
+      "marca": "MR ORGANIC",
+      "denominazione": "OLIO DI SEMI DI SESAMO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MR ORGANIC",
+    "product": "OLIO DI SEMI DI SESAMO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MR ORGANIC - OLIO DI SEMI DI SESAMO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MR%20ORGANIC%20250%2025_1761183164.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "olio-di-semi-di-sesamo-2",
+    "published": "2020-11-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-semi-di-sesamo-3/",
+    "title": "",
+    "noticeDate": "30 novembre 2020",
+    "campi": {
+      "data pubblicazione": "30 novembre 2020",
+      "marca": "GERMINAL",
+      "denominazione": "OLIO DI SEMI DI SESAMO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "GERMINAL",
+    "product": "OLIO DI SEMI DI SESAMO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GERMINAL - OLIO DI SEMI DI SESAMO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/GERMINAL%20250%2025.11_1761183167.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "olio-di-semi-di-sesamo-3",
+    "published": "2020-11-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-semi-di-sesamo-4/",
+    "title": "",
+    "noticeDate": "30 novembre 2020",
+    "campi": {
+      "data pubblicazione": "30 novembre 2020",
+      "marca": "FIOR DI LOTO",
+      "denominazione": "OLIO DI SEMI DI SESAMO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "FIOR DI LOTO",
+    "product": "OLIO DI SEMI DI SESAMO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIOR DI LOTO - OLIO DI SEMI DI SESAMO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/FLD%20500%2025.11_1761183171.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "olio-di-semi-di-sesamo-4",
+    "published": "2020-11-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-semi-di-sesamo-5/",
+    "title": "",
+    "noticeDate": "30 novembre 2020",
+    "campi": {
+      "data pubblicazione": "30 novembre 2020",
+      "marca": "CRUDOLIO",
+      "denominazione": "OLIO DI SEMI DI SESAMO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CRUDOLIO",
+    "product": "OLIO DI SEMI DI SESAMO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CRUDOLIO - OLIO DI SEMI DI SESAMO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CRUDOLIO%20500%2025.11_1761183175.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "olio-di-semi-di-sesamo-5",
+    "published": "2020-11-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-semi-di-sesamo-6/",
+    "title": "",
+    "noticeDate": "30 novembre 2020",
+    "campi": {
+      "data pubblicazione": "30 novembre 2020",
+      "marca": "CRUDOLIO",
+      "denominazione": "OLIO DI SEMI DI SESAMO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CRUDOLIO",
+    "product": "OLIO DI SEMI DI SESAMO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CRUDOLIO - OLIO DI SEMI DI SESAMO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CRUDOLIO%20250%2025.11_1761183179.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "olio-di-semi-di-sesamo-6",
+    "published": "2020-11-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-semi-di-sesamo-7/",
+    "title": "",
+    "noticeDate": "30 novembre 2020",
+    "campi": {
+      "data pubblicazione": "30 novembre 2020",
+      "marca": "BENE BIO",
+      "denominazione": "OLIO DI SEMI DI SESAMO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BENE BIO",
+    "product": "OLIO DI SEMI DI SESAMO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BENE BIO - OLIO DI SEMI DI SESAMO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BENE%20BIO%2025.11_1761183184.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "olio-di-semi-di-sesamo-7",
+    "published": "2020-11-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-bio-200g-molino-rossetto/",
+    "title": "",
+    "noticeDate": "30 novembre 2020",
+    "campi": {
+      "data pubblicazione": "30 novembre 2020",
+      "marca": "MOLINO ROSSETTO",
+      "denominazione": "SEMI DI SESAMO BIO 200G MOLINO ROSSETTO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MOLINO ROSSETTO",
+    "product": "SEMI DI SESAMO BIO 200G MOLINO ROSSETTO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MOLINO ROSSETTO - SEMI DI SESAMO BIO 200G MOLINO ROSSETTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20semi%20sesamo%20lotto%20L20073_1761183189.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-sesamo-bio-200g-molino-rossetto",
+    "published": "2020-11-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-bio-200g-molino-rossetto-0/",
+    "title": "",
+    "noticeDate": "30 novembre 2020",
+    "campi": {
+      "data pubblicazione": "30 novembre 2020",
+      "marca": "MOLINO ROSSETTO",
+      "denominazione": "SEMI DI SESAMO BIO 200G MOLINO ROSSETTO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MOLINO ROSSETTO",
+    "product": "SEMI DI SESAMO BIO 200G MOLINO ROSSETTO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MOLINO ROSSETTO - SEMI DI SESAMO BIO 200G MOLINO ROSSETTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20semi%20sesamo%20lotto%20L19313_1761183193.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-sesamo-bio-200g-molino-rossetto-0",
+    "published": "2020-11-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-bio-200g-molino-rossetto-1/",
+    "title": "",
+    "noticeDate": "30 novembre 2020",
+    "campi": {
+      "data pubblicazione": "30 novembre 2020",
+      "marca": "MOLINO ROSSETTO",
+      "denominazione": "SEMI DI SESAMO BIO 200G MOLINO ROSSETTO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MOLINO ROSSETTO",
+    "product": "SEMI DI SESAMO BIO 200G MOLINO ROSSETTO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MOLINO ROSSETTO - SEMI DI SESAMO BIO 200G MOLINO ROSSETTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20semi%20sesamo%20lotto%20L19333_1761183198.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-sesamo-bio-200g-molino-rossetto-1",
+    "published": "2020-11-30",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panetti-con-mix-di-semi-biologici/",
     "title": "",
     "noticeDate": "27 novembre 2020",
@@ -1069,6 +1563,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "semi-di-sesamo-bio-1",
+    "published": "2020-11-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barrette-muesli-e-cereali-solo-assortimento-nocciola-senza-zuccheri/",
+    "title": "",
+    "noticeDate": "27 novembre 2020",
+    "campi": {
+      "data pubblicazione": "27 novembre 2020",
+      "marca": "Crownfield",
+      "denominazione": "Barrette muesli e cereali - Solo assortimento \"Nocciola senza zuccheri aggiunti\"",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Crownfield",
+    "product": "Barrette muesli e cereali - Solo assortimento \"Nocciola senza zuccheri aggiunti\"",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Crownfield - Barrette muesli e cereali - Solo assortimento \"Nocciola senza zuccheri aggiunti\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/FuP_452877_MODELLO_DI_RICHIAMO%20_3__1761183143.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "barrette-muesli-e-cereali-solo-assortimento-nocciola-senza-zuccheri",
     "published": "2020-11-27",
     "source": "operator"
   },
