@@ -640,6 +640,84 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nuii-almondjavan-90x4-it-umb/",
+    "title": "",
+    "noticeDate": "27 agosto 2021",
+    "campi": {
+      "data pubblicazione": "27 agosto 2021",
+      "marca": "NUII",
+      "denominazione": "NUII AlmondJaVan 90X4 IT UMB",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "NUII",
+    "product": "NUII AlmondJaVan 90X4 IT UMB",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NUII - NUII AlmondJaVan 90X4 IT UMB",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/31010592%20NUII%20AlmondJaVan%2090X4%20IT%20UMB%20_002__1761188395.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "nuii-almondjavan-90x4-it-umb",
+    "published": "2021-08-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/peperoncino-piccante-ripieno-con-tonno-e-capperi-314-ml/",
+    "title": "",
+    "noticeDate": "26 agosto 2021",
+    "campi": {
+      "data pubblicazione": "26 agosto 2021",
+      "marca": "Le Conserve Toscane",
+      "denominazione": "Peperoncino piccante ripieno con tonno e capperi 314 ML",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Le Conserve Toscane",
+    "product": "Peperoncino piccante ripieno con tonno e capperi 314 ML",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Le Conserve Toscane - Peperoncino piccante ripieno con tonno e capperi 314 ML",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/mod_richiamo_1761187798.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "peperoncino-piccante-ripieno-con-tonno-e-capperi-314-ml",
+    "published": "2021-08-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/peperoncino-piccante-ripieno-con-tonno-e-capperi-314-ml-0/",
+    "title": "",
+    "noticeDate": "26 agosto 2021",
+    "campi": {
+      "data pubblicazione": "26 agosto 2021",
+      "marca": "Le Conserve Toscane",
+      "denominazione": "Peperoncino piccante ripieno con tonno e capperi 314 ML",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Le Conserve Toscane",
+    "product": "Peperoncino piccante ripieno con tonno e capperi 314 ML",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Le Conserve Toscane - Peperoncino piccante ripieno con tonno e capperi 314 ML",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello_richiamo_1761187804.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "peperoncino-piccante-ripieno-con-tonno-e-capperi-314-ml-0",
+    "published": "2021-08-26",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/curcudyn-metagenics/",
     "title": "Curcudyn",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-ritiro-di-un-integratore-contenente-estratto-di-zenzero/",
@@ -744,6 +822,162 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "pasta-di-lenticchie-rosse-riso-rosso-e-curcuma-bio-paccheri",
+    "published": "2021-08-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-lenticchie-rosse-riso-rosso-e-curcuma-bio-penne/",
+    "title": "",
+    "noticeDate": "24 agosto 2021",
+    "campi": {
+      "data pubblicazione": "24 agosto 2021",
+      "marca": "PASTIFICIO FIORENTINO RENAISSANCE",
+      "denominazione": "Pasta di lenticchie rosse, riso rosso e curcuma bio - penne",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "PASTIFICIO FIORENTINO RENAISSANCE",
+    "product": "Pasta di lenticchie rosse, riso rosso e curcuma bio - penne",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PASTIFICIO FIORENTINO RENAISSANCE - Pasta di lenticchie rosse, riso rosso e curcuma bio - penne",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LENT_PENNE_3_1761187769.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasta-di-lenticchie-rosse-riso-rosso-e-curcuma-bio-penne",
+    "published": "2021-08-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-fave-riso-rosso-e-curcuma-bio-calamarata/",
+    "title": "",
+    "noticeDate": "24 agosto 2021",
+    "campi": {
+      "data pubblicazione": "24 agosto 2021",
+      "marca": "PASTIFICIO FIORENTINO RENAISSANCE",
+      "denominazione": "Pasta di fave, riso rosso e curcuma bio - calamarata",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "PASTIFICIO FIORENTINO RENAISSANCE",
+    "product": "Pasta di fave, riso rosso e curcuma bio - calamarata",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PASTIFICIO FIORENTINO RENAISSANCE - Pasta di fave, riso rosso e curcuma bio - calamarata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/FAVE_CALAMARATA_3_1761187774.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasta-di-fave-riso-rosso-e-curcuma-bio-calamarata",
+    "published": "2021-08-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-fave-riso-rosso-e-curcuma-bio-risoni/",
+    "title": "",
+    "noticeDate": "24 agosto 2021",
+    "campi": {
+      "data pubblicazione": "24 agosto 2021",
+      "marca": "PASTIFICIO FIORENTINO RENAISSANCE",
+      "denominazione": "Pasta di fave, riso rosso e curcuma bio - risoni",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "PASTIFICIO FIORENTINO RENAISSANCE",
+    "product": "Pasta di fave, riso rosso e curcuma bio - risoni",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PASTIFICIO FIORENTINO RENAISSANCE - Pasta di fave, riso rosso e curcuma bio - risoni",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/FAVE_RISONI_3_1761187779.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasta-di-fave-riso-rosso-e-curcuma-bio-risoni",
+    "published": "2021-08-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-fave-riso-rosso-e-curcuma-bio-paccheri/",
+    "title": "",
+    "noticeDate": "24 agosto 2021",
+    "campi": {
+      "data pubblicazione": "24 agosto 2021",
+      "marca": "PASTIFICIO FIORENTINO RENAISSANCE",
+      "denominazione": "Pasta di fave, riso rosso e curcuma bio - paccheri",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "PASTIFICIO FIORENTINO RENAISSANCE",
+    "product": "Pasta di fave, riso rosso e curcuma bio - paccheri",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PASTIFICIO FIORENTINO RENAISSANCE - Pasta di fave, riso rosso e curcuma bio - paccheri",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/FAVE_PACCHERI_3_1761187784.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasta-di-fave-riso-rosso-e-curcuma-bio-paccheri",
+    "published": "2021-08-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-fave-riso-rosso-e-curcuma-bio-fusilli/",
+    "title": "",
+    "noticeDate": "24 agosto 2021",
+    "campi": {
+      "data pubblicazione": "24 agosto 2021",
+      "marca": "PASTIFICIO FIORENTINO RENAISSANCE",
+      "denominazione": "Pasta di fave, riso rosso e curcuma bio - fusilli",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "PASTIFICIO FIORENTINO RENAISSANCE",
+    "product": "Pasta di fave, riso rosso e curcuma bio - fusilli",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PASTIFICIO FIORENTINO RENAISSANCE - Pasta di fave, riso rosso e curcuma bio - fusilli",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/FAVE_FUSILLI_3_1761187788.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasta-di-fave-riso-rosso-e-curcuma-bio-fusilli",
+    "published": "2021-08-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trs-cinnamon-powder-cannella-polvere/",
+    "title": "",
+    "noticeDate": "24 agosto 2021",
+    "campi": {
+      "data pubblicazione": "24 agosto 2021",
+      "marca": "TRS",
+      "denominazione": "TRS Cinnamon Powder: cannella in polvere",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "TRS",
+    "product": "TRS Cinnamon Powder: cannella in polvere",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TRS - TRS Cinnamon Powder: cannella in polvere",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Min%20Salute_1761187793.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "trs-cinnamon-powder-cannella-polvere",
     "published": "2021-08-24",
     "source": "operator"
   },
@@ -1768,6 +2002,32 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/psillo-cuticola-polvere-100-gr-lotto-8821-scadenza-31032024-0/",
+    "title": "",
+    "noticeDate": "8 giugno 2021",
+    "campi": {
+      "data pubblicazione": "8 giugno 2021",
+      "marca": "ERBA VITA",
+      "denominazione": "PSILLO CUTICOLA POLVERE 100 gr lotto 8821 scadenza 31/03/2024",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ERBA VITA",
+    "product": "PSILLO CUTICOLA POLVERE 100 gr lotto 8821 scadenza 31/03/2024",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ERBA VITA - PSILLO CUTICOLA POLVERE 100 gr lotto 8821 scadenza 31/03/2024",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Min.%20Richiamo%20Psillo%20Cuticola%20Polvere%20100%20gr_lotto%208821_scad.%2031.03.2024_1761186667.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "psillo-cuticola-polvere-100-gr-lotto-8821-scadenza-31032024-0",
+    "published": "2021-06-08",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/diabetyn-sensilab/",
     "title": "Diabetyn",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-di-sicurezza-ossido-di-etilene-0/",
@@ -1800,6 +2060,162 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trancio-di-tonno-pinne-gialle-decongelato-con-acqua-aggiunta/",
+    "title": "",
+    "noticeDate": "4 giugno 2021",
+    "campi": {
+      "data pubblicazione": "4 giugno 2021",
+      "marca": "ITTICA ZU PIETRO SRL",
+      "denominazione": "TRANCIO DI TONNO A PINNE GIALLE DECONGELATO CON ACQUA AGGIUNTA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ITTICA ZU PIETRO SRL",
+    "product": "TRANCIO DI TONNO A PINNE GIALLE DECONGELATO CON ACQUA AGGIUNTA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ITTICA ZU PIETRO SRL - TRANCIO DI TONNO A PINNE GIALLE DECONGELATO CON ACQUA AGGIUNTA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RITIRO%20ITTICA%20ZU%20PIETRO_1761186665.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "trancio-di-tonno-pinne-gialle-decongelato-con-acqua-aggiunta",
+    "published": "2021-06-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/serie-heroisk-talrika-piatti-ciotole-e-tazze/",
+    "title": "",
+    "noticeDate": "28 maggio 2021",
+    "campi": {
+      "data pubblicazione": "28 maggio 2021",
+      "marca": "IKEA",
+      "denominazione": "SERIE HEROISK- TALRIKA: PIATTI, CIOTOLE E TAZZE",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "IKEA",
+    "product": "SERIE HEROISK- TALRIKA: PIATTI, CIOTOLE E TAZZE",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IKEA - SERIE HEROISK- TALRIKA: PIATTI, CIOTOLE E TAZZE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelloIKEA_1761186664.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "serie-heroisk-talrika-piatti-ciotole-e-tazze",
+    "published": "2021-05-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ispaghul-conf60-capsule/",
+    "title": "",
+    "noticeDate": "24 maggio 2021",
+    "campi": {
+      "data pubblicazione": "24 maggio 2021",
+      "marca": "ERBA VITA Group s.p.a. via dei Faggi n.26 Chiesanuova Rimini",
+      "denominazione": "ISPAGHUL conf.60 capsule",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ERBA VITA Group s.p.a. via dei Faggi n.26 Chiesanuova Rimini",
+    "product": "ISPAGHUL conf.60 capsule",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ERBA VITA Group s.p.a. via dei Faggi n.26 Chiesanuova Rimini - ISPAGHUL conf.60 capsule",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20_%20Modulo%20di%20richiamo_1761186658.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ispaghul-conf60-capsule",
+    "published": "2021-05-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/psillo-cuticola-polvere-100-gr-lotto-8821-scadenza-300421/",
+    "title": "",
+    "noticeDate": "24 maggio 2021",
+    "campi": {
+      "data pubblicazione": "24 maggio 2021",
+      "marca": "ERBA VITA GROUP s.p.a. via dei Faggi n.26 Chiesanuova Rimini",
+      "denominazione": "PSILLO CUTICOLA POLVERE 100 gr lotto 8821 scadenza 30/04/21",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ERBA VITA GROUP s.p.a. via dei Faggi n.26 Chiesanuova Rimini",
+    "product": "PSILLO CUTICOLA POLVERE 100 gr lotto 8821 scadenza 30/04/21",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ERBA VITA GROUP s.p.a. via dei Faggi n.26 Chiesanuova Rimini - PSILLO CUTICOLA POLVERE 100 gr lotto 8821 scadenza 30/04/21",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PSILLO%20CUT%20POLVERE%20100%20G%20LOTTO%208821_1761186659.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "psillo-cuticola-polvere-100-gr-lotto-8821-scadenza-300421",
+    "published": "2021-05-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/psillo-cuticola-polvere-100-gr-lotto-4921-scad-29022024/",
+    "title": "",
+    "noticeDate": "24 maggio 2021",
+    "campi": {
+      "data pubblicazione": "24 maggio 2021",
+      "marca": "ERBA VITA GROUP s.r.l. via dei Faggi n.26 Chiesanuova Rimini",
+      "denominazione": "PSILLO CUTICOLA POLVERE 100 gr lotto 4921 scad. 29/02/2024",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ERBA VITA GROUP s.r.l. via dei Faggi n.26 Chiesanuova Rimini",
+    "product": "PSILLO CUTICOLA POLVERE 100 gr lotto 4921 scad. 29/02/2024",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ERBA VITA GROUP s.r.l. via dei Faggi n.26 Chiesanuova Rimini - PSILLO CUTICOLA POLVERE 100 gr lotto 4921 scad. 29/02/2024",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PSILLO%20CUT%20POLVERE%20100%20GR%20LOTTO%204921_1761186661.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "psillo-cuticola-polvere-100-gr-lotto-4921-scad-29022024",
+    "published": "2021-05-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/psillo-cuticola-polvere-100-gr-lotto-8821-scadenza-31032024/",
+    "title": "",
+    "noticeDate": "24 maggio 2021",
+    "campi": {
+      "data pubblicazione": "24 maggio 2021",
+      "marca": "ERBA VITA GROUP s.p.a. via dei Faggi n.26 Chiesanuova Rimini",
+      "denominazione": "PSILLO CUTICOLA POLVERE 100 gr lotto 8821 scadenza 31/03/2024",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ERBA VITA GROUP s.p.a. via dei Faggi n.26 Chiesanuova Rimini",
+    "product": "PSILLO CUTICOLA POLVERE 100 gr lotto 8821 scadenza 31/03/2024",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ERBA VITA GROUP s.p.a. via dei Faggi n.26 Chiesanuova Rimini - PSILLO CUTICOLA POLVERE 100 gr lotto 8821 scadenza 31/03/2024",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PSILLO%20CUT%20POLVERE%20100%20G%20LOTTO%208821_1761186662.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "psillo-cuticola-polvere-100-gr-lotto-8821-scadenza-31032024",
+    "published": "2021-05-24",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/forzapiu-formula-extra-forte-potenza-max-ginseng-complex-unlimited-oa/",
     "title": "ForzaPiù formula extra forte, Potenza Max ginseng complex",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-di-sicurezza-sildenafil-integratori-alimentari/",
@@ -1825,6 +2241,110 @@
     "id": "forzapiu-formula-extra-forte-potenza-max-ginseng-complex-unlimited-oa",
     "published": "2021-05-17",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tartare-di-scottona-0/",
+    "title": "",
+    "noticeDate": "17 maggio 2021",
+    "campi": {
+      "data pubblicazione": "17 maggio 2021",
+      "marca": "FILE'",
+      "denominazione": "TARTARE DI SCOTTONA",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "FILE'",
+    "product": "TARTARE DI SCOTTONA",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FILE' - TARTARE DI SCOTTONA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Notifica_477590_Revoca_Richiamo_Tartare_Scottona_1761186657.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tartare-di-scottona-0",
+    "published": "2021-05-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-candia-alta-digeribilita-1-di-grassi/",
+    "title": "",
+    "noticeDate": "14 maggio 2021",
+    "campi": {
+      "data pubblicazione": "14 maggio 2021",
+      "marca": "CANDIA",
+      "denominazione": "Latte Candia Alta Digeribilità 1% di grassi",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CANDIA",
+    "product": "Latte Candia Alta Digeribilità 1% di grassi",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CANDIA - Latte Candia Alta Digeribilità 1% di grassi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CANDIA_RICHIAMO_LATTE_AD%201_%20di%20grassi%20bp%2025cl%20lotto%2021098U_1761186655.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "latte-candia-alta-digeribilita-1-di-grassi",
+    "published": "2021-05-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tartare-di-scottona/",
+    "title": "",
+    "noticeDate": "11 maggio 2021",
+    "campi": {
+      "data pubblicazione": "11 maggio 2021",
+      "marca": "FILE'",
+      "denominazione": "TARTARE DI SCOTTONA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FILE'",
+    "product": "TARTARE DI SCOTTONA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FILE' - TARTARE DI SCOTTONA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tartare%20scottona_1761186654.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tartare-di-scottona",
+    "published": "2021-05-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-selvaggio-sockeye-affumicato-100-g-3/",
+    "title": "",
+    "noticeDate": "10 maggio 2021",
+    "campi": {
+      "data pubblicazione": "10 maggio 2021",
+      "marca": "Salmone Selvaggio Sockeye affumicato",
+      "denominazione": "Salmone Selvaggio Sockeye affumicato 100 g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salmone Selvaggio Sockeye affumicato",
+    "product": "Salmone Selvaggio Sockeye affumicato 100 g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salmone Selvaggio Sockeye affumicato - Salmone Selvaggio Sockeye affumicato 100 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_477393_Richiamo_Salmone_1761186653.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salmone-selvaggio-sockeye-affumicato-100-g-3",
+    "published": "2021-05-10",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/isiciliami-cerealcrock-sesamo/",
