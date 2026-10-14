@@ -2295,6 +2295,526 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/birra-franken-naturradler-50-cl/",
+    "title": "",
+    "noticeDate": "7 novembre 2019",
+    "campi": {
+      "data pubblicazione": "7 novembre 2019",
+      "marca": "Franken Brau",
+      "denominazione": "Birra Franken Naturradler 50 cl",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Franken Brau",
+    "product": "Birra Franken Naturradler 50 cl",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Franken Brau - Birra Franken Naturradler 50 cl",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/D6347_NATURRADLER%20_1__1761180348.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "birra-franken-naturradler-50-cl",
+    "published": "2019-11-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/birra-franken-pilsner-50-cl/",
+    "title": "",
+    "noticeDate": "7 novembre 2019",
+    "campi": {
+      "data pubblicazione": "7 novembre 2019",
+      "marca": "Franken Brau",
+      "denominazione": "Birra Franken Pilsner 50 cl",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Franken Brau",
+    "product": "Birra Franken Pilsner 50 cl",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Franken Brau - Birra Franken Pilsner 50 cl",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/D6348%20_%20PILSNER_1761180350.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "birra-franken-pilsner-50-cl",
+    "published": "2019-11-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/birra-franken-urhell-50-cl/",
+    "title": "",
+    "noticeDate": "7 novembre 2019",
+    "campi": {
+      "data pubblicazione": "7 novembre 2019",
+      "marca": "Franken Brau",
+      "denominazione": "Birra Franken Urhell 50 cl",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Franken Brau",
+    "product": "Birra Franken Urhell 50 cl",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Franken Brau - Birra Franken Urhell 50 cl",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/D6571_%20URHELL_1761180352.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "birra-franken-urhell-50-cl",
+    "published": "2019-11-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coppa-di-testa-di-modena-affettata-vaschetta-da-125-g/",
+    "title": "",
+    "noticeDate": "5 novembre 2019",
+    "campi": {
+      "data pubblicazione": "5 novembre 2019",
+      "marca": "gigi il salumificio s.r.l.",
+      "denominazione": "coppa di testa di modena affettata in vaschetta da 125 g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "gigi il salumificio s.r.l.",
+    "product": "coppa di testa di modena affettata in vaschetta da 125 g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo gigi il salumificio s.r.l. - coppa di testa di modena affettata in vaschetta da 125 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/All.%202%20richiamo%20lotto%201478%20coppa%20di%20testa_1761180343.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "coppa-di-testa-di-modena-affettata-vaschetta-da-125-g",
+    "published": "2019-11-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/freselline-integrali/",
+    "title": "",
+    "noticeDate": "5 novembre 2019",
+    "campi": {
+      "data pubblicazione": "5 novembre 2019",
+      "marca": "PRIMIA",
+      "denominazione": "Freselline integrali",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "PRIMIA",
+    "product": "Freselline integrali",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PRIMIA - Freselline integrali",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20freselline_1761180344.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "freselline-integrali",
+    "published": "2019-11-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-effervescente-naturale-acqua-di-nepi/",
+    "title": "",
+    "noticeDate": "5 novembre 2019",
+    "campi": {
+      "data pubblicazione": "5 novembre 2019",
+      "marca": "Acqua di Nepi S.p.A.",
+      "denominazione": "Acqua minerale effervescente naturale Acqua di Nepi",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Acqua di Nepi S.p.A.",
+    "product": "Acqua minerale effervescente naturale Acqua di Nepi",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Acqua di Nepi S.p.A. - Acqua minerale effervescente naturale Acqua di Nepi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_acqua_nepi_1761180346.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "acqua-minerale-effervescente-naturale-acqua-di-nepi",
+    "published": "2019-11-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bene-si-gelato-bianco-variegato-cacao/",
+    "title": "",
+    "noticeDate": "4 novembre 2019",
+    "campi": {
+      "data pubblicazione": "4 novembre 2019",
+      "marca": "COOP",
+      "denominazione": "BENE-SI' GELATO BIANCO VARIEGATO CACAO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "COOP",
+    "product": "BENE-SI' GELATO BIANCO VARIEGATO CACAO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo COOP - BENE-SI' GELATO BIANCO VARIEGATO CACAO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO_1761180339.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "bene-si-gelato-bianco-variegato-cacao",
+    "published": "2019-11-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bene-si-gelato-bianco-variegato-cacao-0/",
+    "title": "",
+    "noticeDate": "4 novembre 2019",
+    "campi": {
+      "data pubblicazione": "4 novembre 2019",
+      "marca": "COOP",
+      "denominazione": "BENE-SI' GELATO BIANCO VARIEGATO CACAO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "COOP",
+    "product": "BENE-SI' GELATO BIANCO VARIEGATO CACAO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo COOP - BENE-SI' GELATO BIANCO VARIEGATO CACAO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_1761180341.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "bene-si-gelato-bianco-variegato-cacao-0",
+    "published": "2019-11-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilacci-di-equino-100g-busta-atp/",
+    "title": "",
+    "noticeDate": "31 ottobre 2019",
+    "campi": {
+      "data pubblicazione": "31 ottobre 2019",
+      "marca": "NABA CARNI SPA",
+      "denominazione": "SFILACCI DI EQUINO 100G IN BUSTA ATP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "NABA CARNI SPA",
+    "product": "SFILACCI DI EQUINO 100G IN BUSTA ATP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NABA CARNI SPA - SFILACCI DI EQUINO 100G IN BUSTA ATP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo%20sfilacci%20Naba%20Carni_1761180338.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilacci-di-equino-100g-busta-atp",
+    "published": "2019-10-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/seppia-indopacifica-surgelata/",
+    "title": "",
+    "noticeDate": "28 ottobre 2019",
+    "campi": {
+      "data pubblicazione": "28 ottobre 2019",
+      "marca": "SEACON (SEAFOOD CONNECTION) - OLANDA",
+      "denominazione": "seppia indopacifica surgelata",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SEACON (SEAFOOD CONNECTION) - OLANDA",
+    "product": "seppia indopacifica surgelata",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SEACON (SEAFOOD CONNECTION) - OLANDA - seppia indopacifica surgelata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/DINGFENG%20_RICHIAMO_1761180336.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "seppia-indopacifica-surgelata",
+    "published": "2019-10-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wicked-habanero-pepper-wing-sauce-340-g/",
+    "title": "",
+    "noticeDate": "24 ottobre 2019",
+    "campi": {
+      "data pubblicazione": "24 ottobre 2019",
+      "marca": "STUBB'S",
+      "denominazione": "WICKED HABANERO PEPPER WING SAUCE 340 g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "STUBB'S",
+    "product": "WICKED HABANERO PEPPER WING SAUCE 340 g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo STUBB'S - WICKED HABANERO PEPPER WING SAUCE 340 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20WICKED%20HABANERO%20PEPPER%20WING%20SAUCE%20340%20g_1761180335.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "wicked-habanero-pepper-wing-sauce-340-g",
+    "published": "2019-10-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trippa-precotta-tagliata-bab/",
+    "title": "",
+    "noticeDate": "22 ottobre 2019",
+    "campi": {
+      "data pubblicazione": "22 ottobre 2019",
+      "marca": "LA TRIPA 'D MUNCALE' SRL",
+      "denominazione": "Trippa precotta tagliata B.A.B.",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LA TRIPA 'D MUNCALE' SRL",
+    "product": "Trippa precotta tagliata B.A.B.",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA TRIPA 'D MUNCALE' SRL - Trippa precotta tagliata B.A.B.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Trippa%20di%20Moncalieri_1761180333.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "trippa-precotta-tagliata-bab",
+    "published": "2019-10-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/brodo-vegetale-polevere-rapunzel-klare-suppe/",
+    "title": "",
+    "noticeDate": "18 ottobre 2019",
+    "campi": {
+      "data pubblicazione": "18 ottobre 2019",
+      "marca": "Rapunzel Naturkost GmbH",
+      "denominazione": "Brodo vegetale in polevere - Rapunzel Klare Suppe",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Rapunzel Naturkost GmbH",
+    "product": "Brodo vegetale in polevere - Rapunzel Klare Suppe",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Rapunzel Naturkost GmbH - Brodo vegetale in polevere - Rapunzel Klare Suppe",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2019%2010%2018%20Richiamo%20Klare%20Suppe%20Rapunzel%20MHD%2018_09_2020_1761180331.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "brodo-vegetale-polevere-rapunzel-klare-suppe",
+    "published": "2019-10-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-mascarpone-duetto/",
+    "title": "",
+    "noticeDate": "18 ottobre 2019",
+    "campi": {
+      "data pubblicazione": "18 ottobre 2019",
+      "marca": "Mauri",
+      "denominazione": "Gorgonzola Mascarpone Duetto",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "Mauri",
+    "product": "Gorgonzola Mascarpone Duetto",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mauri - Gorgonzola Mascarpone Duetto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_1761180332.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gorgonzola-mascarpone-duetto",
+    "published": "2019-10-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trance-di-smeriglio-cartone-8-kg-brasmar/",
+    "title": "",
+    "noticeDate": "16 ottobre 2019",
+    "campi": {
+      "data pubblicazione": "16 ottobre 2019",
+      "marca": "Brasmar",
+      "denominazione": "trance di smeriglio cartone 8 kg - Brasmar",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Brasmar",
+    "product": "trance di smeriglio cartone 8 kg - Brasmar",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Brasmar - trance di smeriglio cartone 8 kg - Brasmar",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modellorichiamo_smeriglio_urbis_1761180329.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "trance-di-smeriglio-cartone-8-kg-brasmar",
+    "published": "2019-10-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-e-mascarpone-duetto/",
+    "title": "",
+    "noticeDate": "13 ottobre 2019",
+    "campi": {
+      "data pubblicazione": "13 ottobre 2019",
+      "marca": "Emilio Mauri SpA",
+      "denominazione": "Gorgonzola e Mascarpone Duetto",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Emilio Mauri SpA",
+    "product": "Gorgonzola e Mascarpone Duetto",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Emilio Mauri SpA - Gorgonzola e Mascarpone Duetto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/OSA%20modulo%20di%20richiamo%20Gorgonzola%20e%20mascarpone_1761180328.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gorgonzola-e-mascarpone-duetto",
+    "published": "2019-10-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-farro-integrale/",
+    "title": "",
+    "noticeDate": "10 ottobre 2019",
+    "campi": {
+      "data pubblicazione": "10 ottobre 2019",
+      "marca": "LO CONTE",
+      "denominazione": "FARINA DI FARRO INTEGRALE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "LO CONTE",
+    "product": "FARINA DI FARRO INTEGRALE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LO CONTE - FARINA DI FARRO INTEGRALE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20farro%20lo%20conte%2018339_1761180326.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "farina-di-farro-integrale",
+    "published": "2019-10-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panna-cotta-al-creme-caramel-uht/",
+    "title": "",
+    "noticeDate": "10 ottobre 2019",
+    "campi": {
+      "data pubblicazione": "10 ottobre 2019",
+      "marca": "CRAI SECOM SPA",
+      "denominazione": "PANNA COTTA AL CREME CARAMEL UHT",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CRAI SECOM SPA",
+    "product": "PANNA COTTA AL CREME CARAMEL UHT",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CRAI SECOM SPA - PANNA COTTA AL CREME CARAMEL UHT",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_Richiamo_%20PannaCotta_Crai_1761180327.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "panna-cotta-al-creme-caramel-uht",
+    "published": "2019-10-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-stellino/",
+    "title": "",
+    "noticeDate": "9 ottobre 2019",
+    "campi": {
+      "data pubblicazione": "9 ottobre 2019",
+      "marca": "NATIVA 2018 SRL",
+      "denominazione": "SALAME STELLINO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "NATIVA 2018 SRL",
+    "product": "SALAME STELLINO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NATIVA 2018 SRL - SALAME STELLINO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/19_43_B_20191009_MODULO%20RCHIAMO_1761180325.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-stellino",
+    "published": "2019-10-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salametto-0/",
+    "title": "",
+    "noticeDate": "8 ottobre 2019",
+    "campi": {
+      "data pubblicazione": "8 ottobre 2019",
+      "marca": "Cesare Fiorucci SPA",
+      "denominazione": "Salametto",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Cesare Fiorucci SPA",
+    "product": "Salametto",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cesare Fiorucci SPA - Salametto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MinsaluteAllA2_Integrazione%20RICHIAMO_1761180324.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salametto-0",
+    "published": "2019-10-08",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratore-alimentare-volfort/",
     "title": "Integratore alimentare “VOLFORT”",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/integratore-alimentare-volfort-proveniente-dalla-cina/",
