@@ -2295,6 +2295,526 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uvetta-sultanina-250g/",
+    "title": "",
+    "noticeDate": "22 novembre 2019",
+    "campi": {
+      "data pubblicazione": "22 novembre 2019",
+      "marca": "MISTER SIBAMBA",
+      "denominazione": "Uvetta sultanina 250g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MISTER SIBAMBA",
+    "product": "Uvetta sultanina 250g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MISTER SIBAMBA - Uvetta sultanina 250g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/uvetta%20secca%20eurospin_19_110_C_1761180399.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uvetta-sultanina-250g",
+    "published": "2019-11-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-di-capra-spalmabile-e-fiordicapra-fiorone/",
+    "title": "",
+    "noticeDate": "19 novembre 2019",
+    "campi": {
+      "data pubblicazione": "19 novembre 2019",
+      "marca": "IT 03 1881 CE",
+      "denominazione": "Formaggio di capra spalmabile e Fiordicapra fiorone",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "IT 03 1881 CE",
+    "product": "Formaggio di capra spalmabile e Fiordicapra fiorone",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IT 03 1881 CE - Formaggio di capra spalmabile e Fiordicapra fiorone",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ARRIGONI%20BATTISTA%20Modello%20di%20Richiamo%20caprino%20fresco%20spalmabile%20di%20capra%204_dic_1761180383.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "formaggio-di-capra-spalmabile-e-fiordicapra-fiorone",
+    "published": "2019-11-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-di-capra-spalmabile/",
+    "title": "",
+    "noticeDate": "19 novembre 2019",
+    "campi": {
+      "data pubblicazione": "19 novembre 2019",
+      "marca": "IT 03 1881 CE",
+      "denominazione": "Formaggio di capra spalmabile",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "IT 03 1881 CE",
+    "product": "Formaggio di capra spalmabile",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IT 03 1881 CE - Formaggio di capra spalmabile",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ARRIGONI%20BATTISTA%20Modello%20di%20Richiamo%20caprino%20fresco%20spalmabile%20di%20capra_1761180385.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "formaggio-di-capra-spalmabile",
+    "published": "2019-11-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fiorone-fior-di-capra/",
+    "title": "",
+    "noticeDate": "19 novembre 2019",
+    "campi": {
+      "data pubblicazione": "19 novembre 2019",
+      "marca": "IT 03 1881 CE",
+      "denominazione": "Fiorone fior di capra",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "IT 03 1881 CE",
+    "product": "Fiorone fior di capra",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IT 03 1881 CE - Fiorone fior di capra",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ARRIGONI%20BATTISTA%20Modello%20di%20Richiamo%20FIORDICAPRA%20FIORONE_1761180388.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fiorone-fior-di-capra",
+    "published": "2019-11-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-grano-tenero-tipo-00-bio/",
+    "title": "",
+    "noticeDate": "19 novembre 2019",
+    "campi": {
+      "data pubblicazione": "19 novembre 2019",
+      "marca": "BONGIOVANNI SRL",
+      "denominazione": "FARINA DI GRANO TENERO TIPO 00 BIO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "BONGIOVANNI SRL",
+    "product": "FARINA DI GRANO TENERO TIPO 00 BIO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BONGIOVANNI SRL - FARINA DI GRANO TENERO TIPO 00 BIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_FARINA%20DI%20GRANO%20TENERO%20TIPO%2000%20BIO_1761180390.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "farina-di-grano-tenero-tipo-00-bio",
+    "published": "2019-11-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caprino-fresco-70-g/",
+    "title": "",
+    "noticeDate": "19 novembre 2019",
+    "campi": {
+      "data pubblicazione": "19 novembre 2019",
+      "marca": "CIRESA SRL",
+      "denominazione": "CAPRINO FRESCO 70 G",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CIRESA SRL",
+    "product": "CAPRINO FRESCO 70 G",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CIRESA SRL - CAPRINO FRESCO 70 G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Ciresa_1761180393.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "caprino-fresco-70-g",
+    "published": "2019-11-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-di-capra/",
+    "title": "",
+    "noticeDate": "19 novembre 2019",
+    "campi": {
+      "data pubblicazione": "19 novembre 2019",
+      "marca": "IT 03 1881 CE",
+      "denominazione": "Formaggio di capra",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "IT 03 1881 CE",
+    "product": "Formaggio di capra",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IT 03 1881 CE - Formaggio di capra",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/COMUNICAZIONE%20ASL%20RICHIAMO%20FIOR%20DI%20CAPRA%20L%202210_1761180396.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "formaggio-di-capra",
+    "published": "2019-11-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-san-benedetto-1/",
+    "title": "",
+    "noticeDate": "18 novembre 2019",
+    "campi": {
+      "data pubblicazione": "18 novembre 2019",
+      "marca": "ACQUA MINERALE SAN BENEDETTO",
+      "denominazione": "ACQUA MINERALE SAN BENEDETTO",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "ACQUA MINERALE SAN BENEDETTO",
+    "product": "ACQUA MINERALE SAN BENEDETTO",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ACQUA MINERALE SAN BENEDETTO - ACQUA MINERALE SAN BENEDETTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo%20Acqua%20minerale%20San%20Benedetto%20_Popoli%20_PE__18.11.2019_1761180378.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "acqua-minerale-san-benedetto-1",
+    "published": "2019-11-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nestle-vera-naturae/",
+    "title": "",
+    "noticeDate": "18 novembre 2019",
+    "campi": {
+      "data pubblicazione": "18 novembre 2019",
+      "marca": "Sanpellegrino S.p.A.",
+      "denominazione": "Nestlè Vera Naturae",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Sanpellegrino S.p.A.",
+    "product": "Nestlè Vera Naturae",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sanpellegrino S.p.A. - Nestlè Vera Naturae",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Untitled_004_1761180380.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "nestle-vera-naturae",
+    "published": "2019-11-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/muscolo-spezzino/",
+    "title": "",
+    "noticeDate": "15 novembre 2019",
+    "campi": {
+      "data pubblicazione": "15 novembre 2019",
+      "marca": "Coop. Mitilicoltori Spezzini",
+      "denominazione": "Muscolo spezzino",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Coop. Mitilicoltori Spezzini",
+    "product": "Muscolo spezzino",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coop. Mitilicoltori Spezzini - Muscolo spezzino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_1761180375.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "muscolo-spezzino",
+    "published": "2019-11-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/piadina-biologica-olio/",
+    "title": "",
+    "noticeDate": "14 novembre 2019",
+    "campi": {
+      "data pubblicazione": "14 novembre 2019",
+      "marca": "AQUAFARINA",
+      "denominazione": "PIADINA BIOLOGICA OLIO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "AQUAFARINA",
+    "product": "PIADINA BIOLOGICA OLIO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AQUAFARINA - PIADINA BIOLOGICA OLIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20PIADINA%20BIO%20ACQUAFARINA%20L23592_1761180366.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "piadina-biologica-olio",
+    "published": "2019-11-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/piadina-biologica-olio-0/",
+    "title": "",
+    "noticeDate": "14 novembre 2019",
+    "campi": {
+      "data pubblicazione": "14 novembre 2019",
+      "marca": "VIAGGIATOR GOLOSO",
+      "denominazione": "PIADINA BIOLOGICA OLIO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "VIAGGIATOR GOLOSO",
+    "product": "PIADINA BIOLOGICA OLIO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VIAGGIATOR GOLOSO - PIADINA BIOLOGICA OLIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20PIADINA%20BIO%20VIAGGIATOR%20GOLOSO%20L43792_1761180368.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "piadina-biologica-olio-0",
+    "published": "2019-11-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/piadina-biologica-olio-1/",
+    "title": "",
+    "noticeDate": "14 novembre 2019",
+    "campi": {
+      "data pubblicazione": "14 novembre 2019",
+      "marca": "VIAGGIATOR GOLOSO",
+      "denominazione": "PIADINA BIOLOGICA OLIO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "VIAGGIATOR GOLOSO",
+    "product": "PIADINA BIOLOGICA OLIO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VIAGGIATOR GOLOSO - PIADINA BIOLOGICA OLIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20PIADINA%20BIO%20VIAGGIATOR%20GOLOSO%20L23591_1761180371.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "piadina-biologica-olio-1",
+    "published": "2019-11-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/piadina-biologica-olio-2/",
+    "title": "",
+    "noticeDate": "14 novembre 2019",
+    "campi": {
+      "data pubblicazione": "14 novembre 2019",
+      "marca": "ANGOLO",
+      "denominazione": "PIADINA BIOLOGICA OLIO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "ANGOLO",
+    "product": "PIADINA BIOLOGICA OLIO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ANGOLO - PIADINA BIOLOGICA OLIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20PIADINA%20BIO%20ANGOLO%20L23691_1761180373.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "piadina-biologica-olio-2",
+    "published": "2019-11-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/girello-bovino-salsa-tonnata/",
+    "title": "",
+    "noticeDate": "13 novembre 2019",
+    "campi": {
+      "data pubblicazione": "13 novembre 2019",
+      "marca": "GUSTO QUI",
+      "denominazione": "GIRELLO BOVINO IN SALSA TONNATA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "GUSTO QUI",
+    "product": "GIRELLO BOVINO IN SALSA TONNATA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GUSTO QUI - GIRELLO BOVINO IN SALSA TONNATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_Girello%20bovino%20in%20salsa%20tonnata_lotto_19145058_1761180360.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "girello-bovino-salsa-tonnata",
+    "published": "2019-11-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/polpa-di-cervo/",
+    "title": "",
+    "noticeDate": "13 novembre 2019",
+    "campi": {
+      "data pubblicazione": "13 novembre 2019",
+      "marca": "Silca s.p.a.",
+      "denominazione": "Polpa di cervo",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Silca s.p.a.",
+    "product": "Polpa di cervo",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Silca s.p.a. - Polpa di cervo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20carne%20di%20cervo_1761180362.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "polpa-di-cervo",
+    "published": "2019-11-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/capperi-crai-95g/",
+    "title": "",
+    "noticeDate": "13 novembre 2019",
+    "campi": {
+      "data pubblicazione": "13 novembre 2019",
+      "marca": "Crai",
+      "denominazione": "CAPPERI CRAI 95g",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Crai",
+    "product": "CAPPERI CRAI 95g",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Crai - CAPPERI CRAI 95g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_Capperi%20all_aceto%20Crai%2095g_lotto_L2429_1761180364.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "capperi-crai-95g",
+    "published": "2019-11-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/capperi-allaceto-crai/",
+    "title": "",
+    "noticeDate": "12 novembre 2019",
+    "campi": {
+      "data pubblicazione": "12 novembre 2019",
+      "marca": "CRAI SECOM SpA",
+      "denominazione": "Capperi all'aceto CRAI",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "CRAI SECOM SpA",
+    "product": "Capperi all'aceto CRAI",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CRAI SECOM SpA - Capperi all'aceto CRAI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20Richiamo%20Capperi%20all_aceto%20Crai%2095g_1761180354.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "capperi-allaceto-crai",
+    "published": "2019-11-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fagioli-con-locchio/",
+    "title": "",
+    "noticeDate": "12 novembre 2019",
+    "campi": {
+      "data pubblicazione": "12 novembre 2019",
+      "marca": "Nuova Terra",
+      "denominazione": "Fagioli con l'Occhio",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Nuova Terra",
+    "product": "Fagioli con l'Occhio",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nuova Terra - Fagioli con l'Occhio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LeBont%C3%A0_1761180356.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fagioli-con-locchio",
+    "published": "2019-11-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuor-di-capra-fiorone/",
+    "title": "",
+    "noticeDate": "12 novembre 2019",
+    "campi": {
+      "data pubblicazione": "12 novembre 2019",
+      "marca": "CASEIFICIO CATTANEO SRL",
+      "denominazione": "CUOR DI CAPRA - FIORONE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CASEIFICIO CATTANEO SRL",
+    "product": "CUOR DI CAPRA - FIORONE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASEIFICIO CATTANEO SRL - CUOR DI CAPRA - FIORONE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cattaneo%202019_11_11%20richiamo_1761180358.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cuor-di-capra-fiorone",
+    "published": "2019-11-12",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/birra-franken-naturradler-50-cl/",
     "title": "",
     "noticeDate": "7 novembre 2019",
