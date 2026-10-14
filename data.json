@@ -837,6 +837,32 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kebs-kebab-di-pollo-350-g/",
+    "title": "",
+    "noticeDate": "23 gennaio 2021",
+    "campi": {
+      "data pubblicazione": "23 gennaio 2021",
+      "marca": "CONAD",
+      "denominazione": "KEB'S KEBAB DI POLLO 350 G",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "CONAD",
+    "product": "KEB'S KEBAB DI POLLO 350 G",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONAD - KEB'S KEBAB DI POLLO 350 G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CONAD_Revoca%20Richiamo_Conad%20B4514.foto_1761185181.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "kebs-kebab-di-pollo-350-g",
+    "published": "2021-01-23",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratore-alimentare-sensimaxx-sc-extraplant-gordi-srl/",
     "title": "Integratore alimentare - SENSIMAXX",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/integratore-alimentare-sensimaxx-forte/",
@@ -863,6 +889,292 @@
     "id": "integratore-alimentare-sensimaxx-sc-extraplant-gordi-srl",
     "published": "2021-01-15",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/i-freschi-te-hummus-di-ceci/",
+    "title": "",
+    "noticeDate": "3 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2020",
+      "marca": "F.LLI SACLA' S.P.A.",
+      "denominazione": "I FRESCHI PER TE - HUMMUS DI CECI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "F.LLI SACLA' S.P.A.",
+    "product": "I FRESCHI PER TE - HUMMUS DI CECI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo F.LLI SACLA' S.P.A. - I FRESCHI PER TE - HUMMUS DI CECI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/VASCHETTA_HUMMUS_CECI_Tutti_Lotti_1761183261.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "i-freschi-te-hummus-di-ceci",
+    "published": "2020-12-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hummus-di-ceci/",
+    "title": "",
+    "noticeDate": "3 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2020",
+      "marca": "F.LLI SACLA' S.P.A.",
+      "denominazione": "HUMMUS DI CECI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "F.LLI SACLA' S.P.A.",
+    "product": "HUMMUS DI CECI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo F.LLI SACLA' S.P.A. - HUMMUS DI CECI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/G212_DEEP_HUMMUS_CECI_1761183266.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "hummus-di-ceci",
+    "published": "2020-12-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesame-seeds-hulled/",
+    "title": "",
+    "noticeDate": "3 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2020",
+      "marca": "TRS ASIA'S FINEST FOODS",
+      "denominazione": "SESAME SEEDS HULLED",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "TRS ASIA'S FINEST FOODS",
+    "product": "SESAME SEEDS HULLED",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TRS ASIA'S FINEST FOODS - SESAME SEEDS HULLED",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello_richiamo_277_1761183270.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sesame-seeds-hulled",
+    "published": "2020-12-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-semi-di-sesamo-8/",
+    "title": "",
+    "noticeDate": "3 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2020",
+      "marca": "ETHNOS",
+      "denominazione": "Olio di semi di sesamo",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ETHNOS",
+    "product": "Olio di semi di sesamo",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ETHNOS - Olio di semi di sesamo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/L00284003_MODELLOMINISTERIALE_1761183275.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "olio-di-semi-di-sesamo-8",
+    "published": "2020-12-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-semi-di-sesamo-9/",
+    "title": "",
+    "noticeDate": "3 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2020",
+      "marca": "ETHNOS",
+      "denominazione": "Olio di semi di sesamo",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ETHNOS",
+    "product": "Olio di semi di sesamo",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ETHNOS - Olio di semi di sesamo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/L00294000_MODELLOMINISTERIALE_1761183280.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "olio-di-semi-di-sesamo-9",
+    "published": "2020-12-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-semi-di-sesamo-10/",
+    "title": "",
+    "noticeDate": "3 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2020",
+      "marca": "ETHNOS",
+      "denominazione": "Olio di semi di sesamo",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ETHNOS",
+    "product": "Olio di semi di sesamo",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ETHNOS - Olio di semi di sesamo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/L00474001_MODELLOMINISTERIALE_1761183285.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "olio-di-semi-di-sesamo-10",
+    "published": "2020-12-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-semi-di-sesamo-11/",
+    "title": "",
+    "noticeDate": "3 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2020",
+      "marca": "ETHNOS",
+      "denominazione": "Olio di semi di sesamo",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ETHNOS",
+    "product": "Olio di semi di sesamo",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ETHNOS - Olio di semi di sesamo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/L00844001_MODELLOMINISTERIALE_1761183289.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "olio-di-semi-di-sesamo-11",
+    "published": "2020-12-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-semi-di-sesamo-12/",
+    "title": "",
+    "noticeDate": "3 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2020",
+      "marca": "ETHNOS",
+      "denominazione": "Olio di semi di sesamo",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ETHNOS",
+    "product": "Olio di semi di sesamo",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ETHNOS - Olio di semi di sesamo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/L01364000_MODELLOMINISTERIALE_1761183295.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "olio-di-semi-di-sesamo-12",
+    "published": "2020-12-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-semi-di-sesamo-13/",
+    "title": "",
+    "noticeDate": "3 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2020",
+      "marca": "ETHNOS",
+      "denominazione": "Olio di semi di sesamo",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ETHNOS",
+    "product": "Olio di semi di sesamo",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ETHNOS - Olio di semi di sesamo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/L01394000_MODELLOMINISTERIALE_1761183300.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "olio-di-semi-di-sesamo-13",
+    "published": "2020-12-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-semi-di-sesamo-14/",
+    "title": "",
+    "noticeDate": "3 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2020",
+      "marca": "ETHNOS",
+      "denominazione": "Olio di semi di sesamo",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ETHNOS",
+    "product": "Olio di semi di sesamo",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ETHNOS - Olio di semi di sesamo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/L01604001_MODELLOMINISTERIALE_1761183305.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "olio-di-semi-di-sesamo-14",
+    "published": "2020-12-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/croccantini-assortiti-sesamo-e-arachide/",
+    "title": "",
+    "noticeDate": "3 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2020",
+      "marca": "CRAI SECOM SPA",
+      "denominazione": "CROCCANTINI ASSORTITI SESAMO E ARACHIDE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CRAI SECOM SPA",
+    "product": "CROCCANTINI ASSORTITI SESAMO E ARACHIDE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CRAI SECOM SPA - CROCCANTINI ASSORTITI SESAMO E ARACHIDE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CRAI%20CROCCANTINI_RECALL%20FORMAT%20MINISTERIALE_1761183311.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "croccantini-assortiti-sesamo-e-arachide",
+    "published": "2020-12-03",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-abruzzese-appassita-piccante-0/",
@@ -913,6 +1225,214 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "panriso-integrale-4-cereali-e-quinoa-200g",
+    "published": "2020-12-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/grissini-al-sesamo/",
+    "title": "",
+    "noticeDate": "2 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "2 dicembre 2020",
+      "marca": "PENNY",
+      "denominazione": "GRISSINI AL SESAMO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "PENNY",
+    "product": "GRISSINI AL SESAMO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PENNY - GRISSINI AL SESAMO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_Richiamo%20Grissitalia_Penny_1761183224.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "grissini-al-sesamo",
+    "published": "2020-12-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/il-grissino-rustico-semi-di-girasole-lino-e-sesamo/",
+    "title": "",
+    "noticeDate": "2 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "2 dicembre 2020",
+      "marca": "BISCOPAN S.R.L.",
+      "denominazione": "IL GRISSINO RUSTICO semi di Girasole, Lino e Sesamo",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BISCOPAN S.R.L.",
+    "product": "IL GRISSINO RUSTICO semi di Girasole, Lino e Sesamo",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BISCOPAN S.R.L. - IL GRISSINO RUSTICO semi di Girasole, Lino e Sesamo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMI%202_1_1761183229.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "il-grissino-rustico-semi-di-girasole-lino-e-sesamo",
+    "published": "2020-12-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pan-rustico-grissini/",
+    "title": "",
+    "noticeDate": "2 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "2 dicembre 2020",
+      "marca": "BISCOPAN S.R.L.",
+      "denominazione": "PAN RUSTICO Grissini",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BISCOPAN S.R.L.",
+    "product": "PAN RUSTICO Grissini",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BISCOPAN S.R.L. - PAN RUSTICO Grissini",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMI%202_2_1761183234.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pan-rustico-grissini",
+    "published": "2020-12-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/grissini-rustici-biologici/",
+    "title": "",
+    "noticeDate": "2 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "2 dicembre 2020",
+      "marca": "IN'S MERCATO S.P.A.",
+      "denominazione": "GRISSINI RUSTICI BIOLOGICI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "IN'S MERCATO S.P.A.",
+    "product": "GRISSINI RUSTICI BIOLOGICI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IN'S MERCATO S.P.A. - GRISSINI RUSTICI BIOLOGICI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMI%202_3_1761183239.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "grissini-rustici-biologici",
+    "published": "2020-12-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/grissino-rustico-con-segale-semi-di-lino-e-girasole/",
+    "title": "",
+    "noticeDate": "2 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "2 dicembre 2020",
+      "marca": "MD S.P.A.",
+      "denominazione": "GRISSINO RUSTICO con segale, semi di lino e girasole",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MD S.P.A.",
+    "product": "GRISSINO RUSTICO con segale, semi di lino e girasole",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MD S.P.A. - GRISSINO RUSTICO con segale, semi di lino e girasole",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMI%202_4_1761183244.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "grissino-rustico-con-segale-semi-di-lino-e-girasole",
+    "published": "2020-12-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pan-rustico-gallette/",
+    "title": "",
+    "noticeDate": "2 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "2 dicembre 2020",
+      "marca": "BISCOPAN S.R.L.",
+      "denominazione": "PAN RUSTICO Gallette",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BISCOPAN S.R.L.",
+    "product": "PAN RUSTICO Gallette",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BISCOPAN S.R.L. - PAN RUSTICO Gallette",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMI%202_5_1761183248.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pan-rustico-gallette",
+    "published": "2020-12-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panetti-rustici/",
+    "title": "",
+    "noticeDate": "2 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "2 dicembre 2020",
+      "marca": "VIA VERDE BIO Primia",
+      "denominazione": "PANETTI RUSTICI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "VIA VERDE BIO Primia",
+    "product": "PANETTI RUSTICI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VIA VERDE BIO Primia - PANETTI RUSTICI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMI%202_6_1761183253.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "panetti-rustici",
+    "published": "2020-12-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bio-grissini-multicereali-20g/",
+    "title": "",
+    "noticeDate": "2 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "2 dicembre 2020",
+      "marca": "Natura Felice",
+      "denominazione": "BIO Grissini Multicereali 20g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Natura Felice",
+    "product": "BIO Grissini Multicereali 20g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Natura Felice - BIO Grissini Multicereali 20g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%20C%20ALDI%20corretto%20_1761183256.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bio-grissini-multicereali-20g",
     "published": "2020-12-02",
     "source": "operator"
   },
