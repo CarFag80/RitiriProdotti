@@ -865,6 +865,474 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salatini-mix-400g/",
+    "title": "",
+    "noticeDate": "6 novembre 2020",
+    "campi": {
+      "data pubblicazione": "6 novembre 2020",
+      "marca": "San Carlo Gruppo Alimentare spa",
+      "denominazione": "SALATINI MIX 400g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "San Carlo Gruppo Alimentare spa",
+    "product": "SALATINI MIX 400g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo San Carlo Gruppo Alimentare spa - SALATINI MIX 400g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salatini%20San%20Carlo_1761182391.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salatini-mix-400g",
+    "published": "2020-11-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cornetto-5-cereali-vuoto-70-g/",
+    "title": "",
+    "noticeDate": "6 novembre 2020",
+    "campi": {
+      "data pubblicazione": "6 novembre 2020",
+      "marca": "San Giorgio S.p.A.",
+      "denominazione": "Cornetto 5 cereali vuoto 70 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "San Giorgio S.p.A.",
+    "product": "Cornetto 5 cereali vuoto 70 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo San Giorgio S.p.A. - Cornetto 5 cereali vuoto 70 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/San%20Giorgio2102_1761182396.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cornetto-5-cereali-vuoto-70-g",
+    "published": "2020-11-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cornetto-5-cereali-al-miele-70-g/",
+    "title": "",
+    "noticeDate": "6 novembre 2020",
+    "campi": {
+      "data pubblicazione": "6 novembre 2020",
+      "marca": "San Giorgio S.p.A.",
+      "denominazione": "Cornetto 5 cereali al miele 70 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "San Giorgio S.p.A.",
+    "product": "Cornetto 5 cereali al miele 70 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo San Giorgio S.p.A. - Cornetto 5 cereali al miele 70 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/San%20GiorgioC2104_1761182401.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cornetto-5-cereali-al-miele-70-g",
+    "published": "2020-11-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bocconcino-carbolight-e-bocconcino-carbo-light-con-sacchetto/",
+    "title": "",
+    "noticeDate": "4 novembre 2020",
+    "campi": {
+      "data pubblicazione": "4 novembre 2020",
+      "marca": "Forno della rotonda di lizzi s.r.l.",
+      "denominazione": "bocconcino carbolight e bocconcino carbo light con sacchetto",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Forno della rotonda di lizzi s.r.l.",
+    "product": "bocconcino carbolight e bocconcino carbo light con sacchetto",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Forno della rotonda di lizzi s.r.l. - bocconcino carbolight e bocconcino carbo light con sacchetto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mod.%208.3.2%20Notifica%20ritiro%20prodotto_rev.%2000_1761182386.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bocconcino-carbolight-e-bocconcino-carbo-light-con-sacchetto",
+    "published": "2020-11-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/brie-cremoso/",
+    "title": "",
+    "noticeDate": "30 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "30 ottobre 2020",
+      "marca": "SPECIALITA' DEL CASARO",
+      "denominazione": "BRIE CREMOSO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SPECIALITA' DEL CASARO",
+    "product": "BRIE CREMOSO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SPECIALITA' DEL CASARO - BRIE CREMOSO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO%20Brie%20cremoso_1761182339.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "brie-cremoso",
+    "published": "2020-10-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/focaccine-ai-cereali-antichi-allolio-extravergine/",
+    "title": "",
+    "noticeDate": "30 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "30 ottobre 2020",
+      "marca": "Il Panificio Di Camillo",
+      "denominazione": "Focaccine ai cereali antichi all'olio extravergine",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Il Panificio Di Camillo",
+    "product": "Focaccine ai cereali antichi all'olio extravergine",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Il Panificio Di Camillo - Focaccine ai cereali antichi all'olio extravergine",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SCFF001%20LE%20FOCACCINE%20AI%20CEREALI%20ANTICHI_1761182343.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "focaccine-ai-cereali-antichi-allolio-extravergine",
+    "published": "2020-10-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/buns-ai-cereali-antichi-con-lievito-madre-e-topping-di-semi-vari/",
+    "title": "",
+    "noticeDate": "30 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "30 ottobre 2020",
+      "marca": "Il Panificio Di Camillo",
+      "denominazione": "Buns ai cereali antichi con lievito madre e topping di semi vari",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Il Panificio Di Camillo",
+    "product": "Buns ai cereali antichi con lievito madre e topping di semi vari",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Il Panificio Di Camillo - Buns ai cereali antichi con lievito madre e topping di semi vari",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SCPP420%20BUNS%20CEREALI%20ANTICHI_1761182349.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "buns-ai-cereali-antichi-con-lievito-madre-e-topping-di-semi-vari",
+    "published": "2020-10-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barretta-multicereali-con-topping-di-semi-misti/",
+    "title": "",
+    "noticeDate": "30 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "30 ottobre 2020",
+      "marca": "New Catering",
+      "denominazione": "Barretta multicereali con topping di semi misti",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "New Catering",
+    "product": "Barretta multicereali con topping di semi misti",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo New Catering - Barretta multicereali con topping di semi misti",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SCPP001%20BARRETTA%20MULTICEREALI_1761182353.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "barretta-multicereali-con-topping-di-semi-misti",
+    "published": "2020-10-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pane-multicereali-con-lievito-madre-purezza-e-semi-macerati-nello/",
+    "title": "",
+    "noticeDate": "30 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "30 ottobre 2020",
+      "marca": "Il Panificio Di Camillo",
+      "denominazione": "Pane multicereali con lievito madre in purezza e semi macerati nello yogurt precotto su pietra",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Il Panificio Di Camillo",
+    "product": "Pane multicereali con lievito madre in purezza e semi macerati nello yogurt precotto su pietra",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Il Panificio Di Camillo - Pane multicereali con lievito madre in purezza e semi macerati nello yogurt precotto su pietra",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SCPP417%20PANE%20MULTICEREALI_1761182358.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pane-multicereali-con-lievito-madre-purezza-e-semi-macerati-nello",
+    "published": "2020-10-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/maxiburger-con-lievito-madre-e-topping-di-semi-misti/",
+    "title": "",
+    "noticeDate": "30 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "30 ottobre 2020",
+      "marca": "Il Panificio Di Camillo e New Catering",
+      "denominazione": "maxiburger con lievito madre e topping di semi misti",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Il Panificio Di Camillo e New Catering",
+    "product": "maxiburger con lievito madre e topping di semi misti",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Il Panificio Di Camillo e New Catering - maxiburger con lievito madre e topping di semi misti",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SCPF006%20MAXIBURGER_1761182363.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "maxiburger-con-lievito-madre-e-topping-di-semi-misti",
+    "published": "2020-10-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/f2052-barra-con-cereali-e-semi/",
+    "title": "",
+    "noticeDate": "30 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "30 ottobre 2020",
+      "marca": "Bassini 1963",
+      "denominazione": "F/2052 Barra con cereali e semi",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Bassini 1963",
+    "product": "F/2052 Barra con cereali e semi",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bassini 1963 - F/2052 Barra con cereali e semi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/f2052%20barra%20ai%20cereali_1761182367.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "f2052-barra-con-cereali-e-semi",
+    "published": "2020-10-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/p1026-focaccia-con-cereali-e-con-semi/",
+    "title": "",
+    "noticeDate": "30 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "30 ottobre 2020",
+      "marca": "Bassini 1963",
+      "denominazione": "P/1026 Focaccia con cereali e con semi",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Bassini 1963",
+    "product": "P/1026 Focaccia con cereali e con semi",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bassini 1963 - P/1026 Focaccia con cereali e con semi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/p1026%20focaccia%20ai%20cereali_1761182372.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "p1026-focaccia-con-cereali-e-con-semi",
+    "published": "2020-10-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/p177-barra-con-cereali-e-con-semi/",
+    "title": "",
+    "noticeDate": "30 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "30 ottobre 2020",
+      "marca": "Bassini 1963",
+      "denominazione": "P/177 Barra con cereali e con semi",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Bassini 1963",
+    "product": "P/177 Barra con cereali e con semi",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bassini 1963 - P/177 Barra con cereali e con semi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/p177%20barra%20con%20cereali_1761182376.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "p177-barra-con-cereali-e-con-semi",
+    "published": "2020-10-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/f2032-panino-hamburger-con-cereali-e-con-semi/",
+    "title": "",
+    "noticeDate": "30 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "30 ottobre 2020",
+      "marca": "Bassini 1963",
+      "denominazione": "F/2032 Panino Hamburger con cereali e con semi",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Bassini 1963",
+    "product": "F/2032 Panino Hamburger con cereali e con semi",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bassini 1963 - F/2032 Panino Hamburger con cereali e con semi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/f2032%20panino%20hamburger_1761182380.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "f2032-panino-hamburger-con-cereali-e-con-semi",
+    "published": "2020-10-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/1516-panino-tondo-85g-con-grano-saraceno-e-topping-cereali-e-semi/",
+    "title": "",
+    "noticeDate": "29 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "29 ottobre 2020",
+      "marca": "Bakery SpA",
+      "denominazione": "1516-Panino tondo 85g con grano saraceno e topping cereali e semi",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Bakery SpA",
+    "product": "1516-Panino tondo 85g con grano saraceno e topping cereali e semi",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bakery SpA - 1516-Panino tondo 85g con grano saraceno e topping cereali e semi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Panino%20Bakery%2085%20g_1761182331.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "1516-panino-tondo-85g-con-grano-saraceno-e-topping-cereali-e-semi",
+    "published": "2020-10-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/1517-panino-tondo-110g-con-topping-cereali-e-semi/",
+    "title": "",
+    "noticeDate": "29 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "29 ottobre 2020",
+      "marca": "Bakery SpA",
+      "denominazione": "1517-Panino tondo 110g con topping cereali e semi",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Bakery SpA",
+    "product": "1517-Panino tondo 110g con topping cereali e semi",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bakery SpA - 1517-Panino tondo 110g con topping cereali e semi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Panino%20Bakery%20110%20g_1761182335.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "1517-panino-tondo-110g-con-topping-cereali-e-semi",
+    "published": "2020-10-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-dorato-da-500-gr/",
+    "title": "",
+    "noticeDate": "27 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "27 ottobre 2020",
+      "marca": "Zorzi da 1828",
+      "denominazione": "Sesamo dorato da 500 gr",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Zorzi da 1828",
+    "product": "Sesamo dorato da 500 gr",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Zorzi da 1828 - Sesamo dorato da 500 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_ZORZI_1761182327.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sesamo-dorato-da-500-gr",
+    "published": "2020-10-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-decorticati-0/",
+    "title": "",
+    "noticeDate": "25 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "25 ottobre 2020",
+      "marca": "HAPPY HARVEST",
+      "denominazione": "SEMI DI SESAMO DECORTICATI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "HAPPY HARVEST",
+    "product": "SEMI DI SESAMO DECORTICATI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo HAPPY HARVEST - SEMI DI SESAMO DECORTICATI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/aldi_Cartello%20di%20richiamo%20Semi%20di%20sesamo%20HAPPY%20HARVEST_1761182322.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-sesamo-decorticati-0",
+    "published": "2020-10-25",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-decorticati/",
     "title": "",
     "noticeDate": "24 ottobre 2020",
@@ -1069,6 +1537,58 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "supermix-semi-con-mirtilli-morbidi-insalata",
+    "published": "2020-10-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/supermix-semi-con-mirtilli-morbidi-insalata-0/",
+    "title": "",
+    "noticeDate": "24 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "24 ottobre 2020",
+      "marca": "SUPERMIX - PEDON",
+      "denominazione": "SUPERMIX - SEMI CON MIRTILLI MORBIDI PER INSALATA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SUPERMIX - PEDON",
+    "product": "SUPERMIX - SEMI CON MIRTILLI MORBIDI PER INSALATA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SUPERMIX - PEDON - SUPERMIX - SEMI CON MIRTILLI MORBIDI PER INSALATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SUPERMIX%20MISTO%20SEMI%20CON%20MIRTILLI%202020_1761182313.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "supermix-semi-con-mirtilli-morbidi-insalata-0",
+    "published": "2020-10-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-0/",
+    "title": "",
+    "noticeDate": "24 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "24 ottobre 2020",
+      "marca": "BONDIS",
+      "denominazione": "SEMI DI SESAMO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BONDIS",
+    "product": "SEMI DI SESAMO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BONDIS - SEMI DI SESAMO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20Bondis%20271221_1761182318.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-sesamo-0",
     "published": "2020-10-24",
     "source": "operator"
   },
