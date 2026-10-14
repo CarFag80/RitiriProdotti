@@ -2266,6 +2266,32 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-cacao-125g/",
+    "title": "",
+    "noticeDate": "18 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "18 febbraio 2020",
+      "marca": "CASCINA FONTANACERVO",
+      "denominazione": "CREMA CACAO 125g",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "CASCINA FONTANACERVO",
+    "product": "CREMA CACAO 125g",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASCINA FONTANACERVO - CREMA CACAO 125g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_crema_cacao_Lotto_28_feb__1761181199.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crema-cacao-125g",
+    "published": "2020-02-18",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/sprin-home-tyj-spring-roll-pastry-tee-yih-jia-food-manufactering-pte/",
     "title": "SPRIN HOME TYJ SPRING ROLL PASTRY",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/sprin-home-tyj-spring-roll-pastry-provenienti-da-singapore/",
@@ -2293,6 +2319,500 @@
     "id": "sprin-home-tyj-spring-roll-pastry-tee-yih-jia-food-manufactering-pte",
     "published": "2020-02-14",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spring-roll-pastry-sfoglie-involtiniravioli-congelate/",
+    "title": "",
+    "noticeDate": "14 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "14 febbraio 2020",
+      "marca": "Spring Home",
+      "denominazione": "Spring Roll Pastry ( sfoglie per involtini/ravioli congelate)",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Spring Home",
+    "product": "Spring Roll Pastry ( sfoglie per involtini/ravioli congelate)",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Spring Home - Spring Roll Pastry ( sfoglie per involtini/ravioli congelate)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20pastry%20roll_1761181199.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "spring-roll-pastry-sfoglie-involtiniravioli-congelate",
+    "published": "2020-02-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-sesamo-tostato-0/",
+    "title": "",
+    "noticeDate": "13 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "13 febbraio 2020",
+      "marca": "OH AIK GUAN",
+      "denominazione": "OLIO DI SESAMO TOSTATO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "OH AIK GUAN",
+    "product": "OLIO DI SESAMO TOSTATO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo OH AIK GUAN - OLIO DI SESAMO TOSTATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_OLIO_DI_SESAMO_LOTTO_15_05_22_1761181196.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "olio-di-sesamo-tostato-0",
+    "published": "2020-02-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-biologiche-4/",
+    "title": "",
+    "noticeDate": "13 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "13 febbraio 2020",
+      "marca": "OLIVERO CLAUDIO",
+      "denominazione": "UOVA BIOLOGICHE",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "OLIVERO CLAUDIO",
+    "product": "UOVA BIOLOGICHE",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo OLIVERO CLAUDIO - UOVA BIOLOGICHE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20richiamo%20scad.%2010.02_1761181197.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-biologiche-4",
+    "published": "2020-02-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-biologiche-5/",
+    "title": "",
+    "noticeDate": "13 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "13 febbraio 2020",
+      "marca": "OLIVERO CLAUDIO",
+      "denominazione": "UOVA BIOLOGICHE",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "OLIVERO CLAUDIO",
+    "product": "UOVA BIOLOGICHE",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo OLIVERO CLAUDIO - UOVA BIOLOGICHE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20richiamo%20scad.%2011.02_1761181198.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-biologiche-5",
+    "published": "2020-02-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-sesamo-tostato/",
+    "title": "",
+    "noticeDate": "6 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "6 febbraio 2020",
+      "marca": "Oh Aik Guan",
+      "denominazione": "OLIO di SESAMO TOSTATO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Oh Aik Guan",
+    "product": "OLIO di SESAMO TOSTATO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Oh Aik Guan - OLIO di SESAMO TOSTATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Olio_Sesamo_Tanica_5L_ditta_Taico_1761181195.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "olio-di-sesamo-tostato",
+    "published": "2020-02-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-casereccio/",
+    "title": "",
+    "noticeDate": "4 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "4 febbraio 2020",
+      "marca": "Salumi Vida",
+      "denominazione": "Salame casereccio",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumi Vida",
+    "product": "Salame casereccio",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumi Vida - Salame casereccio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20salame%20casereccio%20corretto_1761180615.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-casereccio",
+    "published": "2020-02-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ceci-biologici/",
+    "title": "",
+    "noticeDate": "31 gennaio 2020",
+    "campi": {
+      "data pubblicazione": "31 gennaio 2020",
+      "marca": "ECOR",
+      "denominazione": "CECI BIOLOGICI",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "ECOR",
+    "product": "CECI BIOLOGICI",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ECOR - CECI BIOLOGICI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Notifica_418918_Richiamo_Ceci_Ecor_1761180604.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ceci-biologici",
+    "published": "2020-01-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tortelloni-prosciutto-crudo-1-kg/",
+    "title": "",
+    "noticeDate": "31 gennaio 2020",
+    "campi": {
+      "data pubblicazione": "31 gennaio 2020",
+      "marca": "Fior di Pasta - Penny Market srl",
+      "denominazione": "Tortelloni prosciutto crudo 1 kg",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Fior di Pasta - Penny Market srl",
+    "product": "Tortelloni prosciutto crudo 1 kg",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fior di Pasta - Penny Market srl - Tortelloni prosciutto crudo 1 kg",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/avviso%20penny%20market%20tortelloni_1761180609.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tortelloni-prosciutto-crudo-1-kg",
+    "published": "2020-01-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-biologiche-2/",
+    "title": "",
+    "noticeDate": "28 gennaio 2020",
+    "campi": {
+      "data pubblicazione": "28 gennaio 2020",
+      "marca": "Olivero Claudio",
+      "denominazione": "Uova biologiche",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Olivero Claudio",
+    "product": "Uova biologiche",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Olivero Claudio - Uova biologiche",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20scadenza%2010.02_1761180594.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-biologiche-2",
+    "published": "2020-01-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-biologiche-3/",
+    "title": "",
+    "noticeDate": "28 gennaio 2020",
+    "campi": {
+      "data pubblicazione": "28 gennaio 2020",
+      "marca": "Olivero Claudio",
+      "denominazione": "Uova biologiche",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Olivero Claudio",
+    "product": "Uova biologiche",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Olivero Claudio - Uova biologiche",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20scadenza%2011.02_1761180599.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-biologiche-3",
+    "published": "2020-01-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/puzzone-di-moena/",
+    "title": "",
+    "noticeDate": "23 gennaio 2020",
+    "campi": {
+      "data pubblicazione": "23 gennaio 2020",
+      "marca": "TRENTIN SPA",
+      "denominazione": "PUZZONE DI MOENA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "TRENTIN SPA",
+    "product": "PUZZONE DI MOENA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TRENTIN SPA - PUZZONE DI MOENA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Maxi_Di_Trentin_def_1761180584.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "puzzone-di-moena",
+    "published": "2020-01-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/puzzone-di-moena-dop-200g-0/",
+    "title": "",
+    "noticeDate": "23 gennaio 2020",
+    "campi": {
+      "data pubblicazione": "23 gennaio 2020",
+      "marca": "Regione che Vai",
+      "denominazione": "Puzzone di Moena DOP 200g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Regione che Vai",
+    "product": "Puzzone di Moena DOP 200g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Regione che Vai - Puzzone di Moena DOP 200g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/417755_Modello_Richiamo_22_01_20_ALDI_1761180589.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "puzzone-di-moena-dop-200g-0",
+    "published": "2020-01-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-biologiche-0/",
+    "title": "",
+    "noticeDate": "22 gennaio 2020",
+    "campi": {
+      "data pubblicazione": "22 gennaio 2020",
+      "marca": "Olivero Claudio",
+      "denominazione": "Uova biologiche",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Olivero Claudio",
+    "product": "Uova biologiche",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Olivero Claudio - Uova biologiche",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20di%20richiamo%20lotti%201A130120_2A130120_2C130120_1761180554.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-biologiche-0",
+    "published": "2020-01-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-biologiche-1/",
+    "title": "",
+    "noticeDate": "22 gennaio 2020",
+    "campi": {
+      "data pubblicazione": "22 gennaio 2020",
+      "marca": "Olivero Claudio",
+      "denominazione": "Uova biologiche",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Olivero Claudio",
+    "product": "Uova biologiche",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Olivero Claudio - Uova biologiche",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20lotti%201A140120_2c140120_1761180559.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-biologiche-1",
+    "published": "2020-01-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/puzzone-di-moena-dop-200g/",
+    "title": "",
+    "noticeDate": "22 gennaio 2020",
+    "campi": {
+      "data pubblicazione": "22 gennaio 2020",
+      "marca": "Trentin S.p.A.",
+      "denominazione": "Puzzone di Moena DOP 200g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Trentin S.p.A.",
+    "product": "Puzzone di Moena DOP 200g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Trentin S.p.A. - Puzzone di Moena DOP 200g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Puzzone%20di%20Moena%20200g_417755_1761180564.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "puzzone-di-moena-dop-200g",
+    "published": "2020-01-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-cat-da-agricoltura-biologica/",
+    "title": "",
+    "noticeDate": "22 gennaio 2020",
+    "campi": {
+      "data pubblicazione": "22 gennaio 2020",
+      "marca": "Amadori - Uova da agricoltura biologica",
+      "denominazione": "Uova Fresche Cat. A da agricoltura biologica",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Amadori - Uova da agricoltura biologica",
+    "product": "Uova Fresche Cat. A da agricoltura biologica",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Amadori - Uova da agricoltura biologica - Uova Fresche Cat. A da agricoltura biologica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20GESCO_Amadori_1761180568.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-cat-da-agricoltura-biologica",
+    "published": "2020-01-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-cat-biologiche/",
+    "title": "",
+    "noticeDate": "22 gennaio 2020",
+    "campi": {
+      "data pubblicazione": "22 gennaio 2020",
+      "marca": "Cascina Italia SPA",
+      "denominazione": "Uova Fresche Cat. A biologiche",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Cascina Italia SPA",
+    "product": "Uova Fresche Cat. A biologiche",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cascina Italia SPA - Uova Fresche Cat. A biologiche",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20cascina%20italia_1761180573.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-cat-biologiche",
+    "published": "2020-01-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-cat-biologiche-0/",
+    "title": "",
+    "noticeDate": "22 gennaio 2020",
+    "campi": {
+      "data pubblicazione": "22 gennaio 2020",
+      "marca": "Conad - Verso Natura - Uova biologiche",
+      "denominazione": "Uova Fresche Cat. A biologiche",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Conad - Verso Natura - Uova biologiche",
+    "product": "Uova Fresche Cat. A biologiche",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Conad - Verso Natura - Uova biologiche - Uova Fresche Cat. A biologiche",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20CONAD_1761180579.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-cat-biologiche-0",
+    "published": "2020-01-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-biologiche/",
+    "title": "",
+    "noticeDate": "18 gennaio 2020",
+    "campi": {
+      "data pubblicazione": "18 gennaio 2020",
+      "marca": "OLIVERO CLAUDIO",
+      "denominazione": "UOVA BIOLOGICHE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "OLIVERO CLAUDIO",
+    "product": "UOVA BIOLOGICHE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo OLIVERO CLAUDIO - UOVA BIOLOGICHE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO_RICHIAMO_OLIVERO_1761180549.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-biologiche",
+    "published": "2020-01-18",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/facciamo-festa-con-torta-di-natale-senza-lattosio/",
