@@ -813,6 +813,448 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesce-spada-affumicato-trancio/",
+    "title": "",
+    "noticeDate": "15 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "15 febbraio 2021",
+      "marca": "Riunione Industrie Alimentari srl",
+      "denominazione": "Pesce spada affumicato Trancio",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Riunione Industrie Alimentari srl",
+    "product": "Pesce spada affumicato Trancio",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Riunione Industrie Alimentari srl - Pesce spada affumicato Trancio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/all.3%20Ria_Cartello%20di%20Richiamo_1761185249.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pesce-spada-affumicato-trancio",
+    "published": "2021-02-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pifferi-al-sesamo-0/",
+    "title": "",
+    "noticeDate": "12 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "12 febbraio 2021",
+      "marca": "Trevisan",
+      "denominazione": "Pifferi al sesamo",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Trevisan",
+    "product": "Pifferi al sesamo",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Trevisan - Pifferi al sesamo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/COMUNICAZIONE_RICHIAMO_pifferi%20al%20sesamo%20TREVISAN_1761185242.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pifferi-al-sesamo-0",
+    "published": "2021-02-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tonno-olio-di-girasole-1750-gr/",
+    "title": "",
+    "noticeDate": "12 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "12 febbraio 2021",
+      "marca": "PORTICELLO",
+      "denominazione": "TONNO IN OLIO DI GIRASOLE 1750 gr.",
+      "motivo della segnalazione": "Revoca per analisi di revisione favorevole"
+    },
+    "brand": "PORTICELLO",
+    "product": "TONNO IN OLIO DI GIRASOLE 1750 gr.",
+    "reasonShort": "Revoca per analisi di revisione favorevole",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PORTICELLO - TONNO IN OLIO DI GIRASOLE 1750 gr.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20modello%20richiamo%20tonnoporticello%20gr%201730_1761185246.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tonno-olio-di-girasole-1750-gr",
+    "published": "2021-02-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-8/",
+    "title": "",
+    "noticeDate": "9 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "9 febbraio 2021",
+      "marca": "Coca-Cola Original Taste",
+      "denominazione": "Bevanda analcolica",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Coca-Cola Original Taste",
+    "product": "Bevanda analcolica",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coca-Cola Original Taste - Bevanda analcolica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Coca_Cola%20L201027%20_1__1761185203.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-analcolica-8",
+    "published": "2021-02-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-9/",
+    "title": "",
+    "noticeDate": "9 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "9 febbraio 2021",
+      "marca": "Coca-Cola Original Taste",
+      "denominazione": "Bevanda analcolica",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Coca-Cola Original Taste",
+    "product": "Bevanda analcolica",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coca-Cola Original Taste - Bevanda analcolica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Coca_Cola%20L201024%20_2__1761185206.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-analcolica-9",
+    "published": "2021-02-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-10/",
+    "title": "",
+    "noticeDate": "9 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "9 febbraio 2021",
+      "marca": "Coca-Cola Original Taste",
+      "denominazione": "Bevanda analcolica",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Coca-Cola Original Taste",
+    "product": "Bevanda analcolica",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coca-Cola Original Taste - Bevanda analcolica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Coca_Cola%20L201028%20_1__1761185209.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-analcolica-10",
+    "published": "2021-02-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-11/",
+    "title": "",
+    "noticeDate": "9 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "9 febbraio 2021",
+      "marca": "Coca-Cola Original Taste",
+      "denominazione": "Bevanda analcolica",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Coca-Cola Original Taste",
+    "product": "Bevanda analcolica",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coca-Cola Original Taste - Bevanda analcolica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Coca_Cola%20L201026%20_2__1761185212.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-analcolica-11",
+    "published": "2021-02-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-12/",
+    "title": "",
+    "noticeDate": "9 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "9 febbraio 2021",
+      "marca": "Coca-Cola Original Taste",
+      "denominazione": "Bevanda analcolica",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Coca-Cola Original Taste",
+    "product": "Bevanda analcolica",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coca-Cola Original Taste - Bevanda analcolica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Coca_Cola%20L201029%20_1__1761185215.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-analcolica-12",
+    "published": "2021-02-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-13/",
+    "title": "",
+    "noticeDate": "9 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "9 febbraio 2021",
+      "marca": "Coca-Cola Original Taste",
+      "denominazione": "Bevanda analcolica",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Coca-Cola Original Taste",
+    "product": "Bevanda analcolica",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coca-Cola Original Taste - Bevanda analcolica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Coca_Cola%20L201031%20_1__1761185219.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-analcolica-13",
+    "published": "2021-02-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-14/",
+    "title": "",
+    "noticeDate": "9 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "9 febbraio 2021",
+      "marca": "Coca-Cola Original Taste",
+      "denominazione": "Bevanda analcolica",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Coca-Cola Original Taste",
+    "product": "Bevanda analcolica",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coca-Cola Original Taste - Bevanda analcolica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Coca_Cola%20L201030%20_1__1761185223.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-analcolica-14",
+    "published": "2021-02-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-15/",
+    "title": "",
+    "noticeDate": "9 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "9 febbraio 2021",
+      "marca": "Coca-Cola Original Taste",
+      "denominazione": "Bevanda analcolica",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Coca-Cola Original Taste",
+    "product": "Bevanda analcolica",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coca-Cola Original Taste - Bevanda analcolica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Coca_Cola%20L201103%20_1__1761185226.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-analcolica-15",
+    "published": "2021-02-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-16/",
+    "title": "",
+    "noticeDate": "9 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "9 febbraio 2021",
+      "marca": "Coca-Cola Original Taste",
+      "denominazione": "Bevanda analcolica",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Coca-Cola Original Taste",
+    "product": "Bevanda analcolica",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coca-Cola Original Taste - Bevanda analcolica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Coca_Cola%20L201201%20_1__1761185230.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-analcolica-16",
+    "published": "2021-02-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-17/",
+    "title": "",
+    "noticeDate": "9 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "9 febbraio 2021",
+      "marca": "Coca-Cola Original Taste",
+      "denominazione": "Bevanda analcolica",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Coca-Cola Original Taste",
+    "product": "Bevanda analcolica",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coca-Cola Original Taste - Bevanda analcolica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Coca_Cola%20L201202%20_1__1761185234.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-analcolica-17",
+    "published": "2021-02-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gomasio-alle-alghe-150g-condimento-da-tavola/",
+    "title": "",
+    "noticeDate": "9 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "9 febbraio 2021",
+      "marca": "VIVIBIO",
+      "denominazione": "GOMASIO ALLE ALGHE 150G - CONDIMENTO DA TAVOLA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "VIVIBIO",
+    "product": "GOMASIO ALLE ALGHE 150G - CONDIMENTO DA TAVOLA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VIVIBIO - GOMASIO ALLE ALGHE 150G - CONDIMENTO DA TAVOLA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Gomasio%20alle%20alghe%20150g_1761185238.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gomasio-alle-alghe-150g-condimento-da-tavola",
+    "published": "2021-02-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-affumicato/",
+    "title": "",
+    "noticeDate": "8 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "8 febbraio 2021",
+      "marca": "Foods of Scotland srl",
+      "denominazione": "Salmone affumicato",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Foods of Scotland srl",
+    "product": "Salmone affumicato",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Foods of Scotland srl - Salmone affumicato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20ministeriale_1761185199.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salmone-affumicato",
+    "published": "2021-02-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/galantina-specialita-gastronomica-base-di-tacchino-e-mortadella/",
+    "title": "",
+    "noticeDate": "4 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "4 febbraio 2021",
+      "marca": "King",
+      "denominazione": "Galantina - Specialità Gastronomica a base di tacchino e mortadella",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "King",
+    "product": "Galantina - Specialità Gastronomica a base di tacchino e mortadella",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo King - Galantina - Specialità Gastronomica a base di tacchino e mortadella",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Carterllo%20richiamo%20_%20Galantina_sc%2024_02_2021_1761185193.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "galantina-specialita-gastronomica-base-di-tacchino-e-mortadella",
+    "published": "2021-02-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/polpettone-preparazione-gastronomica-atm/",
+    "title": "",
+    "noticeDate": "4 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "4 febbraio 2021",
+      "marca": "King",
+      "denominazione": "Polpettone- preparazione gastronomica in ATM",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "King",
+    "product": "Polpettone- preparazione gastronomica in ATM",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo King - Polpettone- preparazione gastronomica in ATM",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Carterllo%20richiamo%20_%20GI_Gastronomia_%20richiamo%20prodotto_PolpettoneKing_1761185196.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "polpettone-preparazione-gastronomica-atm",
+    "published": "2021-02-04",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/capsule-di-fertilizzanti-fatburney/",
     "title": "Capsule di fertilizzanti",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-su-capusle-di-fertilizzanti-fatburney/",
@@ -835,6 +1277,84 @@
     "id": "capsule-di-fertilizzanti-fatburney",
     "published": "2021-02-02",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barrcombo-2-ricciocc-semi-sesamogirasole-seslino-sescanapa/",
+    "title": "",
+    "noticeDate": "26 gennaio 2021",
+    "campi": {
+      "data pubblicazione": "26 gennaio 2021",
+      "marca": "SAN MARCO FIT ME WELL",
+      "denominazione": "BARR.COMBO 2 RIC.CIOCC. SEMI SESAMO/GIRASOLE, SES./LINO, SES./CANAPA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SAN MARCO FIT ME WELL",
+    "product": "BARR.COMBO 2 RIC.CIOCC. SEMI SESAMO/GIRASOLE, SES./LINO, SES./CANAPA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SAN MARCO FIT ME WELL - BARR.COMBO 2 RIC.CIOCC. SEMI SESAMO/GIRASOLE, SES./LINO, SES./CANAPA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fuo_462468_Richiamo_Combo_2_1761185186.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "barrcombo-2-ricciocc-semi-sesamogirasole-seslino-sescanapa",
+    "published": "2021-01-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barrette-combo-1-semi-di-sesamozucca-sesamochia/",
+    "title": "",
+    "noticeDate": "26 gennaio 2021",
+    "campi": {
+      "data pubblicazione": "26 gennaio 2021",
+      "marca": "SAN MARCO FIT ME WELL",
+      "denominazione": "BARRETTE COMBO 1 SEMI DI SESAMO/ZUCCA , SESAMO/CHIA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SAN MARCO FIT ME WELL",
+    "product": "BARRETTE COMBO 1 SEMI DI SESAMO/ZUCCA , SESAMO/CHIA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SAN MARCO FIT ME WELL - BARRETTE COMBO 1 SEMI DI SESAMO/ZUCCA , SESAMO/CHIA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_462468_Richiamo_Combo_1_1761185190.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "barrette-combo-1-semi-di-sesamozucca-sesamochia",
+    "published": "2021-01-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/comino-macinato-ground-cumin/",
+    "title": "",
+    "noticeDate": "25 gennaio 2021",
+    "campi": {
+      "data pubblicazione": "25 gennaio 2021",
+      "marca": "TRS",
+      "denominazione": "Comino Macinato /Ground Cumin",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "TRS",
+    "product": "Comino Macinato /Ground Cumin",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TRS - Comino Macinato /Ground Cumin",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20comino_1761185184.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "comino-macinato-ground-cumin",
+    "published": "2021-01-25",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kebs-kebab-di-pollo-350-g/",
