@@ -907,6 +907,448 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pomodoro-datterino-salsa-pronta-1/",
+    "title": "",
+    "noticeDate": "20 aprile 2020",
+    "campi": {
+      "data pubblicazione": "20 aprile 2020",
+      "marca": "IPERMONTEBELLO SPA",
+      "denominazione": "POMODORO DATTERINO SALSA PRONTA",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "IPERMONTEBELLO SPA",
+    "product": "POMODORO DATTERINO SALSA PRONTA",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IPERMONTEBELLO SPA - POMODORO DATTERINO SALSA PRONTA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/datterino%20modulo_richiamo_pdf%20_1__1761181306.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pomodoro-datterino-salsa-pronta-1",
+    "published": "2020-04-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pomodoro-datterino-salsa-pronta-0/",
+    "title": "",
+    "noticeDate": "9 aprile 2020",
+    "campi": {
+      "data pubblicazione": "9 aprile 2020",
+      "marca": "IPER MONTEBELLO SPA",
+      "denominazione": "POMODORO DATTERINO SALSA PRONTA",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "IPER MONTEBELLO SPA",
+    "product": "POMODORO DATTERINO SALSA PRONTA",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IPER MONTEBELLO SPA - POMODORO DATTERINO SALSA PRONTA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20_1761181303.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pomodoro-datterino-salsa-pronta-0",
+    "published": "2020-04-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-fresca-di-semola-di-grano-duro-orecchiette-fusilli-e/",
+    "title": "",
+    "noticeDate": "6 aprile 2020",
+    "campi": {
+      "data pubblicazione": "6 aprile 2020",
+      "marca": "Tre Mulini - Prodotto dallo stabilimento P.A.C. per conto di EUROSPIN",
+      "denominazione": "Pasta fresca di semola di grano duro: orecchiette, fusilli e strozzapreti in confezioni da g.500",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Tre Mulini - Prodotto dallo stabilimento P.A.C. per conto di EUROSPIN",
+    "product": "Pasta fresca di semola di grano duro: orecchiette, fusilli e strozzapreti in confezioni da g.500",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Tre Mulini - Prodotto dallo stabilimento P.A.C. per conto di EUROSPIN - Pasta fresca di semola di grano duro: orecchiette, fusilli e strozzapreti in confezioni da g.500",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2020.03.30%20_%20Fusilli%20500g%20_%20PAC_1761181296.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pasta-fresca-di-semola-di-grano-duro-orecchiette-fusilli-e",
+    "published": "2020-04-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-fresca-di-semola-di-grano-duro/",
+    "title": "",
+    "noticeDate": "6 aprile 2020",
+    "campi": {
+      "data pubblicazione": "6 aprile 2020",
+      "marca": "Tre Mulini prodotto dallo stabilimento P.A.C. di Melfi per conto di EUROSPIN",
+      "denominazione": "Pasta fresca di semola di grano duro",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Tre Mulini prodotto dallo stabilimento P.A.C. di Melfi per conto di EUROSPIN",
+    "product": "Pasta fresca di semola di grano duro",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Tre Mulini prodotto dallo stabilimento P.A.C. di Melfi per conto di EUROSPIN - Pasta fresca di semola di grano duro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo_1761181299.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pasta-fresca-di-semola-di-grano-duro",
+    "published": "2020-04-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bacche-di-goji-9/",
+    "title": "",
+    "noticeDate": "3 aprile 2020",
+    "campi": {
+      "data pubblicazione": "3 aprile 2020",
+      "marca": "Donna Isabella",
+      "denominazione": "Bacche di Goji",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Donna Isabella",
+    "product": "Bacche di Goji",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Donna Isabella - Bacche di Goji",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BACCHE%20DI%20GOJI_1761181291.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bacche-di-goji-9",
+    "published": "2020-04-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-antiossidante/",
+    "title": "",
+    "noticeDate": "3 aprile 2020",
+    "campi": {
+      "data pubblicazione": "3 aprile 2020",
+      "marca": "DONNA ISABELLA",
+      "denominazione": "MIX ANTIOSSIDANTE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DONNA ISABELLA",
+    "product": "MIX ANTIOSSIDANTE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DONNA ISABELLA - MIX ANTIOSSIDANTE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIX%20ANTIOSSIDANTE_1761181294.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mix-antiossidante",
+    "published": "2020-04-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aringa-sciocca-aringa-dolce-affumicata-filetti-di-aringa-0/",
+    "title": "",
+    "noticeDate": "27 marzo 2020",
+    "campi": {
+      "data pubblicazione": "27 marzo 2020",
+      "marca": "Friultrota di Pighin s.r.l.",
+      "denominazione": "Aringa Sciocca - Aringa Dolce Affumicata (Filetti di aringa affumicati a freddo)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Friultrota di Pighin s.r.l.",
+    "product": "Aringa Sciocca - Aringa Dolce Affumicata (Filetti di aringa affumicati a freddo)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Friultrota di Pighin s.r.l. - Aringa Sciocca - Aringa Dolce Affumicata (Filetti di aringa affumicati a freddo)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20RICHIAMO_27.03.2020_1761181288.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "aringa-sciocca-aringa-dolce-affumicata-filetti-di-aringa-0",
+    "published": "2020-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aringa-sciocca-filetti-di-aringa-affumicati-freddo/",
+    "title": "",
+    "noticeDate": "26 marzo 2020",
+    "campi": {
+      "data pubblicazione": "26 marzo 2020",
+      "marca": "Friultrota di Pighin s.r.l.",
+      "denominazione": "Aringa Sciocca (Filetti di aringa affumicati a freddo)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Friultrota di Pighin s.r.l.",
+    "product": "Aringa Sciocca (Filetti di aringa affumicati a freddo)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Friultrota di Pighin s.r.l. - Aringa Sciocca (Filetti di aringa affumicati a freddo)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2020_03_24%20NC%20Listeria_Allegato%202%20RICHIAMO_Friultrota%20_1__1761181285.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "aringa-sciocca-filetti-di-aringa-affumicati-freddo",
+    "published": "2020-03-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bacche-di-goji-7/",
+    "title": "",
+    "noticeDate": "24 marzo 2020",
+    "campi": {
+      "data pubblicazione": "24 marzo 2020",
+      "marca": "ZIG",
+      "denominazione": "BACCHE DI GOJI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ZIG",
+    "product": "BACCHE DI GOJI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ZIG - BACCHE DI GOJI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO_1761181279.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bacche-di-goji-7",
+    "published": "2020-03-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bacche-di-goji-8/",
+    "title": "",
+    "noticeDate": "24 marzo 2020",
+    "campi": {
+      "data pubblicazione": "24 marzo 2020",
+      "marca": "ZIG",
+      "denominazione": "BACCHE DI GOJI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ZIG",
+    "product": "BACCHE DI GOJI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ZIG - BACCHE DI GOJI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20BACCHE_1761181282.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bacche-di-goji-8",
+    "published": "2020-03-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bacche-di-goji-6/",
+    "title": "",
+    "noticeDate": "23 marzo 2020",
+    "campi": {
+      "data pubblicazione": "23 marzo 2020",
+      "marca": "Bacche di Goji",
+      "denominazione": "Bacche di Goji",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Bacche di Goji",
+    "product": "Bacche di Goji",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bacche di Goji - Bacche di Goji",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_DI%20NUNZIO%20SRL_Bacche%20di%20Goji_1761181276.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bacche-di-goji-6",
+    "published": "2020-03-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bacche-di-goji-5/",
+    "title": "",
+    "noticeDate": "17 marzo 2020",
+    "campi": {
+      "data pubblicazione": "17 marzo 2020",
+      "marca": "BACCHE DI GOJI",
+      "denominazione": "BACCHE DI GOJI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BACCHE DI GOJI",
+    "product": "BACCHE DI GOJI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BACCHE DI GOJI - BACCHE DI GOJI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamovarilotti13_03_2020_1761181273.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bacche-di-goji-5",
+    "published": "2020-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aringa-sciocca-aringa-dolce-affumicata-filetti-di-aringa-affumicati/",
+    "title": "",
+    "noticeDate": "13 marzo 2020",
+    "campi": {
+      "data pubblicazione": "13 marzo 2020",
+      "marca": "Friultrota di Pighin s.r.l.",
+      "denominazione": "Aringa Sciocca - Aringa Dolce Affumicata (Filetti di aringa affumicati a freddo)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Friultrota di Pighin s.r.l.",
+    "product": "Aringa Sciocca - Aringa Dolce Affumicata (Filetti di aringa affumicati a freddo)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Friultrota di Pighin s.r.l. - Aringa Sciocca - Aringa Dolce Affumicata (Filetti di aringa affumicati a freddo)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2020_03%20NC%20Listeria_Allegato%202%20RICHIAMO_Friultrota_1761181263.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "aringa-sciocca-aringa-dolce-affumicata-filetti-di-aringa-affumicati",
+    "published": "2020-03-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix01-mix-break-welness-da-gr-200/",
+    "title": "",
+    "noticeDate": "13 marzo 2020",
+    "campi": {
+      "data pubblicazione": "13 marzo 2020",
+      "marca": "Milani Frutta Secca",
+      "denominazione": "MIX01 - Mix Break Welness da gr. 200",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Milani Frutta Secca",
+    "product": "MIX01 - Mix Break Welness da gr. 200",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Milani Frutta Secca - MIX01 - Mix Break Welness da gr. 200",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Prodotto%20MIX01%20BREAK%20WELLNESS%20GR.200%20_5__1761181266.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mix01-mix-break-welness-da-gr-200",
+    "published": "2020-03-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix06-mix-break-welness-da-gr-280/",
+    "title": "",
+    "noticeDate": "13 marzo 2020",
+    "campi": {
+      "data pubblicazione": "13 marzo 2020",
+      "marca": "Milani Frutta Secca",
+      "denominazione": "MIX06 - Mix Break Welness da gr. 280",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Milani Frutta Secca",
+    "product": "MIX06 - Mix Break Welness da gr. 280",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Milani Frutta Secca - MIX06 - Mix Break Welness da gr. 280",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Prodotto%20%20MIX06%20BREAK%20WELLNESS%20GR.280%20_1__1761181268.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mix06-mix-break-welness-da-gr-280",
+    "published": "2020-03-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix05-mix-break-welness-da-kg-1/",
+    "title": "",
+    "noticeDate": "13 marzo 2020",
+    "campi": {
+      "data pubblicazione": "13 marzo 2020",
+      "marca": "Milani Frutta Secca",
+      "denominazione": "MIX05 - Mix Break Welness da Kg. 1",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Milani Frutta Secca",
+    "product": "MIX05 - Mix Break Welness da Kg. 1",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Milani Frutta Secca - MIX05 - Mix Break Welness da Kg. 1",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Prodotto%20MIX05%20BREAK%20WELLNESS%20KG.1%20_1__1761181271.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mix05-mix-break-welness-da-kg-1",
+    "published": "2020-03-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-lo-salam-filzetta-sv/",
+    "title": "",
+    "noticeDate": "12 marzo 2020",
+    "campi": {
+      "data pubblicazione": "12 marzo 2020",
+      "marca": "LARDIFICIO PIETRO LAURENT",
+      "denominazione": "SALAME \"LO SALAM FILZETTA SV\"",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LARDIFICIO PIETRO LAURENT",
+    "product": "SALAME \"LO SALAM FILZETTA SV\"",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LARDIFICIO PIETRO LAURENT - SALAME \"LO SALAM FILZETTA SV\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1761181261.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-lo-salam-filzetta-sv",
+    "published": "2020-03-12",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bacche-di-goji/",
     "title": "",
     "noticeDate": "11 marzo 2020",
@@ -981,6 +1423,84 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "bacche-di-goji-1",
+    "published": "2020-03-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bacche-di-goji-2/",
+    "title": "",
+    "noticeDate": "11 marzo 2020",
+    "campi": {
+      "data pubblicazione": "11 marzo 2020",
+      "marca": "BACCHE DI GOJI",
+      "denominazione": "BACCHE DI GOJI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BACCHE DI GOJI",
+    "product": "BACCHE DI GOJI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BACCHE DI GOJI - BACCHE DI GOJI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/buste_500_gr_1761181254.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bacche-di-goji-2",
+    "published": "2020-03-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bacche-di-goji-3/",
+    "title": "",
+    "noticeDate": "11 marzo 2020",
+    "campi": {
+      "data pubblicazione": "11 marzo 2020",
+      "marca": "BACCHE DI GOJI",
+      "denominazione": "BACCHE DI GOJI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BACCHE DI GOJI",
+    "product": "BACCHE DI GOJI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BACCHE DI GOJI - BACCHE DI GOJI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/buste_neutre2_5_kg_1761181256.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bacche-di-goji-3",
+    "published": "2020-03-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bacche-di-goji-4/",
+    "title": "",
+    "noticeDate": "11 marzo 2020",
+    "campi": {
+      "data pubblicazione": "11 marzo 2020",
+      "marca": "BACCHE DI GOJI",
+      "denominazione": "BACCHE DI GOJI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BACCHE DI GOJI",
+    "product": "BACCHE DI GOJI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BACCHE DI GOJI - BACCHE DI GOJI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/vassoi_130_gr_1761181258.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bacche-di-goji-4",
     "published": "2020-03-11",
     "source": "operator"
   },
