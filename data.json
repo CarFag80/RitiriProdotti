@@ -2165,6 +2165,84 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/erdnusse-800-g/",
+    "title": "",
+    "noticeDate": "31 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "31 dicembre 2020",
+      "marca": "The Lorenz Bahlsen Snack-World GmbH & Co KG",
+      "denominazione": "Erdnusse 800 g.",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "The Lorenz Bahlsen Snack-World GmbH & Co KG",
+    "product": "Erdnusse 800 g.",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo The Lorenz Bahlsen Snack-World GmbH & Co KG - Erdnusse 800 g.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/D128IT%20Modello%20Richiamo%20800g_1761184376.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "erdnusse-800-g",
+    "published": "2020-12-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fascinations-coated-peanuts-wasabi-100g/",
+    "title": "",
+    "noticeDate": "31 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "31 dicembre 2020",
+      "marca": "The Lorenz Bahlsen Snack-World GmbH & Co KG",
+      "denominazione": "Fascinations Coated Peanuts Wasabi 100g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "The Lorenz Bahlsen Snack-World GmbH & Co KG",
+    "product": "Fascinations Coated Peanuts Wasabi 100g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo The Lorenz Bahlsen Snack-World GmbH & Co KG - Fascinations Coated Peanuts Wasabi 100g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/D128IT%20Modello%20Richiamo%20100g_1761184381.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "fascinations-coated-peanuts-wasabi-100g",
+    "published": "2020-12-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salam-dla-tradission/",
+    "title": "",
+    "noticeDate": "31 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "31 dicembre 2020",
+      "marca": "I SALAM 'D GIORS",
+      "denominazione": "SALAM D'LA TRADISSION",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "I SALAM 'D GIORS",
+    "product": "SALAM D'LA TRADISSION",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo I SALAM 'D GIORS - SALAM D'LA TRADISSION",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato_1761184387.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salam-dla-tradission",
+    "published": "2020-12-31",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barretta-ai-cranberries-bio/",
     "title": "",
     "noticeDate": "30 dicembre 2020",
@@ -2187,6 +2265,448 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "barretta-ai-cranberries-bio",
+    "published": "2020-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barretta-alle-mandorle-bio/",
+    "title": "",
+    "noticeDate": "30 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2020",
+      "marca": "TASTE OF NATURE",
+      "denominazione": "BARRETTA ALLE MANDORLE BIO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "TASTE OF NATURE",
+    "product": "BARRETTA ALLE MANDORLE BIO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TASTE OF NATURE - BARRETTA ALLE MANDORLE BIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_ministero_mandorle_1761184295.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "barretta-alle-mandorle-bio",
+    "published": "2020-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-bio-3/",
+    "title": "",
+    "noticeDate": "30 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2020",
+      "marca": "ANTICO MOLINO ROSSO",
+      "denominazione": "SEMI DI SESAMO BIO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ANTICO MOLINO ROSSO",
+    "product": "SEMI DI SESAMO BIO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ANTICO MOLINO ROSSO - SEMI DI SESAMO BIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/semi%20di%20sesamo%20bio%20150g%2031_10_2021_1761184300.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-sesamo-bio-3",
+    "published": "2020-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-bio-4/",
+    "title": "",
+    "noticeDate": "30 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2020",
+      "marca": "FRUTTO DELLE MACINE",
+      "denominazione": "SEMI DI SESAMO BIO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "FRUTTO DELLE MACINE",
+    "product": "SEMI DI SESAMO BIO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FRUTTO DELLE MACINE - SEMI DI SESAMO BIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/semi%20di%20sesamo%20bio%20150g%2031_10_2021frutto%20delle%20macine_1761184304.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-sesamo-bio-4",
+    "published": "2020-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-bio-5/",
+    "title": "",
+    "noticeDate": "30 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2020",
+      "marca": "ANTICO MOLINO ROSSO",
+      "denominazione": "SEMI DI SESAMO BIO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ANTICO MOLINO ROSSO",
+    "product": "SEMI DI SESAMO BIO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ANTICO MOLINO ROSSO - SEMI DI SESAMO BIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/semi%20di%20sesamo%20bio%20500g%2010_2021_1761184309.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-sesamo-bio-5",
+    "published": "2020-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-bio-6/",
+    "title": "",
+    "noticeDate": "30 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2020",
+      "marca": "ANTICO MOLINO ROSSO",
+      "denominazione": "SEMI DI SESAMO BIO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ANTICO MOLINO ROSSO",
+    "product": "SEMI DI SESAMO BIO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ANTICO MOLINO ROSSO - SEMI DI SESAMO BIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/semi%20di%20sesamo%20bio%205kg%2001_2021_1761184313.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-sesamo-bio-6",
+    "published": "2020-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-bio-7/",
+    "title": "",
+    "noticeDate": "30 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2020",
+      "marca": "ANTICO MOLINO ROSSO",
+      "denominazione": "SEMI DI SESAMO BIO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ANTICO MOLINO ROSSO",
+    "product": "SEMI DI SESAMO BIO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ANTICO MOLINO ROSSO - SEMI DI SESAMO BIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/semi%20di%20sesamo%20bio%205kg%2006_2021_1761184318.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-sesamo-bio-7",
+    "published": "2020-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/grissini-sesamo-e-crusca/",
+    "title": "",
+    "noticeDate": "30 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2020",
+      "marca": "Comunità San Patrignano Soc. Coop Sociale",
+      "denominazione": "Grissini Sesamo e Crusca",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Comunità San Patrignano Soc. Coop Sociale",
+    "product": "Grissini Sesamo e Crusca",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Comunità San Patrignano Soc. Coop Sociale - Grissini Sesamo e Crusca",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20MINISTERIALE%20_%20Lotto%20201902_inserire%20Ministero_1761184323.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "grissini-sesamo-e-crusca",
+    "published": "2020-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/i-rusticini-con-farina-integrale-e-sesamo-120gr/",
+    "title": "",
+    "noticeDate": "30 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2020",
+      "marca": "Gianluca Londi",
+      "denominazione": "I Rusticini con farina Integrale e sesamo 120gr",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Gianluca Londi",
+    "product": "I Rusticini con farina Integrale e sesamo 120gr",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gianluca Londi - I Rusticini con farina Integrale e sesamo 120gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20LONDI%20_%20Cartello%20120gr_1761184328.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "i-rusticini-con-farina-integrale-e-sesamo-120gr",
+    "published": "2020-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/i-rusticini-con-farina-integrale-e-sesamo-500gr/",
+    "title": "",
+    "noticeDate": "30 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2020",
+      "marca": "Gianluca Londi",
+      "denominazione": "I Rusticini con farina Integrale e sesamo 500gr",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Gianluca Londi",
+    "product": "I Rusticini con farina Integrale e sesamo 500gr",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gianluca Londi - I Rusticini con farina Integrale e sesamo 500gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20LONDI%20_%20Cartello%20500%20gr%20integrale_1761184333.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "i-rusticini-con-farina-integrale-e-sesamo-500gr",
+    "published": "2020-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/i-rusticini-con-farina-integrale-e-sesamo-40gr/",
+    "title": "",
+    "noticeDate": "30 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2020",
+      "marca": "Gianluca Londi",
+      "denominazione": "I Rusticini con farina Integrale e sesamo 40gr",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Gianluca Londi",
+    "product": "I Rusticini con farina Integrale e sesamo 40gr",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gianluca Londi - I Rusticini con farina Integrale e sesamo 40gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20LONDI%20_%20Cartello%2040gr.%20integrale_1761184337.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "i-rusticini-con-farina-integrale-e-sesamo-40gr",
+    "published": "2020-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-di-cereali-200g/",
+    "title": "",
+    "noticeDate": "30 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2020",
+      "marca": "Prime Pappe",
+      "denominazione": "Crema di cereali 200g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Prime Pappe",
+    "product": "Crema di cereali 200g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Prime Pappe - Crema di cereali 200g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/17a%20_%202020.12.23%20_%20Crema%20cereali%20200g%20_%20SUNVAL_1761184343.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "crema-di-cereali-200g",
+    "published": "2020-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-di-riso-mais-e-tapioca-200g/",
+    "title": "",
+    "noticeDate": "30 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2020",
+      "marca": "Prime Pappe",
+      "denominazione": "Crema di riso mais e tapioca 200g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Prime Pappe",
+    "product": "Crema di riso mais e tapioca 200g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Prime Pappe - Crema di riso mais e tapioca 200g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/17b%20_%202020.12.23%20_%20Crema%20riso%20mais%20e%20tapioca%20200g%20_%20SUNVAL_1761184348.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "crema-di-riso-mais-e-tapioca-200g",
+    "published": "2020-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prostaforce-60-capsule/",
+    "title": "",
+    "noticeDate": "30 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2020",
+      "marca": "A.VOGEL",
+      "denominazione": "PROSTAFORCE 60 capsule",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "A.VOGEL",
+    "product": "PROSTAFORCE 60 capsule",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo A.VOGEL - PROSTAFORCE 60 capsule",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_458825_cartellodirichiamo_1761184353.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "prostaforce-60-capsule",
+    "published": "2020-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-semi-tostati-biologici/",
+    "title": "",
+    "noticeDate": "30 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2020",
+      "marca": "PUREZZA BIO",
+      "denominazione": "MIX SEMI TOSTATI BIOLOGICI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "PUREZZA BIO",
+    "product": "MIX SEMI TOSTATI BIOLOGICI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PUREZZA BIO - MIX SEMI TOSTATI BIOLOGICI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_459001_modulo%20richiamo%20mix%20semi%20tostati%20bio%20Purezza%20bio%20tmc%2011%2004%202021_1761184358.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mix-semi-tostati-biologici",
+    "published": "2020-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-semi-tostati-biologici-0/",
+    "title": "",
+    "noticeDate": "30 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2020",
+      "marca": "PENSA BIO BIO",
+      "denominazione": "MIX SEMI TOSTATI BIOLOGICI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "PENSA BIO BIO",
+    "product": "MIX SEMI TOSTATI BIOLOGICI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PENSA BIO BIO - MIX SEMI TOSTATI BIOLOGICI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_459001_modulo%20richiamo%20mix%20semi%20tostati%20bio%20Pensa%20bio%20tmc%2004%2005%202021_1761184362.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mix-semi-tostati-biologici-0",
+    "published": "2020-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-semi-tostati-biologici-1/",
+    "title": "",
+    "noticeDate": "30 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2020",
+      "marca": "Artigiano del Bio",
+      "denominazione": "MIX SEMI TOSTATI BIOLOGICI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Artigiano del Bio",
+    "product": "MIX SEMI TOSTATI BIOLOGICI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Artigiano del Bio - MIX SEMI TOSTATI BIOLOGICI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_459001_modulo%20richiamo%20mix%20semi%20tostati%20bio%20Artigiano%20del%20Bio%20lotto%20200210%20_1__1761184367.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mix-semi-tostati-biologici-1",
+    "published": "2020-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/baton-cu-crema/",
+    "title": "",
+    "noticeDate": "30 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2020",
+      "marca": "ROM",
+      "denominazione": "BATON CU CREMA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "ROM",
+    "product": "BATON CU CREMA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ROM - BATON CU CREMA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Kandia_1761184372.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "baton-cu-crema",
     "published": "2020-12-30",
     "source": "operator"
   },
