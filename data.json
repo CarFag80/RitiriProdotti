@@ -4713,6 +4713,32 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/goji-berry/",
+    "title": "",
+    "noticeDate": "16 marzo 2021",
+    "campi": {
+      "data pubblicazione": "16 marzo 2021",
+      "marca": "TORREFAZIONE LA FORLIVESE DEI F.LLI MAMBELLI SRL",
+      "denominazione": "GOJI BERRY",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "TORREFAZIONE LA FORLIVESE DEI F.LLI MAMBELLI SRL",
+    "product": "GOJI BERRY",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TORREFAZIONE LA FORLIVESE DEI F.LLI MAMBELLI SRL - GOJI BERRY",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20GOJI%20BERRY%201%20Kg%20lotto%2000429_1761185896.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "goji-berry",
+    "published": "2021-03-16",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/misto-frutti-rossi-099/",
     "title": "",
     "noticeDate": "12 marzo 2021",
@@ -4839,6 +4865,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "bacche-di-goji-12",
+    "published": "2021-03-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bacche-di-goji-13/",
+    "title": "",
+    "noticeDate": "12 marzo 2021",
+    "campi": {
+      "data pubblicazione": "12 marzo 2021",
+      "marca": "Manuzzi",
+      "denominazione": "Bacche di Goji",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Manuzzi",
+    "product": "Bacche di Goji",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Manuzzi - Bacche di Goji",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20Lotto%202022111_Bacche%20225g_1761185893.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bacche-di-goji-13",
     "published": "2021-03-12",
     "source": "operator"
   },
