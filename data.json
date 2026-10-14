@@ -4713,6 +4713,500 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/misto-frutti-rossi-099/",
+    "title": "",
+    "noticeDate": "12 marzo 2021",
+    "campi": {
+      "data pubblicazione": "12 marzo 2021",
+      "marca": "Manuzzi",
+      "denominazione": "Misto Frutti Rossi 0,99",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Manuzzi",
+    "product": "Misto Frutti Rossi 0,99",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Manuzzi - Misto Frutti Rossi 0,99",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20lotto%202010111_Misto%2070g_1761185878.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "misto-frutti-rossi-099",
+    "published": "2021-03-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/misto-frutti-rossi-099-0/",
+    "title": "",
+    "noticeDate": "12 marzo 2021",
+    "campi": {
+      "data pubblicazione": "12 marzo 2021",
+      "marca": "Manuzzi",
+      "denominazione": "Misto Frutti Rossi 0,99",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Manuzzi",
+    "product": "Misto Frutti Rossi 0,99",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Manuzzi - Misto Frutti Rossi 0,99",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20lotto%202014206_Misto%2070g_1761185881.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "misto-frutti-rossi-099-0",
+    "published": "2021-03-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bacche-di-goji-10/",
+    "title": "",
+    "noticeDate": "12 marzo 2021",
+    "campi": {
+      "data pubblicazione": "12 marzo 2021",
+      "marca": "Manusol",
+      "denominazione": "Bacche di Goji",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Manusol",
+    "product": "Bacche di Goji",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Manusol - Bacche di Goji",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20lotto%202011305_Bacche%2050g_1761185884.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bacche-di-goji-10",
+    "published": "2021-03-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bacche-di-goji-11/",
+    "title": "",
+    "noticeDate": "12 marzo 2021",
+    "campi": {
+      "data pubblicazione": "12 marzo 2021",
+      "marca": "Manuzzi",
+      "denominazione": "Bacche di Goji",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Manuzzi",
+    "product": "Bacche di Goji",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Manuzzi - Bacche di Goji",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20lotto%202012408_Bacche%2065g_1761185887.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bacche-di-goji-11",
+    "published": "2021-03-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bacche-di-goji-12/",
+    "title": "",
+    "noticeDate": "12 marzo 2021",
+    "campi": {
+      "data pubblicazione": "12 marzo 2021",
+      "marca": "Manusol",
+      "denominazione": "Bacche di Goji",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Manusol",
+    "product": "Bacche di Goji",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Manusol - Bacche di Goji",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20lotto%202021106_Bacche%2050g_1761185890.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bacche-di-goji-12",
+    "published": "2021-03-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filoncini-rustici-con-farina-100-integrale-e-semi/",
+    "title": "",
+    "noticeDate": "4 marzo 2021",
+    "campi": {
+      "data pubblicazione": "4 marzo 2021",
+      "marca": "PRATO",
+      "denominazione": "FILONCINI RUSTICI CON FARINA 100% INTEGRALE E SEMI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "PRATO",
+    "product": "FILONCINI RUSTICI CON FARINA 100% INTEGRALE E SEMI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PRATO - FILONCINI RUSTICI CON FARINA 100% INTEGRALE E SEMI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20Filoncini%20Rustici%20con%20farina%20100_%20integrale%20e%20semi_1761185874.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filoncini-rustici-con-farina-100-integrale-e-semi",
+    "published": "2021-03-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/smeriglio-mako-congelato/",
+    "title": "",
+    "noticeDate": "2 marzo 2021",
+    "campi": {
+      "data pubblicazione": "2 marzo 2021",
+      "marca": "LODI",
+      "denominazione": "smeriglio Mako congelato",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LODI",
+    "product": "smeriglio Mako congelato",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LODI - smeriglio Mako congelato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20di%20richiamo_1761185864.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "smeriglio-mako-congelato",
+    "published": "2021-03-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-acciughe-del-mediterraneo/",
+    "title": "",
+    "noticeDate": "2 marzo 2021",
+    "campi": {
+      "data pubblicazione": "2 marzo 2021",
+      "marca": "Triglia",
+      "denominazione": "Filetti di acciughe del Mediterraneo",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Triglia",
+    "product": "Filetti di acciughe del Mediterraneo",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Triglia - Filetti di acciughe del Mediterraneo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1761185869.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filetti-di-acciughe-del-mediterraneo",
+    "published": "2021-03-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-essiccati-di-sesamo-bianco/",
+    "title": "",
+    "noticeDate": "26 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "26 febbraio 2021",
+      "marca": "MICHELOTTI & ZEI S.R.L.",
+      "denominazione": "Semi essiccati di sesamo bianco",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MICHELOTTI & ZEI S.R.L.",
+    "product": "Semi essiccati di sesamo bianco",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MICHELOTTI & ZEI S.R.L. - Semi essiccati di sesamo bianco",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/02_Modellorichiamo_1761185440.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-essiccati-di-sesamo-bianco",
+    "published": "2021-02-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cholkur-advance-integratore-alimentare/",
+    "title": "",
+    "noticeDate": "26 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "26 febbraio 2021",
+      "marca": "GRICAR CHEMICAL SRL",
+      "denominazione": "CHOLKUR ADVANCE - INTEGRATORE ALIMENTARE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "GRICAR CHEMICAL SRL",
+    "product": "CHOLKUR ADVANCE - INTEGRATORE ALIMENTARE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GRICAR CHEMICAL SRL - CHOLKUR ADVANCE - INTEGRATORE ALIMENTARE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20CHOLKUR%20ADVANCE.doc_1761185446.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cholkur-advance-integratore-alimentare",
+    "published": "2021-02-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/stracchino-colli-di-s-fermo-formaggio-latte-crudo/",
+    "title": "",
+    "noticeDate": "25 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "25 febbraio 2021",
+      "marca": "AZIENDA AGRICOLA E AGRITURISMO S. ANTONIO - GRONE (BG)",
+      "denominazione": "STRACCHINO Colli di S. Fermo - Formaggio a latte crudo",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "AZIENDA AGRICOLA E AGRITURISMO S. ANTONIO - GRONE (BG)",
+    "product": "STRACCHINO Colli di S. Fermo - Formaggio a latte crudo",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AZIENDA AGRICOLA E AGRITURISMO S. ANTONIO - GRONE (BG) - STRACCHINO Colli di S. Fermo - Formaggio a latte crudo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo_1761185434.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "stracchino-colli-di-s-fermo-formaggio-latte-crudo",
+    "published": "2021-02-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filoncini-rustici-al-sesamo/",
+    "title": "",
+    "noticeDate": "23 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2021",
+      "marca": "Prato",
+      "denominazione": "Filoncini rustici al sesamo",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Prato",
+    "product": "Filoncini rustici al sesamo",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Prato - Filoncini rustici al sesamo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Filoncini_rustici_al_sesamo_1761185395.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filoncini-rustici-al-sesamo",
+    "published": "2021-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filoncini-rustici-ai-tre-semi/",
+    "title": "",
+    "noticeDate": "23 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2021",
+      "marca": "Prato",
+      "denominazione": "Filoncini rustici ai tre semi",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Prato",
+    "product": "Filoncini rustici ai tre semi",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Prato - Filoncini rustici ai tre semi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Filoncini_rustici_ai_tre_semi_1761185400.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filoncini-rustici-ai-tre-semi",
+    "published": "2021-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filoncini-rustici-con-farina-integrale-100-e-semi/",
+    "title": "",
+    "noticeDate": "23 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2021",
+      "marca": "Prato",
+      "denominazione": "Filoncini rustici con farina integrale 100% e semi",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Prato",
+    "product": "Filoncini rustici con farina integrale 100% e semi",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Prato - Filoncini rustici con farina integrale 100% e semi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Filoncini_rustici_con_farina_100_integrale_e_semi_1761185406.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filoncini-rustici-con-farina-integrale-100-e-semi",
+    "published": "2021-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/grissini-artigianali-al-sesamo/",
+    "title": "",
+    "noticeDate": "23 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2021",
+      "marca": "Prato",
+      "denominazione": "Grissini artigianali al sesamo",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Prato",
+    "product": "Grissini artigianali al sesamo",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Prato - Grissini artigianali al sesamo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Grissini_aritigianali_al_sesamo_1761185412.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "grissini-artigianali-al-sesamo",
+    "published": "2021-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/longuets-con-farina-integrale-e-semi/",
+    "title": "",
+    "noticeDate": "23 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2021",
+      "marca": "Prato",
+      "denominazione": "Longuets con farina integrale e semi",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Prato",
+    "product": "Longuets con farina integrale e semi",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Prato - Longuets con farina integrale e semi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Longuetes_con_farina_integrale_e_semi_1761185417.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "longuets-con-farina-integrale-e-semi",
+    "published": "2021-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/longuets-fior-di-sesamo/",
+    "title": "",
+    "noticeDate": "23 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2021",
+      "marca": "Prato",
+      "denominazione": "Longuets fior di sesamo",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Prato",
+    "product": "Longuets fior di sesamo",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Prato - Longuets fior di sesamo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Longuetes_fior_di_sesamo_1761185423.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "longuets-fior-di-sesamo",
+    "published": "2021-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/piffino-di-farro-al-sesamo/",
+    "title": "",
+    "noticeDate": "23 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2021",
+      "marca": "Prato",
+      "denominazione": "Piffino di farro al sesamo",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Prato",
+    "product": "Piffino di farro al sesamo",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Prato - Piffino di farro al sesamo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Piffino_di_farro_al_sesamo_1761185429.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "piffino-di-farro-al-sesamo",
+    "published": "2021-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bio-sfogliatine-al-sesamo/",
+    "title": "",
+    "noticeDate": "20 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "20 febbraio 2021",
+      "marca": "FIORENTINI",
+      "denominazione": "BIO SFOGLIATINE AL SESAMO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "FIORENTINI",
+    "product": "BIO SFOGLIATINE AL SESAMO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIORENTINI - BIO SFOGLIATINE AL SESAMO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO_PER_RICHIAMO_ALLEGATO_4_1761185390.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bio-sfogliatine-al-sesamo",
+    "published": "2021-02-20",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-semi-120-g/",
     "title": "",
     "noticeDate": "19 febbraio 2021",
@@ -5203,6 +5697,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "sesamo-naturale-da-500-g",
+    "published": "2021-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-naturale-da-1000-g/",
+    "title": "",
+    "noticeDate": "19 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2021",
+      "marca": "Zorzi dal 1828",
+      "denominazione": "Sesamo Naturale da 1000 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Zorzi dal 1828",
+    "product": "Sesamo Naturale da 1000 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Zorzi dal 1828 - Sesamo Naturale da 1000 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_Richiamo_Prodotto_Lotto_873332420_Zorzi_1000g_1761185386.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sesamo-naturale-da-1000-g",
     "published": "2021-02-19",
     "source": "operator"
   },
