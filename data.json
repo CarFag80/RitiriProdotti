@@ -3465,6 +3465,396 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sabato-frollini-di-mais-con-zenzero-candito-e-olio-essenziale-di/",
+    "title": "",
+    "noticeDate": "18 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "18 dicembre 2020",
+      "marca": "ON - LE FUREZZE",
+      "denominazione": "SABATO- Frollini di Mais con Zenzero Candito e Olio essenziale di Bergamotto",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "ON - LE FUREZZE",
+    "product": "SABATO- Frollini di Mais con Zenzero Candito e Olio essenziale di Bergamotto",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ON - LE FUREZZE - SABATO- Frollini di Mais con Zenzero Candito e Olio essenziale di Bergamotto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO%20PRODOTTO_LOTTO%20E333_54%20_%20SCAD.%20MAGGIO_2021_1761184212.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sabato-frollini-di-mais-con-zenzero-candito-e-olio-essenziale-di",
+    "published": "2020-12-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-bio-2/",
+    "title": "",
+    "noticeDate": "17 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "17 dicembre 2020",
+      "marca": "TREVISAN",
+      "denominazione": "SEMI DI SESAMO BIO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "TREVISAN",
+    "product": "SEMI DI SESAMO BIO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TREVISAN - SEMI DI SESAMO BIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_semi_sesamo_Trevisan_1761184208.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-sesamo-bio-2",
+    "published": "2020-12-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/i-ferraresi-grissini-ai-7-cereali/",
+    "title": "",
+    "noticeDate": "16 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "16 dicembre 2020",
+      "marca": "ANTICO FORNO DELLA ROMAGNA",
+      "denominazione": "I FERRARESI GRISSINI AI 7 CEREALI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ANTICO FORNO DELLA ROMAGNA",
+    "product": "I FERRARESI GRISSINI AI 7 CEREALI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ANTICO FORNO DELLA ROMAGNA - I FERRARESI GRISSINI AI 7 CEREALI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIA~1_1761184201.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "i-ferraresi-grissini-ai-7-cereali",
+    "published": "2020-12-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pifferi-al-sesamo/",
+    "title": "",
+    "noticeDate": "16 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "16 dicembre 2020",
+      "marca": "Trevisan",
+      "denominazione": "Pifferi al sesamo",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Trevisan",
+    "product": "Pifferi al sesamo",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Trevisan - Pifferi al sesamo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Ufficiale_Richiamo_Pifferi_1761184205.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pifferi-al-sesamo",
+    "published": "2020-12-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mini-grissini-ai-7-cereali/",
+    "title": "",
+    "noticeDate": "15 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "15 dicembre 2020",
+      "marca": "Aligrà srl",
+      "denominazione": "Mini Grissini ai 7 Cereali",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Aligrà srl",
+    "product": "Mini Grissini ai 7 Cereali",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Aligrà srl - Mini Grissini ai 7 Cereali",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_pagineAree_4633_listaFile_itemName_0_file%20_1_%20lotto%202047_1761184194.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mini-grissini-ai-7-cereali",
+    "published": "2020-12-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mini-grissini-ai-7-cereali-0/",
+    "title": "",
+    "noticeDate": "15 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "15 dicembre 2020",
+      "marca": "Aligrà srl",
+      "denominazione": "Mini Grissini ai 7 Cereali",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Aligrà srl",
+    "product": "Mini Grissini ai 7 Cereali",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Aligrà srl - Mini Grissini ai 7 Cereali",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_pagineAree_4633_listaFile_itemName_0_file%20_1_%20lotto%202048_1761184197.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mini-grissini-ai-7-cereali-0",
+    "published": "2020-12-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/croccante-con-sesamo/",
+    "title": "",
+    "noticeDate": "14 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "14 dicembre 2020",
+      "marca": "Crownfield Limited Edition",
+      "denominazione": "Croccante con sesamo",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Crownfield Limited Edition",
+    "product": "Croccante con sesamo",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Crownfield Limited Edition - Croccante con sesamo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_455788_MODELLO_DI_RICHIAMO_CroccanteSesamoK20069_1761184190.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "croccante-con-sesamo",
+    "published": "2020-12-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-sesamo-tostato-1/",
+    "title": "",
+    "noticeDate": "11 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "11 dicembre 2020",
+      "marca": "CLEARSPRING",
+      "denominazione": "OLIO DI SESAMO TOSTATO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CLEARSPRING",
+    "product": "OLIO DI SESAMO TOSTATO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CLEARSPRING - OLIO DI SESAMO TOSTATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20lotto%2003_11_21_1761184178.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "olio-di-sesamo-tostato-1",
+    "published": "2020-12-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-sesamo-tostato-2/",
+    "title": "",
+    "noticeDate": "11 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "11 dicembre 2020",
+      "marca": "CLEARSPRING",
+      "denominazione": "OLIO DI SESAMO TOSTATO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CLEARSPRING",
+    "product": "OLIO DI SESAMO TOSTATO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CLEARSPRING - OLIO DI SESAMO TOSTATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20lotto%2008_08_21_1761184181.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "olio-di-sesamo-tostato-2",
+    "published": "2020-12-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-sesamo-tostato-3/",
+    "title": "",
+    "noticeDate": "11 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "11 dicembre 2020",
+      "marca": "CLEARSPRING",
+      "denominazione": "OLIO DI SESAMO TOSTATO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CLEARSPRING",
+    "product": "OLIO DI SESAMO TOSTATO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CLEARSPRING - OLIO DI SESAMO TOSTATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20lotto%2008_08_21_1761184184.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "olio-di-sesamo-tostato-3",
+    "published": "2020-12-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kikkoman-sesame-dressing-250-ml-salsa-al-sesamo/",
+    "title": "",
+    "noticeDate": "11 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "11 dicembre 2020",
+      "marca": "KIKKOMAN",
+      "denominazione": "Kikkoman sesame dressing 250 ml ( salsa al sesamo)",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "KIKKOMAN",
+    "product": "Kikkoman sesame dressing 250 ml ( salsa al sesamo)",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo KIKKOMAN - Kikkoman sesame dressing 250 ml ( salsa al sesamo)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Kikkoman%20sesame%20dressing_1761184187.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "kikkoman-sesame-dressing-250-ml-salsa-al-sesamo",
+    "published": "2020-12-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparazione-alimentare-vegetale-base-di-soia-fermentata/",
+    "title": "",
+    "noticeDate": "10 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "10 dicembre 2020",
+      "marca": "VALSOIA",
+      "denominazione": "Preparazione alimentare VEGETALE a base di SOIA FERMENTATA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "VALSOIA",
+    "product": "Preparazione alimentare VEGETALE a base di SOIA FERMENTATA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VALSOIA - Preparazione alimentare VEGETALE a base di SOIA FERMENTATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Spalmabile%20L3210%20TMC01_03_2021_1761184175.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparazione-alimentare-vegetale-base-di-soia-fermentata",
+    "published": "2020-12-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bocconcini-di-cereali-tostati-al-forno-con-avena-18-cocco-12-e/",
+    "title": "",
+    "noticeDate": "7 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "7 dicembre 2020",
+      "marca": "S&P POP'N FIT COCCO E CIOCCOLATO",
+      "denominazione": "Bocconcini di cereali tostati al forno con avena 18%, cocco 12% e cioccolato%",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "S&P POP'N FIT COCCO E CIOCCOLATO",
+    "product": "Bocconcini di cereali tostati al forno con avena 18%, cocco 12% e cioccolato%",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo S&P POP'N FIT COCCO E CIOCCOLATO - Bocconcini di cereali tostati al forno con avena 18%, cocco 12% e cioccolato%",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PopnfitCoccoCioccolato080721_1761184165.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bocconcini-di-cereali-tostati-al-forno-con-avena-18-cocco-12-e",
+    "published": "2020-12-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bocconcini-di-cereali-tostati-al-forno-con-avena-20-e-mirtilli-8/",
+    "title": "",
+    "noticeDate": "7 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "7 dicembre 2020",
+      "marca": "S&P POP'N FIT MIRTILLI",
+      "denominazione": "Bocconcini di cereali tostati al forno con avena 20%, e mirtilli 8%",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "S&P POP'N FIT MIRTILLI",
+    "product": "Bocconcini di cereali tostati al forno con avena 20%, e mirtilli 8%",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo S&P POP'N FIT MIRTILLI - Bocconcini di cereali tostati al forno con avena 20%, e mirtilli 8%",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PopnfitMirtillo070721_1761184168.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bocconcini-di-cereali-tostati-al-forno-con-avena-20-e-mirtilli-8",
+    "published": "2020-12-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-kg-05/",
+    "title": "",
+    "noticeDate": "7 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "7 dicembre 2020",
+      "marca": "Italdroghe S.r.l.",
+      "denominazione": "Semi di sesamo Kg 0,5",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Italdroghe S.r.l.",
+    "product": "Semi di sesamo Kg 0,5",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Italdroghe S.r.l. - Semi di sesamo Kg 0,5",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLODIRICHIAMOSESAMOLB200900C_1761184171.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-sesamo-kg-05",
+    "published": "2020-12-07",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fior-di-saraceno-bio-integrali-con-semi-oleosi/",
     "title": "",
     "noticeDate": "5 dicembre 2020",
@@ -3695,6 +4085,136 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "minigri-bio-al-farro-con-semi-oleosi",
+    "published": "2020-12-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/schiacciatine-bio-semi-oleosi-farina-di-farro/",
+    "title": "",
+    "noticeDate": "5 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "5 dicembre 2020",
+      "marca": "Pasticceria Biologica Manzi",
+      "denominazione": "Schiacciatine Bio semi oleosi farina di farro",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Pasticceria Biologica Manzi",
+    "product": "Schiacciatine Bio semi oleosi farina di farro",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pasticceria Biologica Manzi - Schiacciatine Bio semi oleosi farina di farro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Schiacciatine%20Bio%20semi%20oleosi%20farina%20di%20farro_1761184147.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "schiacciatine-bio-semi-oleosi-farina-di-farro",
+    "published": "2020-12-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfoglia-farro-bio-semi-oleosi/",
+    "title": "",
+    "noticeDate": "5 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "5 dicembre 2020",
+      "marca": "Pasticceria Biologica Manzi",
+      "denominazione": "Sfoglia farro Bio semi oleosi",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Pasticceria Biologica Manzi",
+    "product": "Sfoglia farro Bio semi oleosi",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pasticceria Biologica Manzi - Sfoglia farro Bio semi oleosi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Sfoglia%20farro%20Bio%20semi%20oleosi%20VASS_1761184151.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sfoglia-farro-bio-semi-oleosi",
+    "published": "2020-12-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfoglia-farro-bio-semi-oleosi-0/",
+    "title": "",
+    "noticeDate": "5 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "5 dicembre 2020",
+      "marca": "Pasticceria Biologica Manzi",
+      "denominazione": "Sfoglia farro Bio semi oleosi",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Pasticceria Biologica Manzi",
+    "product": "Sfoglia farro Bio semi oleosi",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pasticceria Biologica Manzi - Sfoglia farro Bio semi oleosi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Sfoglia%20farro%20Bio%20semi%20oleosi_1761184154.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sfoglia-farro-bio-semi-oleosi-0",
+    "published": "2020-12-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/stirati-bio-al-farro-con-semi-oleosi/",
+    "title": "",
+    "noticeDate": "5 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "5 dicembre 2020",
+      "marca": "Pasticceria Biologica Manzi",
+      "denominazione": "Stirati Bio al farro con semi oleosi",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Pasticceria Biologica Manzi",
+    "product": "Stirati Bio al farro con semi oleosi",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pasticceria Biologica Manzi - Stirati Bio al farro con semi oleosi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Stirati%20Bio%20al%20farro%20con%20semi%20oleosi_1761184159.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "stirati-bio-al-farro-con-semi-oleosi",
+    "published": "2020-12-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/stirati-bio-integrali-con-semi-oleosi/",
+    "title": "",
+    "noticeDate": "5 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "5 dicembre 2020",
+      "marca": "Pasticceria Biologica Manzi",
+      "denominazione": "Stirati Bio integrali con semi oleosi",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Pasticceria Biologica Manzi",
+    "product": "Stirati Bio integrali con semi oleosi",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pasticceria Biologica Manzi - Stirati Bio integrali con semi oleosi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Stirati%20Bio%20integrali%20con%20semi%20oleosi_1761184162.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "stirati-bio-integrali-con-semi-oleosi",
     "published": "2020-12-05",
     "source": "operator"
   },
