@@ -670,6 +670,32 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cracker-salato-superficie-500gr/",
+    "title": "",
+    "noticeDate": "11 agosto 2021",
+    "campi": {
+      "data pubblicazione": "11 agosto 2021",
+      "marca": "CRACKER DESPAR",
+      "denominazione": "CRACKER SALATO IN SUPERFICIE 500gr",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "CRACKER DESPAR",
+    "product": "CRACKER SALATO IN SUPERFICIE 500gr",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CRACKER DESPAR - CRACKER SALATO IN SUPERFICIE 500gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20cracker%20sal_Despar_Crich%206081_1761187611.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cracker-salato-superficie-500gr",
+    "published": "2021-08-11",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/moringa-polvere-e-moringa-capsule/",
     "title": "Moringa Polvere e Moringa Capsule",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-sui-prodotti-moringa-polvere-e-moringa-capsule-usati/",
@@ -761,6 +787,136 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/isiciliami-cerealcrock-sesamo/",
+    "title": "",
+    "noticeDate": "30 aprile 2021",
+    "campi": {
+      "data pubblicazione": "30 aprile 2021",
+      "marca": "ISICILIAMI",
+      "denominazione": "ISICILIAMI - CEREALCROCK SESAMO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ISICILIAMI",
+    "product": "ISICILIAMI - CEREALCROCK SESAMO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ISICILIAMI - ISICILIAMI - CEREALCROCK SESAMO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20CEREALCROCK%20SESAMO_1761186651.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "isiciliami-cerealcrock-sesamo",
+    "published": "2021-04-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/isiciliami-sesacrock/",
+    "title": "",
+    "noticeDate": "30 aprile 2021",
+    "campi": {
+      "data pubblicazione": "30 aprile 2021",
+      "marca": "SESACROCK",
+      "denominazione": "ISICILIAMI - SESACROCK",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SESACROCK",
+    "product": "ISICILIAMI - SESACROCK",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SESACROCK - ISICILIAMI - SESACROCK",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20SESACROCK_1761186652.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "isiciliami-sesacrock",
+    "published": "2021-04-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bio-muesli-750-g-mix-di-5-cereali/",
+    "title": "",
+    "noticeDate": "28 aprile 2021",
+    "campi": {
+      "data pubblicazione": "28 aprile 2021",
+      "marca": "Natur aktiv",
+      "denominazione": "BIO MUESLI 750 g - Mix di 5 cereali",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Natur aktiv",
+    "product": "BIO MUESLI 750 g - Mix di 5 cereali",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Natur aktiv - BIO MUESLI 750 g - Mix di 5 cereali",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_475877_Cartello_Richamo_DEF_1761186649.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bio-muesli-750-g-mix-di-5-cereali",
+    "published": "2021-04-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-nero/",
+    "title": "",
+    "noticeDate": "28 aprile 2021",
+    "campi": {
+      "data pubblicazione": "28 aprile 2021",
+      "marca": "BONGIOVANNI SRL",
+      "denominazione": "SEMI DI SESAMO NERO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BONGIOVANNI SRL",
+    "product": "SEMI DI SESAMO NERO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BONGIOVANNI SRL - SEMI DI SESAMO NERO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_sesamo_1761186650.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-sesamo-nero",
+    "published": "2021-04-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/15468-spiedini-di-mazzancolle/",
+    "title": "",
+    "noticeDate": "24 aprile 2021",
+    "campi": {
+      "data pubblicazione": "24 aprile 2021",
+      "marca": "BOFROST MARECUADOR",
+      "denominazione": "15468 SPIEDINI DI MAZZANCOLLE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "BOFROST MARECUADOR",
+    "product": "15468 SPIEDINI DI MAZZANCOLLE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BOFROST MARECUADOR - 15468 SPIEDINI DI MAZZANCOLLE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20bofrost_1761186648.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "15468-spiedini-di-mazzancolle",
+    "published": "2021-04-24",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/herbaclean-barinutrics-nutritotal-vanille-24hr-detox-day-night-brand/",
     "title": "HerbaClean, BariNutrics NutriTotal Vanille, 24hr Detox day-night brand: Body&Fit",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-di-sicurezza-ossido-di-etilene-psyllium/",
@@ -784,6 +940,370 @@
     "id": "herbaclean-barinutrics-nutritotal-vanille-24hr-detox-day-night-brand",
     "published": "2021-04-22",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/estratto-arancia-bionda-500ml-smile/",
+    "title": "",
+    "noticeDate": "21 aprile 2021",
+    "campi": {
+      "data pubblicazione": "21 aprile 2021",
+      "marca": "INSAL'ARTE - OrtoRomi",
+      "denominazione": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "INSAL'ARTE - OrtoRomi",
+    "product": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo INSAL'ARTE - OrtoRomi - ESTRATTO ARANCIA BIONDA 500ml Smile",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_474710_Richamo586109306_1761186115.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "estratto-arancia-bionda-500ml-smile",
+    "published": "2021-04-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/estratto-arancia-bionda-500ml-smile-0/",
+    "title": "",
+    "noticeDate": "21 aprile 2021",
+    "campi": {
+      "data pubblicazione": "21 aprile 2021",
+      "marca": "INSAL'ARTE - OrtoRomi",
+      "denominazione": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "INSAL'ARTE - OrtoRomi",
+    "product": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo INSAL'ARTE - OrtoRomi - ESTRATTO ARANCIA BIONDA 500ml Smile",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_474710_Richiamo586109718_1761186118.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "estratto-arancia-bionda-500ml-smile-0",
+    "published": "2021-04-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/estratto-arancia-bionda-500ml-smile-1/",
+    "title": "",
+    "noticeDate": "21 aprile 2021",
+    "campi": {
+      "data pubblicazione": "21 aprile 2021",
+      "marca": "INSAL'ARTE - OrtoRomi",
+      "denominazione": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "INSAL'ARTE - OrtoRomi",
+    "product": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo INSAL'ARTE - OrtoRomi - ESTRATTO ARANCIA BIONDA 500ml Smile",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_474710Richiamo586110207_1761186122.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "estratto-arancia-bionda-500ml-smile-1",
+    "published": "2021-04-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/estratto-arancia-bionda-500ml-smile-2/",
+    "title": "",
+    "noticeDate": "21 aprile 2021",
+    "campi": {
+      "data pubblicazione": "21 aprile 2021",
+      "marca": "INSAL'ARTE - OrtoRomi",
+      "denominazione": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "INSAL'ARTE - OrtoRomi",
+    "product": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo INSAL'ARTE - OrtoRomi - ESTRATTO ARANCIA BIONDA 500ml Smile",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_474710_Richiamo_586110009_1761186126.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "estratto-arancia-bionda-500ml-smile-2",
+    "published": "2021-04-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/estratto-arancia-bionda-500ml-smile-3/",
+    "title": "",
+    "noticeDate": "21 aprile 2021",
+    "campi": {
+      "data pubblicazione": "21 aprile 2021",
+      "marca": "INSAL'ARTE - OrtoRomi",
+      "denominazione": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "INSAL'ARTE - OrtoRomi",
+    "product": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo INSAL'ARTE - OrtoRomi - ESTRATTO ARANCIA BIONDA 500ml Smile",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_474617_Richamo586109306_1761186129.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "estratto-arancia-bionda-500ml-smile-3",
+    "published": "2021-04-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/estratto-arancia-bionda-500ml-smile-4/",
+    "title": "",
+    "noticeDate": "21 aprile 2021",
+    "campi": {
+      "data pubblicazione": "21 aprile 2021",
+      "marca": "INSAL'ARTE - OrtoRomi",
+      "denominazione": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "INSAL'ARTE - OrtoRomi",
+    "product": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo INSAL'ARTE - OrtoRomi - ESTRATTO ARANCIA BIONDA 500ml Smile",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_474617_Richiamo586109718_1761186133.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "estratto-arancia-bionda-500ml-smile-4",
+    "published": "2021-04-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/estratto-arancia-bionda-500ml-smile-5/",
+    "title": "",
+    "noticeDate": "21 aprile 2021",
+    "campi": {
+      "data pubblicazione": "21 aprile 2021",
+      "marca": "INSAL'ARTE - OrtoRomi",
+      "denominazione": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "INSAL'ARTE - OrtoRomi",
+    "product": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo INSAL'ARTE - OrtoRomi - ESTRATTO ARANCIA BIONDA 500ml Smile",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_474617_Richiamo586110207_1761186137.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "estratto-arancia-bionda-500ml-smile-5",
+    "published": "2021-04-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/estratto-arancia-bionda-500ml-smile-6/",
+    "title": "",
+    "noticeDate": "21 aprile 2021",
+    "campi": {
+      "data pubblicazione": "21 aprile 2021",
+      "marca": "INSAL'ARTE - OrtoRomi",
+      "denominazione": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "INSAL'ARTE - OrtoRomi",
+    "product": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo INSAL'ARTE - OrtoRomi - ESTRATTO ARANCIA BIONDA 500ml Smile",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_474617_Richiamo586110009_1761186140.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "estratto-arancia-bionda-500ml-smile-6",
+    "published": "2021-04-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/estratto-arancia-bionda-500ml-smile-7/",
+    "title": "",
+    "noticeDate": "21 aprile 2021",
+    "campi": {
+      "data pubblicazione": "21 aprile 2021",
+      "marca": "INSAL'ARTE - OrtoRomi",
+      "denominazione": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "INSAL'ARTE - OrtoRomi",
+    "product": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo INSAL'ARTE - OrtoRomi - ESTRATTO ARANCIA BIONDA 500ml Smile",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_474617_Richiamo586110403_1761186144.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "estratto-arancia-bionda-500ml-smile-7",
+    "published": "2021-04-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/estratto-arancia-bionda-500ml-smile-8/",
+    "title": "",
+    "noticeDate": "21 aprile 2021",
+    "campi": {
+      "data pubblicazione": "21 aprile 2021",
+      "marca": "INSAL'ARTE - OrtoRomi",
+      "denominazione": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "INSAL'ARTE - OrtoRomi",
+    "product": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo INSAL'ARTE - OrtoRomi - ESTRATTO ARANCIA BIONDA 500ml Smile",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_474617_Richiamo586109803_1761186148.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "estratto-arancia-bionda-500ml-smile-8",
+    "published": "2021-04-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/estratto-arancia-bionda-500ml-smile-9/",
+    "title": "",
+    "noticeDate": "21 aprile 2021",
+    "campi": {
+      "data pubblicazione": "21 aprile 2021",
+      "marca": "INSAL'ARTE - OrtoRomi",
+      "denominazione": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "INSAL'ARTE - OrtoRomi",
+    "product": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo INSAL'ARTE - OrtoRomi - ESTRATTO ARANCIA BIONDA 500ml Smile",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_474617_Richiamo586110707_1761186152.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "estratto-arancia-bionda-500ml-smile-9",
+    "published": "2021-04-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/estratto-arancia-bionda-500ml-smile-10/",
+    "title": "",
+    "noticeDate": "21 aprile 2021",
+    "campi": {
+      "data pubblicazione": "21 aprile 2021",
+      "marca": "INSAL'ARTE - OrtoRomi",
+      "denominazione": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "INSAL'ARTE - OrtoRomi",
+    "product": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo INSAL'ARTE - OrtoRomi - ESTRATTO ARANCIA BIONDA 500ml Smile",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_474617_Richiamo586110906_1761186156.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "estratto-arancia-bionda-500ml-smile-10",
+    "published": "2021-04-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/estratto-arancia-bionda-500ml-smile-11/",
+    "title": "",
+    "noticeDate": "21 aprile 2021",
+    "campi": {
+      "data pubblicazione": "21 aprile 2021",
+      "marca": "INSAL'ARTE - OrtoRomi",
+      "denominazione": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "INSAL'ARTE - OrtoRomi",
+    "product": "ESTRATTO ARANCIA BIONDA 500ml Smile",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo INSAL'ARTE - OrtoRomi - ESTRATTO ARANCIA BIONDA 500ml Smile",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_474617_Richiamo586110508_1761186160.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "estratto-arancia-bionda-500ml-smile-11",
+    "published": "2021-04-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farro-150-g-x-3-i-cotti-al-vapore/",
+    "title": "",
+    "noticeDate": "19 aprile 2021",
+    "campi": {
+      "data pubblicazione": "19 aprile 2021",
+      "marca": "CONAD sc",
+      "denominazione": "FARRO 150 g x 3 I Cotti al vapore",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "CONAD sc",
+    "product": "FARRO 150 g x 3 I Cotti al vapore",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONAD sc - FARRO 150 g x 3 I Cotti al vapore",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20Farro%20Conad_1761186111.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "farro-150-g-x-3-i-cotti-al-vapore",
+    "published": "2021-04-19",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pizzicata-conserva-fermentata-spalmabile-di-pesce-stagionato/",
