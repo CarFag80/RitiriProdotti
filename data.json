@@ -907,6 +907,162 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bacche-di-goji/",
+    "title": "",
+    "noticeDate": "11 marzo 2020",
+    "campi": {
+      "data pubblicazione": "11 marzo 2020",
+      "marca": "BACCHE DI GOJI",
+      "denominazione": "BACCHE DI GOJI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BACCHE DI GOJI",
+    "product": "BACCHE DI GOJI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BACCHE DI GOJI - BACCHE DI GOJI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/buste_100_gr_1761181247.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bacche-di-goji",
+    "published": "2020-03-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bacche-di-goji-0/",
+    "title": "",
+    "noticeDate": "11 marzo 2020",
+    "campi": {
+      "data pubblicazione": "11 marzo 2020",
+      "marca": "BACCHE DI GOJI",
+      "denominazione": "BACCHE DI GOJI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BACCHE DI GOJI",
+    "product": "BACCHE DI GOJI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BACCHE DI GOJI - BACCHE DI GOJI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/buste_500_gr_1761181249.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bacche-di-goji-0",
+    "published": "2020-03-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bacche-di-goji-1/",
+    "title": "",
+    "noticeDate": "11 marzo 2020",
+    "campi": {
+      "data pubblicazione": "11 marzo 2020",
+      "marca": "BACCHE DI GOJI",
+      "denominazione": "BACCHE DI GOJI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BACCHE DI GOJI",
+    "product": "BACCHE DI GOJI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BACCHE DI GOJI - BACCHE DI GOJI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/buste_100_gr_1761181251.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bacche-di-goji-1",
+    "published": "2020-03-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taleggio-dop-latte-crudo-incarto-verde/",
+    "title": "",
+    "noticeDate": "10 marzo 2020",
+    "campi": {
+      "data pubblicazione": "10 marzo 2020",
+      "marca": "LUIGI GUFFANTI 1876",
+      "denominazione": "TALEGGIO DOP A LATTE CRUDO INCARTO VERDE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LUIGI GUFFANTI 1876",
+    "product": "TALEGGIO DOP A LATTE CRUDO INCARTO VERDE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LUIGI GUFFANTI 1876 - TALEGGIO DOP A LATTE CRUDO INCARTO VERDE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%2043_2020_1761181245.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "taleggio-dop-latte-crudo-incarto-verde",
+    "published": "2020-03-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pomodoro-datterino-salsa-pronta/",
+    "title": "",
+    "noticeDate": "5 marzo 2020",
+    "campi": {
+      "data pubblicazione": "5 marzo 2020",
+      "marca": "IPERMONTEBELLO SpA",
+      "denominazione": "POMODORO DATTERINO - SALSA PRONTA",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "IPERMONTEBELLO SpA",
+    "product": "POMODORO DATTERINO - SALSA PRONTA",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IPERMONTEBELLO SpA - POMODORO DATTERINO - SALSA PRONTA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20pdf_1761181243.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pomodoro-datterino-salsa-pronta",
+    "published": "2020-03-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confettura-extra-amarena-conad-320-g/",
+    "title": "",
+    "noticeDate": "28 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "28 febbraio 2020",
+      "marca": "CONAD S.C.",
+      "denominazione": "CONFETTURA EXTRA AMARENA CONAD 320 g",
+      "motivo della segnalazione": "Revoca per analisi di revisione favorevole"
+    },
+    "brand": "CONAD S.C.",
+    "product": "CONFETTURA EXTRA AMARENA CONAD 320 g",
+    "reasonShort": "Revoca per analisi di revisione favorevole",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONAD S.C. - CONFETTURA EXTRA AMARENA CONAD 320 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20revoca%20richiamo%20confettura%20per%20pubblicazione%20__1761181241.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "confettura-extra-amarena-conad-320-g",
+    "published": "2020-02-28",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/ravioli-al-vapore-gamberi-precotti-ta-tung-250-grammi/",
     "title": "Ravioli al vapore gamberi precotti Ta – Tung 250 grammi",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/sicurezza-alimentare-ravioli-al-vapore-gamberi-precotti-ta-tung-250-grammi/",
@@ -935,6 +1091,110 @@
     "id": "ravioli-al-vapore-gamberi-precotti-ta-tung-250-grammi",
     "published": "2020-02-27",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-contadino-ca/",
+    "title": "",
+    "noticeDate": "27 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "27 febbraio 2020",
+      "marca": "LA SALUMERIA DI EUSTACHIO",
+      "denominazione": "SALAME CONTADINO C/A",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LA SALUMERIA DI EUSTACHIO",
+    "product": "SALAME CONTADINO C/A",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA SALUMERIA DI EUSTACHIO - SALAME CONTADINO C/A",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salame%20eustacchio%20_1__1761181239.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-contadino-ca",
+    "published": "2020-02-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/capsule-compatibili-dolce-gusto-vedi-cartello-di-richiamo-1/",
+    "title": "",
+    "noticeDate": "26 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "26 febbraio 2020",
+      "marca": "Conad",
+      "denominazione": "Capsule compatibili Dolce Gusto: vedi cartello di richiamo",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Conad",
+    "product": "Capsule compatibili Dolce Gusto: vedi cartello di richiamo",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Conad - Capsule compatibili Dolce Gusto: vedi cartello di richiamo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Coind_Conad_20022020_1761181233.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "capsule-compatibili-dolce-gusto-vedi-cartello-di-richiamo-1",
+    "published": "2020-02-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/capsule-compatibili-dolce-gusto-vedi-cartello-di-richiamo-2/",
+    "title": "",
+    "noticeDate": "26 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "26 febbraio 2020",
+      "marca": "Meseta",
+      "denominazione": "Capsule compatibili Dolce Gusto: vedi cartello di richiamo",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Meseta",
+    "product": "Capsule compatibili Dolce Gusto: vedi cartello di richiamo",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Meseta - Capsule compatibili Dolce Gusto: vedi cartello di richiamo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Coind_Meseta_20022020_1761181235.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "capsule-compatibili-dolce-gusto-vedi-cartello-di-richiamo-2",
+    "published": "2020-02-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/capsule-compatibili-dolce-gusto-vedi-cartello-di-richiamo-3/",
+    "title": "",
+    "noticeDate": "26 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "26 febbraio 2020",
+      "marca": "Caffè Leoni",
+      "denominazione": "Capsule compatibili Dolce Gusto: vedi cartello di richiamo",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Caffè Leoni",
+    "product": "Capsule compatibili Dolce Gusto: vedi cartello di richiamo",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caffè Leoni - Capsule compatibili Dolce Gusto: vedi cartello di richiamo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Coind_Leoni_20022020_1761181237.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "capsule-compatibili-dolce-gusto-vedi-cartello-di-richiamo-3",
+    "published": "2020-02-26",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/nuby-lunch-set-mais-e-bamboo-con-elefantino-nuby/",
@@ -966,6 +1226,214 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelato-alla-mandorla-davola-fior-fiore/",
+    "title": "",
+    "noticeDate": "24 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "24 febbraio 2020",
+      "marca": "Fior Fiore COOP",
+      "denominazione": "Gelato alla mandorla d'Avola Fior Fiore",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Fior Fiore COOP",
+    "product": "Gelato alla mandorla d'Avola Fior Fiore",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fior Fiore COOP - Gelato alla mandorla d'Avola Fior Fiore",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/L1250529_1761181226.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gelato-alla-mandorla-davola-fior-fiore",
+    "published": "2020-02-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelato-alla-mandorla-davola-fior-fiore-0/",
+    "title": "",
+    "noticeDate": "24 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "24 febbraio 2020",
+      "marca": "Fior Fiore COOP",
+      "denominazione": "Gelato alla mandorla d'Avola Fior Fiore",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Fior Fiore COOP",
+    "product": "Gelato alla mandorla d'Avola Fior Fiore",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fior Fiore COOP - Gelato alla mandorla d'Avola Fior Fiore",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/L4060929_1761181227.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gelato-alla-mandorla-davola-fior-fiore-0",
+    "published": "2020-02-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelato-alla-mandorla-davola-fior-fiore-1/",
+    "title": "",
+    "noticeDate": "24 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "24 febbraio 2020",
+      "marca": "Fior Fiore COOP",
+      "denominazione": "Gelato alla mandorla d'Avola Fior Fiore",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Fior Fiore COOP",
+    "product": "Gelato alla mandorla d'Avola Fior Fiore",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fior Fiore COOP - Gelato alla mandorla d'Avola Fior Fiore",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/L6110629_1761181229.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gelato-alla-mandorla-davola-fior-fiore-1",
+    "published": "2020-02-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelato-alla-mandorla-davola-fior-fiore-2/",
+    "title": "",
+    "noticeDate": "24 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "24 febbraio 2020",
+      "marca": "Fior Fiore COOP",
+      "denominazione": "Gelato alla mandorla d'Avola Fior Fiore",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Fior Fiore COOP",
+    "product": "Gelato alla mandorla d'Avola Fior Fiore",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fior Fiore COOP - Gelato alla mandorla d'Avola Fior Fiore",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/L6270629_1761181231.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gelato-alla-mandorla-davola-fior-fiore-2",
+    "published": "2020-02-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-cat-da-agricoltura-biologica-vario-calibro/",
+    "title": "",
+    "noticeDate": "21 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "21 febbraio 2020",
+      "marca": "AMADORI - UOVA DA AGRICOLTURA BIOLOGICA",
+      "denominazione": "UOVA FRESCHE CAT. A DA AGRICOLTURA BIOLOGICA - VARIO CALIBRO",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "AMADORI - UOVA DA AGRICOLTURA BIOLOGICA",
+    "product": "UOVA FRESCHE CAT. A DA AGRICOLTURA BIOLOGICA - VARIO CALIBRO",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AMADORI - UOVA DA AGRICOLTURA BIOLOGICA - UOVA FRESCHE CAT. A DA AGRICOLTURA BIOLOGICA - VARIO CALIBRO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_UOVA%20BIO_Marchio%20AMADORI_1761181220.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-fresche-cat-da-agricoltura-biologica-vario-calibro",
+    "published": "2020-02-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-cat-biologiche-vario-calibro/",
+    "title": "",
+    "noticeDate": "21 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "21 febbraio 2020",
+      "marca": "CONAD - VERSO NATURA - UOVA BIOLOGICHE",
+      "denominazione": "UOVA FRESCHE CAT. A BIOLOGICHE - VARIO CALIBRO",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "CONAD - VERSO NATURA - UOVA BIOLOGICHE",
+    "product": "UOVA FRESCHE CAT. A BIOLOGICHE - VARIO CALIBRO",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONAD - VERSO NATURA - UOVA BIOLOGICHE - UOVA FRESCHE CAT. A BIOLOGICHE - VARIO CALIBRO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_UOVA%20BIO_Marchio%20CONAD_1761181222.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-fresche-cat-biologiche-vario-calibro",
+    "published": "2020-02-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-cat-biologiche-vario-calibro-0/",
+    "title": "",
+    "noticeDate": "21 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "21 febbraio 2020",
+      "marca": "CASCINA ITALIA - UOVA BIOLOGICHE",
+      "denominazione": "UOVA FRESCHE CAT. A BIOLOGICHE - VARIO CALIBRO",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "CASCINA ITALIA - UOVA BIOLOGICHE",
+    "product": "UOVA FRESCHE CAT. A BIOLOGICHE - VARIO CALIBRO",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASCINA ITALIA - UOVA BIOLOGICHE - UOVA FRESCHE CAT. A BIOLOGICHE - VARIO CALIBRO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_UOVA%20BIO_Marchio%20CASCINA%20ITALIA_1761181224.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-fresche-cat-biologiche-vario-calibro-0",
+    "published": "2020-02-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilacci-di-equino-100-g-busta-atp/",
+    "title": "",
+    "noticeDate": "20 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "20 febbraio 2020",
+      "marca": "MASINA DAL 1929 LA SALUMERIA",
+      "denominazione": "SFILACCI DI EQUINO 100 g IN BUSTA ATP",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "MASINA DAL 1929 LA SALUMERIA",
+    "product": "SFILACCI DI EQUINO 100 g IN BUSTA ATP",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MASINA DAL 1929 LA SALUMERIA - SFILACCI DI EQUINO 100 g IN BUSTA ATP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_REVOCA%20richiamo%20sfilacci%20Naba%20Carni_1761181218.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sfilacci-di-equino-100-g-busta-atp",
+    "published": "2020-02-20",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bastoncini-con-crusca-di-frumento-gr375/",
     "title": "",
     "noticeDate": "19 febbraio 2020",
@@ -988,6 +1456,58 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "bastoncini-con-crusca-di-frumento-gr375",
+    "published": "2020-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-cacao-125g-0/",
+    "title": "",
+    "noticeDate": "19 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2020",
+      "marca": "CASCINA FONTANACERVO",
+      "denominazione": "CREMA CACAO 125g",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "CASCINA FONTANACERVO",
+    "product": "CREMA CACAO 125g",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASCINA FONTANACERVO - CREMA CACAO 125g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RITIRO%20CREMA%20CACAO%20CASCINA%20FONTANACERVO_1_1761181215.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crema-cacao-125g-0",
+    "published": "2020-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tortelloni-prosciutto-crudo-1kg/",
+    "title": "",
+    "noticeDate": "19 febbraio 2020",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2020",
+      "marca": "Fior di Pasta",
+      "denominazione": "Tortelloni prosciutto crudo - 1kg",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "Fior di Pasta",
+    "product": "Tortelloni prosciutto crudo - 1kg",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fior di Pasta - Tortelloni prosciutto crudo - 1kg",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20fior%20di%20pasta_1761181217.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tortelloni-prosciutto-crudo-1kg",
     "published": "2020-02-19",
     "source": "operator"
   },
