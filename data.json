@@ -813,6 +813,526 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-semi-120-g/",
+    "title": "",
+    "noticeDate": "19 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2021",
+      "marca": "DROGHERIA E ALIMENTARI",
+      "denominazione": "SESAMO SEMI 120 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DROGHERIA E ALIMENTARI",
+    "product": "SESAMO SEMI 120 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DROGHERIA E ALIMENTARI - SESAMO SEMI 120 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLORICHIAMOVGMP050L06010USCAD.31_01_2023_1761185293.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sesamo-semi-120-g",
+    "published": "2021-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-semi-45-g/",
+    "title": "",
+    "noticeDate": "19 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2021",
+      "marca": "LA DROGHERIA 1880",
+      "denominazione": "SESAMO SEMI 45 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LA DROGHERIA 1880",
+    "product": "SESAMO SEMI 45 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA DROGHERIA 1880 - SESAMO SEMI 45 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLORICHIAMOQVVV870L14158USCAD.30_06_2023_1761185298.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sesamo-semi-45-g",
+    "published": "2021-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-1000-g/",
+    "title": "",
+    "noticeDate": "19 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2021",
+      "marca": "DROGHERIA E ALIMENTARI",
+      "denominazione": "SESAMO 1000 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DROGHERIA E ALIMENTARI",
+    "product": "SESAMO 1000 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DROGHERIA E ALIMENTARI - SESAMO 1000 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLORICHIAMOMTSA130L11262USCAD.30_09_2023_1761185302.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sesamo-1000-g",
+    "published": "2021-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-1000-g-0/",
+    "title": "",
+    "noticeDate": "19 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2021",
+      "marca": "METRO CHEF",
+      "denominazione": "SESAMO 1000 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "METRO CHEF",
+    "product": "SESAMO 1000 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo METRO CHEF - SESAMO 1000 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLORICHIAMOFPCE850L11056USCAD.28_02_2023_1761185307.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sesamo-1000-g-0",
+    "published": "2021-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-semi-120-g-0/",
+    "title": "",
+    "noticeDate": "19 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2021",
+      "marca": "DESPAR",
+      "denominazione": "SESAMO SEMI 120 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DESPAR",
+    "product": "SESAMO SEMI 120 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DESPAR - SESAMO SEMI 120 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLORICHIAMOMTSA130L11056USCAD.28_02_2023_1761185311.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sesamo-semi-120-g-0",
+    "published": "2021-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-semi-45-g-0/",
+    "title": "",
+    "noticeDate": "19 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2021",
+      "marca": "LA DROGHERIA 1880",
+      "denominazione": "SESAMO SEMI 45 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LA DROGHERIA 1880",
+    "product": "SESAMO SEMI 45 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA DROGHERIA 1880 - SESAMO SEMI 45 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLORICHIAMOQVVV870L14013USCAD.31_01_2023_1761185316.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sesamo-semi-45-g-0",
+    "published": "2021-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-semi-55-g/",
+    "title": "",
+    "noticeDate": "19 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2021",
+      "marca": "CRAI",
+      "denominazione": "SESAMO SEMI 55 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CRAI",
+    "product": "SESAMO SEMI 55 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CRAI - SESAMO SEMI 55 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLORICHIAMOCCVV350L07277USCAD.31_10_2023_1761185321.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sesamo-semi-55-g",
+    "published": "2021-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-semi-essiccato-500-g/",
+    "title": "",
+    "noticeDate": "19 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2021",
+      "marca": "DROGHERIA E ALIMENTARI - LA FESTA DEI SAPORI",
+      "denominazione": "SESAMO SEMI ESSICCATO 500 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DROGHERIA E ALIMENTARI - LA FESTA DEI SAPORI",
+    "product": "SESAMO SEMI ESSICCATO 500 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DROGHERIA E ALIMENTARI - LA FESTA DEI SAPORI - SESAMO SEMI ESSICCATO 500 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLORICHIAMOFPCE850L11262USCAD.30_09_2023_1761185326.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sesamo-semi-essiccato-500-g",
+    "published": "2021-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-semi-essiccato-500-g-0/",
+    "title": "",
+    "noticeDate": "19 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2021",
+      "marca": "DROGHERIA E ALIMENTARI - LA FESTA DEI SAPORI",
+      "denominazione": "SESAMO SEMI ESSICCATO 500 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DROGHERIA E ALIMENTARI - LA FESTA DEI SAPORI",
+    "product": "SESAMO SEMI ESSICCATO 500 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DROGHERIA E ALIMENTARI - LA FESTA DEI SAPORI - SESAMO SEMI ESSICCATO 500 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLORICHIAMOFPCE850L11056USCAD.28_02_2023_1761185331.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sesamo-semi-essiccato-500-g-0",
+    "published": "2021-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfornatini-al-sesamo/",
+    "title": "",
+    "noticeDate": "18 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "18 febbraio 2021",
+      "marca": "LA MOLE",
+      "denominazione": "SFORNATINI AL SESAMO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LA MOLE",
+    "product": "SFORNATINI AL SESAMO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA MOLE - SFORNATINI AL SESAMO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20L201009_1761185266.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sfornatini-al-sesamo",
+    "published": "2021-02-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfornatini-sesamo/",
+    "title": "",
+    "noticeDate": "18 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "18 febbraio 2021",
+      "marca": "LA MOLE",
+      "denominazione": "SFORNATINI SESAMO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LA MOLE",
+    "product": "SFORNATINI SESAMO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA MOLE - SFORNATINI SESAMO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20L201020_1761185270.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sfornatini-sesamo",
+    "published": "2021-02-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfornatini-sesamo-lino-e-papavero/",
+    "title": "",
+    "noticeDate": "18 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "18 febbraio 2021",
+      "marca": "LA MOLE",
+      "denominazione": "SFORNATINI SESAMO, LINO E PAPAVERO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LA MOLE",
+    "product": "SFORNATINI SESAMO, LINO E PAPAVERO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA MOLE - SFORNATINI SESAMO, LINO E PAPAVERO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20L201021_1761185273.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sfornatini-sesamo-lino-e-papavero",
+    "published": "2021-02-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfornatini-al-sesamo-lino-papavero/",
+    "title": "",
+    "noticeDate": "18 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "18 febbraio 2021",
+      "marca": "LA MOLE",
+      "denominazione": "SFORNATINI AL SESAMO, LINO, PAPAVERO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LA MOLE",
+    "product": "SFORNATINI AL SESAMO, LINO, PAPAVERO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA MOLE - SFORNATINI AL SESAMO, LINO, PAPAVERO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20L200930_1761185277.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sfornatini-al-sesamo-lino-papavero",
+    "published": "2021-02-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panrustici-sesamo/",
+    "title": "",
+    "noticeDate": "18 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "18 febbraio 2021",
+      "marca": "LA MOLE",
+      "denominazione": "PANRUSTICI SESAMO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LA MOLE",
+    "product": "PANRUSTICI SESAMO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA MOLE - PANRUSTICI SESAMO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_DIS_SRL_1761185281.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "panrustici-sesamo",
+    "published": "2021-02-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panrustici-sesamo-0/",
+    "title": "",
+    "noticeDate": "18 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "18 febbraio 2021",
+      "marca": "LA MOLE",
+      "denominazione": "PANRUSTICI SESAMO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LA MOLE",
+    "product": "PANRUSTICI SESAMO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA MOLE - PANRUSTICI SESAMO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_FAMOR_1761185285.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "panrustici-sesamo-0",
+    "published": "2021-02-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-bianco-origine-india/",
+    "title": "",
+    "noticeDate": "18 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "18 febbraio 2021",
+      "marca": "GE.CA. LEGUMI SPA",
+      "denominazione": "SESAMO BIANCO ORIGINE INDIA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "GE.CA. LEGUMI SPA",
+    "product": "SESAMO BIANCO ORIGINE INDIA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GE.CA. LEGUMI SPA - SESAMO BIANCO ORIGINE INDIA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20lotto%201475_1761185289.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sesamo-bianco-origine-india",
+    "published": "2021-02-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-alici-olio-confezioni-da-200-gr/",
+    "title": "",
+    "noticeDate": "17 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "17 febbraio 2021",
+      "marca": "LE DELIZIE ITALIANE SRL",
+      "denominazione": "FILETTI DI ALICI IN OLIO IN CONFEZIONI DA 200 GR.",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LE DELIZIE ITALIANE SRL",
+    "product": "FILETTI DI ALICI IN OLIO IN CONFEZIONI DA 200 GR.",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LE DELIZIE ITALIANE SRL - FILETTI DI ALICI IN OLIO IN CONFEZIONI DA 200 GR.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20prodotto_4__1761185262.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "filetti-di-alici-olio-confezioni-da-200-gr",
+    "published": "2021-02-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-oligominerale-naturale-sorgesana/",
+    "title": "",
+    "noticeDate": "16 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "16 febbraio 2021",
+      "marca": "Società Generale delle Acque Minerali s.p.a.",
+      "denominazione": "Acqua oligominerale naturale Sorgesana",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "Società Generale delle Acque Minerali s.p.a.",
+    "product": "Acqua oligominerale naturale Sorgesana",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Società Generale delle Acque Minerali s.p.a. - Acqua oligominerale naturale Sorgesana",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_revoca_richiamo_1761185252.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "acqua-oligominerale-naturale-sorgesana",
+    "published": "2021-02-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilatini-al-sesamo/",
+    "title": "",
+    "noticeDate": "16 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "16 febbraio 2021",
+      "marca": "Sapori & Piaceri Sfilatini al sesamo",
+      "denominazione": "Sfilatini al sesamo",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Sapori & Piaceri Sfilatini al sesamo",
+    "product": "Sfilatini al sesamo",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sapori & Piaceri Sfilatini al sesamo - Sfilatini al sesamo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/fUP_466336_Cartello%20richiamo%20S_P%20Sfilatini%20al%20sesamo%20_1__1761185255.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sfilatini-al-sesamo",
+    "published": "2021-02-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilatini-al-sesamo-lino-e-papavero/",
+    "title": "",
+    "noticeDate": "16 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "16 febbraio 2021",
+      "marca": "Sapori & Piaceri Sfilatini al sesamo, lino, papavero",
+      "denominazione": "Sfilatini al sesamo, lino e papavero",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Sapori & Piaceri Sfilatini al sesamo, lino, papavero",
+    "product": "Sfilatini al sesamo, lino e papavero",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sapori & Piaceri Sfilatini al sesamo, lino, papavero - Sfilatini al sesamo, lino e papavero",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_466336_Cartello%20richiamo%20S_P%20Sfilatini%20al%20sesamo%2C%20lino%2C%20papavero_1761185258.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sfilatini-al-sesamo-lino-e-papavero",
+    "published": "2021-02-16",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesce-spada-affumicato-trancio/",
     "title": "",
     "noticeDate": "15 febbraio 2021",
