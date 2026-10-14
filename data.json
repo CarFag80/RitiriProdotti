@@ -2002,6 +2002,500 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostata-con-confettura-28-di-ciliegie/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "LAGO",
+      "denominazione": "CROSTATA CON CONFETTURA (28%) DI CILIEGIE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LAGO",
+    "product": "CROSTATA CON CONFETTURA (28%) DI CILIEGIE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LAGO - CROSTATA CON CONFETTURA (28%) DI CILIEGIE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_488347_21.06.30.LagoGroup_CartelloRichiamoMinisteriale%20_2__1761186732.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostata-con-confettura-28-di-ciliegie",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Budget",
+      "denominazione": "Burro",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Budget",
+    "product": "Burro",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Budget - Burro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Budget_1761186734.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-0/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Bur-Bon",
+      "denominazione": "Burro",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Bur-Bon",
+    "product": "Burro",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bur-Bon - Burro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Bur_Bon_1761186737.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro-0",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-1/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Burro generico",
+      "denominazione": "Burro",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Burro generico",
+    "product": "Burro",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Burro generico - Burro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Burro%20generico_1761186740.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro-1",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-2/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Cattel",
+      "denominazione": "Burro",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Cattel",
+    "product": "Burro",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cattel - Burro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Cattel_1761186743.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro-2",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-3/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Granarolo",
+      "denominazione": "Burro",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Granarolo",
+    "product": "Burro",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Granarolo - Burro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Granarolo_1761186746.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro-3",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-4/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Latteria",
+      "denominazione": "Burro",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Latteria",
+    "product": "Burro",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Latteria - Burro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Latteria_1761186748.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro-4",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-5/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Nonna Tita",
+      "denominazione": "Burro",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Nonna Tita",
+    "product": "Burro",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nonna Tita - Burro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Nonna%20Tita_1761186751.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro-5",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-6/",
+    "title": "",
+    "noticeDate": "19 luglio 2021",
+    "campi": {
+      "data pubblicazione": "19 luglio 2021",
+      "marca": "Valis",
+      "denominazione": "Burro",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Valis",
+    "product": "Burro",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Valis - Burro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Valis_1761186754.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burro-6",
+    "published": "2021-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/code-di-gambero-indopacifico-sgusciato-congelato-individualmente/",
+    "title": "",
+    "noticeDate": "16 luglio 2021",
+    "campi": {
+      "data pubblicazione": "16 luglio 2021",
+      "marca": "IMPORTATO DA DI BATTISTA FOOD S.R.L. - VIA COLLE DELLA FONTE 45 66030 FRISA (CH)",
+      "denominazione": "CODE DI GAMBERO INDOPACIFICO SGUSCIATO CONGELATO INDIVIDUALMENTE (Metapenaeus Affinis)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "IMPORTATO DA DI BATTISTA FOOD S.R.L. - VIA COLLE DELLA FONTE 45 66030 FRISA (CH)",
+    "product": "CODE DI GAMBERO INDOPACIFICO SGUSCIATO CONGELATO INDIVIDUALMENTE (Metapenaeus Affinis)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IMPORTATO DA DI BATTISTA FOOD S.R.L. - VIA COLLE DELLA FONTE 45 66030 FRISA (CH) - CODE DI GAMBERO INDOPACIFICO SGUSCIATO CONGELATO INDIVIDUALMENTE (Metapenaeus Affinis)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20CODE%20DI%20GAMBERO_1761186726.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "code-di-gambero-indopacifico-sgusciato-congelato-individualmente",
+    "published": "2021-07-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-prod-biologico-conf-180g/",
+    "title": "",
+    "noticeDate": "16 luglio 2021",
+    "campi": {
+      "data pubblicazione": "16 luglio 2021",
+      "marca": "SARCHIO SPA",
+      "denominazione": "SEMI DI SESAMO prod. biologico conf. 180g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SARCHIO SPA",
+    "product": "SEMI DI SESAMO prod. biologico conf. 180g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SARCHIO SPA - SEMI DI SESAMO prod. biologico conf. 180g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20SEMI%20DI%20SESAMO%20ditta%20Sarchio%20Carpi%20Modena_1761186729.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-sesamo-prod-biologico-conf-180g",
+    "published": "2021-07-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/calamaro-indopacifico-pulito-congelato/",
+    "title": "",
+    "noticeDate": "15 luglio 2021",
+    "campi": {
+      "data pubblicazione": "15 luglio 2021",
+      "marca": "Albatros",
+      "denominazione": "Calamaro indopacifico pulito congelato",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Albatros",
+    "product": "Calamaro indopacifico pulito congelato",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Albatros - Calamaro indopacifico pulito congelato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20calamaro%20indopacifico%20pulito%20congelato%20per%20cadmio_1761186724.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "calamaro-indopacifico-pulito-congelato",
+    "published": "2021-07-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/catanesi-artigianali/",
+    "title": "",
+    "noticeDate": "14 luglio 2021",
+    "campi": {
+      "data pubblicazione": "14 luglio 2021",
+      "marca": "Dolciaria Pelacchi srls",
+      "denominazione": "Catanesi Artigianali",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Dolciaria Pelacchi srls",
+    "product": "Catanesi Artigianali",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Dolciaria Pelacchi srls - Catanesi Artigianali",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamo%20catanesi%20PELACCHI_1761186707.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "catanesi-artigianali",
+    "published": "2021-07-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ricciarelli-artigianali-di-cambiano/",
+    "title": "",
+    "noticeDate": "14 luglio 2021",
+    "campi": {
+      "data pubblicazione": "14 luglio 2021",
+      "marca": "Dolciaria Pelacchi srls",
+      "denominazione": "Ricciarelli Artigianali di Cambiano",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Dolciaria Pelacchi srls",
+    "product": "Ricciarelli Artigianali di Cambiano",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Dolciaria Pelacchi srls - Ricciarelli Artigianali di Cambiano",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamo%20ricciarelli%20artigianali%20PELACCHI_1761186709.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ricciarelli-artigianali-di-cambiano",
+    "published": "2021-07-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mandorlini/",
+    "title": "",
+    "noticeDate": "14 luglio 2021",
+    "campi": {
+      "data pubblicazione": "14 luglio 2021",
+      "marca": "Di Mauro",
+      "denominazione": "Mandorlini",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Di Mauro",
+    "product": "Mandorlini",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Di Mauro - Mandorlini",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamo%20%20mandorlini%20STRANEODOLCIUMI_1761186712.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mandorlini",
+    "published": "2021-07-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ricciarelli-artigianali-di-cambiano-0/",
+    "title": "",
+    "noticeDate": "14 luglio 2021",
+    "campi": {
+      "data pubblicazione": "14 luglio 2021",
+      "marca": "Di Mauro",
+      "denominazione": "Ricciarelli Artigianali di Cambiano",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Di Mauro",
+    "product": "Ricciarelli Artigianali di Cambiano",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Di Mauro - Ricciarelli Artigianali di Cambiano",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamo%20ricciarelli%20artigianali%20STRANEODOLCIUMI_1761186714.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ricciarelli-artigianali-di-cambiano-0",
+    "published": "2021-07-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ricciarelli/",
+    "title": "",
+    "noticeDate": "14 luglio 2021",
+    "campi": {
+      "data pubblicazione": "14 luglio 2021",
+      "marca": "Specialità Buona Tavola",
+      "denominazione": "Ricciarelli",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Specialità Buona Tavola",
+    "product": "Ricciarelli",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Specialità Buona Tavola - Ricciarelli",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamoricciarelli%20SPECIALITABUONATAVOLA_1761186716.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ricciarelli",
+    "published": "2021-07-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/catanesi/",
+    "title": "",
+    "noticeDate": "14 luglio 2021",
+    "campi": {
+      "data pubblicazione": "14 luglio 2021",
+      "marca": "Specialità Buona Tavola",
+      "denominazione": "Catanesi",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Specialità Buona Tavola",
+    "product": "Catanesi",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Specialità Buona Tavola - Catanesi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamo%20catanesi%20SPECIALITABUONATAVOLA_1761186719.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "catanesi",
+    "published": "2021-07-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ricciarelli-0/",
+    "title": "",
+    "noticeDate": "14 luglio 2021",
+    "campi": {
+      "data pubblicazione": "14 luglio 2021",
+      "marca": "Sapori Artigianali",
+      "denominazione": "Ricciarelli",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Sapori Artigianali",
+    "product": "Ricciarelli",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sapori Artigianali - Ricciarelli",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamoricciarelliSAPORIARTIGIANALI_1761186721.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ricciarelli-0",
+    "published": "2021-07-14",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-buon-pascolo-kg-100/",
     "title": "",
     "noticeDate": "13 luglio 2021",
@@ -4683,6 +5177,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "semi-di-sesamo-da-150-gr",
+    "published": "2021-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-naturale-da-500-g/",
+    "title": "",
+    "noticeDate": "19 febbraio 2021",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2021",
+      "marca": "Zorzi dal 1828",
+      "denominazione": "Sesamo Naturale da 500 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Zorzi dal 1828",
+    "product": "Sesamo Naturale da 500 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Zorzi dal 1828 - Sesamo Naturale da 500 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_Richiamo_Prodotto_Lotto873331720_500g_Zorzi_1761185380.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sesamo-naturale-da-500-g",
     "published": "2021-02-19",
     "source": "operator"
   },
