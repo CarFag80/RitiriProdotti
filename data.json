@@ -2137,6 +2137,188 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kebs-kebab-di-pollo350g/",
+    "title": "",
+    "noticeDate": "23 gennaio 2021",
+    "campi": {
+      "data pubblicazione": "23 gennaio 2021",
+      "marca": "AIA",
+      "denominazione": "KEB'S KEBAB DI POLLO350G",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "AIA",
+    "product": "KEB'S KEBAB DI POLLO350G",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AIA - KEB'S KEBAB DI POLLO350G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/AIARevoca%20Richiamo_B4377.foto_1761185178.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "kebs-kebab-di-pollo350g",
+    "published": "2021-01-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuor-di-capra-fiorone-0/",
+    "title": "",
+    "noticeDate": "22 gennaio 2021",
+    "campi": {
+      "data pubblicazione": "22 gennaio 2021",
+      "marca": "CASEIFICIO CATTANEO SRL",
+      "denominazione": "CUOR DI CAPRA - FIORONE",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "CASEIFICIO CATTANEO SRL",
+    "product": "CUOR DI CAPRA - FIORONE",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASEIFICIO CATTANEO SRL - CUOR DI CAPRA - FIORONE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo%202021_01_22_1761185166.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cuor-di-capra-fiorone-0",
+    "published": "2021-01-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caprino-fresco-70-gr/",
+    "title": "",
+    "noticeDate": "22 gennaio 2021",
+    "campi": {
+      "data pubblicazione": "22 gennaio 2021",
+      "marca": "CIRESA SRL",
+      "denominazione": "CAPRINO FRESCO 70 GR",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "CIRESA SRL",
+    "product": "CAPRINO FRESCO 70 GR",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CIRESA SRL - CAPRINO FRESCO 70 GR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_1761185170.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "caprino-fresco-70-gr",
+    "published": "2021-01-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taleggio-dop-cademartori-200g-0/",
+    "title": "",
+    "noticeDate": "22 gennaio 2021",
+    "campi": {
+      "data pubblicazione": "22 gennaio 2021",
+      "marca": "CADEMARTORI",
+      "denominazione": "Taleggio DOP Cademartori 200g",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "CADEMARTORI",
+    "product": "Taleggio DOP Cademartori 200g",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CADEMARTORI - Taleggio DOP Cademartori 200g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_1761185174.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "taleggio-dop-cademartori-200g-0",
+    "published": "2021-01-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trs-sesame-seeds-black/",
+    "title": "",
+    "noticeDate": "21 gennaio 2021",
+    "campi": {
+      "data pubblicazione": "21 gennaio 2021",
+      "marca": "TRS",
+      "denominazione": "TRS SESAME SEEDS BLACK",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "TRS",
+    "product": "TRS SESAME SEEDS BLACK",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TRS - TRS SESAME SEEDS BLACK",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Semi_1761185164.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "trs-sesame-seeds-black",
+    "published": "2021-01-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panciotelli-ai-funghi-surgelati/",
+    "title": "",
+    "noticeDate": "20 gennaio 2021",
+    "campi": {
+      "data pubblicazione": "20 gennaio 2021",
+      "marca": "Cucino Io",
+      "denominazione": "Panciotelli ai funghi surgelati",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Cucino Io",
+    "product": "Panciotelli ai funghi surgelati",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cucino Io - Panciotelli ai funghi surgelati",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo%20Panciottelli%20ai%20funghi_1761185163.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "panciotelli-ai-funghi-surgelati",
+    "published": "2021-01-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-punta-di-coltello/",
+    "title": "",
+    "noticeDate": "18 gennaio 2021",
+    "campi": {
+      "data pubblicazione": "18 gennaio 2021",
+      "marca": "Lovison spa",
+      "denominazione": "Salame a punta di coltello",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Lovison spa",
+    "product": "Salame a punta di coltello",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Lovison spa - Salame a punta di coltello",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20LOVISON_1761185161.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-punta-di-coltello",
+    "published": "2021-01-18",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratore-alimentare-sensimaxx-sc-extraplant-gordi-srl/",
     "title": "Integratore alimentare - SENSIMAXX",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/integratore-alimentare-sensimaxx-forte/",
@@ -2163,6 +2345,318 @@
     "id": "integratore-alimentare-sensimaxx-sc-extraplant-gordi-srl",
     "published": "2021-01-15",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/arachidi-al-wasabi/",
+    "title": "",
+    "noticeDate": "15 gennaio 2021",
+    "campi": {
+      "data pubblicazione": "15 gennaio 2021",
+      "marca": "Taz Group srl",
+      "denominazione": "Arachidi al Wasabi",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Taz Group srl",
+    "product": "Arachidi al Wasabi",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Taz Group srl - Arachidi al Wasabi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Arachidi_Wasabi_1761185152.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "arachidi-al-wasabi",
+    "published": "2021-01-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mini-grissini-semi-e-cereali-bio-200g/",
+    "title": "",
+    "noticeDate": "15 gennaio 2021",
+    "campi": {
+      "data pubblicazione": "15 gennaio 2021",
+      "marca": "Sfizzi Valdadige biologici",
+      "denominazione": "Mini Grissini Semi e Cereali Bio 200g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Sfizzi Valdadige biologici",
+    "product": "Mini Grissini Semi e Cereali Bio 200g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sfizzi Valdadige biologici - Mini Grissini Semi e Cereali Bio 200g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Sfizzi%20Valdadige%20Semi%20e%20Cereali%20bio_1761185154.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mini-grissini-semi-e-cereali-bio-200g",
+    "published": "2021-01-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mini-grissini-semi-e-cereali-il-biologico-100g/",
+    "title": "",
+    "noticeDate": "15 gennaio 2021",
+    "campi": {
+      "data pubblicazione": "15 gennaio 2021",
+      "marca": "Il Viaggiator Goloso",
+      "denominazione": "Mini Grissini Semi e cereali il Biologico 100g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Il Viaggiator Goloso",
+    "product": "Mini Grissini Semi e cereali il Biologico 100g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Il Viaggiator Goloso - Mini Grissini Semi e cereali il Biologico 100g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Viaggiator%20Goloso%20Mini%20Grissini%20Semi%20e%20Cereali%20Bio_1761185156.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mini-grissini-semi-e-cereali-il-biologico-100g",
+    "published": "2021-01-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mini-grissini-semi-e-cereali-200g/",
+    "title": "",
+    "noticeDate": "15 gennaio 2021",
+    "campi": {
+      "data pubblicazione": "15 gennaio 2021",
+      "marca": "Sfornamore",
+      "denominazione": "Mini Grissini Semi e Cereali 200g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Sfornamore",
+    "product": "Mini Grissini Semi e Cereali 200g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sfornamore - Mini Grissini Semi e Cereali 200g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Sfornamore%20mini%20grissini%20semi%20e%20cereali_1761185157.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mini-grissini-semi-e-cereali-200g",
+    "published": "2021-01-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mini-grissini-semi-e-cereali-bio-150g/",
+    "title": "",
+    "noticeDate": "15 gennaio 2021",
+    "campi": {
+      "data pubblicazione": "15 gennaio 2021",
+      "marca": "Il Gigante bio",
+      "denominazione": "Mini Grissini Semi e Cereali Bio 150g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Il Gigante bio",
+    "product": "Mini Grissini Semi e Cereali Bio 150g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Il Gigante bio - Mini Grissini Semi e Cereali Bio 150g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Il%20Gigante%20Mini%20Grissini%20Semi%20e%20cereali%20bio_1761185158.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mini-grissini-semi-e-cereali-bio-150g",
+    "published": "2021-01-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yoga-mug-blue/",
+    "title": "",
+    "noticeDate": "15 gennaio 2021",
+    "campi": {
+      "data pubblicazione": "15 gennaio 2021",
+      "marca": "DOIY",
+      "denominazione": "Yoga Mug BLUE",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "DOIY",
+    "product": "Yoga Mug BLUE",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DOIY - Yoga Mug BLUE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20compilato_1761185160.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "yoga-mug-blue",
+    "published": "2021-01-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sugo-alle-verdure-biologico/",
+    "title": "",
+    "noticeDate": "14 gennaio 2021",
+    "campi": {
+      "data pubblicazione": "14 gennaio 2021",
+      "marca": "CARREFOUR BIO",
+      "denominazione": "Sugo alle verdure biologico",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "CARREFOUR BIO",
+    "product": "Sugo alle verdure biologico",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CARREFOUR BIO - Sugo alle verdure biologico",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_12.1.21_sugo_verdure_1761184409.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sugo-alle-verdure-biologico",
+    "published": "2021-01-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kess-kebab-di-pollo-350g/",
+    "title": "",
+    "noticeDate": "14 gennaio 2021",
+    "campi": {
+      "data pubblicazione": "14 gennaio 2021",
+      "marca": "AIA",
+      "denominazione": "KES'S KEBAB DI POLLO 350G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "AIA",
+    "product": "KES'S KEBAB DI POLLO 350G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AIA - KES'S KEBAB DI POLLO 350G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_560810_Richiamo_AIA_1761185148.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "kess-kebab-di-pollo-350g",
+    "published": "2021-01-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kebab-di-pollo-conad-350-g/",
+    "title": "",
+    "noticeDate": "14 gennaio 2021",
+    "campi": {
+      "data pubblicazione": "14 gennaio 2021",
+      "marca": "CONAD",
+      "denominazione": "KEBAB DI POLLO CONAD 350 G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "CONAD",
+    "product": "KEBAB DI POLLO CONAD 350 G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONAD - KEBAB DI POLLO CONAD 350 G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_560810_Richiamo_CONAD_1761185151.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "kebab-di-pollo-conad-350-g",
+    "published": "2021-01-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-semi-clip-sachet/",
+    "title": "",
+    "noticeDate": "7 gennaio 2021",
+    "campi": {
+      "data pubblicazione": "7 gennaio 2021",
+      "marca": "UBENA",
+      "denominazione": "SESAMO SEMI CLIP SACHET",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "UBENA",
+    "product": "SESAMO SEMI CLIP SACHET",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo UBENA - SESAMO SEMI CLIP SACHET",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20SESAMO%20UBENA_1761184403.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sesamo-semi-clip-sachet",
+    "published": "2021-01-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formai-de-mut-dellalta-valle-brembana/",
+    "title": "",
+    "noticeDate": "5 gennaio 2021",
+    "campi": {
+      "data pubblicazione": "5 gennaio 2021",
+      "marca": "IT03994CE PAGANONI GIANFRANCO ALPE TORRAGELLA MOIO DE CALVI BG",
+      "denominazione": "FORMAI DE MUT DELL'ALTA VALLE BREMBANA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "IT03994CE PAGANONI GIANFRANCO ALPE TORRAGELLA MOIO DE CALVI BG",
+    "product": "FORMAI DE MUT DELL'ALTA VALLE BREMBANA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IT03994CE PAGANONI GIANFRANCO ALPE TORRAGELLA MOIO DE CALVI BG - FORMAI DE MUT DELL'ALTA VALLE BREMBANA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20PAGANONI%20GIANFRANCO_1761184398.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formai-de-mut-dellalta-valle-brembana",
+    "published": "2021-01-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-di-mais-riso-tapioca-200-g/",
+    "title": "",
+    "noticeDate": "4 gennaio 2021",
+    "campi": {
+      "data pubblicazione": "4 gennaio 2021",
+      "marca": "PICCOLINO BABY",
+      "denominazione": "CREMA DI MAIS RISO TAPIOCA 200 g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "PICCOLINO BABY",
+    "product": "CREMA DI MAIS RISO TAPIOCA 200 g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PICCOLINO BABY - CREMA DI MAIS RISO TAPIOCA 200 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MD%20_%202020.12.22%20_%20Crema%20di%20mais%20riso%20tapioca%20BIO%20200%20g_1761184392.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "crema-di-mais-riso-tapioca-200-g",
+    "published": "2021-01-04",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/erdnusse-800-g/",
@@ -3253,6 +3747,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "croccantini-assortiti-sesamo-e-arachide",
+    "published": "2020-12-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/croccante-spezzato-con-sesamo/",
+    "title": "",
+    "noticeDate": "3 dicembre 2020",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2020",
+      "marca": "CRAI SECOM SPA",
+      "denominazione": "CROCCANTE SPEZZATO CON SESAMO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CRAI SECOM SPA",
+    "product": "CROCCANTE SPEZZATO CON SESAMO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CRAI SECOM SPA - CROCCANTE SPEZZATO CON SESAMO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CRAI%20SPEZZATO_RECALL%20FORMAT%20MINISTERIALE_1761183316.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "croccante-spezzato-con-sesamo",
     "published": "2020-12-03",
     "source": "operator"
   },
