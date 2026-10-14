@@ -865,6 +865,526 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/squacquerone/",
+    "title": "",
+    "noticeDate": "14 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "14 ottobre 2020",
+      "marca": "Caseificio Pascoli",
+      "denominazione": "Squacquerone",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Caseificio Pascoli",
+    "product": "Squacquerone",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caseificio Pascoli - Squacquerone",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1_RICHIAMO%20SQUACQUERONE_1761182225.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "squacquerone",
+    "published": "2020-10-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/squacquerone-di-romagna-dop-1/",
+    "title": "",
+    "noticeDate": "14 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "14 ottobre 2020",
+      "marca": "Caseificio Pascoli",
+      "denominazione": "Squacquerone di Romagna DOP",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Caseificio Pascoli",
+    "product": "Squacquerone di Romagna DOP",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caseificio Pascoli - Squacquerone di Romagna DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2_RICHIAMO%20SQUACQUERONE%20ROM.DOP_2_1761182228.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "squacquerone-di-romagna-dop-1",
+    "published": "2020-10-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/squacquerone-di-romagna-dop-2/",
+    "title": "",
+    "noticeDate": "14 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "14 ottobre 2020",
+      "marca": "Caseificio Pascoli",
+      "denominazione": "Squacquerone di Romagna DOP",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Caseificio Pascoli",
+    "product": "Squacquerone di Romagna DOP",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caseificio Pascoli - Squacquerone di Romagna DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3_RICHIAMO%20SQUACQUERONE%20ROM.DOP_1_1761182231.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "squacquerone-di-romagna-dop-2",
+    "published": "2020-10-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/squacquerone-romagna-dop/",
+    "title": "",
+    "noticeDate": "13 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "13 ottobre 2020",
+      "marca": "Caseificio Pascoli",
+      "denominazione": "Squacquerone Romagna DOP",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Caseificio Pascoli",
+    "product": "Squacquerone Romagna DOP",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caseificio Pascoli - Squacquerone Romagna DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1_RICHIAMO%20SQUACQUERONE_1761182203.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "squacquerone-romagna-dop",
+    "published": "2020-10-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/squacquerone-romagna-dop-0/",
+    "title": "",
+    "noticeDate": "13 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "13 ottobre 2020",
+      "marca": "Caseificio Pascoli",
+      "denominazione": "Squacquerone Romagna DOP",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Caseificio Pascoli",
+    "product": "Squacquerone Romagna DOP",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caseificio Pascoli - Squacquerone Romagna DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2_RICHIAMO%20SQUACQUERONE%20ROM.DOP_2_1761182205.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "squacquerone-romagna-dop-0",
+    "published": "2020-10-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/squacquerone-di-romagna-dop/",
+    "title": "",
+    "noticeDate": "13 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "13 ottobre 2020",
+      "marca": "Caseificio Pascoli",
+      "denominazione": "Squacquerone di Romagna DOP",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Caseificio Pascoli",
+    "product": "Squacquerone di Romagna DOP",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caseificio Pascoli - Squacquerone di Romagna DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3_RICHIAMO%20SQUACQUERONE%20ROM.DOP_1_1761182207.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "squacquerone-di-romagna-dop",
+    "published": "2020-10-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/squacquerone-di-romagna-dop-0/",
+    "title": "",
+    "noticeDate": "13 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "13 ottobre 2020",
+      "marca": "Caseificio Pascoli",
+      "denominazione": "Squacquerone di Romagna DOP",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Caseificio Pascoli",
+    "product": "Squacquerone di Romagna DOP",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caseificio Pascoli - Squacquerone di Romagna DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/4_RICHIAMO%20SQUACQUERONE%20ROM.DOP_1761182210.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "squacquerone-di-romagna-dop-0",
+    "published": "2020-10-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ricotta/",
+    "title": "",
+    "noticeDate": "13 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "13 ottobre 2020",
+      "marca": "Caseificio Pascoli",
+      "denominazione": "Ricotta",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Caseificio Pascoli",
+    "product": "Ricotta",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caseificio Pascoli - Ricotta",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/5_RICHIAMO%20RICOTTA%20DI%20SIERO_1761182212.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ricotta",
+    "published": "2020-10-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nuvola-di-latte/",
+    "title": "",
+    "noticeDate": "13 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "13 ottobre 2020",
+      "marca": "Caseificio Pascoli",
+      "denominazione": "Nuvola di latte",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Caseificio Pascoli",
+    "product": "Nuvola di latte",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caseificio Pascoli - Nuvola di latte",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/6_RICHIAMO%20NUVOLA%20DI%20LATTE_1761182215.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "nuvola-di-latte",
+    "published": "2020-10-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bucciatello-del-rubicone/",
+    "title": "",
+    "noticeDate": "13 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "13 ottobre 2020",
+      "marca": "Caseificio Pascoli",
+      "denominazione": "Bucciatello del Rubicone",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Caseificio Pascoli",
+    "product": "Bucciatello del Rubicone",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caseificio Pascoli - Bucciatello del Rubicone",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/7_RICHIAMO%20BUCCIATELLO_1761182217.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bucciatello-del-rubicone",
+    "published": "2020-10-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bazzotto-di-romagna-semitenero/",
+    "title": "",
+    "noticeDate": "13 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "13 ottobre 2020",
+      "marca": "Caseificio Pascoli",
+      "denominazione": "Bazzotto di Romagna semitenero",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Caseificio Pascoli",
+    "product": "Bazzotto di Romagna semitenero",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caseificio Pascoli - Bazzotto di Romagna semitenero",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/8_RICHIAMO%20BAZZOTTO%20SEMITENERO_1761182220.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bazzotto-di-romagna-semitenero",
+    "published": "2020-10-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/casatella/",
+    "title": "",
+    "noticeDate": "13 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "13 ottobre 2020",
+      "marca": "Caseificio Pascoli",
+      "denominazione": "Casatella",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Caseificio Pascoli",
+    "product": "Casatella",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caseificio Pascoli - Casatella",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/9_CASATELLA%20_1761182222.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "casatella",
+    "published": "2020-10-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/raschera-dop-0/",
+    "title": "",
+    "noticeDate": "12 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "12 ottobre 2020",
+      "marca": "ROGNONI",
+      "denominazione": "RASCHERA DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ROGNONI",
+    "product": "RASCHERA DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ROGNONI - RASCHERA DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20RASCHERA%20ROGNONI_1761182201.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "raschera-dop-0",
+    "published": "2020-10-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/raschera-dop/",
+    "title": "",
+    "noticeDate": "9 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "9 ottobre 2020",
+      "marca": "CASEIFICIO CEIRANO - VILLOSIO SRL",
+      "denominazione": "RASCHERA DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CASEIFICIO CEIRANO - VILLOSIO SRL",
+    "product": "RASCHERA DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASEIFICIO CEIRANO - VILLOSIO SRL - RASCHERA DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_CEIRANO_VILLOSIO__1761182199.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "raschera-dop",
+    "published": "2020-10-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tonno-olio-di-girasole-latta-da-gr-1730/",
+    "title": "",
+    "noticeDate": "7 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "7 ottobre 2020",
+      "marca": "PORTICELLO",
+      "denominazione": "TONNO IN OLIO DI GIRASOLE LATTA DA GR. 1730",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "PORTICELLO",
+    "product": "TONNO IN OLIO DI GIRASOLE LATTA DA GR. 1730",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PORTICELLO - TONNO IN OLIO DI GIRASOLE LATTA DA GR. 1730",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20tonnoporticello%20gr%201730_1761182197.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tonno-olio-di-girasole-latta-da-gr-1730",
+    "published": "2020-10-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-selvaggio-sockeye-affumicato-100-g-1/",
+    "title": "",
+    "noticeDate": "1 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "1 ottobre 2020",
+      "marca": "Salmone Selvaggio Sockeye affumicato",
+      "denominazione": "Salmone Selvaggio Sockeye affumicato 100 g",
+      "motivo della segnalazione": "Revoca per analisi di revisione favorevole"
+    },
+    "brand": "Salmone Selvaggio Sockeye affumicato",
+    "product": "Salmone Selvaggio Sockeye affumicato 100 g",
+    "reasonShort": "Revoca per analisi di revisione favorevole",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salmone Selvaggio Sockeye affumicato - Salmone Selvaggio Sockeye affumicato 100 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Salmone%20_%20REVOCA%20con%20foto_1761182193.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salmone-selvaggio-sockeye-affumicato-100-g-1",
+    "published": "2020-10-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-selvaggio-sockeye-affumicato-100-g-2/",
+    "title": "",
+    "noticeDate": "1 ottobre 2020",
+    "campi": {
+      "data pubblicazione": "1 ottobre 2020",
+      "marca": "Salmone Selvaggio Sockeye affumicato",
+      "denominazione": "Salmone Selvaggio Sockeye affumicato 100 g",
+      "motivo della segnalazione": "Revoca per analisi di revisione favorevole"
+    },
+    "brand": "Salmone Selvaggio Sockeye affumicato",
+    "product": "Salmone Selvaggio Sockeye affumicato 100 g",
+    "reasonShort": "Revoca per analisi di revisione favorevole",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salmone Selvaggio Sockeye affumicato - Salmone Selvaggio Sockeye affumicato 100 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Salmone%20_%20REVOCA%20con%20foto_1761182195.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salmone-selvaggio-sockeye-affumicato-100-g-2",
+    "published": "2020-10-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-latte-crudo-stracchino/",
+    "title": "",
+    "noticeDate": "30 settembre 2020",
+    "campi": {
+      "data pubblicazione": "30 settembre 2020",
+      "marca": "AZ. AGR. ARMANNI ANGELO - TREVIOLO (BG)",
+      "denominazione": "formaggio a latte crudo - stracchino",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "AZ. AGR. ARMANNI ANGELO - TREVIOLO (BG)",
+    "product": "formaggio a latte crudo - stracchino",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AZ. AGR. ARMANNI ANGELO - TREVIOLO (BG) - formaggio a latte crudo - stracchino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_1761182191.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-latte-crudo-stracchino",
+    "published": "2020-09-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-selvaggio-sockeye-affumicato-100-g/",
+    "title": "",
+    "noticeDate": "23 settembre 2020",
+    "campi": {
+      "data pubblicazione": "23 settembre 2020",
+      "marca": "Salmone Selvaggio Sockeye affumicato",
+      "denominazione": "Salmone Selvaggio Sockeye affumicato 100 g.",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salmone Selvaggio Sockeye affumicato",
+    "product": "Salmone Selvaggio Sockeye affumicato 100 g.",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salmone Selvaggio Sockeye affumicato - Salmone Selvaggio Sockeye affumicato 100 g.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1_Salmone_affumicato_2020_3791_1761182187.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salmone-selvaggio-sockeye-affumicato-100-g",
+    "published": "2020-09-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-selvaggio-sockeye-affumicato-100-g-0/",
+    "title": "",
+    "noticeDate": "23 settembre 2020",
+    "campi": {
+      "data pubblicazione": "23 settembre 2020",
+      "marca": "Salmone Selvaggio affumicato",
+      "denominazione": "Salmone Selvaggio Sockeye affumicato 100 g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salmone Selvaggio affumicato",
+    "product": "Salmone Selvaggio Sockeye affumicato 100 g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salmone Selvaggio affumicato - Salmone Selvaggio Sockeye affumicato 100 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2020_3791_Mod_Richiamo_Salmone_Scanner_1761182189.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salmone-selvaggio-sockeye-affumicato-100-g-0",
+    "published": "2020-09-23",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-russa-100-vegetale/",
     "title": "",
     "noticeDate": "18 settembre 2020",
