@@ -786,6 +786,396 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pizzicata-conserva-fermentata-spalmabile-di-pesce-stagionato/",
+    "title": "",
+    "noticeDate": "17 aprile 2021",
+    "campi": {
+      "data pubblicazione": "17 aprile 2021",
+      "marca": "OFFISHINA",
+      "denominazione": "\"Pizzicata\" Conserva fermentata spalmabile di pesce stagionato",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "OFFISHINA",
+    "product": "\"Pizzicata\" Conserva fermentata spalmabile di pesce stagionato",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo OFFISHINA - \"Pizzicata\" Conserva fermentata spalmabile di pesce stagionato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo%20Istamina%20Officina%20Ittica%20_04_16_01.36.40%20_1__1761186108.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pizzicata-conserva-fermentata-spalmabile-di-pesce-stagionato",
+    "published": "2021-04-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fiammiferi-di-speck-90g/",
+    "title": "",
+    "noticeDate": "12 aprile 2021",
+    "campi": {
+      "data pubblicazione": "12 aprile 2021",
+      "marca": "MD SpA",
+      "denominazione": "Fiammiferi di speck 90g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "MD SpA",
+    "product": "Fiammiferi di speck 90g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MD SpA - Fiammiferi di speck 90g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/FURLOTTI%20_%202021.04.09%20_%20FIAMMIFERI%20DI%20SPECK%2090%20g.%20_%20Cartello%20Ministeriale_1761186104.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "fiammiferi-di-speck-90g",
+    "published": "2021-04-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pepe-nero-salame-di-cinghiale/",
+    "title": "",
+    "noticeDate": "8 aprile 2021",
+    "campi": {
+      "data pubblicazione": "8 aprile 2021",
+      "marca": "IT 645 - L CE",
+      "denominazione": "PEPE NERO salame di cinghiale",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "IT 645 - L CE",
+    "product": "PEPE NERO salame di cinghiale",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IT 645 - L CE - PEPE NERO salame di cinghiale",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/renzini_1761186101.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pepe-nero-salame-di-cinghiale",
+    "published": "2021-04-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-fresca-atm-salsiccia-mignon-vaschetta-atm-salsiccia-past/",
+    "title": "",
+    "noticeDate": "7 aprile 2021",
+    "campi": {
+      "data pubblicazione": "7 aprile 2021",
+      "marca": "SALUMIFICIO COLETTI PIERINO & C. SNC",
+      "denominazione": "SALSICCIA FRESCA ATM, SALSICCIA MIGNON VASCHETTA ATM, SALSICCIA PAST",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "SALUMIFICIO COLETTI PIERINO & C. SNC",
+    "product": "SALSICCIA FRESCA ATM, SALSICCIA MIGNON VASCHETTA ATM, SALSICCIA PAST",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO COLETTI PIERINO & C. SNC - SALSICCIA FRESCA ATM, SALSICCIA MIGNON VASCHETTA ATM, SALSICCIA PAST",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20richiamo%20Salsiccia%20ATM_1761186090.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salsiccia-fresca-atm-salsiccia-mignon-vaschetta-atm-salsiccia-past",
+    "published": "2021-04-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-sfusa-salsiccia-mignon-sfusa-salsiccia-piccante-sfusa-sa/",
+    "title": "",
+    "noticeDate": "7 aprile 2021",
+    "campi": {
+      "data pubblicazione": "7 aprile 2021",
+      "marca": "SALUMIFICIO COLETTI PIERINO & C. SNC",
+      "denominazione": "SALSICCIA SFUSA, SALSICCIA MIGNON SFUSA, SALSICCIA PICCANTE SFUSA, SA",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "SALUMIFICIO COLETTI PIERINO & C. SNC",
+    "product": "SALSICCIA SFUSA, SALSICCIA MIGNON SFUSA, SALSICCIA PICCANTE SFUSA, SA",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO COLETTI PIERINO & C. SNC - SALSICCIA SFUSA, SALSICCIA MIGNON SFUSA, SALSICCIA PICCANTE SFUSA, SA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20richiamo%20Salsiccia%20sfusa_1761186094.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salsiccia-sfusa-salsiccia-mignon-sfusa-salsiccia-piccante-sfusa-sa",
+    "published": "2021-04-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-sv-salsiccia-mignon-sv-salsiccia-piccante-sv-salsiccia/",
+    "title": "",
+    "noticeDate": "7 aprile 2021",
+    "campi": {
+      "data pubblicazione": "7 aprile 2021",
+      "marca": "SALUMIFICIO COLETTI PIERINO & C. SNC",
+      "denominazione": "SALSICCIA S/V, SALSICCIA MIGNON S/V, SALSICCIA PICCANTE S/V, SALSICCIA",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "SALUMIFICIO COLETTI PIERINO & C. SNC",
+    "product": "SALSICCIA S/V, SALSICCIA MIGNON S/V, SALSICCIA PICCANTE S/V, SALSICCIA",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO COLETTI PIERINO & C. SNC - SALSICCIA S/V, SALSICCIA MIGNON S/V, SALSICCIA PICCANTE S/V, SALSICCIA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20richiamo%20Salsiccia%20sottovuoto_1761186098.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salsiccia-sv-salsiccia-mignon-sv-salsiccia-piccante-sv-salsiccia",
+    "published": "2021-04-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/la-colomba-classica/",
+    "title": "",
+    "noticeDate": "6 aprile 2021",
+    "campi": {
+      "data pubblicazione": "6 aprile 2021",
+      "marca": "Pietro Macellaro Pasticceria Agricola Cilentana",
+      "denominazione": "LA COLOMBA CLASSICA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Pietro Macellaro Pasticceria Agricola Cilentana",
+    "product": "LA COLOMBA CLASSICA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pietro Macellaro Pasticceria Agricola Cilentana - LA COLOMBA CLASSICA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Nota_di_Richiamo_03.04.21_1__1761186087.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "la-colomba-classica",
+    "published": "2021-04-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barretta-bio-sprint/",
+    "title": "",
+    "noticeDate": "1 aprile 2021",
+    "campi": {
+      "data pubblicazione": "1 aprile 2021",
+      "marca": "Ventura - BB MIX bontà e benessere",
+      "denominazione": "Barretta BIO SPRINT",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Ventura - BB MIX bontà e benessere",
+    "product": "Barretta BIO SPRINT",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ventura - BB MIX bontà e benessere - Barretta BIO SPRINT",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20MadiVentura_Barretta%20BIO%20Sprint_01%2003%2022_1761186062.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "barretta-bio-sprint",
+    "published": "2021-04-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barretta-bio-sprint-010322/",
+    "title": "",
+    "noticeDate": "1 aprile 2021",
+    "campi": {
+      "data pubblicazione": "1 aprile 2021",
+      "marca": "Ventura - BB MIX bontà e benessere",
+      "denominazione": "Barretta BIO SPRINT 010322",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Ventura - BB MIX bontà e benessere",
+    "product": "Barretta BIO SPRINT 010322",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ventura - BB MIX bontà e benessere - Barretta BIO SPRINT 010322",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20MadiVentura_Barretta%20BIO%20Sprint_01%2003%2022_1761186065.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "barretta-bio-sprint-010322",
+    "published": "2021-04-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barretta-bio-sprint-050222/",
+    "title": "",
+    "noticeDate": "1 aprile 2021",
+    "campi": {
+      "data pubblicazione": "1 aprile 2021",
+      "marca": "Ventura - BB MIX bontà e benessere",
+      "denominazione": "Barretta BIO SPRINT 050222",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Ventura - BB MIX bontà e benessere",
+    "product": "Barretta BIO SPRINT 050222",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ventura - BB MIX bontà e benessere - Barretta BIO SPRINT 050222",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20MadiVentura_Barretta%20BIO%20Sprint_05%2002%2022_1761186068.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "barretta-bio-sprint-050222",
+    "published": "2021-04-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barretta-bio-sprint-070122/",
+    "title": "",
+    "noticeDate": "1 aprile 2021",
+    "campi": {
+      "data pubblicazione": "1 aprile 2021",
+      "marca": "Ventura - BB MIX bontà e benessere",
+      "denominazione": "Barretta BIO SPRINT 070122",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Ventura - BB MIX bontà e benessere",
+    "product": "Barretta BIO SPRINT 070122",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ventura - BB MIX bontà e benessere - Barretta BIO SPRINT 070122",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20MadiVentura_Barretta%20BIO%20Sprint_07%2001%2022_1761186071.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "barretta-bio-sprint-070122",
+    "published": "2021-04-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barretta-bio-sprint-070921/",
+    "title": "",
+    "noticeDate": "1 aprile 2021",
+    "campi": {
+      "data pubblicazione": "1 aprile 2021",
+      "marca": "Ventura - BB MIX bontà e benessere",
+      "denominazione": "Barretta BIO SPRINT 070921",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Ventura - BB MIX bontà e benessere",
+    "product": "Barretta BIO SPRINT 070921",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ventura - BB MIX bontà e benessere - Barretta BIO SPRINT 070921",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20MadiVentura_Barretta%20BIO%20Sprint_07%2009%2021_1761186074.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "barretta-bio-sprint-070921",
+    "published": "2021-04-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barretta-bio-sprint-221021/",
+    "title": "",
+    "noticeDate": "1 aprile 2021",
+    "campi": {
+      "data pubblicazione": "1 aprile 2021",
+      "marca": "Ventura - BB MIX bontà e benessere",
+      "denominazione": "Barretta BIO SPRINT 221021",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Ventura - BB MIX bontà e benessere",
+    "product": "Barretta BIO SPRINT 221021",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ventura - BB MIX bontà e benessere - Barretta BIO SPRINT 221021",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20MadiVentura_Barretta%20BIO%20Sprint_22%2010%2021_1761186078.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "barretta-bio-sprint-221021",
+    "published": "2021-04-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ciuffi-di-calamaro-indopacifico-decongelati-uroteuthis-duvauceli/",
+    "title": "",
+    "noticeDate": "1 aprile 2021",
+    "campi": {
+      "data pubblicazione": "1 aprile 2021",
+      "marca": "NUOVA BEL PESCA snc",
+      "denominazione": "CIUFFI DI CALAMARO INDOPACIFICO DECONGELATI (Uroteuthis duvauceli)",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "NUOVA BEL PESCA snc",
+    "product": "CIUFFI DI CALAMARO INDOPACIFICO DECONGELATI (Uroteuthis duvauceli)",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NUOVA BEL PESCA snc - CIUFFI DI CALAMARO INDOPACIFICO DECONGELATI (Uroteuthis duvauceli)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20di%20richiamo%20calamari_1761186081.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ciuffi-di-calamaro-indopacifico-decongelati-uroteuthis-duvauceli",
+    "published": "2021-04-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-3/",
+    "title": "",
+    "noticeDate": "1 aprile 2021",
+    "campi": {
+      "data pubblicazione": "1 aprile 2021",
+      "marca": "Dream Fruits srl Calenzano (FI)",
+      "denominazione": "semi di sesamo",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Dream Fruits srl Calenzano (FI)",
+    "product": "semi di sesamo",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Dream Fruits srl Calenzano (FI) - semi di sesamo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20Dream%20Fruits%20srl%20semi%20sesamo%20300%20gr_1761186084.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-sesamo-3",
+    "published": "2021-04-01",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/protein-riegel-sonnenblumen-kern-mit-ginger/",
     "title": "",
     "noticeDate": "31 marzo 2021",
@@ -938,6 +1328,136 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "tonica-barretta-energetica-fondente-zenzero",
+    "published": "2021-03-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tonica-barretta-energetica-fondente-zenzero-0/",
+    "title": "",
+    "noticeDate": "31 marzo 2021",
+    "campi": {
+      "data pubblicazione": "31 marzo 2021",
+      "marca": "VIVOO RE-EVOLUTION",
+      "denominazione": "TONICA - BARRETTA ENERGETICA FONDENTE & ZENZERO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "VIVOO RE-EVOLUTION",
+    "product": "TONICA - BARRETTA ENERGETICA FONDENTE & ZENZERO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VIVOO RE-EVOLUTION - TONICA - BARRETTA ENERGETICA FONDENTE & ZENZERO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Tonica%20barretta%20energetica%20fondente%20_%20zenzero%20_%20Vivoo%20Re_Evolution_1761186047.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tonica-barretta-energetica-fondente-zenzero-0",
+    "published": "2021-03-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barretta-bbmix-sprint/",
+    "title": "",
+    "noticeDate": "31 marzo 2021",
+    "campi": {
+      "data pubblicazione": "31 marzo 2021",
+      "marca": "VENTURA",
+      "denominazione": "BARRETTA BBMIX SPRINT",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "VENTURA",
+    "product": "BARRETTA BBMIX SPRINT",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VENTURA - BARRETTA BBMIX SPRINT",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Barretta%20BBMix%20Sprint%20_%20Ventura_1761186050.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "barretta-bbmix-sprint",
+    "published": "2021-03-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/germoglio-barretta-energetica-zenzero-curcuma/",
+    "title": "",
+    "noticeDate": "31 marzo 2021",
+    "campi": {
+      "data pubblicazione": "31 marzo 2021",
+      "marca": "VIVOO RE-EVOLUTION",
+      "denominazione": "GERMOGLIO - BARRETTA ENERGETICA ZENZERO & CURCUMA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "VIVOO RE-EVOLUTION",
+    "product": "GERMOGLIO - BARRETTA ENERGETICA ZENZERO & CURCUMA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VIVOO RE-EVOLUTION - GERMOGLIO - BARRETTA ENERGETICA ZENZERO & CURCUMA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Germoglio%20barretta%20energetica%20zenzero%20e%20curcuma%20_%20Vivoo%20Re_Evolution_1761186053.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "germoglio-barretta-energetica-zenzero-curcuma",
+    "published": "2021-03-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barretta-brownie-zenzero-e-cioccolato-fondente-extra/",
+    "title": "",
+    "noticeDate": "31 marzo 2021",
+    "campi": {
+      "data pubblicazione": "31 marzo 2021",
+      "marca": "MAAMA",
+      "denominazione": "BARRETTA BROWNIE ZENZERO E CIOCCOLATO FONDENTE EXTRA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MAAMA",
+    "product": "BARRETTA BROWNIE ZENZERO E CIOCCOLATO FONDENTE EXTRA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MAAMA - BARRETTA BROWNIE ZENZERO E CIOCCOLATO FONDENTE EXTRA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Barretta%20Brownie%20Zenzero%20cioccolato%20fondente%20extra%20_%20Maama_1761186056.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "barretta-brownie-zenzero-e-cioccolato-fondente-extra",
+    "published": "2021-03-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/protein-bar-acai-e-zenzero/",
+    "title": "",
+    "noticeDate": "31 marzo 2021",
+    "campi": {
+      "data pubblicazione": "31 marzo 2021",
+      "marca": "MAAMA",
+      "denominazione": "PROTEIN BAR ACAI E ZENZERO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MAAMA",
+    "product": "PROTEIN BAR ACAI E ZENZERO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MAAMA - PROTEIN BAR ACAI E ZENZERO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Protein%20Bar%20Acai%20e%20Zenzero%20_%20Maama_1761186059.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "protein-bar-acai-e-zenzero",
     "published": "2021-03-31",
     "source": "operator"
   },
