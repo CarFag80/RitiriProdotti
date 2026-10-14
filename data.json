@@ -3723,6 +3723,422 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/curcuma-max-30-capsule-curcuma-max-60-capsule-artdol/",
+    "title": "",
+    "noticeDate": "31 maggio 2019",
+    "campi": {
+      "data pubblicazione": "31 maggio 2019",
+      "marca": "Naturetica",
+      "denominazione": "Curcuma Max - 30 capsule; Curcuma Max - 60 capsule; ArtDol",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Naturetica",
+    "product": "Curcuma Max - 30 capsule; Curcuma Max - 60 capsule; ArtDol",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Naturetica - Curcuma Max - 30 capsule; Curcuma Max - 60 capsule; ArtDol",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Naturetica%20_%20Curcuma%20Max_ArtDol_1761178811.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "curcuma-max-30-capsule-curcuma-max-60-capsule-artdol",
+    "published": "2019-05-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/good-joint/",
+    "title": "",
+    "noticeDate": "31 maggio 2019",
+    "campi": {
+      "data pubblicazione": "31 maggio 2019",
+      "marca": "Benessere Pharma Srl",
+      "denominazione": "Good Joint",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Benessere Pharma Srl",
+    "product": "Good Joint",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Benessere Pharma Srl - Good Joint",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20_%20Good%20Joint%20_1761178816.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "good-joint",
+    "published": "2019-05-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tisana-freddo-filtro-ventre-piatto-cold-langelica-istituto/",
+    "title": "",
+    "noticeDate": "31 maggio 2019",
+    "campi": {
+      "data pubblicazione": "31 maggio 2019",
+      "marca": "COSWELL SPA",
+      "denominazione": "Tisana a freddo in filtro VENTRE PIATTO COLD - L'ANGELICA ISTITUTO ERBORISTICO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "COSWELL SPA",
+    "product": "Tisana a freddo in filtro VENTRE PIATTO COLD - L'ANGELICA ISTITUTO ERBORISTICO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo COSWELL SPA - Tisana a freddo in filtro VENTRE PIATTO COLD - L'ANGELICA ISTITUTO ERBORISTICO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20tisana_1761178821.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tisana-freddo-filtro-ventre-piatto-cold-langelica-istituto",
+    "published": "2019-05-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/brodo-granulare-istantaneo-funghi-120g/",
+    "title": "",
+    "noticeDate": "31 maggio 2019",
+    "campi": {
+      "data pubblicazione": "31 maggio 2019",
+      "marca": "Bauer S.p.a.",
+      "denominazione": "brodo granulare istantaneo funghi 120g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Bauer S.p.a.",
+    "product": "brodo granulare istantaneo funghi 120g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bauer S.p.a. - brodo granulare istantaneo funghi 120g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20brodo%20fungo%20l.10327_1761178826.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "brodo-granulare-istantaneo-funghi-120g",
+    "published": "2019-05-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/curcuma-piperina/",
+    "title": "",
+    "noticeDate": "29 maggio 2019",
+    "campi": {
+      "data pubblicazione": "29 maggio 2019",
+      "marca": "RUBIGEN",
+      "denominazione": "CURCUMA & PIPERINA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "RUBIGEN",
+    "product": "CURCUMA & PIPERINA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo RUBIGEN - CURCUMA & PIPERINA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Curcuma%20_%20Piperina%20Rubigen%20L.250119%20Natur_Farma%2028.05.19_1761178796.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "curcuma-piperina",
+    "published": "2019-05-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinacine-e-4-spinacine/",
+    "title": "",
+    "noticeDate": "29 maggio 2019",
+    "campi": {
+      "data pubblicazione": "29 maggio 2019",
+      "marca": "AIA",
+      "denominazione": "SPINACINE e 4 SPINACINE",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "AIA",
+    "product": "SPINACINE e 4 SPINACINE",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AIA - SPINACINE e 4 SPINACINE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/spinacine_1761178801.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spinacine-e-4-spinacine",
+    "published": "2019-05-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bigger-cotoletta-di-tacchino-xxl/",
+    "title": "",
+    "noticeDate": "29 maggio 2019",
+    "campi": {
+      "data pubblicazione": "29 maggio 2019",
+      "marca": "AIA",
+      "denominazione": "BIGGER COTOLETTA DI TACCHINO XXL",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "AIA",
+    "product": "BIGGER COTOLETTA DI TACCHINO XXL",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AIA - BIGGER COTOLETTA DI TACCHINO XXL",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/B3973___1761178806.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bigger-cotoletta-di-tacchino-xxl",
+    "published": "2019-05-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/maximum-curcuma-0/",
+    "title": "",
+    "noticeDate": "27 maggio 2019",
+    "campi": {
+      "data pubblicazione": "27 maggio 2019",
+      "marca": "NATURANDO Rrl",
+      "denominazione": "MAXIMUM CURCUMA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "NATURANDO Rrl",
+    "product": "MAXIMUM CURCUMA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NATURANDO Rrl - MAXIMUM CURCUMA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_MAXIMUM_CURCUMA%20_1__1761178792.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "maximum-curcuma-0",
+    "published": "2019-05-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/frutti-di-bosco-congelati-g-300/",
+    "title": "",
+    "noticeDate": "24 maggio 2019",
+    "campi": {
+      "data pubblicazione": "24 maggio 2019",
+      "marca": "Danti Frutti di Bosco",
+      "denominazione": "Frutti di bosco congelati g 300",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Danti Frutti di Bosco",
+    "product": "Frutti di bosco congelati g 300",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Danti Frutti di Bosco - Frutti di bosco congelati g 300",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1761178783.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "frutti-di-bosco-congelati-g-300",
+    "published": "2019-05-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/maximum-curcuma/",
+    "title": "",
+    "noticeDate": "24 maggio 2019",
+    "campi": {
+      "data pubblicazione": "24 maggio 2019",
+      "marca": "NATURANDO SRL",
+      "denominazione": "MAXIMUM CURCUMA",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "NATURANDO SRL",
+    "product": "MAXIMUM CURCUMA",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NATURANDO SRL - MAXIMUM CURCUMA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20MAXIMUM%20CURCUMA_1761178787.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "maximum-curcuma",
+    "published": "2019-05-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/curcumina-plus-95-60-compresse-30-compresse/",
+    "title": "",
+    "noticeDate": "22 maggio 2019",
+    "campi": {
+      "data pubblicazione": "22 maggio 2019",
+      "marca": "LINEA@",
+      "denominazione": "CURCUMINA PLUS 95% - 60 compresse - 30 compresse",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LINEA@",
+    "product": "CURCUMINA PLUS 95% - 60 compresse - 30 compresse",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LINEA@ - CURCUMINA PLUS 95% - 60 compresse - 30 compresse",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo18C590%20_1__1761178769.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "curcumina-plus-95-60-compresse-30-compresse",
+    "published": "2019-05-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/curcumina-plus-95-60-compresse-30-compresse-0/",
+    "title": "",
+    "noticeDate": "22 maggio 2019",
+    "campi": {
+      "data pubblicazione": "22 maggio 2019",
+      "marca": "LINEA@",
+      "denominazione": "CURCUMINA PLUS 95% - 60 compresse -30 compresse",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LINEA@",
+    "product": "CURCUMINA PLUS 95% - 60 compresse -30 compresse",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LINEA@ - CURCUMINA PLUS 95% - 60 compresse -30 compresse",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/B_RichiamoL19B914_1761178774.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "curcumina-plus-95-60-compresse-30-compresse-0",
+    "published": "2019-05-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/curcumina-piperina-90-compresse/",
+    "title": "",
+    "noticeDate": "22 maggio 2019",
+    "campi": {
+      "data pubblicazione": "22 maggio 2019",
+      "marca": "AIF",
+      "denominazione": "CURCUMINA PIPERINA + 90 compresse",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "AIF",
+    "product": "CURCUMINA PIPERINA + 90 compresse",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AIF - CURCUMINA PIPERINA + 90 compresse",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/N_RichiamoL19B914_1761178778.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "curcumina-piperina-90-compresse",
+    "published": "2019-05-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nuvole-di-drago-prawn-crackers-2/",
+    "title": "",
+    "noticeDate": "15 maggio 2019",
+    "campi": {
+      "data pubblicazione": "15 maggio 2019",
+      "marca": "DALIAN NEW CENTURY HUIHONG CO. LTD.",
+      "denominazione": "NUVOLE DI DRAGO - PRAWN CRACKERS",
+      "motivo della segnalazione": "Revoca per analisi di revisione favorevole"
+    },
+    "brand": "DALIAN NEW CENTURY HUIHONG CO. LTD.",
+    "product": "NUVOLE DI DRAGO - PRAWN CRACKERS",
+    "reasonShort": "Revoca per analisi di revisione favorevole",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DALIAN NEW CENTURY HUIHONG CO. LTD. - NUVOLE DI DRAGO - PRAWN CRACKERS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Nuvole%20di%20drago_1761178765.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "nuvole-di-drago-prawn-crackers-2",
+    "published": "2019-05-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-manitoba-farafoa-pronta-de-mandioca-yoki-500g/",
+    "title": "",
+    "noticeDate": "7 maggio 2019",
+    "campi": {
+      "data pubblicazione": "7 maggio 2019",
+      "marca": "plaza latina srl",
+      "denominazione": "farina di manitoba - Farafoa Pronta de Mandioca Yoki - 500g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "plaza latina srl",
+    "product": "farina di manitoba - Farafoa Pronta de Mandioca Yoki - 500g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo plaza latina srl - farina di manitoba - Farafoa Pronta de Mandioca Yoki - 500g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_1761178760.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "farina-di-manitoba-farafoa-pronta-de-mandioca-yoki-500g",
+    "published": "2019-05-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nuvole-di-drago-prawn-crackers-1/",
+    "title": "",
+    "noticeDate": "6 maggio 2019",
+    "campi": {
+      "data pubblicazione": "6 maggio 2019",
+      "marca": "DALIAN NEW CENTURY HUIHONG CO. LTD.",
+      "denominazione": "NUVOLE DI DRAGO - PRAWN CRACKERS",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "DALIAN NEW CENTURY HUIHONG CO. LTD.",
+    "product": "NUVOLE DI DRAGO - PRAWN CRACKERS",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DALIAN NEW CENTURY HUIHONG CO. LTD. - NUVOLE DI DRAGO - PRAWN CRACKERS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20DI%20RICHIAMO_1761178756.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "nuvole-di-drago-prawn-crackers-1",
+    "published": "2019-05-06",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/saint-felicien-confezioni-da-180-g-e-saint-marcellin-confezioni-da-80-g/",
     "title": "SAINT- FELICIEN (confezioni da 180 g) e SAINT MARCELLIN (confezioni da 80 g)",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-presenza-di-dmba-integratore-alimentare-pwo-max-kiwi/",
@@ -3750,6 +4166,58 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bisu-formaggio-morbido-latte-crudo/",
+    "title": "",
+    "noticeDate": "3 maggio 2019",
+    "campi": {
+      "data pubblicazione": "3 maggio 2019",
+      "marca": "PE.RA. FORMAGGI S.A.S.",
+      "denominazione": "BISU' formaggio morbido a latte crudo",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "PE.RA. FORMAGGI S.A.S.",
+    "product": "BISU' formaggio morbido a latte crudo",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PE.RA. FORMAGGI S.A.S. - BISU' formaggio morbido a latte crudo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20BISU%20formaggio%20a%20latte%20crudo_PERA%20FORMAGGI_1761178752.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "bisu-formaggio-morbido-latte-crudo",
+    "published": "2019-05-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tramezzino-salmone-maionese/",
+    "title": "",
+    "noticeDate": "29 aprile 2019",
+    "campi": {
+      "data pubblicazione": "29 aprile 2019",
+      "marca": "DUE A.A.",
+      "denominazione": "TRAMEZZINO SALMONE MAIONESE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "DUE A.A.",
+    "product": "TRAMEZZINO SALMONE MAIONESE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DUE A.A. - TRAMEZZINO SALMONE MAIONESE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/DUE_A_A_RICHIAMO_1761178747.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tramezzino-salmone-maionese",
+    "published": "2019-04-29",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-di-marroni/",
     "title": "",
     "noticeDate": "26 aprile 2019",
@@ -3772,6 +4240,58 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "crema-di-marroni",
+    "published": "2019-04-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-di-marroni-da-agricoltura-biologica/",
+    "title": "",
+    "noticeDate": "26 aprile 2019",
+    "campi": {
+      "data pubblicazione": "26 aprile 2019",
+      "marca": "SANABIOS",
+      "denominazione": "CREMA DI MARRONI DA AGRICOLTURA BIOLOGICA",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "SANABIOS",
+    "product": "CREMA DI MARRONI DA AGRICOLTURA BIOLOGICA",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SANABIOS - CREMA DI MARRONI DA AGRICOLTURA BIOLOGICA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_SANABIOS_1761178739.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crema-di-marroni-da-agricoltura-biologica",
+    "published": "2019-04-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-golfettar/",
+    "title": "",
+    "noticeDate": "26 aprile 2019",
+    "campi": {
+      "data pubblicazione": "26 aprile 2019",
+      "marca": "CONAD S.C. - Via Michelino, 59 - BOLOGNA",
+      "denominazione": "SALAME GOLFETTA®",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CONAD S.C. - Via Michelino, 59 - BOLOGNA",
+    "product": "SALAME GOLFETTA®",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONAD S.C. - Via Michelino, 59 - BOLOGNA - SALAME GOLFETTA®",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_20171116_1761178743.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-golfettar",
     "published": "2019-04-26",
     "source": "operator"
   },
