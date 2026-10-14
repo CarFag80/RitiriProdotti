@@ -865,6 +865,344 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-greco-senza-grassi-senza-lattosio-150-g-despar-free/",
+    "title": "",
+    "noticeDate": "5 luglio 2020",
+    "campi": {
+      "data pubblicazione": "5 luglio 2020",
+      "marca": "DESPAR ITALIA CONSORZIO A R.L.",
+      "denominazione": "YOGURT GRECO SENZA GRASSI senza lattosio 150 g DESPAR FREE FROM",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "DESPAR ITALIA CONSORZIO A R.L.",
+    "product": "YOGURT GRECO SENZA GRASSI senza lattosio 150 g DESPAR FREE FROM",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DESPAR ITALIA CONSORZIO A R.L. - YOGURT GRECO SENZA GRASSI senza lattosio 150 g DESPAR FREE FROM",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/NEOGAL_RICHIAMO%20%20%20ITA_1761181369.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "yogurt-greco-senza-grassi-senza-lattosio-150-g-despar-free",
+    "published": "2020-07-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-greco-senza-grassi-senza-lattosio-150-g-despar-free-0/",
+    "title": "",
+    "noticeDate": "5 luglio 2020",
+    "campi": {
+      "data pubblicazione": "5 luglio 2020",
+      "marca": "DESPAR ITALIA CONSORZIO A R.L.",
+      "denominazione": "YOGURT GRECO SENZA GRASSI senza lattosio 150 g DESPAR FREE FROM",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DESPAR ITALIA CONSORZIO A R.L.",
+    "product": "YOGURT GRECO SENZA GRASSI senza lattosio 150 g DESPAR FREE FROM",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DESPAR ITALIA CONSORZIO A R.L. - YOGURT GRECO SENZA GRASSI senza lattosio 150 g DESPAR FREE FROM",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/NEOGAL_RICHIAMO%20%20%20ITA_1761181373.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "yogurt-greco-senza-grassi-senza-lattosio-150-g-despar-free-0",
+    "published": "2020-07-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/divino/",
+    "title": "",
+    "noticeDate": "2 luglio 2020",
+    "campi": {
+      "data pubblicazione": "2 luglio 2020",
+      "marca": "Azienda agricola di Carai Giuseppe &C ssa",
+      "denominazione": "Divino",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Azienda agricola di Carai Giuseppe &C ssa",
+    "product": "Divino",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Azienda agricola di Carai Giuseppe &C ssa - Divino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20Formaggio%20Pecorino%20Az%20Agricola%20%20CARAI%20_1__1761181366.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "divino",
+    "published": "2020-07-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zuppa-con-farro-e-verdure-fresche/",
+    "title": "",
+    "noticeDate": "28 giugno 2020",
+    "campi": {
+      "data pubblicazione": "28 giugno 2020",
+      "marca": "Bontà dell¿Orto",
+      "denominazione": "ZUPPA CON FARRO e verdure fresche",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Bontà dell¿Orto",
+    "product": "ZUPPA CON FARRO e verdure fresche",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bontà dell¿Orto - ZUPPA CON FARRO e verdure fresche",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_MINISTERO%20_%20Bont%C3%A0%20dell_Orto_1761181352.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "zuppa-con-farro-e-verdure-fresche",
+    "published": "2020-06-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zuppa-con-verdure-e-farro-0/",
+    "title": "",
+    "noticeDate": "28 giugno 2020",
+    "campi": {
+      "data pubblicazione": "28 giugno 2020",
+      "marca": "Il Mercato - Carrefour",
+      "denominazione": "ZUPPA CON VERDURE E FARRO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Il Mercato - Carrefour",
+    "product": "ZUPPA CON VERDURE E FARRO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Il Mercato - Carrefour - ZUPPA CON VERDURE E FARRO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_MINISTERO%20_%20Il%20Mercato%20Carrefour_1761181355.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "zuppa-con-verdure-e-farro-0",
+    "published": "2020-06-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zuppa-con-farro-2/",
+    "title": "",
+    "noticeDate": "28 giugno 2020",
+    "campi": {
+      "data pubblicazione": "28 giugno 2020",
+      "marca": "Euroverde società agricola",
+      "denominazione": "ZUPPA CON FARRO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Euroverde società agricola",
+    "product": "ZUPPA CON FARRO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Euroverde società agricola - ZUPPA CON FARRO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_MINISTERO%20Euroverde_1761181358.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "zuppa-con-farro-2",
+    "published": "2020-06-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zuppa-con-farro-3/",
+    "title": "",
+    "noticeDate": "28 giugno 2020",
+    "campi": {
+      "data pubblicazione": "28 giugno 2020",
+      "marca": "Terra & Vita le Zuppe Belle e Pronte",
+      "denominazione": "ZUPPA CON FARRO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Terra & Vita le Zuppe Belle e Pronte",
+    "product": "ZUPPA CON FARRO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Terra & Vita le Zuppe Belle e Pronte - ZUPPA CON FARRO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_MINISTERO%20Terra_Vita_1761181362.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "zuppa-con-farro-3",
+    "published": "2020-06-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zuppa-con-farro/",
+    "title": "",
+    "noticeDate": "27 giugno 2020",
+    "campi": {
+      "data pubblicazione": "27 giugno 2020",
+      "marca": "Terra & Vita Le Zuppe Belle e Pronte",
+      "denominazione": "ZUPPA CON FARRO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Terra & Vita Le Zuppe Belle e Pronte",
+    "product": "ZUPPA CON FARRO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Terra & Vita Le Zuppe Belle e Pronte - ZUPPA CON FARRO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20ZUPPA%20FARRO%20LOTTO%20L23_R_148_1761181338.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "zuppa-con-farro",
+    "published": "2020-06-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zuppa-con-farro-0/",
+    "title": "",
+    "noticeDate": "27 giugno 2020",
+    "campi": {
+      "data pubblicazione": "27 giugno 2020",
+      "marca": "Bontà dell¿Orto",
+      "denominazione": "ZUPPA CON FARRO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Bontà dell¿Orto",
+    "product": "ZUPPA CON FARRO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bontà dell¿Orto - ZUPPA CON FARRO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_MINISTERO%20_%20Bont%C3%A0%20dell_Orto_1761181341.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "zuppa-con-farro-0",
+    "published": "2020-06-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zuppa-con-verdure-e-farro/",
+    "title": "",
+    "noticeDate": "27 giugno 2020",
+    "campi": {
+      "data pubblicazione": "27 giugno 2020",
+      "marca": "Il Mercato - Carrefour",
+      "denominazione": "ZUPPA CON VERDURE E FARRO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Il Mercato - Carrefour",
+    "product": "ZUPPA CON VERDURE E FARRO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Il Mercato - Carrefour - ZUPPA CON VERDURE E FARRO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_MINISTERO%20_%20Il%20Mercato%20Carrefour_1761181345.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "zuppa-con-verdure-e-farro",
+    "published": "2020-06-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zuppa-con-farro-1/",
+    "title": "",
+    "noticeDate": "27 giugno 2020",
+    "campi": {
+      "data pubblicazione": "27 giugno 2020",
+      "marca": "Euroverde società agricola",
+      "denominazione": "ZUPPA CON FARRO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Euroverde società agricola",
+    "product": "ZUPPA CON FARRO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Euroverde società agricola - ZUPPA CON FARRO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_MINISTERO%20Euroverde_1761181348.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "zuppa-con-farro-1",
+    "published": "2020-06-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-norvegese-affumicato-1/",
+    "title": "",
+    "noticeDate": "26 giugno 2020",
+    "campi": {
+      "data pubblicazione": "26 giugno 2020",
+      "marca": "Starlaks - Vegé",
+      "denominazione": "Salmone norvegese affumicato",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Starlaks - Vegé",
+    "product": "Salmone norvegese affumicato",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Starlaks - Vegé - Salmone norvegese affumicato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Salmone%20norvegese%20affumicato_1761181335.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salmone-norvegese-affumicato-1",
+    "published": "2020-06-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-nostrano-dolce-con-aglio/",
+    "title": "",
+    "noticeDate": "25 giugno 2020",
+    "campi": {
+      "data pubblicazione": "25 giugno 2020",
+      "marca": "MARIGA GIUSEPPE & C. SAS",
+      "denominazione": "SALAME NOSTRANO DOLCE CON AGLIO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "MARIGA GIUSEPPE & C. SAS",
+    "product": "SALAME NOSTRANO DOLCE CON AGLIO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MARIGA GIUSEPPE & C. SAS - SALAME NOSTRANO DOLCE CON AGLIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Salame_Mariga_lotto_170_2020_1761181332.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-nostrano-dolce-con-aglio",
+    "published": "2020-06-25",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/hydroxycut-hardcore-next-gen-e-hydroxycut-hardcore-elite-110-muscletech/",
     "title": "HYDROXYCUT HARDCORE NEXT GEN e HYDROXYCUT HARDCORE ELITE 110 MUSCLETECH",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/integratori-alimentari-con-yohimbe-o-yohimbina-aggiornamento/",
@@ -883,6 +1221,32 @@
     "id": "hydroxycut-hardcore-next-gen-e-hydroxycut-hardcore-elite-110-muscletech",
     "published": "2020-06-05",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/multigrain-di-riso-e-frumento-integrale/",
+    "title": "",
+    "noticeDate": "28 maggio 2020",
+    "campi": {
+      "data pubblicazione": "28 maggio 2020",
+      "marca": "DESPAR VITAL",
+      "denominazione": "MULTIGRAIN DI RISO E FRUMENTO INTEGRALE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "DESPAR VITAL",
+    "product": "MULTIGRAIN DI RISO E FRUMENTO INTEGRALE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DESPAR VITAL - MULTIGRAIN DI RISO E FRUMENTO INTEGRALE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/OSAmodulodirichiamoprodottinonconformi%20_VITAL%20_1__1761181328.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "multigrain-di-riso-e-frumento-integrale",
+    "published": "2020-05-28",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/hydroxycut-harcore-next-gen-hydroxycut-harcore-elite-110-muscletech/",
@@ -905,6 +1269,162 @@
     "id": "hydroxycut-harcore-next-gen-hydroxycut-harcore-elite-110-muscletech",
     "published": "2020-05-27",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aringa-sciocca-aringa-dolce-affumicata-filetti-di-aringa-1/",
+    "title": "",
+    "noticeDate": "26 maggio 2020",
+    "campi": {
+      "data pubblicazione": "26 maggio 2020",
+      "marca": "Borgo del Gusto - Friultrota - Naturaqua",
+      "denominazione": "Aringa Sciocca - Aringa Dolce Affumicata (Filetti di aringa affumicati a freddo)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Borgo del Gusto - Friultrota - Naturaqua",
+    "product": "Aringa Sciocca - Aringa Dolce Affumicata (Filetti di aringa affumicati a freddo)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Borgo del Gusto - Friultrota - Naturaqua - Aringa Sciocca - Aringa Dolce Affumicata (Filetti di aringa affumicati a freddo)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20RICHIAMO_Allerta__423878%20_1761181322.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "aringa-sciocca-aringa-dolce-affumicata-filetti-di-aringa-1",
+    "published": "2020-05-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aringa-sciocca-aringa-dolce-affumicata-filetti-di-aringa-2/",
+    "title": "",
+    "noticeDate": "26 maggio 2020",
+    "campi": {
+      "data pubblicazione": "26 maggio 2020",
+      "marca": "Borgo del Gusto - Friultrota - Naturaqua",
+      "denominazione": "Aringa Sciocca - Aringa Dolce Affumicata (Filetti di aringa affumicati a freddo)",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "Borgo del Gusto - Friultrota - Naturaqua",
+    "product": "Aringa Sciocca - Aringa Dolce Affumicata (Filetti di aringa affumicati a freddo)",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Borgo del Gusto - Friultrota - Naturaqua - Aringa Sciocca - Aringa Dolce Affumicata (Filetti di aringa affumicati a freddo)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20RICHIAMO_Allerta__423878%20_1761181325.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "aringa-sciocca-aringa-dolce-affumicata-filetti-di-aringa-2",
+    "published": "2020-05-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zuppa-di-legumi-e-cereali/",
+    "title": "",
+    "noticeDate": "22 maggio 2020",
+    "campi": {
+      "data pubblicazione": "22 maggio 2020",
+      "marca": "CONSILIA",
+      "denominazione": "ZUPPA DI LEGUMI E CEREALI",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CONSILIA",
+    "product": "ZUPPA DI LEGUMI E CEREALI",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONSILIA - ZUPPA DI LEGUMI E CEREALI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Consilia_1761181312.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "zuppa-di-legumi-e-cereali",
+    "published": "2020-05-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zuppa-con-legumi-e-cereali/",
+    "title": "",
+    "noticeDate": "22 maggio 2020",
+    "campi": {
+      "data pubblicazione": "22 maggio 2020",
+      "marca": "ZERBINATI",
+      "denominazione": "ZUPPA CON LEGUMI E CEREALI",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ZERBINATI",
+    "product": "ZUPPA CON LEGUMI E CEREALI",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ZERBINATI - ZUPPA CON LEGUMI E CEREALI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_marchio_Zerbinati_1761181316.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "zuppa-con-legumi-e-cereali",
+    "published": "2020-05-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taleggio-dop-cademartori-200g/",
+    "title": "",
+    "noticeDate": "22 maggio 2020",
+    "campi": {
+      "data pubblicazione": "22 maggio 2020",
+      "marca": "CADEMARTORI",
+      "denominazione": "Taleggio DOP Cademartori 200g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CADEMARTORI",
+    "product": "Taleggio DOP Cademartori 200g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CADEMARTORI - Taleggio DOP Cademartori 200g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20galbani%20Taleggio%20Cademartori%20200g_1761181319.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "taleggio-dop-cademartori-200g",
+    "published": "2020-05-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zuppa-di-verdure-con-legumi-e-cereali/",
+    "title": "",
+    "noticeDate": "19 maggio 2020",
+    "campi": {
+      "data pubblicazione": "19 maggio 2020",
+      "marca": "ESSELUNGA SPA",
+      "denominazione": "ZUPPA DI VERDURE CON LEGUMI E CEREALI",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ESSELUNGA SPA",
+    "product": "ZUPPA DI VERDURE CON LEGUMI E CEREALI",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ESSELUNGA SPA - ZUPPA DI VERDURE CON LEGUMI E CEREALI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/zuppa%20legumi%20Esselunga_1761181309.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "zuppa-di-verdure-con-legumi-e-cereali",
+    "published": "2020-05-19",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pomodoro-datterino-salsa-pronta-1/",
