@@ -865,6 +865,474 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-russa-100-vegetale/",
+    "title": "",
+    "noticeDate": "18 settembre 2020",
+    "campi": {
+      "data pubblicazione": "18 settembre 2020",
+      "marca": "GASTRONOMICA ROSCIO SRL",
+      "denominazione": "INSALATA RUSSA 100% VEGETALE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "GASTRONOMICA ROSCIO SRL",
+    "product": "INSALATA RUSSA 100% VEGETALE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GASTRONOMICA ROSCIO SRL - INSALATA RUSSA 100% VEGETALE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1761182185.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "insalata-russa-100-vegetale",
+    "published": "2020-09-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamini-stags/",
+    "title": "",
+    "noticeDate": "17 settembre 2020",
+    "campi": {
+      "data pubblicazione": "17 settembre 2020",
+      "marca": "BON-TON SALUMI DI BARABINO SANTINO & C. SAS",
+      "denominazione": "SALAMINI STAG.S.",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "BON-TON SALUMI DI BARABINO SANTINO & C. SAS",
+    "product": "SALAMINI STAG.S.",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BON-TON SALUMI DI BARABINO SANTINO & C. SAS - SALAMINI STAG.S.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20Monte%20Penice_1761182183.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salamini-stags",
+    "published": "2020-09-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cookie-avena-mirtillo-cioccolato/",
+    "title": "",
+    "noticeDate": "16 settembre 2020",
+    "campi": {
+      "data pubblicazione": "16 settembre 2020",
+      "marca": "giusto senza glutine giuliani",
+      "denominazione": "cookie avena mirtillo cioccolato",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "giusto senza glutine giuliani",
+    "product": "cookie avena mirtillo cioccolato",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo giusto senza glutine giuliani - cookie avena mirtillo cioccolato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cookies%20SG_GIUSTO%20Senza%20Glutine%20avena%20mirtillo%20cioccolato_1761182173.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cookie-avena-mirtillo-cioccolato",
+    "published": "2020-09-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cookie-avena-cocco-arancia/",
+    "title": "",
+    "noticeDate": "16 settembre 2020",
+    "campi": {
+      "data pubblicazione": "16 settembre 2020",
+      "marca": "giusto senza glutine giuliani",
+      "denominazione": "cookie avena cocco arancia",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "giusto senza glutine giuliani",
+    "product": "cookie avena cocco arancia",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo giusto senza glutine giuliani - cookie avena cocco arancia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cookies%20SG_GIUSTO%20Senza%20Glutine%20avena%20cocco%20arancia_1761182174.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cookie-avena-cocco-arancia",
+    "published": "2020-09-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cookie-avena-cocco-arancia-0/",
+    "title": "",
+    "noticeDate": "16 settembre 2020",
+    "campi": {
+      "data pubblicazione": "16 settembre 2020",
+      "marca": "giusto senza glutine giuliani",
+      "denominazione": "cookie avena cocco arancia",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "giusto senza glutine giuliani",
+    "product": "cookie avena cocco arancia",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo giusto senza glutine giuliani - cookie avena cocco arancia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cookies%20SG_GIUSTO%20Senza%20Glutine%20avena%20cocco%20arancia_1761182176.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cookie-avena-cocco-arancia-0",
+    "published": "2020-09-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cookie-avena-cocco-arancia-1/",
+    "title": "",
+    "noticeDate": "16 settembre 2020",
+    "campi": {
+      "data pubblicazione": "16 settembre 2020",
+      "marca": "GIUSTO Senza Glutine",
+      "denominazione": "COOKIE AVENA COCCO ARANCIA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "GIUSTO Senza Glutine",
+    "product": "COOKIE AVENA COCCO ARANCIA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GIUSTO Senza Glutine - COOKIE AVENA COCCO ARANCIA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/200915_modulo%20MinSal_Cookies%20SG%20cocco_ciocco_arancia_L23042021_1761182179.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cookie-avena-cocco-arancia-1",
+    "published": "2020-09-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cookie-avena-mirtilli-rossi-e-cioccolato/",
+    "title": "",
+    "noticeDate": "16 settembre 2020",
+    "campi": {
+      "data pubblicazione": "16 settembre 2020",
+      "marca": "GIUSTO Senza Glutine",
+      "denominazione": "COOKIE AVENA MIRTILLI ROSSI E CIOCCOLATO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "GIUSTO Senza Glutine",
+    "product": "COOKIE AVENA MIRTILLI ROSSI E CIOCCOLATO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GIUSTO Senza Glutine - COOKIE AVENA MIRTILLI ROSSI E CIOCCOLATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/200915_modulo%20MinSal_Cookies%20SG%20mirt%20rossi_ciocco_L03052021_1761182180.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cookie-avena-mirtilli-rossi-e-cioccolato",
+    "published": "2020-09-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-norvegese-affumicato-50g/",
+    "title": "",
+    "noticeDate": "14 settembre 2020",
+    "campi": {
+      "data pubblicazione": "14 settembre 2020",
+      "marca": "UNES",
+      "denominazione": "SALMONE NORVEGESE AFFUMICATO - 50g.",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "UNES",
+    "product": "SALMONE NORVEGESE AFFUMICATO - 50g.",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo UNES - SALMONE NORVEGESE AFFUMICATO - 50g.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Salmone_50g_Unes_Modello_Richiamo_1761182171.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salmone-norvegese-affumicato-50g",
+    "published": "2020-09-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-norvegese-affumicato-2/",
+    "title": "",
+    "noticeDate": "11 settembre 2020",
+    "campi": {
+      "data pubblicazione": "11 settembre 2020",
+      "marca": "UNES",
+      "denominazione": "SALMONE NORVEGESE AFFUMICATO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "UNES",
+    "product": "SALMONE NORVEGESE AFFUMICATO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo UNES - SALMONE NORVEGESE AFFUMICATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_UNES_1761182169.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salmone-norvegese-affumicato-2",
+    "published": "2020-09-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-insalata-capricciosa/",
+    "title": "",
+    "noticeDate": "10 settembre 2020",
+    "campi": {
+      "data pubblicazione": "10 settembre 2020",
+      "marca": "PROMAR",
+      "denominazione": "PREPARATO PER INSALATA CAPRICCIOSA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "PROMAR",
+    "product": "PREPARATO PER INSALATA CAPRICCIOSA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PROMAR - PREPARATO PER INSALATA CAPRICCIOSA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20Promar_RivamarSrl_PREPARATO%20PER%20INSALATA%20CAPRICCIOSA_1761182165.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-insalata-capricciosa",
+    "published": "2020-09-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zenzero-polvere-0/",
+    "title": "",
+    "noticeDate": "10 settembre 2020",
+    "campi": {
+      "data pubblicazione": "10 settembre 2020",
+      "marca": "LUCROM SNC DI SILVIA E FABRIZIO LUCINI",
+      "denominazione": "zenzero polvere",
+      "motivo della segnalazione": "Revoca per analisi di revisione favorevole"
+    },
+    "brand": "LUCROM SNC DI SILVIA E FABRIZIO LUCINI",
+    "product": "zenzero polvere",
+    "reasonShort": "Revoca per analisi di revisione favorevole",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LUCROM SNC DI SILVIA E FABRIZIO LUCINI - zenzero polvere",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20RICHIAMO%20LUCROM_1761182167.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "zenzero-polvere-0",
+    "published": "2020-09-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zenzero-polvere-1/",
+    "title": "",
+    "noticeDate": "10 settembre 2020",
+    "campi": {
+      "data pubblicazione": "10 settembre 2020",
+      "marca": "LUCROM SNC DI SILVIA E FABRIZIO LUCINI",
+      "denominazione": "ZENZERO POLVERE",
+      "motivo della segnalazione": "Revoca per analisi di revisione favorevole"
+    },
+    "brand": "LUCROM SNC DI SILVIA E FABRIZIO LUCINI",
+    "product": "ZENZERO POLVERE",
+    "reasonShort": "Revoca per analisi di revisione favorevole",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LUCROM SNC DI SILVIA E FABRIZIO LUCINI - ZENZERO POLVERE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20RICHIAMO%20LUCROM_1761182168.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "zenzero-polvere-1",
+    "published": "2020-09-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cioccolato-ovomaltine-100g/",
+    "title": "",
+    "noticeDate": "9 settembre 2020",
+    "campi": {
+      "data pubblicazione": "9 settembre 2020",
+      "marca": "WANDER",
+      "denominazione": "Cioccolato Ovomaltine 100g",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "WANDER",
+    "product": "Cioccolato Ovomaltine 100g",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo WANDER - Cioccolato Ovomaltine 100g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Medienmitteilung_Wander_Rueckruf_Schokolade_100g_ital_1761181494.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cioccolato-ovomaltine-100g",
+    "published": "2020-09-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cioccolato-ovomaltine-100g-0/",
+    "title": "",
+    "noticeDate": "9 settembre 2020",
+    "campi": {
+      "data pubblicazione": "9 settembre 2020",
+      "marca": "WANDER AG - Suisse",
+      "denominazione": "Cioccolato Ovomaltine 100g",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "WANDER AG - Suisse",
+    "product": "Cioccolato Ovomaltine 100g",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo WANDER AG - Suisse - Cioccolato Ovomaltine 100g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo%20MS%20Ovo_1761182162.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cioccolato-ovomaltine-100g-0",
+    "published": "2020-09-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fondente-noir-cioccolato-fondente-extra-72-cacao/",
+    "title": "",
+    "noticeDate": "3 settembre 2020",
+    "campi": {
+      "data pubblicazione": "3 settembre 2020",
+      "marca": "CONAD S.C.",
+      "denominazione": "FONDENTE NOIR CIOCCOLATO FONDENTE EXTRA 72% CACAO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "CONAD S.C.",
+    "product": "FONDENTE NOIR CIOCCOLATO FONDENTE EXTRA 72% CACAO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONAD S.C. - FONDENTE NOIR CIOCCOLATO FONDENTE EXTRA 72% CACAO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20PRODOTTO%2002%2009%2020%20Conad%20Tav.%20NOIR%20100g_1761181489.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fondente-noir-cioccolato-fondente-extra-72-cacao",
+    "published": "2020-09-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-di-soia-salsa-di-soia-meno-43-sale-salsa-di-soia-dolce/",
+    "title": "",
+    "noticeDate": "28 agosto 2020",
+    "campi": {
+      "data pubblicazione": "28 agosto 2020",
+      "marca": "SUZI WAN",
+      "denominazione": "Salsa di soia, Salsa di soia meno 43 sale, Salsa di soia dolce",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "SUZI WAN",
+    "product": "Salsa di soia, Salsa di soia meno 43 sale, Salsa di soia dolce",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SUZI WAN - Salsa di soia, Salsa di soia meno 43 sale, Salsa di soia dolce",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20salsa%20di%20soia%20SUZI%20WAN_1761181484.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salsa-di-soia-salsa-di-soia-meno-43-sale-salsa-di-soia-dolce",
+    "published": "2020-08-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barrette-noci-del-brasile/",
+    "title": "",
+    "noticeDate": "25 agosto 2020",
+    "campi": {
+      "data pubblicazione": "25 agosto 2020",
+      "marca": "EAT NATURAL",
+      "denominazione": "BARRETTE NOCI DEL BRASILE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "EAT NATURAL",
+    "product": "BARRETTE NOCI DEL BRASILE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo EAT NATURAL - BARRETTE NOCI DEL BRASILE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Noci%20del%20Brasile_1761181474.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "barrette-noci-del-brasile",
+    "published": "2020-08-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barrette-noci-del-brasile-0/",
+    "title": "",
+    "noticeDate": "25 agosto 2020",
+    "campi": {
+      "data pubblicazione": "25 agosto 2020",
+      "marca": "EAT NATURAL",
+      "denominazione": "BARRETTE NOCI DEL BRASILE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "EAT NATURAL",
+    "product": "BARRETTE NOCI DEL BRASILE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo EAT NATURAL - BARRETTE NOCI DEL BRASILE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Noci%20del%20Brasile_1761181479.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "barrette-noci-del-brasile-0",
+    "published": "2020-08-25",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mytilus-galloprovincialis/",
     "title": "",
     "noticeDate": "21 agosto 2020",
@@ -913,6 +1381,58 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "mytilus-galloprovincialis-0",
+    "published": "2020-08-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mytilus-galloprovincialis-1/",
+    "title": "",
+    "noticeDate": "21 agosto 2020",
+    "campi": {
+      "data pubblicazione": "21 agosto 2020",
+      "marca": "MITILI O COZZE",
+      "denominazione": "MYTILUS GALLOPROVINCIALIS",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MITILI O COZZE",
+    "product": "MYTILUS GALLOPROVINCIALIS",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MITILI O COZZE - MYTILUS GALLOPROVINCIALIS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20RICHIAMO%20Ittica%20Allevamenti%20C%C3%A0%20Pellestrina%20Srl_20_43_A_1761181465.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mytilus-galloprovincialis-1",
+    "published": "2020-08-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nodo-del-saio-vaccino/",
+    "title": "",
+    "noticeDate": "21 agosto 2020",
+    "campi": {
+      "data pubblicazione": "21 agosto 2020",
+      "marca": "Caseificio Francesco Rabbia",
+      "denominazione": "Nodo del Saio Vaccino",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Caseificio Francesco Rabbia",
+    "product": "Nodo del Saio Vaccino",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caseificio Francesco Rabbia - Nodo del Saio Vaccino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMONODODELSAIOVACCINO_1761181469.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "nodo-del-saio-vaccino",
     "published": "2020-08-21",
     "source": "operator"
   },
