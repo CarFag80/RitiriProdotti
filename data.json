@@ -2295,6 +2295,318 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/facciamo-festa-con-torta-di-natale-senza-lattosio/",
+    "title": "",
+    "noticeDate": "13 gennaio 2020",
+    "campi": {
+      "data pubblicazione": "13 gennaio 2020",
+      "marca": "BELLI FRESCHI",
+      "denominazione": "FACCIAMO FESTA CON TORTA DI NATALE SENZA LATTOSIO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "BELLI FRESCHI",
+    "product": "FACCIAMO FESTA CON TORTA DI NATALE SENZA LATTOSIO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BELLI FRESCHI - FACCIAMO FESTA CON TORTA DI NATALE SENZA LATTOSIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20FACCIAMO%20FESTA%20CON%20TORTA%20DI%20NATALE%20SENZA%20LATTOSIO_1761180545.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "facciamo-festa-con-torta-di-natale-senza-lattosio",
+    "published": "2020-01-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/organic-peanut-butter-crunchy/",
+    "title": "",
+    "noticeDate": "8 gennaio 2020",
+    "campi": {
+      "data pubblicazione": "8 gennaio 2020",
+      "marca": "CLEARSPRING",
+      "denominazione": "ORGANIC PEANUT BUTTER CRUNCHY",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CLEARSPRING",
+    "product": "ORGANIC PEANUT BUTTER CRUNCHY",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CLEARSPRING - ORGANIC PEANUT BUTTER CRUNCHY",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_2020_0034_1761180540.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "organic-peanut-butter-crunchy",
+    "published": "2020-01-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-prima-qualita/",
+    "title": "",
+    "noticeDate": "31 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "31 dicembre 2019",
+      "marca": "SALUMIFICIO BERTOLETTI SRL",
+      "denominazione": "SALAME PRIMA QUALITA'",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO BERTOLETTI SRL",
+    "product": "SALAME PRIMA QUALITA'",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO BERTOLETTI SRL - SALAME PRIMA QUALITA'",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SALUMIFICIO%20BERTOLETTI_RICHIAMO_1761180535.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-prima-qualita",
+    "published": "2019-12-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/code-di-mazzancolle-tropicali-congelate-0/",
+    "title": "",
+    "noticeDate": "30 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2019",
+      "marca": "LUNA NERA",
+      "denominazione": "CODE DI MAZZANCOLLE TROPICALI CONGELATE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LUNA NERA",
+    "product": "CODE DI MAZZANCOLLE TROPICALI CONGELATE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LUNA NERA - CODE DI MAZZANCOLLE TROPICALI CONGELATE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20code%20di%20mazzancolle%20tropicali_19_1761180531.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "code-di-mazzancolle-tropicali-congelate-0",
+    "published": "2019-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/code-di-mazzancolle-tropicali-congelate/",
+    "title": "",
+    "noticeDate": "27 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "27 dicembre 2019",
+      "marca": "LUNA NERA",
+      "denominazione": "CODE DI MAZZANCOLLE TROPICALI CONGELATE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LUNA NERA",
+    "product": "CODE DI MAZZANCOLLE TROPICALI CONGELATE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LUNA NERA - CODE DI MAZZANCOLLE TROPICALI CONGELATE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20code%20di%20mazzancolle%20tropicali_19_1761180526.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "code-di-mazzancolle-tropicali-congelate",
+    "published": "2019-12-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-classico-gusto-ditalia/",
+    "title": "",
+    "noticeDate": "24 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "24 dicembre 2019",
+      "marca": "Cesare Fiorucci S.p.A.",
+      "denominazione": "Salame classico gusto d'italia",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "Cesare Fiorucci S.p.A.",
+    "product": "Salame classico gusto d'italia",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cesare Fiorucci S.p.A. - Salame classico gusto d'italia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_22053_20783salameclassicoilgustodItalia_1761180514.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salame-classico-gusto-ditalia",
+    "published": "2019-12-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salametto-1/",
+    "title": "",
+    "noticeDate": "24 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "24 dicembre 2019",
+      "marca": "Cesare Fiorucci S.p.A:",
+      "denominazione": "salametto",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "Cesare Fiorucci S.p.A:",
+    "product": "salametto",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cesare Fiorucci S.p.A: - salametto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_20248_1salametto_1761180518.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salametto-1",
+    "published": "2019-12-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salametto-2/",
+    "title": "",
+    "noticeDate": "24 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "24 dicembre 2019",
+      "marca": "Cesare Fiorucci S.p.A.",
+      "denominazione": "salametto",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "Cesare Fiorucci S.p.A.",
+    "product": "salametto",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cesare Fiorucci S.p.A. - salametto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_20488_2salamettoconintegrazione_1761180522.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salametto-2",
+    "published": "2019-12-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-alici-olio-di-oliva-gr-150/",
+    "title": "",
+    "noticeDate": "20 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "20 dicembre 2019",
+      "marca": "CONAD",
+      "denominazione": "FILETTI DI ALICI IN OLIO DI OLIVA GR. 150",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CONAD",
+    "product": "FILETTI DI ALICI IN OLIO DI OLIVA GR. 150",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONAD - FILETTI DI ALICI IN OLIO DI OLIVA GR. 150",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20Zarotti%20Spa%20_%20Filetti%20alici%20in%20Olio%20di%20oliva%20150%20g.%20lotto%20MT189_1761180506.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filetti-di-alici-olio-di-oliva-gr-150",
+    "published": "2019-12-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-1/",
+    "title": "",
+    "noticeDate": "20 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "20 dicembre 2019",
+      "marca": "MACELLERIA PERUCCHETTI GIUSEPPE & C SNC",
+      "denominazione": "SALAME",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "MACELLERIA PERUCCHETTI GIUSEPPE & C SNC",
+    "product": "SALAME",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MACELLERIA PERUCCHETTI GIUSEPPE & C SNC - SALAME",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761180509.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-1",
+    "published": "2019-12-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/capsule-compatibili-dolce-gusto-vedi-cartello-di-richiamo/",
+    "title": "",
+    "noticeDate": "18 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "18 dicembre 2019",
+      "marca": "Fortisimo",
+      "denominazione": "Capsule compatibili Dolce Gusto: vedi cartello di richiamo",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Fortisimo",
+    "product": "Capsule compatibili Dolce Gusto: vedi cartello di richiamo",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fortisimo - Capsule compatibili Dolce Gusto: vedi cartello di richiamo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20Beyers%20Fortisimo_1761180497.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "capsule-compatibili-dolce-gusto-vedi-cartello-di-richiamo",
+    "published": "2019-12-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nestle-vera-naturae-0/",
+    "title": "",
+    "noticeDate": "18 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "18 dicembre 2019",
+      "marca": "Sanpellegrino S.p.A",
+      "denominazione": "Nestlè Vera Naturae",
+      "motivo della segnalazione": "Revoca per analisi di revisione favorevole"
+    },
+    "brand": "Sanpellegrino S.p.A",
+    "product": "Nestlè Vera Naturae",
+    "reasonShort": "Revoca per analisi di revisione favorevole",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sanpellegrino S.p.A - Nestlè Vera Naturae",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revocarichiamos.pellegrino_1761180502.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "nestle-vera-naturae-0",
+    "published": "2019-12-18",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/capsule-compatibili-dolce-gusto-caffelatte-dolce-gusto-cioccolosa/",
     "title": "",
     "noticeDate": "16 dicembre 2019",
@@ -2317,6 +2629,214 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "capsule-compatibili-dolce-gusto-caffelatte-dolce-gusto-cioccolosa",
+    "published": "2019-12-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/capsule-compatibili-dolce-gusto-vedi-cartello-di-richiamo-allegato/",
+    "title": "",
+    "noticeDate": "16 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "16 dicembre 2019",
+      "marca": "AMAZON EU SARL SUCCURSALE ITALIANA",
+      "denominazione": "capsule compatibili Dolce Gusto: vedi cartello di richiamo allegato",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "AMAZON EU SARL SUCCURSALE ITALIANA",
+    "product": "capsule compatibili Dolce Gusto: vedi cartello di richiamo allegato",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AMAZON EU SARL SUCCURSALE ITALIANA - capsule compatibili Dolce Gusto: vedi cartello di richiamo allegato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Amazon_Italia_13122019_1761180467.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "capsule-compatibili-dolce-gusto-vedi-cartello-di-richiamo-allegato",
+    "published": "2019-12-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/capsule-compatibili-dolce-gusto-cioccolata-dark-x-16caps-dolce/",
+    "title": "",
+    "noticeDate": "16 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "16 dicembre 2019",
+      "marca": "BONINI S.R.L.",
+      "denominazione": "capsule compatibili Dolce Gusto: CIOCCOLATA DARK X 16CAPS, DOLCE GUSTO CORTADO X 16CAPS",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "BONINI S.R.L.",
+    "product": "capsule compatibili Dolce Gusto: CIOCCOLATA DARK X 16CAPS, DOLCE GUSTO CORTADO X 16CAPS",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BONINI S.R.L. - capsule compatibili Dolce Gusto: CIOCCOLATA DARK X 16CAPS, DOLCE GUSTO CORTADO X 16CAPS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Bonini_13122019_1761180471.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "capsule-compatibili-dolce-gusto-cioccolata-dark-x-16caps-dolce",
+    "published": "2019-12-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coind-societa-cooperativa-caffeleoni/",
+    "title": "",
+    "noticeDate": "16 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "16 dicembre 2019",
+      "marca": "CAFFE' LEONI",
+      "denominazione": "COIND SOCIETA' COOPERATIVA - CAFFE'LEONI",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "CAFFE' LEONI",
+    "product": "COIND SOCIETA' COOPERATIVA - CAFFE'LEONI",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CAFFE' LEONI - COIND SOCIETA' COOPERATIVA - CAFFE'LEONI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Coind_Cafe_leoni_13122019_1761180474.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "coind-societa-cooperativa-caffeleoni",
+    "published": "2019-12-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/capsule-compatibili-dolce-gusto-vedi-cartello-di-richiamo-0/",
+    "title": "",
+    "noticeDate": "16 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "16 dicembre 2019",
+      "marca": "CAFFE'CONSUELO",
+      "denominazione": "Capsule compatibili Dolce Gusto: vedi cartello di richiamo allegato",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "CAFFE'CONSUELO",
+    "product": "Capsule compatibili Dolce Gusto: vedi cartello di richiamo allegato",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CAFFE'CONSUELO - Capsule compatibili Dolce Gusto: vedi cartello di richiamo allegato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Coind_Caff%C3%A8_Consuelo_13122019_1761180478.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "capsule-compatibili-dolce-gusto-vedi-cartello-di-richiamo-0",
+    "published": "2019-12-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/capsule-compatibili-dolce-gusto-vedi-cartello-richiamo-allegato/",
+    "title": "",
+    "noticeDate": "16 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "16 dicembre 2019",
+      "marca": "CONAD",
+      "denominazione": "Capsule compatibili Dolce Gusto: vedi cartello richiamo allegato",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "CONAD",
+    "product": "Capsule compatibili Dolce Gusto: vedi cartello richiamo allegato",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONAD - Capsule compatibili Dolce Gusto: vedi cartello richiamo allegato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Coind_Conad_13122019_1761180482.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "capsule-compatibili-dolce-gusto-vedi-cartello-richiamo-allegato",
+    "published": "2019-12-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/capsule-compatibili-dolce-gusto-vedi-cartello-richiamo-allegato-0/",
+    "title": "",
+    "noticeDate": "16 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "16 dicembre 2019",
+      "marca": "MESETA",
+      "denominazione": "Capsule compatibili Dolce Gusto: vedi cartello richiamo allegato",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "MESETA",
+    "product": "Capsule compatibili Dolce Gusto: vedi cartello richiamo allegato",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MESETA - Capsule compatibili Dolce Gusto: vedi cartello richiamo allegato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Coind_Meseta_13122019_1761180486.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "capsule-compatibili-dolce-gusto-vedi-cartello-richiamo-allegato-0",
+    "published": "2019-12-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/capsule-compatibili-dolce-gusto-vedi-cartello-richiamo-allegato-1/",
+    "title": "",
+    "noticeDate": "16 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "16 dicembre 2019",
+      "marca": "Palombini",
+      "denominazione": "Capsule compatibili Dolce Gusto: vedi cartello richiamo allegato",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Palombini",
+    "product": "Capsule compatibili Dolce Gusto: vedi cartello richiamo allegato",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Palombini - Capsule compatibili Dolce Gusto: vedi cartello richiamo allegato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Daroma_13122019_1761180490.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "capsule-compatibili-dolce-gusto-vedi-cartello-richiamo-allegato-1",
+    "published": "2019-12-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/capsule-compatibili-dolce-gusto-vedi-cartello-richiamo-allegato-2/",
+    "title": "",
+    "noticeDate": "16 dicembre 2019",
+    "campi": {
+      "data pubblicazione": "16 dicembre 2019",
+      "marca": "Fortisimo",
+      "denominazione": "Capsule compatibili Dolce Gusto: vedi cartello richiamo allegato",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Fortisimo",
+    "product": "Capsule compatibili Dolce Gusto: vedi cartello richiamo allegato",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fortisimo - Capsule compatibili Dolce Gusto: vedi cartello richiamo allegato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Supermarcati_Tosano_13122019_1761180494.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "capsule-compatibili-dolce-gusto-vedi-cartello-richiamo-allegato-2",
     "published": "2019-12-16",
     "source": "operator"
   },
