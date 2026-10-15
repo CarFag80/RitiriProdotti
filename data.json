@@ -316,6 +316,396 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/provolone-valpadana-dop-dolce/",
+    "title": "",
+    "noticeDate": "10 novembre 2023",
+    "campi": {
+      "data pubblicazione": "10 novembre 2023",
+      "marca": "Vale",
+      "denominazione": "Provolone Valpadana DOP dolce",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Vale",
+    "product": "Provolone Valpadana DOP dolce",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Vale - Provolone Valpadana DOP dolce",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato_3___MODELLO_DI_RICHIAMO_mod_v2_1761197555.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "provolone-valpadana-dop-dolce",
+    "published": "2023-11-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/provolone-valpadana-dop-dolce-0/",
+    "title": "",
+    "noticeDate": "10 novembre 2023",
+    "campi": {
+      "data pubblicazione": "10 novembre 2023",
+      "marca": "Vale",
+      "denominazione": "Provolone Valpadana DOP dolce",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Vale",
+    "product": "Provolone Valpadana DOP dolce",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Vale - Provolone Valpadana DOP dolce",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO_1761197559.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "provolone-valpadana-dop-dolce-0",
+    "published": "2023-11-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggini-280g/",
+    "title": "",
+    "noticeDate": "6 novembre 2023",
+    "campi": {
+      "data pubblicazione": "6 novembre 2023",
+      "marca": "SAPOR DI CASCINA",
+      "denominazione": "FORMAGGINI 280G",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SAPOR DI CASCINA",
+    "product": "FORMAGGINI 280G",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SAPOR DI CASCINA - FORMAGGINI 280G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761197552.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggini-280g",
+    "published": "2023-11-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/alkawater-integratore-alimentare/",
+    "title": "",
+    "noticeDate": "4 novembre 2023",
+    "campi": {
+      "data pubblicazione": "4 novembre 2023",
+      "marca": "VIVEREALCALINO",
+      "denominazione": "ALKAWATER INTEGRATORE ALIMENTARE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "VIVEREALCALINO",
+    "product": "ALKAWATER INTEGRATORE ALIMENTARE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VIVEREALCALINO - ALKAWATER INTEGRATORE ALIMENTARE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_ALKAWATER_1761197537.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "alkawater-integratore-alimentare",
+    "published": "2023-11-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/alkawater-plus-integratore-alimentare/",
+    "title": "",
+    "noticeDate": "4 novembre 2023",
+    "campi": {
+      "data pubblicazione": "4 novembre 2023",
+      "marca": "VIVEREALCALINO",
+      "denominazione": "ALKAWATER PLUS INTEGRATORE ALIMENTARE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "VIVEREALCALINO",
+    "product": "ALKAWATER PLUS INTEGRATORE ALIMENTARE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VIVEREALCALINO - ALKAWATER PLUS INTEGRATORE ALIMENTARE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_ALKAWATERPLUSIONIZED_1761197540.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "alkawater-plus-integratore-alimentare",
+    "published": "2023-11-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/alkawater-plus-ionized-integratore-alimentare/",
+    "title": "",
+    "noticeDate": "4 novembre 2023",
+    "campi": {
+      "data pubblicazione": "4 novembre 2023",
+      "marca": "VIVEREALCALINO",
+      "denominazione": "ALKAWATER PLUS IONIZED INTEGRATORE ALIMENTARE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "VIVEREALCALINO",
+    "product": "ALKAWATER PLUS IONIZED INTEGRATORE ALIMENTARE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VIVEREALCALINO - ALKAWATER PLUS IONIZED INTEGRATORE ALIMENTARE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_ALKAWATERPLUSIONIZED_1761197543.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "alkawater-plus-ionized-integratore-alimentare",
+    "published": "2023-11-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/alkawater-original-formula/",
+    "title": "",
+    "noticeDate": "4 novembre 2023",
+    "campi": {
+      "data pubblicazione": "4 novembre 2023",
+      "marca": "VIVEREALCALINO",
+      "denominazione": "ALKAWATER ORIGINAL FORMULA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "VIVEREALCALINO",
+    "product": "ALKAWATER ORIGINAL FORMULA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VIVEREALCALINO - ALKAWATER ORIGINAL FORMULA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamoALKAWATERORIGINALFORMULA_1761197546.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "alkawater-original-formula",
+    "published": "2023-11-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/waterlife-integratore/",
+    "title": "",
+    "noticeDate": "4 novembre 2023",
+    "campi": {
+      "data pubblicazione": "4 novembre 2023",
+      "marca": "VITYA",
+      "denominazione": "WATERLIFE INTEGRATORE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "VITYA",
+    "product": "WATERLIFE INTEGRATORE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VITYA - WATERLIFE INTEGRATORE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_WATERLIFE_1761197549.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "waterlife-integratore",
+    "published": "2023-11-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-mais-0/",
+    "title": "",
+    "noticeDate": "3 novembre 2023",
+    "campi": {
+      "data pubblicazione": "3 novembre 2023",
+      "marca": "Molino Riva S.r.l.",
+      "denominazione": "Farina di mais",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Molino Riva S.r.l.",
+    "product": "Farina di mais",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Molino Riva S.r.l. - Farina di mais",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_Molino%20Riva%20Srl_1761197534.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "farina-di-mais-0",
+    "published": "2023-11-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/broccoli-rosette-400-gr/",
+    "title": "",
+    "noticeDate": "28 ottobre 2023",
+    "campi": {
+      "data pubblicazione": "28 ottobre 2023",
+      "marca": "CUOR DI GELO",
+      "denominazione": "BROCCOLI ROSETTE 400 Gr.",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CUOR DI GELO",
+    "product": "BROCCOLI ROSETTE 400 Gr.",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CUOR DI GELO - BROCCOLI ROSETTE 400 Gr.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20MINISTERIALE%20RICHIAMO_BROCCOLI%20ROSETTE%20400GR_1761197531.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "broccoli-rosette-400-gr",
+    "published": "2023-10-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/integratire-vivaflora-benessere-intestinale-150-cpr-super-diet/",
+    "title": "",
+    "noticeDate": "27 ottobre 2023",
+    "campi": {
+      "data pubblicazione": "27 ottobre 2023",
+      "marca": "SUPER DIET",
+      "denominazione": "INTEGRATIRE VIVAFLORA BENESSERE INTESTINALE 150 CPR - SUPER DIET",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SUPER DIET",
+    "product": "INTEGRATIRE VIVAFLORA BENESSERE INTESTINALE 150 CPR - SUPER DIET",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SUPER DIET - INTEGRATIRE VIVAFLORA BENESSERE INTESTINALE 150 CPR - SUPER DIET",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20_1761197525.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "integratire-vivaflora-benessere-intestinale-150-cpr-super-diet",
+    "published": "2023-10-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamino-tasty-ps/",
+    "title": "",
+    "noticeDate": "27 ottobre 2023",
+    "campi": {
+      "data pubblicazione": "27 ottobre 2023",
+      "marca": "SAN BONO S.R.L. (IT 629 L CE)",
+      "denominazione": "SALAMINO TASTY P.S.",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SAN BONO S.R.L. (IT 629 L CE)",
+    "product": "SALAMINO TASTY P.S.",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SAN BONO S.R.L. (IT 629 L CE) - SALAMINO TASTY P.S.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20Richiamo_1761197528.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salamino-tasty-ps",
+    "published": "2023-10-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-100-vegetale-150-g/",
+    "title": "",
+    "noticeDate": "24 ottobre 2023",
+    "campi": {
+      "data pubblicazione": "24 ottobre 2023",
+      "marca": "Biffi",
+      "denominazione": "Pesto 100% vegetale 150 g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Biffi",
+    "product": "Pesto 100% vegetale 150 g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Biffi - Pesto 100% vegetale 150 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo_1761197523.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pesto-100-vegetale-150-g",
+    "published": "2023-10-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tempeh-biologico/",
+    "title": "",
+    "noticeDate": "19 ottobre 2023",
+    "campi": {
+      "data pubblicazione": "19 ottobre 2023",
+      "marca": "VEGGIE DESPAR",
+      "denominazione": "TEMPEH BIOLOGICO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "VEGGIE DESPAR",
+    "product": "TEMPEH BIOLOGICO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VEGGIE DESPAR - TEMPEH BIOLOGICO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Ministeriale%20Tempeh%20Biologico_1761197520.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tempeh-biologico",
+    "published": "2023-10-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-colato-magro-senza-lattosio/",
+    "title": "",
+    "noticeDate": "17 ottobre 2023",
+    "campi": {
+      "data pubblicazione": "17 ottobre 2023",
+      "marca": "Welless senza lattosio",
+      "denominazione": "Yogurt colato magro senza lattosio",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Welless senza lattosio",
+    "product": "Yogurt colato magro senza lattosio",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Welless senza lattosio - Yogurt colato magro senza lattosio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/116894_Cartello%20di%20richiamo%20PV_1761197517.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "yogurt-colato-magro-senza-lattosio",
+    "published": "2023-10-17",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratori-alimentari-epimedyum-macun-bitkisel-karisimli-e-wonderful/",
     "title": "Integratori alimentari",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-presenza-di-sildenafil-integratori-alimentari/",
@@ -343,6 +733,136 @@
     "id": "integratori-alimentari-epimedyum-macun-bitkisel-karisimli-e-wonderful",
     "published": "2023-10-09",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-saporito-delle-valli/",
+    "title": "",
+    "noticeDate": "9 ottobre 2023",
+    "campi": {
+      "data pubblicazione": "9 ottobre 2023",
+      "marca": "LATTERIA SOC DI CIVIDALE E VALLI DEL NATISONE SCA",
+      "denominazione": "FORMAGGIO SAPORITO DELLE VALLI",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LATTERIA SOC DI CIVIDALE E VALLI DEL NATISONE SCA",
+    "product": "FORMAGGIO SAPORITO DELLE VALLI",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LATTERIA SOC DI CIVIDALE E VALLI DEL NATISONE SCA - FORMAGGIO SAPORITO DELLE VALLI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RITIRO%20Saporito%20delle%20Valli%20lotto%2003%2007%202023_1761197515.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-saporito-delle-valli",
+    "published": "2023-10-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-carnaroli-6/",
+    "title": "",
+    "noticeDate": "6 ottobre 2023",
+    "campi": {
+      "data pubblicazione": "6 ottobre 2023",
+      "marca": "Lidl Italia srl",
+      "denominazione": "Riso Carnaroli",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Lidl Italia srl",
+    "product": "Riso Carnaroli",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Lidl Italia srl - Riso Carnaroli",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20_%20MODELLO_DI_RICHIAMO%20mod%20v2_1761197509.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "riso-carnaroli-6",
+    "published": "2023-10-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-carnaroli-7/",
+    "title": "",
+    "noticeDate": "6 ottobre 2023",
+    "campi": {
+      "data pubblicazione": "6 ottobre 2023",
+      "marca": "Carosio",
+      "denominazione": "Riso Carnaroli",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Carosio",
+    "product": "Riso Carnaroli",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Carosio - Riso Carnaroli",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20_%20MODELLO_DI_RICHIAMO%20mod%20v2_1761197512.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "riso-carnaroli-7",
+    "published": "2023-10-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/condimento-insalate-di-pasta/",
+    "title": "",
+    "noticeDate": "5 ottobre 2023",
+    "campi": {
+      "data pubblicazione": "5 ottobre 2023",
+      "marca": "COOP",
+      "denominazione": "CONDIMENTO PER INSALATE DI PASTA",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "COOP",
+    "product": "CONDIMENTO PER INSALATE DI PASTA",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo COOP - CONDIMENTO PER INSALATE DI PASTA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Coop%20cartello%20richiamo_1761197507.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "condimento-insalate-di-pasta",
+    "published": "2023-10-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hamburgher-di-bovinorazza-chianina/",
+    "title": "",
+    "noticeDate": "4 ottobre 2023",
+    "campi": {
+      "data pubblicazione": "4 ottobre 2023",
+      "marca": "///",
+      "denominazione": "HAMBURGHER DI BOVINORAZZA CHIANINA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "///",
+    "product": "HAMBURGHER DI BOVINORAZZA CHIANINA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo /// - HAMBURGHER DI BOVINORAZZA CHIANINA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%203%20_%20MODELLO_DI_RICHIAMO%20mod%20v2_1761197504.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "hamburgher-di-bovinorazza-chianina",
+    "published": "2023-10-04",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/condimento-insalata-di-pasta/",
