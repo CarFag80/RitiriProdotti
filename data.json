@@ -1721,6 +1721,448 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/biscotti-al-farro-altoatesino-dinkelspitzbuben-aus-sudtirol/",
+    "title": "",
+    "noticeDate": "17 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "17 febbraio 2023",
+      "marca": "Panificio Bäckerei Moser KG der Moser Ruth & Co; Valdaora",
+      "denominazione": "Biscotti al farro altoatesino-Dinkelspitzbuben aus Südtirol",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Panificio Bäckerei Moser KG der Moser Ruth & Co; Valdaora",
+    "product": "Biscotti al farro altoatesino-Dinkelspitzbuben aus Südtirol",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Panificio Bäckerei Moser KG der Moser Ruth & Co; Valdaora - Biscotti al farro altoatesino-Dinkelspitzbuben aus Südtirol",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo_Panificio%20MOSER_1761193834.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "biscotti-al-farro-altoatesino-dinkelspitzbuben-aus-sudtirol",
+    "published": "2023-02-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-con-basilico-genovese-dop-senzaglio-biologico/",
+    "title": "",
+    "noticeDate": "17 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "17 febbraio 2023",
+      "marca": "Esselunga Bio",
+      "denominazione": "Pesto con basilico genovese DOP senz'aglio biologico",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Esselunga Bio",
+    "product": "Pesto con basilico genovese DOP senz'aglio biologico",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Esselunga Bio - Pesto con basilico genovese DOP senz'aglio biologico",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761193835.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pesto-con-basilico-genovese-dop-senzaglio-biologico",
+    "published": "2023-02-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-scelto-500-gr/",
+    "title": "",
+    "noticeDate": "17 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "17 febbraio 2023",
+      "marca": "FRESCHI PER TE",
+      "denominazione": "PROSCIUTTO COTTO SCELTO 500 gr",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "FRESCHI PER TE",
+    "product": "PROSCIUTTO COTTO SCELTO 500 gr",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FRESCHI PER TE - PROSCIUTTO COTTO SCELTO 500 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20_%20Prosciutto%20scelto%20500g_1761193837.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "prosciutto-cotto-scelto-500-gr",
+    "published": "2023-02-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/rasily-supari/",
+    "title": "",
+    "noticeDate": "16 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "16 febbraio 2023",
+      "marca": "Shalimar",
+      "denominazione": "Rasily Supari",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Shalimar",
+    "product": "Rasily Supari",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Shalimar - Rasily Supari",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo_1761193823.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "rasily-supari",
+    "published": "2023-02-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tulsi/",
+    "title": "",
+    "noticeDate": "16 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "16 febbraio 2023",
+      "marca": "Shalimar",
+      "denominazione": "Tulsi",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Shalimar",
+    "product": "Tulsi",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Shalimar - Tulsi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%201_1761193824.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tulsi",
+    "published": "2023-02-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/jumbo-pack-sweet-supari/",
+    "title": "",
+    "noticeDate": "16 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "16 febbraio 2023",
+      "marca": "Bombay",
+      "denominazione": "Jumbo Pack Sweet Supari",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Bombay",
+    "product": "Jumbo Pack Sweet Supari",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bombay - Jumbo Pack Sweet Supari",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Carello%20di%20Richiamo%202_1761193826.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "jumbo-pack-sweet-supari",
+    "published": "2023-02-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/biscotti-frolla-mini-spitzbuben-250-gr/",
+    "title": "",
+    "noticeDate": "16 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "16 febbraio 2023",
+      "marca": "Panificio Harrasser srl",
+      "denominazione": "Biscotti frolla- Mini-Spitzbuben 250 gr.",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Panificio Harrasser srl",
+    "product": "Biscotti frolla- Mini-Spitzbuben 250 gr.",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Panificio Harrasser srl - Biscotti frolla- Mini-Spitzbuben 250 gr.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Harrasser_1761193827.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "biscotti-frolla-mini-spitzbuben-250-gr",
+    "published": "2023-02-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-aq-750g/",
+    "title": "",
+    "noticeDate": "16 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "16 febbraio 2023",
+      "marca": "Sapor di cascina",
+      "denominazione": "Prosciutto cotto A.Q. 750g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Sapor di cascina",
+    "product": "Prosciutto cotto A.Q. 750g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sapor di cascina - Prosciutto cotto A.Q. 750g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/penny%20modello%20rev2%20scad%2021.02_1761193828.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "prosciutto-cotto-aq-750g",
+    "published": "2023-02-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-alta-qualita/",
+    "title": "",
+    "noticeDate": "16 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "16 febbraio 2023",
+      "marca": "La Bottega del Gusto",
+      "denominazione": "Prosciutto cotto alta qualità",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "La Bottega del Gusto",
+    "product": "Prosciutto cotto alta qualità",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo La Bottega del Gusto - Prosciutto cotto alta qualità",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Eurospin%20cartello%20_1__1761193830.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "prosciutto-cotto-alta-qualita",
+    "published": "2023-02-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-aq-750g-0/",
+    "title": "",
+    "noticeDate": "16 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "16 febbraio 2023",
+      "marca": "Sapor di cascina",
+      "denominazione": "Prosciutto cotto A.Q. 750g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Sapor di cascina",
+    "product": "Prosciutto cotto A.Q. 750g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sapor di cascina - Prosciutto cotto A.Q. 750g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/penny%20Market%20Sapor%20di%20cascina%20scad%2020.02_1761193831.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "prosciutto-cotto-aq-750g-0",
+    "published": "2023-02-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-tranci/",
+    "title": "",
+    "noticeDate": "16 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "16 febbraio 2023",
+      "marca": "Motta",
+      "denominazione": "Prosciutto cotto a tranci",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Motta",
+    "product": "Prosciutto cotto a tranci",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Motta - Prosciutto cotto a tranci",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Maxid%C3%AC%20Motta_1761193832.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "prosciutto-cotto-tranci",
+    "published": "2023-02-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mandorle-sgusciate-0/",
+    "title": "",
+    "noticeDate": "14 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "14 febbraio 2023",
+      "marca": "DATTILO",
+      "denominazione": "Mandorle sgusciate",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DATTILO",
+    "product": "Mandorle sgusciate",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DATTILO - Mandorle sgusciate",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20bustine%2040g_1761193819.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mandorle-sgusciate-0",
+    "published": "2023-02-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mandorle-sgusciate-1/",
+    "title": "",
+    "noticeDate": "14 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "14 febbraio 2023",
+      "marca": "Movida catering",
+      "denominazione": "mandorle sgusciate",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Movida catering",
+    "product": "mandorle sgusciate",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Movida catering - mandorle sgusciate",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20secchiello%20700g_1_1761193820.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mandorle-sgusciate-1",
+    "published": "2023-02-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mandorle-sgusciate-2/",
+    "title": "",
+    "noticeDate": "14 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "14 febbraio 2023",
+      "marca": "Movida catering",
+      "denominazione": "mandorle sgusciate",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Movida catering",
+    "product": "mandorle sgusciate",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Movida catering - mandorle sgusciate",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20secchiello.%201000g_1761193821.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mandorle-sgusciate-2",
+    "published": "2023-02-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mandorle-sgusciate-3/",
+    "title": "",
+    "noticeDate": "14 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "14 febbraio 2023",
+      "marca": "I&D S.r.l.",
+      "denominazione": "mandorle sgusciate",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "I&D S.r.l.",
+    "product": "mandorle sgusciate",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo I&D S.r.l. - mandorle sgusciate",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20vaschette%20da%20200%20_%20400%20g_1_1761193822.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mandorle-sgusciate-3",
+    "published": "2023-02-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinaci-italiani-con-condimento-e-mozzarella-surgelati/",
+    "title": "",
+    "noticeDate": "13 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "13 febbraio 2023",
+      "marca": "Decò Italia S.c.a.r.l",
+      "denominazione": "spinaci italiani con condimento e mozzarella surgelati",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Decò Italia S.c.a.r.l",
+    "product": "spinaci italiani con condimento e mozzarella surgelati",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Decò Italia S.c.a.r.l - spinaci italiani con condimento e mozzarella surgelati",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Revoca_1__1761193206.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spinaci-italiani-con-condimento-e-mozzarella-surgelati",
+    "published": "2023-02-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-ricco-con-passato-surgelato/",
+    "title": "",
+    "noticeDate": "13 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "13 febbraio 2023",
+      "marca": "Bonduelle Italia srl",
+      "denominazione": "Minestrone ricco con passato surgelato",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Bonduelle Italia srl",
+    "product": "Minestrone ricco con passato surgelato",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bonduelle Italia srl - Minestrone ricco con passato surgelato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20del%20Ministero%20della%20Salute%20per%20il%20Richiamo%20prodotto%20_%20Minestrone%20Ricco%20Bonduelle_1761193211.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "minestrone-ricco-con-passato-surgelato",
+    "published": "2023-02-13",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mayo-di-soya-senza-uova-da-agricoltura-biologica/",
     "title": "",
     "noticeDate": "9 febbraio 2023",
@@ -1743,6 +2185,84 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "mayo-di-soya-senza-uova-da-agricoltura-biologica",
+    "published": "2023-02-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/brownie-al-cioccolato-fondente/",
+    "title": "",
+    "noticeDate": "9 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "9 febbraio 2023",
+      "marca": "EUROCHEF ITALIA SPA",
+      "denominazione": "BROWNIE AL CIOCCOLATO FONDENTE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "EUROCHEF ITALIA SPA",
+    "product": "BROWNIE AL CIOCCOLATO FONDENTE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo EUROCHEF ITALIA SPA - BROWNIE AL CIOCCOLATO FONDENTE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%201_1761193191.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "brownie-al-cioccolato-fondente",
+    "published": "2023-02-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/brownie-al-cioccolato-fondente-0/",
+    "title": "",
+    "noticeDate": "9 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "9 febbraio 2023",
+      "marca": "EUROCHEF ITALIA SPA",
+      "denominazione": "BROWNIE AL CIOCCOLATO FONDENTE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "EUROCHEF ITALIA SPA",
+    "product": "BROWNIE AL CIOCCOLATO FONDENTE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo EUROCHEF ITALIA SPA - BROWNIE AL CIOCCOLATO FONDENTE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%202%20_1__1761193196.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "brownie-al-cioccolato-fondente-0",
+    "published": "2023-02-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/brownie-al-cioccolato-fondente-1/",
+    "title": "",
+    "noticeDate": "9 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "9 febbraio 2023",
+      "marca": "EUROCHEF ITALIA SPA",
+      "denominazione": "BROWNIE AL CIOCCOLATO FONDENTE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "EUROCHEF ITALIA SPA",
+    "product": "BROWNIE AL CIOCCOLATO FONDENTE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo EUROCHEF ITALIA SPA - BROWNIE AL CIOCCOLATO FONDENTE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%203%20_2__1761193201.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "brownie-al-cioccolato-fondente-1",
     "published": "2023-02-09",
     "source": "operator"
   },
