@@ -372,6 +372,344 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cupcake-diplick-40g/",
+    "title": "",
+    "noticeDate": "19 luglio 2023",
+    "campi": {
+      "data pubblicazione": "19 luglio 2023",
+      "marca": "Star Sweet",
+      "denominazione": "Cupcake Dip&Lick 40g",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Star Sweet",
+    "product": "Cupcake Dip&Lick 40g",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Star Sweet - Cupcake Dip&Lick 40g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20aggiornato%20Cupcake%20dip_lick_1761196760.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cupcake-diplick-40g",
+    "published": "2023-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/robiola-di-eros-pura-capra-late-crudo/",
+    "title": "",
+    "noticeDate": "19 luglio 2023",
+    "campi": {
+      "data pubblicazione": "19 luglio 2023",
+      "marca": "LA CASERA SRL",
+      "denominazione": "ROBIOLA DI EROS PURA CAPRA LATE CRUDO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LA CASERA SRL",
+    "product": "ROBIOLA DI EROS PURA CAPRA LATE CRUDO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA CASERA SRL - ROBIOLA DI EROS PURA CAPRA LATE CRUDO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20CASERA_1761196763.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "robiola-di-eros-pura-capra-late-crudo",
+    "published": "2023-07-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lichees-freschi/",
+    "title": "",
+    "noticeDate": "17 luglio 2023",
+    "campi": {
+      "data pubblicazione": "17 luglio 2023",
+      "marca": "FEIZIXIAO",
+      "denominazione": "LICHEES freschi",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "FEIZIXIAO",
+    "product": "LICHEES freschi",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FEIZIXIAO - LICHEES freschi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/04%20CARTELLO%20DI%20RICHIAMO_1761196758.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lichees-freschi",
+    "published": "2023-07-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-casareccia-svuoto-lotto-n-02-del-07032023/",
+    "title": "",
+    "noticeDate": "13 luglio 2023",
+    "campi": {
+      "data pubblicazione": "13 luglio 2023",
+      "marca": "Tiberina carni snc",
+      "denominazione": "Salsiccia casareccia S/Vuoto - lotto N. 02 del 07/03/2023",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Tiberina carni snc",
+    "product": "Salsiccia casareccia S/Vuoto - lotto N. 02 del 07/03/2023",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Tiberina carni snc - Salsiccia casareccia S/Vuoto - lotto N. 02 del 07/03/2023",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/comunicazione%20richiamo%2014.10.2023%20_1__1761196750.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-casareccia-svuoto-lotto-n-02-del-07032023",
+    "published": "2023-07-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-casareccia-svuoto-lotto-n-02-del-07032023-0/",
+    "title": "",
+    "noticeDate": "13 luglio 2023",
+    "campi": {
+      "data pubblicazione": "13 luglio 2023",
+      "marca": "Tiberina carni snc",
+      "denominazione": "Salsiccia casareccia S/Vuoto - Lotto n. 02 del 07.03.2023",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Tiberina carni snc",
+    "product": "Salsiccia casareccia S/Vuoto - Lotto n. 02 del 07.03.2023",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Tiberina carni snc - Salsiccia casareccia S/Vuoto - Lotto n. 02 del 07.03.2023",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/comunicazione%20richiamo%2014.10.2023%20_1__1761196752.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-casareccia-svuoto-lotto-n-02-del-07032023-0",
+    "published": "2023-07-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-casareccia-svuoto-lotto-n-02-del-07032023-1/",
+    "title": "",
+    "noticeDate": "13 luglio 2023",
+    "campi": {
+      "data pubblicazione": "13 luglio 2023",
+      "marca": "Tiberina carni snc",
+      "denominazione": "Salsiccia casareccia S/Vuoto - Lotto n. 02 del 07.03.2023",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Tiberina carni snc",
+    "product": "Salsiccia casareccia S/Vuoto - Lotto n. 02 del 07.03.2023",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Tiberina carni snc - Salsiccia casareccia S/Vuoto - Lotto n. 02 del 07.03.2023",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/comunicazione%20richiamo%2023.12.2023%20_1__1761196755.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-casareccia-svuoto-lotto-n-02-del-07032023-1",
+    "published": "2023-07-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/speshow-jelly-straws-300gr/",
+    "title": "",
+    "noticeDate": "11 luglio 2023",
+    "campi": {
+      "data pubblicazione": "11 luglio 2023",
+      "marca": "SPESHW",
+      "denominazione": "SPESHOW JELLY STRAWS 300GR",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SPESHW",
+    "product": "SPESHOW JELLY STRAWS 300GR",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SPESHW - SPESHOW JELLY STRAWS 300GR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/JELLY_STARWS_1761196747.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "speshow-jelly-straws-300gr",
+    "published": "2023-07-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taleggio-200g/",
+    "title": "",
+    "noticeDate": "10 luglio 2023",
+    "campi": {
+      "data pubblicazione": "10 luglio 2023",
+      "marca": "Emilio Mauri - Pasturo",
+      "denominazione": "Taleggio 200g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Emilio Mauri - Pasturo",
+    "product": "Taleggio 200g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Emilio Mauri - Pasturo - Taleggio 200g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_1761196744.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "taleggio-200g",
+    "published": "2023-07-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/schani-garam-masala-miscela-di-spezie-indiane/",
+    "title": "",
+    "noticeDate": "5 luglio 2023",
+    "campi": {
+      "data pubblicazione": "5 luglio 2023",
+      "marca": "SCHANI",
+      "denominazione": "SCHANI GARAM MASALA miscela di spezie indiane",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SCHANI",
+    "product": "SCHANI GARAM MASALA miscela di spezie indiane",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SCHANI - SCHANI GARAM MASALA miscela di spezie indiane",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/mod.richiamo%20schani%20garam%20masala%20100g_400g_1761196737.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "schani-garam-masala-miscela-di-spezie-indiane",
+    "published": "2023-07-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tartare-di-bovino/",
+    "title": "",
+    "noticeDate": "5 luglio 2023",
+    "campi": {
+      "data pubblicazione": "5 luglio 2023",
+      "marca": "diversi brand scadenze 04/07/2023, 05/07/2023, 06/07/2023",
+      "denominazione": "Tartare di bovino",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "diversi brand scadenze 04/07/2023, 05/07/2023, 06/07/2023",
+    "product": "Tartare di bovino",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo diversi brand scadenze 04/07/2023, 05/07/2023, 06/07/2023 - Tartare di bovino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/allegato2_%20cartelli%20richiamo_1761196739.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tartare-di-bovino",
+    "published": "2023-07-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/canestrato-di-toto-0/",
+    "title": "",
+    "noticeDate": "5 luglio 2023",
+    "campi": {
+      "data pubblicazione": "5 luglio 2023",
+      "marca": "C.P.F. SOC. COOP. PRODUTTORI FORMAGGI",
+      "denominazione": "CANESTRATO DI TOTO'",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "C.P.F. SOC. COOP. PRODUTTORI FORMAGGI",
+    "product": "CANESTRATO DI TOTO'",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo C.P.F. SOC. COOP. PRODUTTORI FORMAGGI - CANESTRATO DI TOTO'",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20CANESTRATO%20DI%20TOTO_06042023__1761196742.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "canestrato-di-toto-0",
+    "published": "2023-07-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sardine-salate/",
+    "title": "",
+    "noticeDate": "4 luglio 2023",
+    "campi": {
+      "data pubblicazione": "4 luglio 2023",
+      "marca": "STELLA",
+      "denominazione": "Sardine Salate",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "STELLA",
+    "product": "Sardine Salate",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo STELLA - Sardine Salate",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_sardine_STELLA_1761196735.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sardine-salate",
+    "published": "2023-07-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/paletta-forata-antiaderenti-pa-12921-01/",
+    "title": "",
+    "noticeDate": "3 luglio 2023",
+    "campi": {
+      "data pubblicazione": "3 luglio 2023",
+      "marca": "PADERNO",
+      "denominazione": "Paletta forata per antiaderenti PA+ 12921-01",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "PADERNO",
+    "product": "Paletta forata per antiaderenti PA+ 12921-01",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PADERNO - Paletta forata per antiaderenti PA+ 12921-01",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo%20Ministero_1761196732.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "paletta-forata-antiaderenti-pa-12921-01",
+    "published": "2023-07-03",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratore-alimentare-epimen-plus/",
     "title": "Integratore alimentare",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-presenza-di-sildenafil-e-tadalafil-integratori/",
@@ -8328,6 +8666,136 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-sfoglia-12500g/",
+    "title": "",
+    "noticeDate": "13 luglio 2022",
+    "campi": {
+      "data pubblicazione": "13 luglio 2022",
+      "marca": "REVOLUTION",
+      "denominazione": "MIX SFOGLIA 12500G",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "REVOLUTION",
+    "product": "MIX SFOGLIA 12500G",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo REVOLUTION - MIX SFOGLIA 12500G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20mix%20sfoglia%2012%2C5%20kg_1761191383.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mix-sfoglia-12500g",
+    "published": "2022-07-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/rustichelli/",
+    "title": "",
+    "noticeDate": "13 luglio 2022",
+    "campi": {
+      "data pubblicazione": "13 luglio 2022",
+      "marca": "REVOLUTION",
+      "denominazione": "RUSTICHELLI",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "REVOLUTION",
+    "product": "RUSTICHELLI",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo REVOLUTION - RUSTICHELLI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20RUSTICHELLI_1761191388.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "rustichelli",
+    "published": "2022-07-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/grissoncelli-allolio/",
+    "title": "",
+    "noticeDate": "13 luglio 2022",
+    "campi": {
+      "data pubblicazione": "13 luglio 2022",
+      "marca": "REVOLUTION",
+      "denominazione": "GRISSONCELLI ALL¿OLIO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "REVOLUTION",
+    "product": "GRISSONCELLI ALL¿OLIO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo REVOLUTION - GRISSONCELLI ALL¿OLIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20GRISSONCELLI_1761191392.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "grissoncelli-allolio",
+    "published": "2022-07-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelato-vaniglia-460-ml-haagen-dazs/",
+    "title": "",
+    "noticeDate": "12 luglio 2022",
+    "campi": {
+      "data pubblicazione": "12 luglio 2022",
+      "marca": "HAAGEN DAZS ARRAS SNC",
+      "denominazione": "GELATO VANIGLIA 460 ML HAAGEN DAZS",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "HAAGEN DAZS ARRAS SNC",
+    "product": "GELATO VANIGLIA 460 ML HAAGEN DAZS",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo HAAGEN DAZS ARRAS SNC - GELATO VANIGLIA 460 ML HAAGEN DAZS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20MINISTERO%20VANIGLIA%20460%20ML%20HAAGEN%20DAZS_1761191379.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gelato-vaniglia-460-ml-haagen-dazs",
+    "published": "2022-07-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/500-cannucce-carta-145x6-cm-mp-500-cannucce-carta-197x6-cm-mp/",
+    "title": "",
+    "noticeDate": "11 luglio 2022",
+    "campi": {
+      "data pubblicazione": "11 luglio 2022",
+      "marca": "Metro Professional",
+      "denominazione": "500 cannucce carta 14,5x6 cm mp; 500 cannucce carta 19,7x6 cm mp",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "Metro Professional",
+    "product": "500 cannucce carta 14,5x6 cm mp; 500 cannucce carta 19,7x6 cm mp",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Metro Professional - 500 cannucce carta 14,5x6 cm mp; 500 cannucce carta 19,7x6 cm mp",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo_1761191374.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "500-cannucce-carta-145x6-cm-mp-500-cannucce-carta-197x6-cm-mp",
+    "published": "2022-07-11",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barretta-proteica-arricchita-con-vitamine-gusto-mandorla-e-vaniglia/",
     "title": "",
     "noticeDate": "8 luglio 2022",
@@ -8376,6 +8844,58 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "mix-sfoglia-500g",
+    "published": "2022-07-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/reumilase-sd/",
+    "title": "",
+    "noticeDate": "8 luglio 2022",
+    "campi": {
+      "data pubblicazione": "8 luglio 2022",
+      "marca": "Neopharmed Gentili S.p.A.",
+      "denominazione": "REUMILASE SD",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Neopharmed Gentili S.p.A.",
+    "product": "REUMILASE SD",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Neopharmed Gentili S.p.A. - REUMILASE SD",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_richiamo_.Reumilase%20flac_Neopharmed%20Gentili_1761191365.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "reumilase-sd",
+    "published": "2022-07-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wurstel-polli-mpack-3x100-gr-0/",
+    "title": "",
+    "noticeDate": "8 luglio 2022",
+    "campi": {
+      "data pubblicazione": "8 luglio 2022",
+      "marca": "FIORUCCI",
+      "denominazione": "WURSTEL POLLI MPACK 3X100 GR",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "FIORUCCI",
+    "product": "WURSTEL POLLI MPACK 3X100 GR",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIORUCCI - WURSTEL POLLI MPACK 3X100 GR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_di_richiamo_WURSTEL%20POLLI%20MPACK%203X100G%20_2__1761191370.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "wurstel-polli-mpack-3x100-gr-0",
     "published": "2022-07-08",
     "source": "operator"
   },
