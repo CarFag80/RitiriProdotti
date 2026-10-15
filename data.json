@@ -822,6 +822,84 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-fresco-pastorizzato-parzialmente-scremato-17/",
+    "title": "",
+    "noticeDate": "14 settembre 2021",
+    "campi": {
+      "data pubblicazione": "14 settembre 2021",
+      "marca": "IO FVG",
+      "denominazione": "LATTE FRESCO PASTORIZZATO PARZIALMENTE SCREMATO",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "IO FVG",
+    "product": "LATTE FRESCO PASTORIZZATO PARZIALMENTE SCREMATO",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IO FVG - LATTE FRESCO PASTORIZZATO PARZIALMENTE SCREMATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20IO%20FVG_1761188494.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-fresco-pastorizzato-parzialmente-scremato-17",
+    "published": "2021-09-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-fresco-pastorizzato-parzialmente-scremato-18/",
+    "title": "",
+    "noticeDate": "14 settembre 2021",
+    "campi": {
+      "data pubblicazione": "14 settembre 2021",
+      "marca": "LATTE CARSO",
+      "denominazione": "LATTE FRESCO PASTORIZZATO PARZIALMENTE SCREMATO",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "LATTE CARSO",
+    "product": "LATTE FRESCO PASTORIZZATO PARZIALMENTE SCREMATO",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LATTE CARSO - LATTE FRESCO PASTORIZZATO PARZIALMENTE SCREMATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20LATTE%20CARSO_1761188497.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-fresco-pastorizzato-parzialmente-scremato-18",
+    "published": "2021-09-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-fresco-pastorizzato-parzialmente-scremato-19/",
+    "title": "",
+    "noticeDate": "14 settembre 2021",
+    "campi": {
+      "data pubblicazione": "14 settembre 2021",
+      "marca": "LATTE VIVO",
+      "denominazione": "LATTE FRESCO PASTORIZZATO PARZIALMENTE SCREMATO",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "LATTE VIVO",
+    "product": "LATTE FRESCO PASTORIZZATO PARZIALMENTE SCREMATO",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LATTE VIVO - LATTE FRESCO PASTORIZZATO PARZIALMENTE SCREMATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20LATTE%20VIVO_1761188500.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-fresco-pastorizzato-parzialmente-scremato-19",
+    "published": "2021-09-14",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mowi-gourmet-infusions-tranci-di-salmone-marinati-red-thai-220g/",
     "title": "",
     "noticeDate": "13 settembre 2021",
@@ -3270,6 +3348,318 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-intero-al-pistacchio-2-x-125g/",
+    "title": "",
+    "noticeDate": "11 agosto 2021",
+    "campi": {
+      "data pubblicazione": "11 agosto 2021",
+      "marca": "Carrefour",
+      "denominazione": "YOGURT INTERO AL PISTACCHIO 2 x 125g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Carrefour",
+    "product": "YOGURT INTERO AL PISTACCHIO 2 x 125g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Carrefour - YOGURT INTERO AL PISTACCHIO 2 x 125g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/210729_Modulo_Richiamo_CARREFOUR%202x125g%20947273_1761187582.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "yogurt-intero-al-pistacchio-2-x-125g",
+    "published": "2021-08-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-intero-al-pistacchio-e-mandorla-150g/",
+    "title": "",
+    "noticeDate": "11 agosto 2021",
+    "campi": {
+      "data pubblicazione": "11 agosto 2021",
+      "marca": "carrefour",
+      "denominazione": "YOGURT INTERO AL PISTACCHIO E MANDORLA 150g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "carrefour",
+    "product": "YOGURT INTERO AL PISTACCHIO E MANDORLA 150g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo carrefour - YOGURT INTERO AL PISTACCHIO E MANDORLA 150g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/210729_Modulo_Richiamo_CARREFOUR%20150g%20948071_1761187585.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "yogurt-intero-al-pistacchio-e-mandorla-150g",
+    "published": "2021-08-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-magro-alla-fragola-2x125g/",
+    "title": "",
+    "noticeDate": "11 agosto 2021",
+    "campi": {
+      "data pubblicazione": "11 agosto 2021",
+      "marca": "esselunga",
+      "denominazione": "YOGURT MAGRO ALLA FRAGOLA 2x125g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "esselunga",
+    "product": "YOGURT MAGRO ALLA FRAGOLA 2x125g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo esselunga - YOGURT MAGRO ALLA FRAGOLA 2x125g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/210729_Modulo_Richiamo_ESSELUNGA%202x125g%20971311_1761187588.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "yogurt-magro-alla-fragola-2x125g",
+    "published": "2021-08-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-magro-alla-fragola-8x125g/",
+    "title": "",
+    "noticeDate": "11 agosto 2021",
+    "campi": {
+      "data pubblicazione": "11 agosto 2021",
+      "marca": "esselunga",
+      "denominazione": "YOGURT MAGRO ALLA FRAGOLA 8x125g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "esselunga",
+    "product": "YOGURT MAGRO ALLA FRAGOLA 8x125g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo esselunga - YOGURT MAGRO ALLA FRAGOLA 8x125g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/210729_Modulo_Richiamo_ESSELUNGA%208x125g%20974200_1761187590.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "yogurt-magro-alla-fragola-8x125g",
+    "published": "2021-08-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-magro-te-verdezenzero-2x125g/",
+    "title": "",
+    "noticeDate": "11 agosto 2021",
+    "campi": {
+      "data pubblicazione": "11 agosto 2021",
+      "marca": "Latte montagna alto adige",
+      "denominazione": "YOGURT MAGRO TE VERDE/ZENZERO 2x125g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Latte montagna alto adige",
+    "product": "YOGURT MAGRO TE VERDE/ZENZERO 2x125g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Latte montagna alto adige - YOGURT MAGRO TE VERDE/ZENZERO 2x125g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/210729_Modulo_Richiamo_MILA%202x125g%20031789%20e%20031889_1761187593.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "yogurt-magro-te-verdezenzero-2x125g",
+    "published": "2021-08-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-magro-te-verdezenzero-2x125g-0/",
+    "title": "",
+    "noticeDate": "11 agosto 2021",
+    "campi": {
+      "data pubblicazione": "11 agosto 2021",
+      "marca": "Latte montagna alto adige",
+      "denominazione": "YOGURT MAGRO TE VERDE/ZENZERO 2x125g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Latte montagna alto adige",
+    "product": "YOGURT MAGRO TE VERDE/ZENZERO 2x125g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Latte montagna alto adige - YOGURT MAGRO TE VERDE/ZENZERO 2x125g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/210729_Modulo_Richiamo_MILA%202x125g%20031789_1761187596.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "yogurt-magro-te-verdezenzero-2x125g-0",
+    "published": "2021-08-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-magro-al-pistacchio-2-x-125g/",
+    "title": "",
+    "noticeDate": "11 agosto 2021",
+    "campi": {
+      "data pubblicazione": "11 agosto 2021",
+      "marca": "latteria nöm srl",
+      "denominazione": "YOGURT MAGRO AL PISTACCHIO 2 x 125g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "latteria nöm srl",
+    "product": "YOGURT MAGRO AL PISTACCHIO 2 x 125g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo latteria nöm srl - YOGURT MAGRO AL PISTACCHIO 2 x 125g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/210729_Modulo_Richiamo_N%C3%96M%202x125g%20909673_1761187599.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "yogurt-magro-al-pistacchio-2-x-125g",
+    "published": "2021-08-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-intero-al-pistacchio-8-x-125g/",
+    "title": "",
+    "noticeDate": "11 agosto 2021",
+    "campi": {
+      "data pubblicazione": "11 agosto 2021",
+      "marca": "latteria nöm srl",
+      "denominazione": "YOGURT INTERO AL PISTACCHIO 8 x 125g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "latteria nöm srl",
+    "product": "YOGURT INTERO AL PISTACCHIO 8 x 125g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo latteria nöm srl - YOGURT INTERO AL PISTACCHIO 8 x 125g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/210729_Modulo_Richiamo_N%C3%96M%208x125g%20909265_1761187602.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "yogurt-intero-al-pistacchio-8-x-125g",
+    "published": "2021-08-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-intero-al-pistacchio-con-granella-di-nocciola-150g/",
+    "title": "",
+    "noticeDate": "11 agosto 2021",
+    "campi": {
+      "data pubblicazione": "11 agosto 2021",
+      "marca": "Penny market",
+      "denominazione": "YOGURT INTERO AL PISTACCHIO CON GRANELLA DI NOCCIOLA 150g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Penny market",
+    "product": "YOGURT INTERO AL PISTACCHIO CON GRANELLA DI NOCCIOLA 150g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Penny market - YOGURT INTERO AL PISTACCHIO CON GRANELLA DI NOCCIOLA 150g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/210729_Modulo_Richiamo_PENNY%20MARKET%20150g%20924002_1761187605.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "yogurt-intero-al-pistacchio-con-granella-di-nocciola-150g",
+    "published": "2021-08-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cracker-500gr/",
+    "title": "",
+    "noticeDate": "11 agosto 2021",
+    "campi": {
+      "data pubblicazione": "11 agosto 2021",
+      "marca": "CRACKER BENNET",
+      "denominazione": "CRACKER 500gr",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "CRACKER BENNET",
+    "product": "CRACKER 500gr",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CRACKER BENNET - CRACKER 500gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20cracker_Bennet_Crich%206031_1761187608.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cracker-500gr",
+    "published": "2021-08-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mms-crispy-170mgr/",
+    "title": "",
+    "noticeDate": "10 agosto 2021",
+    "campi": {
+      "data pubblicazione": "10 agosto 2021",
+      "marca": "Mars Italia s.p.a.",
+      "denominazione": "M&M's Crispy 170mgr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Mars Italia s.p.a.",
+    "product": "M&M's Crispy 170mgr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mars Italia s.p.a. - M&M's Crispy 170mgr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/44823%20Mars%20Italia_Modello%20Richiamo__M_Ms%20crispy%20FINALE_1761187580.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mms-crispy-170mgr",
+    "published": "2021-08-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-insalata-capricciosa-0/",
+    "title": "",
+    "noticeDate": "6 agosto 2021",
+    "campi": {
+      "data pubblicazione": "6 agosto 2021",
+      "marca": "PROMAR- STAB IT787CE",
+      "denominazione": "PREPARATO PER INSALATA CAPRICCIOSA",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "PROMAR- STAB IT787CE",
+    "product": "PREPARATO PER INSALATA CAPRICCIOSA",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PROMAR- STAB IT787CE - PREPARATO PER INSALATA CAPRICCIOSA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20RICHIAMO%20PREPARATO%20PER%20INSALATA%20CAPRICCIOSA_1761187577.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "preparato-insalata-capricciosa-0",
+    "published": "2021-08-06",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/moringa-polvere-e-moringa-capsule/",
     "title": "Moringa Polvere e Moringa Capsule",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-sui-prodotti-moringa-polvere-e-moringa-capsule-usati/",
@@ -3402,6 +3792,136 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "sugo-ai-4-formaggi-piu-gusto-12-x-130g-0",
+    "published": "2021-08-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostata-alla-marmellata/",
+    "title": "",
+    "noticeDate": "5 agosto 2021",
+    "campi": {
+      "data pubblicazione": "5 agosto 2021",
+      "marca": "Fernanda Bandecchi l'eccellenza della tradizione",
+      "denominazione": "Crostata alla marmellata",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Fernanda Bandecchi l'eccellenza della tradizione",
+    "product": "Crostata alla marmellata",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fernanda Bandecchi l'eccellenza della tradizione - Crostata alla marmellata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Panificio%20Bandecchi%20Fernanda_Richiamo%20Crostata%20albicocca_1761187565.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostata-alla-marmellata",
+    "published": "2021-08-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coppa-di-testa-sottovuoto/",
+    "title": "",
+    "noticeDate": "5 agosto 2021",
+    "campi": {
+      "data pubblicazione": "5 agosto 2021",
+      "marca": "ARICCIA FOOD SRL",
+      "denominazione": "COPPA DI TESTA SOTTOVUOTO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ARICCIA FOOD SRL",
+    "product": "COPPA DI TESTA SOTTOVUOTO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ARICCIA FOOD SRL - COPPA DI TESTA SOTTOVUOTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMOPRODOTTOCOPPADITESTA2_1761187567.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "coppa-di-testa-sottovuoto",
+    "published": "2021-08-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostata-albicocca-0/",
+    "title": "",
+    "noticeDate": "5 agosto 2021",
+    "campi": {
+      "data pubblicazione": "5 agosto 2021",
+      "marca": "Biscottificio Pasquinucci",
+      "denominazione": "Crostata albicocca",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Biscottificio Pasquinucci",
+    "product": "Crostata albicocca",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Biscottificio Pasquinucci - Crostata albicocca",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20crostata%20tabella%20unica%20corretta_1761187570.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostata-albicocca-0",
+    "published": "2021-08-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/biscotto-al-farro-0/",
+    "title": "",
+    "noticeDate": "5 agosto 2021",
+    "campi": {
+      "data pubblicazione": "5 agosto 2021",
+      "marca": "Biscottificio Pasquinucci",
+      "denominazione": "Biscotto al farro",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Biscottificio Pasquinucci",
+    "product": "Biscotto al farro",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Biscottificio Pasquinucci - Biscotto al farro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20farro%20lotto%20riepilogo_1761187572.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "biscotto-al-farro-0",
+    "published": "2021-08-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasticceria-da-0/",
+    "title": "",
+    "noticeDate": "5 agosto 2021",
+    "campi": {
+      "data pubblicazione": "5 agosto 2021",
+      "marca": "Biscottificio Pasquinucci",
+      "denominazione": "Pasticceria da thè",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Biscottificio Pasquinucci",
+    "product": "Pasticceria da thè",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Biscottificio Pasquinucci - Pasticceria da thè",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20pasticceria%20scheda%20unica_1761187575.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasticceria-da-0",
     "published": "2021-08-05",
     "source": "operator"
   },
