@@ -421,6 +421,266 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/torrone-alle-mandorle/",
+    "title": "",
+    "noticeDate": "27 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "27 febbraio 2023",
+      "marca": "Torrone marisa",
+      "denominazione": "Torrone alle mandorle",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Torrone marisa",
+    "product": "Torrone alle mandorle",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Torrone marisa - Torrone alle mandorle",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Scheda%20Richiamo_1761193920.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "torrone-alle-mandorle",
+    "published": "2023-02-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-frutti-di-bosco/",
+    "title": "",
+    "noticeDate": "23 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2023",
+      "marca": "Mascherpa",
+      "denominazione": "Tiramisù frutti di bosco",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Mascherpa",
+    "product": "Tiramisù frutti di bosco",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mascherpa - Tiramisù frutti di bosco",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20frutti%20bosco_1761193895.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tiramisu-frutti-di-bosco",
+    "published": "2023-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-mango/",
+    "title": "",
+    "noticeDate": "23 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2023",
+      "marca": "Mascherpa",
+      "denominazione": "Tiramisù mango",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Mascherpa",
+    "product": "Tiramisù mango",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mascherpa - Tiramisù mango",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20mango_1761193897.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tiramisu-mango",
+    "published": "2023-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-matcha/",
+    "title": "",
+    "noticeDate": "23 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2023",
+      "marca": "Mascherpa",
+      "denominazione": "Tiramisù matcha",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Mascherpa",
+    "product": "Tiramisù matcha",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mascherpa - Tiramisù matcha",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20matcha_1761193900.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tiramisu-matcha",
+    "published": "2023-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-nocciola/",
+    "title": "",
+    "noticeDate": "23 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2023",
+      "marca": "Mascherpa",
+      "denominazione": "Tiramisù nocciola",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Mascherpa",
+    "product": "Tiramisù nocciola",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mascherpa - Tiramisù nocciola",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20nocciola_1761193903.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tiramisu-nocciola",
+    "published": "2023-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-nutella/",
+    "title": "",
+    "noticeDate": "23 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2023",
+      "marca": "Mascherpa",
+      "denominazione": "Tiramisù nutella",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Mascherpa",
+    "product": "Tiramisù nutella",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mascherpa - Tiramisù nutella",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20nutella_1761193905.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tiramisu-nutella",
+    "published": "2023-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-pistacchio/",
+    "title": "",
+    "noticeDate": "23 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2023",
+      "marca": "Mascherpa",
+      "denominazione": "Tiramisù pistacchio",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Mascherpa",
+    "product": "Tiramisù pistacchio",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mascherpa - Tiramisù pistacchio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20pistacchio_1761193908.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tiramisu-pistacchio",
+    "published": "2023-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kyr-probiotici-e-vitamina-d-pappa-reale/",
+    "title": "",
+    "noticeDate": "23 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2023",
+      "marca": "Kyr",
+      "denominazione": "Kyr probiotici e vitamina D - pappa reale",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Kyr",
+    "product": "Kyr probiotici e vitamina D - pappa reale",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Kyr - Kyr probiotici e vitamina D - pappa reale",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_KYR_pappa.reale_1761193911.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "kyr-probiotici-e-vitamina-d-pappa-reale",
+    "published": "2023-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kyr-probiotici-e-vitamina-d-fragola/",
+    "title": "",
+    "noticeDate": "23 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2023",
+      "marca": "Kyr",
+      "denominazione": "Kyr probiotici e vitamina D - fragola",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Kyr",
+    "product": "Kyr probiotici e vitamina D - fragola",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Kyr - Kyr probiotici e vitamina D - fragola",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_KYR_%20fragola_1761193914.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "kyr-probiotici-e-vitamina-d-fragola",
+    "published": "2023-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kyr-probiotici-e-vitamina-d-albicocca-e-miele/",
+    "title": "",
+    "noticeDate": "23 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2023",
+      "marca": "Kyr",
+      "denominazione": "Kyr probiotici e vitamina D - Albicocca e Miele",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Kyr",
+    "product": "Kyr probiotici e vitamina D - Albicocca e Miele",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Kyr - Kyr probiotici e vitamina D - Albicocca e Miele",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_KYR_albicocca.miele_1761193917.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "kyr-probiotici-e-vitamina-d-albicocca-e-miele",
+    "published": "2023-02-23",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/prodotti-vegani-jayjoy/",
     "title": "Prodotti vegani",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/prodotti-vegani-con-presenza-di-listeria-monocytogenes/",
@@ -494,6 +754,214 @@
     "id": "integratori-alimentari-natrol-yohimbe-bark-mens-health-stamina-rx",
     "published": "2022-11-07",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taleggio-dop-latte-crudo-0/",
+    "title": "",
+    "noticeDate": "27 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "27 ottobre 2022",
+      "marca": "CASARRIGONI",
+      "denominazione": "TALEGGIO DOP A LATTE CRUDO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CASARRIGONI",
+    "product": "TALEGGIO DOP A LATTE CRUDO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASARRIGONI - TALEGGIO DOP A LATTE CRUDO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20_%20CASARRIGONI_1761192258.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "taleggio-dop-latte-crudo-0",
+    "published": "2022-10-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taleggio-dop-latte-crudo-1/",
+    "title": "",
+    "noticeDate": "27 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "27 ottobre 2022",
+      "marca": "PASCOLI DEL FATTORE",
+      "denominazione": "TALEGGIO DOP A LATTE CRUDO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "PASCOLI DEL FATTORE",
+    "product": "TALEGGIO DOP A LATTE CRUDO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PASCOLI DEL FATTORE - TALEGGIO DOP A LATTE CRUDO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20_%20PASCOLI%20DEL%20FATTORE_1761192263.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "taleggio-dop-latte-crudo-1",
+    "published": "2022-10-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taleggio-dop-latte-crudo-2/",
+    "title": "",
+    "noticeDate": "27 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "27 ottobre 2022",
+      "marca": "TERRE D'ITALIA",
+      "denominazione": "TALEGGIO DOP A LATTE CRUDO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "TERRE D'ITALIA",
+    "product": "TALEGGIO DOP A LATTE CRUDO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TERRE D'ITALIA - TALEGGIO DOP A LATTE CRUDO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20_%20TERRE%20D_ITALIA_1761192268.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "taleggio-dop-latte-crudo-2",
+    "published": "2022-10-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/jeera-whole-semi-di-cumino/",
+    "title": "",
+    "noticeDate": "25 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "25 ottobre 2022",
+      "marca": "Ali Baba",
+      "denominazione": "Jeera Whole - Semi di Cumino",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Ali Baba",
+    "product": "Jeera Whole - Semi di Cumino",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ali Baba - Jeera Whole - Semi di Cumino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/jeera%20whole%20cartello%20di%20richiamo_1761192240.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "jeera-whole-semi-di-cumino",
+    "published": "2022-10-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/micro-omega-30-1/",
+    "title": "",
+    "noticeDate": "25 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "25 ottobre 2022",
+      "marca": "MYCLI SUPLUS H24 MICRO OMEGA 3.0",
+      "denominazione": "MICRO OMEGA 3.0",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MYCLI SUPLUS H24 MICRO OMEGA 3.0",
+    "product": "MICRO OMEGA 3.0",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MYCLI SUPLUS H24 MICRO OMEGA 3.0 - MICRO OMEGA 3.0",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Micro%20Omega%20Viola%20aggiornato_1761192245.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "micro-omega-30-1",
+    "published": "2022-10-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pizzoccheri-preparazione-gastronomica-cotta-1/",
+    "title": "",
+    "noticeDate": "25 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "25 ottobre 2022",
+      "marca": "Viva la Mamma",
+      "denominazione": "Pizzoccheri - Preparazione gastronomica cotta",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "Viva la Mamma",
+    "product": "Pizzoccheri - Preparazione gastronomica cotta",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Viva la Mamma - Pizzoccheri - Preparazione gastronomica cotta",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20lotto%20R652_1761192249.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pizzoccheri-preparazione-gastronomica-cotta-1",
+    "published": "2022-10-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pizzoccheri-preparazione-gastronomica-cotta-2/",
+    "title": "",
+    "noticeDate": "25 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "25 ottobre 2022",
+      "marca": "Viva la Mamma",
+      "denominazione": "Pizzoccheri - Preparazione gastronomica cotta",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "Viva la Mamma",
+    "product": "Pizzoccheri - Preparazione gastronomica cotta",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Viva la Mamma - Pizzoccheri - Preparazione gastronomica cotta",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20lotto%20R672_1761192254.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pizzoccheri-preparazione-gastronomica-cotta-2",
+    "published": "2022-10-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-di-riso-giganti/",
+    "title": "",
+    "noticeDate": "20 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "20 ottobre 2022",
+      "marca": "Carrefour Bio",
+      "denominazione": "Gallette di riso giganti",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Carrefour Bio",
+    "product": "Gallette di riso giganti",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Carrefour Bio - Gallette di riso giganti",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761192236.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gallette-di-riso-giganti",
+    "published": "2022-10-20",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/micro-omega-30/",
@@ -570,6 +1038,58 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "fontina-dop-0",
+    "published": "2022-10-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mandorle-fritte-con-zucchero-miele-e-sale/",
+    "title": "",
+    "noticeDate": "18 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "18 ottobre 2022",
+      "marca": "Sol & Mar",
+      "denominazione": "Mandorle fritte con zucchero, miele e sale",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Sol & Mar",
+    "product": "Mandorle fritte con zucchero, miele e sale",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sol & Mar - Mandorle fritte con zucchero, miele e sale",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20_%20MODELLO_DI_RICHIAMO_NI%20473_22_1761192227.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mandorle-fritte-con-zucchero-miele-e-sale",
+    "published": "2022-10-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-alta-qualita-150-g/",
+    "title": "",
+    "noticeDate": "18 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "18 ottobre 2022",
+      "marca": "Sapori di cascina",
+      "denominazione": "Prosciutto cotto alta qualità 150 g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Sapori di cascina",
+    "product": "Prosciutto cotto alta qualità 150 g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sapori di cascina - Prosciutto cotto alta qualità 150 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/113400_Cartello%20Richiamo_1761192231.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "prosciutto-cotto-alta-qualita-150-g",
     "published": "2022-10-18",
     "source": "operator"
   },
