@@ -496,6 +496,526 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/micro-omega-30/",
+    "title": "",
+    "noticeDate": "18 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "18 ottobre 2022",
+      "marca": "MYCLI SUPLUS H24 MICRO OMEGA 3.0",
+      "denominazione": "MICRO OMEGA 3.0",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MYCLI SUPLUS H24 MICRO OMEGA 3.0",
+    "product": "MICRO OMEGA 3.0",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MYCLI SUPLUS H24 MICRO OMEGA 3.0 - MICRO OMEGA 3.0",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Omega%203%20Flacone%20Viola_1761192213.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "micro-omega-30",
+    "published": "2022-10-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/micro-omega-30-0/",
+    "title": "",
+    "noticeDate": "18 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "18 ottobre 2022",
+      "marca": "MYCLI SUPLUS MICRO OMEGA 3.0",
+      "denominazione": "MICRO OMEGA 3.0",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MYCLI SUPLUS MICRO OMEGA 3.0",
+    "product": "MICRO OMEGA 3.0",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MYCLI SUPLUS MICRO OMEGA 3.0 - MICRO OMEGA 3.0",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Omega%203%20Flacone%20Bianco_1761192218.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "micro-omega-30-0",
+    "published": "2022-10-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fontina-dop-0/",
+    "title": "",
+    "noticeDate": "18 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "18 ottobre 2022",
+      "marca": "Pascoli Italiani",
+      "denominazione": "Fontina DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Pascoli Italiani",
+    "product": "Fontina DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pascoli Italiani - Fontina DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellopersitoMinSalnotifica575286_1761192222.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "fontina-dop-0",
+    "published": "2022-10-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-al-finocchietto-selvatico/",
+    "title": "",
+    "noticeDate": "14 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "14 ottobre 2022",
+      "marca": "Alicos",
+      "denominazione": "Pesto al finocchietto selvatico",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Alicos",
+    "product": "Pesto al finocchietto selvatico",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Alicos - Pesto al finocchietto selvatico",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Pesto_al_Finocchietto_L15ST22_TMC_15.09.2024_1761192205.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pesto-al-finocchietto-selvatico",
+    "published": "2022-10-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dolce-dop/",
+    "title": "",
+    "noticeDate": "14 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "14 ottobre 2022",
+      "marca": "Pascoli Italiani",
+      "denominazione": "Gorgonzola Dolce DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Pascoli Italiani",
+    "product": "Gorgonzola Dolce DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pascoli Italiani - Gorgonzola Dolce DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2022.10.14%20_%20gorgonzola%20dolce%20300g%20_%20GELMINI%20_1__1761192209.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gorgonzola-dolce-dop",
+    "published": "2022-10-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/porchetta-dariccia-igp/",
+    "title": "",
+    "noticeDate": "13 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "13 ottobre 2022",
+      "marca": "SUPERMERCATI IPERAL S.p.A",
+      "denominazione": "PORCHETTA D'ARICCIA IGP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SUPERMERCATI IPERAL S.p.A",
+    "product": "PORCHETTA D'ARICCIA IGP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SUPERMERCATI IPERAL S.p.A - PORCHETTA D'ARICCIA IGP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1761192201.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "porchetta-dariccia-igp",
+    "published": "2022-10-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinaci-il-gigante-500-g/",
+    "title": "",
+    "noticeDate": "11 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "11 ottobre 2022",
+      "marca": "Spinaci Il Gigante",
+      "denominazione": "Spinaci Il Gigante 500 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Spinaci Il Gigante",
+    "product": "Spinaci Il Gigante 500 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Spinaci Il Gigante - Spinaci Il Gigante 500 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20SPINACI%20IL%20GIGANTE_1761192189.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spinaci-il-gigante-500-g",
+    "published": "2022-10-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinaci-il-gigante-500-g-0/",
+    "title": "",
+    "noticeDate": "11 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "11 ottobre 2022",
+      "marca": "Il Gigante",
+      "denominazione": "Spinaci Il Gigante 500 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Il Gigante",
+    "product": "Spinaci Il Gigante 500 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Il Gigante - Spinaci Il Gigante 500 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761192193.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spinaci-il-gigante-500-g-0",
+    "published": "2022-10-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/forever-lycium-plus/",
+    "title": "",
+    "noticeDate": "11 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "11 ottobre 2022",
+      "marca": "FOREVER LIVING PRODUCTS ITALY S.R.L.",
+      "denominazione": "FOREVER LYCIUM PLUS",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "FOREVER LIVING PRODUCTS ITALY S.R.L.",
+    "product": "FOREVER LYCIUM PLUS",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FOREVER LIVING PRODUCTS ITALY S.R.L. - FOREVER LYCIUM PLUS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20_%20FOREVER%20LYCIUM%20PLUS_1761192197.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "forever-lycium-plus",
+    "published": "2022-10-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/6-pancakes-al-cioccolato/",
+    "title": "",
+    "noticeDate": "10 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "10 ottobre 2022",
+      "marca": "Bernard Jarnoux Crepier",
+      "denominazione": "6 Pancakes al cioccolato",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Bernard Jarnoux Crepier",
+    "product": "6 Pancakes al cioccolato",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bernard Jarnoux Crepier - 6 Pancakes al cioccolato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761192181.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "6-pancakes-al-cioccolato",
+    "published": "2022-10-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-biologici-1/",
+    "title": "",
+    "noticeDate": "10 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "10 ottobre 2022",
+      "marca": "VIVI VERDE COOP",
+      "denominazione": "SEMI DI SESAMO BIOLOGICI",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "VIVI VERDE COOP",
+    "product": "SEMI DI SESAMO BIOLOGICI",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VIVI VERDE COOP - SEMI DI SESAMO BIOLOGICI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Semi%20di%20sesamo%20biologici%20Vivi%20Verde_1761192185.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "semi-di-sesamo-biologici-1",
+    "published": "2022-10-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/porchetta-di-ariccia/",
+    "title": "",
+    "noticeDate": "4 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "4 ottobre 2022",
+      "marca": "SUPERMERCATI IPERAL S.p.A",
+      "denominazione": "PORCHETTA DI ARICCIA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SUPERMERCATI IPERAL S.p.A",
+    "product": "PORCHETTA DI ARICCIA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SUPERMERCATI IPERAL S.p.A - PORCHETTA DI ARICCIA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Porchetta%20di%20Ariccia%20____%20_1__1761192174.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "porchetta-di-ariccia",
+    "published": "2022-10-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tramezzino-salmone-e-maionese/",
+    "title": "",
+    "noticeDate": "4 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "4 ottobre 2022",
+      "marca": "Gli Allegri Sapori",
+      "denominazione": "tramezzino salmone e maionese",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Gli Allegri Sapori",
+    "product": "tramezzino salmone e maionese",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gli Allegri Sapori - tramezzino salmone e maionese",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761192177.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tramezzino-salmone-e-maionese",
+    "published": "2022-10-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/0-sweet-chili-sauce/",
+    "title": "",
+    "noticeDate": "3 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "3 ottobre 2022",
+      "marca": "Zero Sauce",
+      "denominazione": "0% Sweet Chili Sauce",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Zero Sauce",
+    "product": "0% Sweet Chili Sauce",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Zero Sauce - 0% Sweet Chili Sauce",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_1761192170.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "0-sweet-chili-sauce",
+    "published": "2022-10-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barretta-di-fiocchi-di-farro-e-farro-soffiato-con-mirtilli-rossi/",
+    "title": "",
+    "noticeDate": "29 settembre 2022",
+    "campi": {
+      "data pubblicazione": "29 settembre 2022",
+      "marca": "Carrefour bio",
+      "denominazione": "Barretta di fiocchi di farro e farro soffiato con mirtilli rossi, granella di nocciola e cannella bi",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Carrefour bio",
+    "product": "Barretta di fiocchi di farro e farro soffiato con mirtilli rossi, granella di nocciola e cannella bi",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Carrefour bio - Barretta di fiocchi di farro e farro soffiato con mirtilli rossi, granella di nocciola e cannella bi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_27.09.2022_1761192166.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "barretta-di-fiocchi-di-farro-e-farro-soffiato-con-mirtilli-rossi",
+    "published": "2022-09-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pizzoccheri-preparazione-gastronomica-cotta/",
+    "title": "",
+    "noticeDate": "28 settembre 2022",
+    "campi": {
+      "data pubblicazione": "28 settembre 2022",
+      "marca": "VIVA LA MAMMA",
+      "denominazione": "PIZZOCCHERI- PREPARAZIONE GASTRONOMICA COTTA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "VIVA LA MAMMA",
+    "product": "PIZZOCCHERI- PREPARAZIONE GASTRONOMICA COTTA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VIVA LA MAMMA - PIZZOCCHERI- PREPARAZIONE GASTRONOMICA COTTA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20R652_1761192159.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pizzoccheri-preparazione-gastronomica-cotta",
+    "published": "2022-09-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pizzoccheri-preparazione-gastronomica-cotta-0/",
+    "title": "",
+    "noticeDate": "28 settembre 2022",
+    "campi": {
+      "data pubblicazione": "28 settembre 2022",
+      "marca": "VIVA LA MAMMA",
+      "denominazione": "PIZZOCCHERI- PREPARAZIONE GASTRONOMICA COTTA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "VIVA LA MAMMA",
+    "product": "PIZZOCCHERI- PREPARAZIONE GASTRONOMICA COTTA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VIVA LA MAMMA - PIZZOCCHERI- PREPARAZIONE GASTRONOMICA COTTA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20R672_1761192162.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pizzoccheri-preparazione-gastronomica-cotta-0",
+    "published": "2022-09-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ml-1088-bicchiere-h-cm-85-x-75/",
+    "title": "",
+    "noticeDate": "23 settembre 2022",
+    "campi": {
+      "data pubblicazione": "23 settembre 2022",
+      "marca": "T-T TABLE TOP",
+      "denominazione": "ML 1088 BICCHIERE H. CM 8.5 X 7.5",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "T-T TABLE TOP",
+    "product": "ML 1088 BICCHIERE H. CM 8.5 X 7.5",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo T-T TABLE TOP - ML 1088 BICCHIERE H. CM 8.5 X 7.5",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO_1761192155.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ml-1088-bicchiere-h-cm-85-x-75",
+    "published": "2022-09-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelati-base-di-vaniglia-0/",
+    "title": "",
+    "noticeDate": "22 settembre 2022",
+    "campi": {
+      "data pubblicazione": "22 settembre 2022",
+      "marca": "HAAGEN DAZS",
+      "denominazione": "GELATI A BASE DI VANIGLIA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "HAAGEN DAZS",
+    "product": "GELATI A BASE DI VANIGLIA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo HAAGEN DAZS - GELATI A BASE DI VANIGLIA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%2021_09_2022_1761192152.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gelati-base-di-vaniglia-0",
+    "published": "2022-09-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/quetidia-soluzione-orale-fast-slow/",
+    "title": "",
+    "noticeDate": "20 settembre 2022",
+    "campi": {
+      "data pubblicazione": "20 settembre 2022",
+      "marca": "QUETIDIA soluzione orale",
+      "denominazione": "QUETIDIA soluzione orale FAST-SLOW",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "QUETIDIA soluzione orale",
+    "product": "QUETIDIA soluzione orale FAST-SLOW",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo QUETIDIA soluzione orale - QUETIDIA soluzione orale FAST-SLOW",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_Richiamo%20lotti%20220342_220343%20_Quetidia%20Soluzione%20orale_1761192148.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "quetidia-soluzione-orale-fast-slow",
+    "published": "2022-09-20",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/arachidi-guscio-tostate/",
     "title": "",
     "noticeDate": "14 settembre 2022",
