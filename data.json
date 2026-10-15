@@ -496,6 +496,292 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trs-madras-hot-curry-powder/",
+    "title": "",
+    "noticeDate": "10 agosto 2022",
+    "campi": {
+      "data pubblicazione": "10 agosto 2022",
+      "marca": "TRS",
+      "denominazione": "TRS Madras Hot Curry Powder",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "TRS",
+    "product": "TRS Madras Hot Curry Powder",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TRS - TRS Madras Hot Curry Powder",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20_3__1761192055.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "trs-madras-hot-curry-powder",
+    "published": "2022-08-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/germogli-di-bamboo-lien-ying-g330/",
+    "title": "",
+    "noticeDate": "9 agosto 2022",
+    "campi": {
+      "data pubblicazione": "9 agosto 2022",
+      "marca": "LIEN YING",
+      "denominazione": "GERMOGLI DI BAMBOO LIEN YING G.330",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "LIEN YING",
+    "product": "GERMOGLI DI BAMBOO LIEN YING G.330",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LIEN YING - GERMOGLI DI BAMBOO LIEN YING G.330",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Moduloinformazioneconsumatori%20_5__1761192044.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "germogli-di-bamboo-lien-ying-g330",
+    "published": "2022-08-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vcv-hamburger-di-vitello-200-g/",
+    "title": "",
+    "noticeDate": "9 agosto 2022",
+    "campi": {
+      "data pubblicazione": "9 agosto 2022",
+      "marca": "VERCELLI SPA",
+      "denominazione": "VCV HAMBURGER DI VITELLO 200 G.",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "VERCELLI SPA",
+    "product": "VCV HAMBURGER DI VITELLO 200 G.",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VERCELLI SPA - VCV HAMBURGER DI VITELLO 200 G.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/VERCELLI_REVOCA_RICHIAMO_1761192046.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "vcv-hamburger-di-vitello-200-g",
+    "published": "2022-08-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vcv-hamburger-di-vitello-200-gr/",
+    "title": "",
+    "noticeDate": "9 agosto 2022",
+    "campi": {
+      "data pubblicazione": "9 agosto 2022",
+      "marca": "VITELLO CASA VERCELLI",
+      "denominazione": "VCV HAMBURGER DI VITELLO 200 GR",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "VITELLO CASA VERCELLI",
+    "product": "VCV HAMBURGER DI VITELLO 200 GR",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VITELLO CASA VERCELLI - VCV HAMBURGER DI VITELLO 200 GR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/VERCELLI_SPA_HAMBURGER_1761192048.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "vcv-hamburger-di-vitello-200-gr",
+    "published": "2022-08-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hot-madras-curry-powder/",
+    "title": "",
+    "noticeDate": "9 agosto 2022",
+    "campi": {
+      "data pubblicazione": "9 agosto 2022",
+      "marca": "TRS",
+      "denominazione": "Hot Madras Curry Powder",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "TRS",
+    "product": "Hot Madras Curry Powder",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TRS - Hot Madras Curry Powder",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761192051.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "hot-madras-curry-powder",
+    "published": "2022-08-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hulala-whipping-1000-ml-lotto-l22073b/",
+    "title": "",
+    "noticeDate": "9 agosto 2022",
+    "campi": {
+      "data pubblicazione": "9 agosto 2022",
+      "marca": "IFFCO ITALIA SRL",
+      "denominazione": "Hulalà whipping 1000 ml\" lotto L22073B",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "IFFCO ITALIA SRL",
+    "product": "Hulalà whipping 1000 ml\" lotto L22073B",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IFFCO ITALIA SRL - Hulalà whipping 1000 ml\" lotto L22073B",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20PRODOTTO%20HULALA%20WHIPPING%201000%20ML%20L22073B_2_1761192053.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "hulala-whipping-1000-ml-lotto-l22073b",
+    "published": "2022-08-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-fresca-di-puro-suinopasta-di-salsiccia-0/",
+    "title": "",
+    "noticeDate": "8 agosto 2022",
+    "campi": {
+      "data pubblicazione": "8 agosto 2022",
+      "marca": "Salumificio F.lli Cavallo S.R.L.",
+      "denominazione": "Salsiccia fresca di puro suino/pasta di salsiccia",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "Salumificio F.lli Cavallo S.R.L.",
+    "product": "Salsiccia fresca di puro suino/pasta di salsiccia",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio F.lli Cavallo S.R.L. - Salsiccia fresca di puro suino/pasta di salsiccia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allerta_2022_n2342_REVOCA_1761192040.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salsiccia-fresca-di-puro-suinopasta-di-salsiccia-0",
+    "published": "2022-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vcv-hamburger-vitello-200g/",
+    "title": "",
+    "noticeDate": "8 agosto 2022",
+    "campi": {
+      "data pubblicazione": "8 agosto 2022",
+      "marca": "Vitello Casa Vercelli",
+      "denominazione": "VCV HAMBURGER VITELLO 200g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Vitello Casa Vercelli",
+    "product": "VCV HAMBURGER VITELLO 200g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Vitello Casa Vercelli - VCV HAMBURGER VITELLO 200g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_Hamburger_Vercelli_1761192042.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "vcv-hamburger-vitello-200g",
+    "published": "2022-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-fresca-di-puro-suinopasta-di-salsiccia/",
+    "title": "",
+    "noticeDate": "5 agosto 2022",
+    "campi": {
+      "data pubblicazione": "5 agosto 2022",
+      "marca": "Salumificio F.lli Cavallo S.R.L.",
+      "denominazione": "Salsiccia fresca di puro suino/Pasta di salsiccia",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio F.lli Cavallo S.R.L.",
+    "product": "Salsiccia fresca di puro suino/Pasta di salsiccia",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio F.lli Cavallo S.R.L. - Salsiccia fresca di puro suino/Pasta di salsiccia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Salcicia%20F.lli%20Cavallo%20_%20Beinette%20_CN__1761192038.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-fresca-di-puro-suinopasta-di-salsiccia",
+    "published": "2022-08-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-naturale-oligominerale-15-lt/",
+    "title": "",
+    "noticeDate": "2 agosto 2022",
+    "campi": {
+      "data pubblicazione": "2 agosto 2022",
+      "marca": "Fonte Valle Reale",
+      "denominazione": "Acqua Minerale Naturale Oligominerale 1,5 lt",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Fonte Valle Reale",
+    "product": "Acqua Minerale Naturale Oligominerale 1,5 lt",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fonte Valle Reale - Acqua Minerale Naturale Oligominerale 1,5 lt",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo_1761192036.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "acqua-minerale-naturale-oligominerale-15-lt",
+    "published": "2022-08-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/6-lemon-stecchi-con-bastoncino-alla-liquirizia/",
+    "title": "",
+    "noticeDate": "29 luglio 2022",
+    "campi": {
+      "data pubblicazione": "29 luglio 2022",
+      "marca": "Decò",
+      "denominazione": "6 Lemon Stecchi con bastoncino alla liquirizia",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Decò",
+    "product": "6 Lemon Stecchi con bastoncino alla liquirizia",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Decò - 6 Lemon Stecchi con bastoncino alla liquirizia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Eskigel_Dec%C3%B2%20Lemon%20Stecchi%20480g_1761192034.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "6-lemon-stecchi-con-bastoncino-alla-liquirizia",
+    "published": "2022-07-29",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratore-alimentare-pwo-max-kiwi-strawberry-prime-nutrition/",
     "title": "Integratore alimentare PWO-MAX Kiwi Strawberry",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-presenza-di-dmba-integratore-alimentare-pwo-max-kiwi/",
@@ -526,6 +812,58 @@
     "id": "integratore-alimentare-pwo-max-kiwi-strawberry-prime-nutrition",
     "published": "2022-07-28",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cocktail-mai-tai/",
+    "title": "",
+    "noticeDate": "28 luglio 2022",
+    "campi": {
+      "data pubblicazione": "28 luglio 2022",
+      "marca": "NIO COCKTAILS",
+      "denominazione": "COCKTAIL MAI TAI",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "NIO COCKTAILS",
+    "product": "COCKTAIL MAI TAI",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NIO COCKTAILS - COCKTAIL MAI TAI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/NIO%20COCKTAILS%20Cartello%20di%20Richiamo_Mai%20Tai_1761192032.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cocktail-mai-tai",
+    "published": "2022-07-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tortilla-chips-salted-biologiche/",
+    "title": "",
+    "noticeDate": "27 luglio 2022",
+    "campi": {
+      "data pubblicazione": "27 luglio 2022",
+      "marca": "Santamaria",
+      "denominazione": "Tortilla Chips Salted Biologiche",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Santamaria",
+    "product": "Tortilla Chips Salted Biologiche",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Santamaria - Tortilla Chips Salted Biologiche",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello_richiamo_tortilla_chips_santamaria%20_2__1761192030.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tortilla-chips-salted-biologiche",
+    "published": "2022-07-27",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hulala-pristine-whipping-platinum-1000-ml/",
@@ -628,6 +966,188 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "hulala-whipping-1000-mi-itczfrslosrbhrali-e",
+    "published": "2022-07-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hulala-whipping-1000-mi-iiczfrsloisrbhralfi-e/",
+    "title": "",
+    "noticeDate": "26 luglio 2022",
+    "campi": {
+      "data pubblicazione": "26 luglio 2022",
+      "marca": "IFFCO ITALIA SRL",
+      "denominazione": "Hulala whipping 1000 mi II'/CZ/FR/SLOISRB/HR/ALfi-È]",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "IFFCO ITALIA SRL",
+    "product": "Hulala whipping 1000 mi II'/CZ/FR/SLOISRB/HR/ALfi-È]",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IFFCO ITALIA SRL - Hulala whipping 1000 mi II'/CZ/FR/SLOISRB/HR/ALfi-È]",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLI%20DI%20RICHIAMO%20GISA%20E%2060%20S_%20Hulala%20whipp%C3%ACng%201000%20mi%20IT%20E_1761192018.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "hulala-whipping-1000-mi-iiczfrsloisrbhralfi-e",
+    "published": "2022-07-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hulala-pristine-whipping-platinum-1000-mi/",
+    "title": "",
+    "noticeDate": "26 luglio 2022",
+    "campi": {
+      "data pubblicazione": "26 luglio 2022",
+      "marca": "IFFCO ITALIA SRL",
+      "denominazione": "HULALA PRISTINE WHIPPING PLATINUM 1000 mi",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "IFFCO ITALIA SRL",
+    "product": "HULALA PRISTINE WHIPPING PLATINUM 1000 mi",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IFFCO ITALIA SRL - HULALA PRISTINE WHIPPING PLATINUM 1000 mi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLI%20DI%20RICHIAMO%20GISA%20E%2060%20S_%20HULALA%20PRISTINE%20WHIPPING%20PLATINUM%201000%20mi_1761192020.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "hulala-pristine-whipping-platinum-1000-mi",
+    "published": "2022-07-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hulala-pristine-whipping-classic-1000-mi-square/",
+    "title": "",
+    "noticeDate": "26 luglio 2022",
+    "campi": {
+      "data pubblicazione": "26 luglio 2022",
+      "marca": "IFFCO ITALIA SRL",
+      "denominazione": "Hulala Pristine Whipping classic 1000 mi square A",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "IFFCO ITALIA SRL",
+    "product": "Hulala Pristine Whipping classic 1000 mi square A",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IFFCO ITALIA SRL - Hulala Pristine Whipping classic 1000 mi square A",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLI%20DI%20RICHIAMO%20GISA%20E%2060%20S_%20Hulala%20Pristine%20Whipping%20classic%201000%20mi%20square%20A_1761192022.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "hulala-pristine-whipping-classic-1000-mi-square",
+    "published": "2022-07-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hulala-pristine-whipping-classic-10-lt-sgi/",
+    "title": "",
+    "noticeDate": "26 luglio 2022",
+    "campi": {
+      "data pubblicazione": "26 luglio 2022",
+      "marca": "IFFCO ITALIA SRL",
+      "denominazione": "Hulala Pristine Whipping classic 10 lt SGI",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "IFFCO ITALIA SRL",
+    "product": "Hulala Pristine Whipping classic 10 lt SGI",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IFFCO ITALIA SRL - Hulala Pristine Whipping classic 10 lt SGI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLI%20DI%20RICHIAMO%20GISA%20E%2060%20S_%20Hulala%20Pristine%20Whipping%20classic%2010%20lt%20SGI_1761192023.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "hulala-pristine-whipping-classic-10-lt-sgi",
+    "published": "2022-07-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hulala-10-lt/",
+    "title": "",
+    "noticeDate": "26 luglio 2022",
+    "campi": {
+      "data pubblicazione": "26 luglio 2022",
+      "marca": "IFFCO ITALIA SRL",
+      "denominazione": "Hulala 10 LT",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "IFFCO ITALIA SRL",
+    "product": "Hulala 10 LT",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IFFCO ITALIA SRL - Hulala 10 LT",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLI%20DI%20RICHIAMO%20GISA%20E%2060%20S_%20Hulala%2010%20LT_1761192025.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "hulala-10-lt",
+    "published": "2022-07-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hulala-10-lt-0/",
+    "title": "",
+    "noticeDate": "26 luglio 2022",
+    "campi": {
+      "data pubblicazione": "26 luglio 2022",
+      "marca": "IFFCO ITALIA SRL",
+      "denominazione": "Hulala 10 LT",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "IFFCO ITALIA SRL",
+    "product": "Hulala 10 LT",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IFFCO ITALIA SRL - Hulala 10 LT",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLI%20DI%20RICHIAMO%20GISA%20E%2060%20S_%20Hulala%2010%20LT%20_2__1761192027.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "hulala-10-lt-0",
+    "published": "2022-07-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hole-whipping-1000-ml/",
+    "title": "",
+    "noticeDate": "26 luglio 2022",
+    "campi": {
+      "data pubblicazione": "26 luglio 2022",
+      "marca": "IFFCO ITALIA SRL",
+      "denominazione": "HOLE WHIPPING 1000 ML",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "IFFCO ITALIA SRL",
+    "product": "HOLE WHIPPING 1000 ML",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IFFCO ITALIA SRL - HOLE WHIPPING 1000 ML",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLI%20DI%20RICHIAMO%20GISA%20E%2060%20S_%20HOLE%20WHIPPING%201000%20ML_1761192028.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "hole-whipping-1000-ml",
     "published": "2022-07-26",
     "source": "operator"
   },
