@@ -316,6 +316,526 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesce-spada-xiphias-gladius-sashimi-5080-congelato-0/",
+    "title": "",
+    "noticeDate": "4 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "4 dicembre 2023",
+      "marca": "IT W689D CE",
+      "denominazione": "PESCE SPADA (XIPHIAS GLADIUS) SASHIMI 50/80 CONGELATO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "IT W689D CE",
+    "product": "PESCE SPADA (XIPHIAS GLADIUS) SASHIMI 50/80 CONGELATO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IT W689D CE - PESCE SPADA (XIPHIAS GLADIUS) SASHIMI 50/80 CONGELATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LODI%20SRL_Modulo_richiamo_1761197622.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pesce-spada-xiphias-gladius-sashimi-5080-congelato-0",
+    "published": "2023-12-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/6-uova-extra-fresche-da-allevamento-terra/",
+    "title": "",
+    "noticeDate": "4 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "4 dicembre 2023",
+      "marca": "CENTRALE DEL LATTE DI BRESCIA SPA",
+      "denominazione": "6 UOVA EXTRA FRESCHE DA ALLEVAMENTO A TERRA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CENTRALE DEL LATTE DI BRESCIA SPA",
+    "product": "6 UOVA EXTRA FRESCHE DA ALLEVAMENTO A TERRA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CENTRALE DEL LATTE DI BRESCIA SPA - 6 UOVA EXTRA FRESCHE DA ALLEVAMENTO A TERRA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/UTD06XB0_BA819_1MR_centrale_1761197626.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "6-uova-extra-fresche-da-allevamento-terra",
+    "published": "2023-12-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/6-uova-extra-fresche-da-allevamento-terra-0/",
+    "title": "",
+    "noticeDate": "4 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "4 dicembre 2023",
+      "marca": "CENTRALE DEL LATTE DI BRESCIA SPA",
+      "denominazione": "6 UOVA EXTRA FRESCHE DA ALLEVAMENTO A TERRA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CENTRALE DEL LATTE DI BRESCIA SPA",
+    "product": "6 UOVA EXTRA FRESCHE DA ALLEVAMENTO A TERRA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CENTRALE DEL LATTE DI BRESCIA SPA - 6 UOVA EXTRA FRESCHE DA ALLEVAMENTO A TERRA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/UTD06XB1_BA820_1MR_centrale_1761197630.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "6-uova-extra-fresche-da-allevamento-terra-0",
+    "published": "2023-12-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesce-spada-xiphias-gladius-sashimi-5080-congelato/",
+    "title": "",
+    "noticeDate": "1 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "1 dicembre 2023",
+      "marca": "Lodi Srl",
+      "denominazione": "Pesce spada (xiphias gladius) sashimi 50/80 congelato",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Lodi Srl",
+    "product": "Pesce spada (xiphias gladius) sashimi 50/80 congelato",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Lodi Srl - Pesce spada (xiphias gladius) sashimi 50/80 congelato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Lodi_Modello_richiamo_1761197614.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pesce-spada-xiphias-gladius-sashimi-5080-congelato",
+    "published": "2023-12-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taralli-multipack-gusto-classico-e-taralli-multipack-gusto/",
+    "title": "",
+    "noticeDate": "1 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "1 dicembre 2023",
+      "marca": "CERTOSSA",
+      "denominazione": "TARALLI MULTIPACK GUSTO CLASSICO E TARALLI MULTIPACK GUSTO CLASSICOXXL",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "CERTOSSA",
+    "product": "TARALLI MULTIPACK GUSTO CLASSICO E TARALLI MULTIPACK GUSTO CLASSICOXXL",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CERTOSSA - TARALLI MULTIPACK GUSTO CLASSICO E TARALLI MULTIPACK GUSTO CLASSICOXXL",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/TARALLI_modello%20di%20richiamo_1761197618.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "taralli-multipack-gusto-classico-e-taralli-multipack-gusto",
+    "published": "2023-12-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-base-di-latte-crudo-di-bufala/",
+    "title": "",
+    "noticeDate": "30 novembre 2023",
+    "campi": {
+      "data pubblicazione": "30 novembre 2023",
+      "marca": "Fondibufala \"Selezione d'autore\"",
+      "denominazione": "Formaggio a base di latte crudo di bufala",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Fondibufala \"Selezione d'autore\"",
+    "product": "Formaggio a base di latte crudo di bufala",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fondibufala \"Selezione d'autore\" - Formaggio a base di latte crudo di bufala",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Ministeriale%20per%20richiamo%202023_compilato_1761197611.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-base-di-latte-crudo-di-bufala",
+    "published": "2023-11-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/borragine-cubetti-surgelata-25kg/",
+    "title": "",
+    "noticeDate": "27 novembre 2023",
+    "campi": {
+      "data pubblicazione": "27 novembre 2023",
+      "marca": "Industrie ROLLI Alimentari S.p.A. Via Nazionale, 544 - 64026 Roseto DEGLI Abruzzi (TE)",
+      "denominazione": "Borragine a cubetti surgelata 2,5kg",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Industrie ROLLI Alimentari S.p.A. Via Nazionale, 544 - 64026 Roseto DEGLI Abruzzi (TE)",
+    "product": "Borragine a cubetti surgelata 2,5kg",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Industrie ROLLI Alimentari S.p.A. Via Nazionale, 544 - 64026 Roseto DEGLI Abruzzi (TE) - Borragine a cubetti surgelata 2,5kg",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Lotto%20LM010A%20_2%20files%20merged__1761197607.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "borragine-cubetti-surgelata-25kg",
+    "published": "2023-11-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-3/",
+    "title": "",
+    "noticeDate": "24 novembre 2023",
+    "campi": {
+      "data pubblicazione": "24 novembre 2023",
+      "marca": "TORESAN",
+      "denominazione": "SALAME",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "TORESAN",
+    "product": "SALAME",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TORESAN - SALAME",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMOSALAME%20_1__1761197586.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-3",
+    "published": "2023-11-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-con-aglio/",
+    "title": "",
+    "noticeDate": "24 novembre 2023",
+    "campi": {
+      "data pubblicazione": "24 novembre 2023",
+      "marca": "TORESAN",
+      "denominazione": "SALAME CON AGLIO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "TORESAN",
+    "product": "SALAME CON AGLIO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TORESAN - SALAME CON AGLIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMOSALAMECONAGLIO_1761197589.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-con-aglio",
+    "published": "2023-11-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-affumicato/",
+    "title": "",
+    "noticeDate": "24 novembre 2023",
+    "campi": {
+      "data pubblicazione": "24 novembre 2023",
+      "marca": "TORESAN",
+      "denominazione": "SALAME AFFUMICATO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "TORESAN",
+    "product": "SALAME AFFUMICATO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TORESAN - SALAME AFFUMICATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMOSALAMEAFFUMICATO_1761197593.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-affumicato",
+    "published": "2023-11-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-2/",
+    "title": "",
+    "noticeDate": "24 novembre 2023",
+    "campi": {
+      "data pubblicazione": "24 novembre 2023",
+      "marca": "Salumeria dell¿Abbazia di Lucaioli Pacifico",
+      "denominazione": "SALSICCIA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Salumeria dell¿Abbazia di Lucaioli Pacifico",
+    "product": "SALSICCIA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumeria dell¿Abbazia di Lucaioli Pacifico - SALSICCIA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2023_11_23_CARTELLORICHIAMO%20lucaioli_1761197596.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salsiccia-2",
+    "published": "2023-11-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fucuslinea-le-erbe/",
+    "title": "",
+    "noticeDate": "24 novembre 2023",
+    "campi": {
+      "data pubblicazione": "24 novembre 2023",
+      "marca": "SPECCHIASOL SRL",
+      "denominazione": "FUCUS_LINEA LE ERBE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "SPECCHIASOL SRL",
+    "product": "FUCUS_LINEA LE ERBE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SPECCHIASOL SRL - FUCUS_LINEA LE ERBE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/FUCUS%201%20_2_1761197600.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "fucuslinea-le-erbe",
+    "published": "2023-11-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fucuslinea-le-erbe-0/",
+    "title": "",
+    "noticeDate": "24 novembre 2023",
+    "campi": {
+      "data pubblicazione": "24 novembre 2023",
+      "marca": "SPECCHIASOL SRL",
+      "denominazione": "FUCUS_LINEA LE ERBE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "SPECCHIASOL SRL",
+    "product": "FUCUS_LINEA LE ERBE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SPECCHIASOL SRL - FUCUS_LINEA LE ERBE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fucus%203_4_1761197603.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "fucuslinea-le-erbe-0",
+    "published": "2023-11-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/marron-glaces-pezzi-250-g/",
+    "title": "",
+    "noticeDate": "23 novembre 2023",
+    "campi": {
+      "data pubblicazione": "23 novembre 2023",
+      "marca": "Esselunga TOP",
+      "denominazione": "Marron Glacés in pezzi - 250 g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Esselunga TOP",
+    "product": "Marron Glacés in pezzi - 250 g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Esselunga TOP - Marron Glacés in pezzi - 250 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo_1761197583.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "marron-glaces-pezzi-250-g",
+    "published": "2023-11-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/code-di-gamberi-indopacifici-scottate-e-surgelate/",
+    "title": "",
+    "noticeDate": "21 novembre 2023",
+    "campi": {
+      "data pubblicazione": "21 novembre 2023",
+      "marca": "COOP ITALIA S.C.",
+      "denominazione": "CODE DI GAMBERI INDOPACIFICI SCOTTATE E SURGELATE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "COOP ITALIA S.C.",
+    "product": "CODE DI GAMBERI INDOPACIFICI SCOTTATE E SURGELATE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo COOP ITALIA S.C. - CODE DI GAMBERI INDOPACIFICI SCOTTATE E SURGELATE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Code%20di%20Gamberi%20indopacifici%20scottate%20COOP_1761197579.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "code-di-gamberi-indopacifici-scottate-e-surgelate",
+    "published": "2023-11-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongole-veraci/",
+    "title": "",
+    "noticeDate": "20 novembre 2023",
+    "campi": {
+      "data pubblicazione": "20 novembre 2023",
+      "marca": "CAM srl",
+      "denominazione": "VONGOLE VERACI",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CAM srl",
+    "product": "VONGOLE VERACI",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CAM srl - VONGOLE VERACI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartellodirichiamovongoleveraci_1761197576.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "vongole-veraci",
+    "published": "2023-11-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/patate-preferite-spicchi/",
+    "title": "",
+    "noticeDate": "16 novembre 2023",
+    "campi": {
+      "data pubblicazione": "16 novembre 2023",
+      "marca": "LAMB WESTON",
+      "denominazione": "Patate preferite spicchi",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "LAMB WESTON",
+    "product": "Patate preferite spicchi",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LAMB WESTON - Patate preferite spicchi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/COMUNICATOPERPUNTIVENDITAnew1_1761197569.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "patate-preferite-spicchi",
+    "published": "2023-11-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-sgusciati-200-gsesam-tuskany-helio/",
+    "title": "",
+    "noticeDate": "16 novembre 2023",
+    "campi": {
+      "data pubblicazione": "16 novembre 2023",
+      "marca": "HELIO",
+      "denominazione": "Semi di sesamo sgusciati, 200 g/Sesam tuskany HELIO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "HELIO",
+    "product": "Semi di sesamo sgusciati, 200 g/Sesam tuskany HELIO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo HELIO - Semi di sesamo sgusciati, 200 g/Sesam tuskany HELIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/doc09981920231115134850_1761197572.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "semi-di-sesamo-sgusciati-200-gsesam-tuskany-helio",
+    "published": "2023-11-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fagiolini-spezzati-demeter/",
+    "title": "",
+    "noticeDate": "15 novembre 2023",
+    "campi": {
+      "data pubblicazione": "15 novembre 2023",
+      "marca": "Machandel",
+      "denominazione": "Fagiolini spezzati Demeter",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Machandel",
+    "product": "Fagiolini spezzati Demeter",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Machandel - Fagiolini spezzati Demeter",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20Fagiolini%20spezzati_1761197566.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fagiolini-spezzati-demeter",
+    "published": "2023-11-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/algavit-chlorella-linea-le-erbe/",
+    "title": "",
+    "noticeDate": "11 novembre 2023",
+    "campi": {
+      "data pubblicazione": "11 novembre 2023",
+      "marca": "SPECCHIASOL SRL",
+      "denominazione": "ALGAVIT CHLORELLA LINEA LE ERBE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "SPECCHIASOL SRL",
+    "product": "ALGAVIT CHLORELLA LINEA LE ERBE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SPECCHIASOL SRL - ALGAVIT CHLORELLA LINEA LE ERBE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/644250_23_155_C_1761197562.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "algavit-chlorella-linea-le-erbe",
+    "published": "2023-11-11",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/provolone-valpadana-dop-dolce/",
     "title": "",
     "noticeDate": "10 novembre 2023",
