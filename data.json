@@ -585,6 +585,84 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/arachidi-tostati-guscio/",
+    "title": "",
+    "noticeDate": "11 marzo 2022",
+    "campi": {
+      "data pubblicazione": "11 marzo 2022",
+      "marca": "LA CENERENTOLA SRL",
+      "denominazione": "ARACHIDI TOSTATI IN GUSCIO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LA CENERENTOLA SRL",
+    "product": "ARACHIDI TOSTATI IN GUSCIO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA CENERENTOLA SRL - ARACHIDI TOSTATI IN GUSCIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_arachidi_1761190383.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "arachidi-tostati-guscio",
+    "published": "2022-03-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wurstel-di-carne-suina-affumicati-servelade/",
+    "title": "",
+    "noticeDate": "11 marzo 2022",
+    "campi": {
+      "data pubblicazione": "11 marzo 2022",
+      "marca": "Dulano",
+      "denominazione": "Wurstel di carne suina, affumicati (Servelade)",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Dulano",
+    "product": "Wurstel di carne suina, affumicati (Servelade)",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Dulano - Wurstel di carne suina, affumicati (Servelade)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato4_MODELLO_DI_RICHIAMOWrstelServelade_1761190386.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "wurstel-di-carne-suina-affumicati-servelade",
+    "published": "2022-03-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/alimento-liquido-bambini-da-1-3-anni-base-di-latte-parzialmente/",
+    "title": "",
+    "noticeDate": "9 marzo 2022",
+    "campi": {
+      "data pubblicazione": "9 marzo 2022",
+      "marca": "Hipp",
+      "denominazione": "Alimento liquido per bambini da 1 a 3 anni a base di latte parzialmente scremato",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Hipp",
+    "product": "Alimento liquido per bambini da 1 a 3 anni a base di latte parzialmente scremato",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Hipp - Alimento liquido per bambini da 1 a 3 anni a base di latte parzialmente scremato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo_1761190379.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "alimento-liquido-bambini-da-1-3-anni-base-di-latte-parzialmente",
+    "published": "2022-03-09",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/champagne-3-litri-moet-chandon-imperial-ice/",
     "title": "Champagne 3 litri",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-presenza-di-mdma-lotto-di-champagne-moet-chandon/",
@@ -612,6 +690,396 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/giuncatina-santa-caterina-primosale-santa-caterina/",
+    "title": "",
+    "noticeDate": "7 marzo 2022",
+    "campi": {
+      "data pubblicazione": "7 marzo 2022",
+      "marca": "Giuncatina Primosale",
+      "denominazione": "Giuncatina Santa Caterina Primosale Santa Caterina",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Giuncatina Primosale",
+    "product": "Giuncatina Santa Caterina Primosale Santa Caterina",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Giuncatina Primosale - Giuncatina Santa Caterina Primosale Santa Caterina",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Santa%20Caterina_1761190376.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "giuncatina-santa-caterina-primosale-santa-caterina",
+    "published": "2022-03-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vannamei-shrimp-sushi-ebi-4l-mazzancolle-tropicali-congelate/",
+    "title": "",
+    "noticeDate": "4 marzo 2022",
+    "campi": {
+      "data pubblicazione": "4 marzo 2022",
+      "marca": "SHIRAKIKU",
+      "denominazione": "Vannamei Shrimp - SUSHI EBI 4L - Mazzancolle tropicali congelate -",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SHIRAKIKU",
+    "product": "Vannamei Shrimp - SUSHI EBI 4L - Mazzancolle tropicali congelate -",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SHIRAKIKU - Vannamei Shrimp - SUSHI EBI 4L - Mazzancolle tropicali congelate -",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Uniontrade_Modello_richiamo_1761190372.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "vannamei-shrimp-sushi-ebi-4l-mazzancolle-tropicali-congelate",
+    "published": "2022-03-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mandorello/",
+    "title": "",
+    "noticeDate": "3 marzo 2022",
+    "campi": {
+      "data pubblicazione": "3 marzo 2022",
+      "marca": "SAN MARCO",
+      "denominazione": "MANDORELLO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "SAN MARCO",
+    "product": "MANDORELLO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SAN MARCO - MANDORELLO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULORICHIAMOBUSTA400_1761190362.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mandorello",
+    "published": "2022-03-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mandorello-0/",
+    "title": "",
+    "noticeDate": "3 marzo 2022",
+    "campi": {
+      "data pubblicazione": "3 marzo 2022",
+      "marca": "SAN MARCO",
+      "denominazione": "MANDORELLO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "SAN MARCO",
+    "product": "MANDORELLO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SAN MARCO - MANDORELLO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULORICHIAMOCILINDRO250_1761190366.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mandorello-0",
+    "published": "2022-03-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mandorello-1/",
+    "title": "",
+    "noticeDate": "3 marzo 2022",
+    "campi": {
+      "data pubblicazione": "3 marzo 2022",
+      "marca": "SAN MARCO",
+      "denominazione": "MANDORELLO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "SAN MARCO",
+    "product": "MANDORELLO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SAN MARCO - MANDORELLO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULORICHIAMOSACCHETTO150_1761190369.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mandorello-1",
+    "published": "2022-03-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pollo-allevato-terra-origine-italia-alette-di-pollo-fqc/",
+    "title": "",
+    "noticeDate": "28 febbraio 2022",
+    "campi": {
+      "data pubblicazione": "28 febbraio 2022",
+      "marca": "IT 027 M CE",
+      "denominazione": "POLLO ALLEVATO A TERRA ORIGINE ITALIA ALETTE DI POLLO FQC",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "IT 027 M CE",
+    "product": "POLLO ALLEVATO A TERRA ORIGINE ITALIA ALETTE DI POLLO FQC",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IT 027 M CE - POLLO ALLEVATO A TERRA ORIGINE ITALIA ALETTE DI POLLO FQC",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_Alette_1761190356.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pollo-allevato-terra-origine-italia-alette-di-pollo-fqc",
+    "published": "2022-02-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pollo-allevato-terra-origine-italia-alette-di-pollo-fqc-0/",
+    "title": "",
+    "noticeDate": "28 febbraio 2022",
+    "campi": {
+      "data pubblicazione": "28 febbraio 2022",
+      "marca": "CARREFOUR",
+      "denominazione": "POLLO ALLEVATO A TERRA ORIGINE ITALIA ALETTE DI POLLO FQC",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "CARREFOUR",
+    "product": "POLLO ALLEVATO A TERRA ORIGINE ITALIA ALETTE DI POLLO FQC",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CARREFOUR - POLLO ALLEVATO A TERRA ORIGINE ITALIA ALETTE DI POLLO FQC",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_Alette_1761190359.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pollo-allevato-terra-origine-italia-alette-di-pollo-fqc-0",
+    "published": "2022-02-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pollo-allevato-terra-alette-di-pollo-fqc/",
+    "title": "",
+    "noticeDate": "25 febbraio 2022",
+    "campi": {
+      "data pubblicazione": "25 febbraio 2022",
+      "marca": "CARREFOUR",
+      "denominazione": "pollo allevato a terra alette di pollo fqc",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CARREFOUR",
+    "product": "pollo allevato a terra alette di pollo fqc",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CARREFOUR - pollo allevato a terra alette di pollo fqc",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761190349.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pollo-allevato-terra-alette-di-pollo-fqc",
+    "published": "2022-02-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nongshim-instant-noodle-soup-kimchi/",
+    "title": "",
+    "noticeDate": "25 febbraio 2022",
+    "campi": {
+      "data pubblicazione": "25 febbraio 2022",
+      "marca": "NONGSHIM",
+      "denominazione": "NONGSHIM Instant noodle soup kimchi",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "NONGSHIM",
+    "product": "NONGSHIM Instant noodle soup kimchi",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NONGSHIM - NONGSHIM Instant noodle soup kimchi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20RICHIAMO%20NONGSHIM%20SHIN_1761190353.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "nongshim-instant-noodle-soup-kimchi",
+    "published": "2022-02-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/alimentum-0/",
+    "title": "",
+    "noticeDate": "24 febbraio 2022",
+    "campi": {
+      "data pubblicazione": "24 febbraio 2022",
+      "marca": "Similac",
+      "denominazione": "Alimentum",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Similac",
+    "product": "Alimentum",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Similac - Alimentum",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Alimentum_2b_1761190342.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "alimentum-0",
+    "published": "2022-02-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/elecare-0/",
+    "title": "",
+    "noticeDate": "24 febbraio 2022",
+    "campi": {
+      "data pubblicazione": "24 febbraio 2022",
+      "marca": "Similac",
+      "denominazione": "Elecare",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Similac",
+    "product": "Elecare",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Similac - Elecare",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Elecare_2b_1761190346.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "elecare-0",
+    "published": "2022-02-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/elecare/",
+    "title": "",
+    "noticeDate": "22 febbraio 2022",
+    "campi": {
+      "data pubblicazione": "22 febbraio 2022",
+      "marca": "Similac",
+      "denominazione": "Elecare",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Similac",
+    "product": "Elecare",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Similac - Elecare",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Elecare_1761190335.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "elecare",
+    "published": "2022-02-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/alimentum/",
+    "title": "",
+    "noticeDate": "22 febbraio 2022",
+    "campi": {
+      "data pubblicazione": "22 febbraio 2022",
+      "marca": "Similac",
+      "denominazione": "Alimentum",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Similac",
+    "product": "Alimentum",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Similac - Alimentum",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Alimentum_1761190338.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "alimentum",
+    "published": "2022-02-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cozze-cilene-sgusciate-cotte-congelate-0/",
+    "title": "",
+    "noticeDate": "15 febbraio 2022",
+    "campi": {
+      "data pubblicazione": "15 febbraio 2022",
+      "marca": "SOC PESQUERA LANDES SOCIEDAD ANONIMA",
+      "denominazione": "Cozze cilene sgusciate cotte congelate",
+      "motivo della segnalazione": "Revoca per analisi di revisione favorevole"
+    },
+    "brand": "SOC PESQUERA LANDES SOCIEDAD ANONIMA",
+    "product": "Cozze cilene sgusciate cotte congelate",
+    "reasonShort": "Revoca per analisi di revisione favorevole",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SOC PESQUERA LANDES SOCIEDAD ANONIMA - Cozze cilene sgusciate cotte congelate",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20richiamo%20COZZE%20CILENE%20LANDES_1__1761190328.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cozze-cilene-sgusciate-cotte-congelate-0",
+    "published": "2022-02-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cozze-cilene-sgusciate-cotte-congelate-1/",
+    "title": "",
+    "noticeDate": "15 febbraio 2022",
+    "campi": {
+      "data pubblicazione": "15 febbraio 2022",
+      "marca": "SOC PESQUERA LANDES SOCIEDAD ANONIMA",
+      "denominazione": "Cozze cilene sgusciate cotte congelate",
+      "motivo della segnalazione": "Revoca per analisi di revisione favorevole"
+    },
+    "brand": "SOC PESQUERA LANDES SOCIEDAD ANONIMA",
+    "product": "Cozze cilene sgusciate cotte congelate",
+    "reasonShort": "Revoca per analisi di revisione favorevole",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SOC PESQUERA LANDES SOCIEDAD ANONIMA - Cozze cilene sgusciate cotte congelate",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20richiamo%20COZZE%20CILENE%20LANDES_1__1761190331.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cozze-cilene-sgusciate-cotte-congelate-1",
+    "published": "2022-02-15",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ricetta-del-frate-aloe-arboscens/",
     "title": "",
     "noticeDate": "14 febbraio 2022",
@@ -634,6 +1102,58 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "ricetta-del-frate-aloe-arboscens",
+    "published": "2022-02-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/juice-aloe-arborescens/",
+    "title": "",
+    "noticeDate": "14 febbraio 2022",
+    "campi": {
+      "data pubblicazione": "14 febbraio 2022",
+      "marca": "AZIEND AGRICOLA IL PUCINO",
+      "denominazione": "JUICE ALOE ARBORESCENS",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "AZIEND AGRICOLA IL PUCINO",
+    "product": "JUICE ALOE ARBORESCENS",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AZIEND AGRICOLA IL PUCINO - JUICE ALOE ARBORESCENS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MOD_Richiamo_JUICEAloeArborescenslotto15115_1761190322.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "juice-aloe-arborescens",
+    "published": "2022-02-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cannelloni-di-magro-300g-b/",
+    "title": "",
+    "noticeDate": "14 febbraio 2022",
+    "campi": {
+      "data pubblicazione": "14 febbraio 2022",
+      "marca": "GI Gastronomia italiana srl",
+      "denominazione": "CANNELLONI DI MAGRO 300g B",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "GI Gastronomia italiana srl",
+    "product": "CANNELLONI DI MAGRO 300g B",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GI Gastronomia italiana srl - CANNELLONI DI MAGRO 300g B",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/GI%20Gastronomia%20Italiana_Comunicazione%20Richiamo%20Cannelloni%20di%20Magro%20%20_2__1761190325.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cannelloni-di-magro-300g-b",
     "published": "2022-02-14",
     "source": "operator"
   },
