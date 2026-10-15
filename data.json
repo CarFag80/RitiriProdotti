@@ -1885,6 +1885,474 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fette-croccanti-con-quinoa-bio/",
+    "title": "",
+    "noticeDate": "20 aprile 2022",
+    "campi": {
+      "data pubblicazione": "20 aprile 2022",
+      "marca": "NaturAktiv-Enjoy free!",
+      "denominazione": "Fette croccanti con quinoa BIO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "NaturAktiv-Enjoy free!",
+    "product": "Fette croccanti con quinoa BIO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NaturAktiv-Enjoy free! - Fette croccanti con quinoa BIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ManifestoFettecroccanticonquinoaBIO%20_1__1761191148.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fette-croccanti-con-quinoa-bio",
+    "published": "2022-04-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kinder-uberraschung-maxi/",
+    "title": "",
+    "noticeDate": "20 aprile 2022",
+    "campi": {
+      "data pubblicazione": "20 aprile 2022",
+      "marca": "FERRERO KINDER",
+      "denominazione": "KINDER ÜBERRASCHUNG MAXI",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FERRERO KINDER",
+    "product": "KINDER ÜBERRASCHUNG MAXI",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FERRERO KINDER - KINDER ÜBERRASCHUNG MAXI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/KINDER%20%C3%9CBERRASCHUNG%20MAXI%20AUSTRIA_1761191150.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "kinder-uberraschung-maxi",
+    "published": "2022-04-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kinder-uberraschung/",
+    "title": "",
+    "noticeDate": "20 aprile 2022",
+    "campi": {
+      "data pubblicazione": "20 aprile 2022",
+      "marca": "FERRERO KINDER",
+      "denominazione": "KINDER ÜBERRASCHUNG",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FERRERO KINDER",
+    "product": "KINDER ÜBERRASCHUNG",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FERRERO KINDER - KINDER ÜBERRASCHUNG",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/KINDER%20%C3%9CBERRASCHUNG%20AUSTRIA_1761191151.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "kinder-uberraschung",
+    "published": "2022-04-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kinder-schoko-bons-5/",
+    "title": "",
+    "noticeDate": "20 aprile 2022",
+    "campi": {
+      "data pubblicazione": "20 aprile 2022",
+      "marca": "FERRERO KINDER",
+      "denominazione": "KINDER SCHOKO BONS",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FERRERO KINDER",
+    "product": "KINDER SCHOKO BONS",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FERRERO KINDER - KINDER SCHOKO BONS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/KINDER%20SCHOKO%20BONS%20AUSTRIA_1761191153.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "kinder-schoko-bons-5",
+    "published": "2022-04-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kinder-mix/",
+    "title": "",
+    "noticeDate": "20 aprile 2022",
+    "campi": {
+      "data pubblicazione": "20 aprile 2022",
+      "marca": "FERRERO KINDER",
+      "denominazione": "KINDER MIX",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FERRERO KINDER",
+    "product": "KINDER MIX",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FERRERO KINDER - KINDER MIX",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/KINDER%20MIX%20AUSTRIA_immagini_1761191155.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "kinder-mix",
+    "published": "2022-04-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kinder-mini-eggs/",
+    "title": "",
+    "noticeDate": "20 aprile 2022",
+    "campi": {
+      "data pubblicazione": "20 aprile 2022",
+      "marca": "FERRERO KINDER",
+      "denominazione": "KINDER MINI EGGS",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FERRERO KINDER",
+    "product": "KINDER MINI EGGS",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FERRERO KINDER - KINDER MINI EGGS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/KINDER%20MINI%20EGGS%20AUSTRIA_1761191157.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "kinder-mini-eggs",
+    "published": "2022-04-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kinder-happy-moments/",
+    "title": "",
+    "noticeDate": "20 aprile 2022",
+    "campi": {
+      "data pubblicazione": "20 aprile 2022",
+      "marca": "FERRERO KINDER",
+      "denominazione": "KINDER HAPPY MOMENTS",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FERRERO KINDER",
+    "product": "KINDER HAPPY MOMENTS",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FERRERO KINDER - KINDER HAPPY MOMENTS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/KINDER%20HAPPY%20MOMENTS%20AUSTRIA_1761191158.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "kinder-happy-moments",
+    "published": "2022-04-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kinder-happy-moment-162-gr/",
+    "title": "",
+    "noticeDate": "20 aprile 2022",
+    "campi": {
+      "data pubblicazione": "20 aprile 2022",
+      "marca": "FERRERO",
+      "denominazione": "KINDER HAPPY MOMENT 162 GR.",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FERRERO",
+    "product": "KINDER HAPPY MOMENT 162 GR.",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FERRERO - KINDER HAPPY MOMENT 162 GR.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/kinder%20minimoment162gr_1_1761191160.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "kinder-happy-moment-162-gr",
+    "published": "2022-04-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kinder-schoko-bons-4/",
+    "title": "",
+    "noticeDate": "13 aprile 2022",
+    "campi": {
+      "data pubblicazione": "13 aprile 2022",
+      "marca": "Ferrero Kinder",
+      "denominazione": "Kinder Schoko Bons",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Ferrero Kinder",
+    "product": "Kinder Schoko Bons",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ferrero Kinder - Kinder Schoko Bons",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/080422%20recall%20Kinder%20Ferrero%20Schoko%20Bons%20125g_1761191146.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "kinder-schoko-bons-4",
+    "published": "2022-04-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-vivibene-selex-bocconcini-125-gr-senza-lattosio/",
+    "title": "",
+    "noticeDate": "11 aprile 2022",
+    "campi": {
+      "data pubblicazione": "11 aprile 2022",
+      "marca": "Vivibene Selex",
+      "denominazione": "mozzarella Vivibene Selex bocconcini 125 gr senza lattosio",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Vivibene Selex",
+    "product": "mozzarella Vivibene Selex bocconcini 125 gr senza lattosio",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Vivibene Selex - mozzarella Vivibene Selex bocconcini 125 gr senza lattosio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mozzarella%20Vivibene%20Selex_1761191143.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mozzarella-vivibene-selex-bocconcini-125-gr-senza-lattosio",
+    "published": "2022-04-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-vivibene-selex-bocconcini-senza-lattosio/",
+    "title": "",
+    "noticeDate": "11 aprile 2022",
+    "campi": {
+      "data pubblicazione": "11 aprile 2022",
+      "marca": "Vivibene Selex",
+      "denominazione": "Mozzarella Vivibene Selex Bocconcini \"senza lattosio\"",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Vivibene Selex",
+    "product": "Mozzarella Vivibene Selex Bocconcini \"senza lattosio\"",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Vivibene Selex - Mozzarella Vivibene Selex Bocconcini \"senza lattosio\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20mozzarella%20SELEX_1761191145.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mozzarella-vivibene-selex-bocconcini-senza-lattosio",
+    "published": "2022-04-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kinder-schoko-bons-3/",
+    "title": "",
+    "noticeDate": "9 aprile 2022",
+    "campi": {
+      "data pubblicazione": "9 aprile 2022",
+      "marca": "Ferrero Kinder",
+      "denominazione": "Kinder Schoko Bons",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Ferrero Kinder",
+    "product": "Kinder Schoko Bons",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ferrero Kinder - Kinder Schoko Bons",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/080422%20recall%20Kinder%20Ferrero%20Schoko%20Bons%2046g_1761191139.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "kinder-schoko-bons-3",
+    "published": "2022-04-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kinder-sorpresa-t6-pulcini/",
+    "title": "",
+    "noticeDate": "9 aprile 2022",
+    "campi": {
+      "data pubblicazione": "9 aprile 2022",
+      "marca": "Ferrero Kinder",
+      "denominazione": "Kinder Sorpresa T6 \"Pulcini\"",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Ferrero Kinder",
+    "product": "Kinder Sorpresa T6 \"Pulcini\"",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ferrero Kinder - Kinder Sorpresa T6 \"Pulcini\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Kinder%20Ferrero%20Sorpresa%20T6%20Pulcini_1761191140.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "kinder-sorpresa-t6-pulcini",
+    "published": "2022-04-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kinder-sorpresa-maxi-puffi-e-miraculous/",
+    "title": "",
+    "noticeDate": "9 aprile 2022",
+    "campi": {
+      "data pubblicazione": "9 aprile 2022",
+      "marca": "Ferrero Kinder",
+      "denominazione": "Kinder Sorpresa Maxi \"Puffi\" e \"Miraculous\"",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Ferrero Kinder",
+    "product": "Kinder Sorpresa Maxi \"Puffi\" e \"Miraculous\"",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ferrero Kinder - Kinder Sorpresa Maxi \"Puffi\" e \"Miraculous\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Kinder%20Ferrero%20Sorpresa%20Maxi_1761191142.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "kinder-sorpresa-maxi-puffi-e-miraculous",
+    "published": "2022-04-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kinder-schoko-bons/",
+    "title": "",
+    "noticeDate": "6 aprile 2022",
+    "campi": {
+      "data pubblicazione": "6 aprile 2022",
+      "marca": "Ferrero Kinder",
+      "denominazione": "Kinder Schoko Bons",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Ferrero Kinder",
+    "product": "Kinder Schoko Bons",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ferrero Kinder - Kinder Schoko Bons",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/recall%20Kinder%20FErrero%20Schoko%20Bons%2046g_1761191133.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "kinder-schoko-bons",
+    "published": "2022-04-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kinder-schoko-bons-0/",
+    "title": "",
+    "noticeDate": "6 aprile 2022",
+    "campi": {
+      "data pubblicazione": "6 aprile 2022",
+      "marca": "Ferrero Kinder",
+      "denominazione": "Kinder Schoko Bons",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Ferrero Kinder",
+    "product": "Kinder Schoko Bons",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ferrero Kinder - Kinder Schoko Bons",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/recall%20Kinder%20FErrero%20Schoko%20Bons%20125g_1761191135.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "kinder-schoko-bons-0",
+    "published": "2022-04-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kinder-schoko-bons-1/",
+    "title": "",
+    "noticeDate": "6 aprile 2022",
+    "campi": {
+      "data pubblicazione": "6 aprile 2022",
+      "marca": "Ferrero Kinder",
+      "denominazione": "Kinder Schoko Bons",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Ferrero Kinder",
+    "product": "Kinder Schoko Bons",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ferrero Kinder - Kinder Schoko Bons",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/recall%20Kinder%20FErrero%20Schoko%20Bons%2046g_1761191136.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "kinder-schoko-bons-1",
+    "published": "2022-04-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kinder-schoko-bons-2/",
+    "title": "",
+    "noticeDate": "6 aprile 2022",
+    "campi": {
+      "data pubblicazione": "6 aprile 2022",
+      "marca": "Ferrero Kinder",
+      "denominazione": "Kinder Schoko Bons",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Ferrero Kinder",
+    "product": "Kinder Schoko Bons",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ferrero Kinder - Kinder Schoko Bons",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/recall%20Kinder%20FErrero%20Schoko%20Bons%20125g_1761191137.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "kinder-schoko-bons-2",
+    "published": "2022-04-06",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-alimentare-tipo-zuppa-al-gusto-verdure/",
     "title": "",
     "noticeDate": "1 aprile 2022",
@@ -1907,6 +2375,58 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "preparato-alimentare-tipo-zuppa-al-gusto-verdure",
+    "published": "2022-04-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kit-intensiva-contenete-preparato-alimentare-tipo-zuppa-al-gusto-di/",
+    "title": "",
+    "noticeDate": "1 aprile 2022",
+    "campi": {
+      "data pubblicazione": "1 aprile 2022",
+      "marca": "TISANOREICA GIANLUCA MECH",
+      "denominazione": "KIT INTENSIVA (Contenete preparato alimentare tipo zuppa al gusto di verdure)",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "TISANOREICA GIANLUCA MECH",
+    "product": "KIT INTENSIVA (Contenete preparato alimentare tipo zuppa al gusto di verdure)",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TISANOREICA GIANLUCA MECH - KIT INTENSIVA (Contenete preparato alimentare tipo zuppa al gusto di verdure)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_kit%20intensiva_lotto%20220207_1761191130.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "kit-intensiva-contenete-preparato-alimentare-tipo-zuppa-al-gusto-di",
+    "published": "2022-04-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kit-intensiva-contenente-preparato-alimentare-tipo-zuppa-al-gusto/",
+    "title": "",
+    "noticeDate": "1 aprile 2022",
+    "campi": {
+      "data pubblicazione": "1 aprile 2022",
+      "marca": "TISANOREICA GIANLUCA MECH",
+      "denominazione": "KIT INTENSIVA (Contenente Preparato alimentare tipo zuppa al gusto di verdure)",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "TISANOREICA GIANLUCA MECH",
+    "product": "KIT INTENSIVA (Contenente Preparato alimentare tipo zuppa al gusto di verdure)",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TISANOREICA GIANLUCA MECH - KIT INTENSIVA (Contenente Preparato alimentare tipo zuppa al gusto di verdure)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_kit%20intesiva_lotti%20220214%20220221_1761191132.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "kit-intensiva-contenente-preparato-alimentare-tipo-zuppa-al-gusto",
     "published": "2022-04-01",
     "source": "operator"
   },
