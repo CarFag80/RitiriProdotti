@@ -640,6 +640,500 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-farfalle-ndeg265/",
+    "title": "",
+    "noticeDate": "14 novembre 2021",
+    "campi": {
+      "data pubblicazione": "14 novembre 2021",
+      "marca": "Consilia saper scegliere",
+      "denominazione": "Pasta Farfalle n°265",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Consilia saper scegliere",
+    "product": "Pasta Farfalle n°265",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Consilia saper scegliere - Pasta Farfalle n°265",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20Consilia%20saper%20scegliere%20farfalle_1761189429.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pasta-farfalle-ndeg265",
+    "published": "2021-11-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/penne-rigate-integrali-bio-0/",
+    "title": "",
+    "noticeDate": "12 novembre 2021",
+    "campi": {
+      "data pubblicazione": "12 novembre 2021",
+      "marca": "Consilia",
+      "denominazione": "Penne rigate integrali bio",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Consilia",
+    "product": "Penne rigate integrali bio",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Consilia - Penne rigate integrali bio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20pasta%20garofalo_1761189422.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "penne-rigate-integrali-bio-0",
+    "published": "2021-11-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taleggio-dop-0/",
+    "title": "",
+    "noticeDate": "12 novembre 2021",
+    "campi": {
+      "data pubblicazione": "12 novembre 2021",
+      "marca": "Mauri SpA",
+      "denominazione": "Taleggio DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Mauri SpA",
+    "product": "Taleggio DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mauri SpA - Taleggio DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo_1761189426.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "taleggio-dop-0",
+    "published": "2021-11-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olive-farcite-0/",
+    "title": "",
+    "noticeDate": "11 novembre 2021",
+    "campi": {
+      "data pubblicazione": "11 novembre 2021",
+      "marca": "Coop",
+      "denominazione": "Olive farcite",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "Coop",
+    "product": "Olive farcite",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coop - Olive farcite",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/olive%20farcite%20%20modulo_1761189419.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "olive-farcite-0",
+    "published": "2021-11-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/decorazione-amido-distribuita-da-ambras-srl-e/",
+    "title": "",
+    "noticeDate": "10 novembre 2021",
+    "campi": {
+      "data pubblicazione": "10 novembre 2021",
+      "marca": "Ambra¿s",
+      "denominazione": "Decorazione in amido distribuita da Ambra¿s S.r.L. e",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Ambra¿s",
+    "product": "Decorazione in amido distribuita da Ambra¿s S.r.L. e",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ambra¿s - Decorazione in amido distribuita da Ambra¿s S.r.L. e",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/M667%20_%20MOD.%20STANDARD%20PER%20I%20RICHIAMI_28162_1761189397.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "decorazione-amido-distribuita-da-ambras-srl-e",
+    "published": "2021-11-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/decorazione-amido-distribuita-ambras-srl-cod-28163-lotto-l210504/",
+    "title": "",
+    "noticeDate": "10 novembre 2021",
+    "campi": {
+      "data pubblicazione": "10 novembre 2021",
+      "marca": "Ambra¿s S.r.L.",
+      "denominazione": "Decorazione in amido distribuita Ambra¿s S.r.L. cod. 28163, lotto L210504",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Ambra¿s S.r.L.",
+    "product": "Decorazione in amido distribuita Ambra¿s S.r.L. cod. 28163, lotto L210504",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ambra¿s S.r.L. - Decorazione in amido distribuita Ambra¿s S.r.L. cod. 28163, lotto L210504",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/M667%20_%20MOD.%20STANDARD%20PER%20I%20RICHIAMI_28162_1761189400.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "decorazione-amido-distribuita-ambras-srl-cod-28163-lotto-l210504",
+    "published": "2021-11-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/decorazione-amido-distribuito-da-ambras-srl-confezione-da-24-pezzi/",
+    "title": "",
+    "noticeDate": "10 novembre 2021",
+    "campi": {
+      "data pubblicazione": "10 novembre 2021",
+      "marca": "Ambra¿s S.r.L.",
+      "denominazione": "Decorazione in amido distribuito da Ambra¿s S.r.L. Confezione da 24 pezzi",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Ambra¿s S.r.L.",
+    "product": "Decorazione in amido distribuito da Ambra¿s S.r.L. Confezione da 24 pezzi",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ambra¿s S.r.L. - Decorazione in amido distribuito da Ambra¿s S.r.L. Confezione da 24 pezzi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/M667%20_%20MOD.%20STANDARD%20PER%20I%20RICHIAMI_28163_1761189403.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "decorazione-amido-distribuito-da-ambras-srl-confezione-da-24-pezzi",
+    "published": "2021-11-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamino-rocchetto/",
+    "title": "",
+    "noticeDate": "10 novembre 2021",
+    "campi": {
+      "data pubblicazione": "10 novembre 2021",
+      "marca": "Salumificio La Rocca",
+      "denominazione": "Salamino Rocchetto",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio La Rocca",
+    "product": "Salamino Rocchetto",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio La Rocca - Salamino Rocchetto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Lista%20distribuzione%20La%20Rocca_1761189406.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salamino-rocchetto",
+    "published": "2021-11-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamino-rocchetto-0/",
+    "title": "",
+    "noticeDate": "10 novembre 2021",
+    "campi": {
+      "data pubblicazione": "10 novembre 2021",
+      "marca": "Salumificio La Rocca",
+      "denominazione": "Salamino Rocchetto",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio La Rocca",
+    "product": "Salamino Rocchetto",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio La Rocca - Salamino Rocchetto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20la%20rocca%202021_1761189409.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salamino-rocchetto-0",
+    "published": "2021-11-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/decorazione-amido-distribuite-da-ambras-srl-confezioni-da-24/",
+    "title": "",
+    "noticeDate": "10 novembre 2021",
+    "campi": {
+      "data pubblicazione": "10 novembre 2021",
+      "marca": "Ambra¿s S.r.L.",
+      "denominazione": "Decorazione in amido distribuite da Ambra¿s S.r.L. confezioni da 24",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Ambra¿s S.r.L.",
+    "product": "Decorazione in amido distribuite da Ambra¿s S.r.L. confezioni da 24",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ambra¿s S.r.L. - Decorazione in amido distribuite da Ambra¿s S.r.L. confezioni da 24",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/211110_C_17_28162_print_1761189413.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "decorazione-amido-distribuite-da-ambras-srl-confezioni-da-24",
+    "published": "2021-11-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/decorazione-amido-distribuite-da-ambras-srl-confezioni-da-24-pezzi/",
+    "title": "",
+    "noticeDate": "10 novembre 2021",
+    "campi": {
+      "data pubblicazione": "10 novembre 2021",
+      "marca": "Ambra¿s S.r.L.",
+      "denominazione": "Decorazione in amido distribuite da Ambra¿s S.r.L. confezioni da 24 pezzi",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Ambra¿s S.r.L.",
+    "product": "Decorazione in amido distribuite da Ambra¿s S.r.L. confezioni da 24 pezzi",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ambra¿s S.r.L. - Decorazione in amido distribuite da Ambra¿s S.r.L. confezioni da 24 pezzi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/211110_C_17_28163_print_1761189416.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "decorazione-amido-distribuite-da-ambras-srl-confezioni-da-24-pezzi",
+    "published": "2021-11-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/decorazione-amido-e-zucchero-forma-di-fiori-diverse-colorazioni/",
+    "title": "",
+    "noticeDate": "8 novembre 2021",
+    "campi": {
+      "data pubblicazione": "8 novembre 2021",
+      "marca": "Marchio Ambra¿s S.r.L.",
+      "denominazione": "Decorazione in amido e zucchero a forma di fiori in diverse colorazioni codice Ambra¿s 28163",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Marchio Ambra¿s S.r.L.",
+    "product": "Decorazione in amido e zucchero a forma di fiori in diverse colorazioni codice Ambra¿s 28163",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Marchio Ambra¿s S.r.L. - Decorazione in amido e zucchero a forma di fiori in diverse colorazioni codice Ambra¿s 28163",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/M666%20_%20COMUNICAZIONE%20AUTORITA_%20SANITARIA_28162_1761189391.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "decorazione-amido-e-zucchero-forma-di-fiori-diverse-colorazioni",
+    "published": "2021-11-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/codice-ambras-28162-decorazione-amido-origine-portogallo/",
+    "title": "",
+    "noticeDate": "8 novembre 2021",
+    "campi": {
+      "data pubblicazione": "8 novembre 2021",
+      "marca": "Ambra¿s S.r.L. Via G. Maggi, 2 21030 Cuvio (VA)",
+      "denominazione": "codice Ambra¿s 28162 Decorazione in amido Origine: Portogallo",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Ambra¿s S.r.L. Via G. Maggi, 2 21030 Cuvio (VA)",
+    "product": "codice Ambra¿s 28162 Decorazione in amido Origine: Portogallo",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ambra¿s S.r.L. Via G. Maggi, 2 21030 Cuvio (VA) - codice Ambra¿s 28162 Decorazione in amido Origine: Portogallo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/M666%20_%20COMUNICAZIONE%20AUTORITA_%20SANITARIA_28163_1761189394.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "codice-ambras-28162-decorazione-amido-origine-portogallo",
+    "published": "2021-11-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-marchigiano/",
+    "title": "",
+    "noticeDate": "7 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "7 ottobre 2021",
+      "marca": "Salumificio Rossi",
+      "denominazione": "Salame marchigiano",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio Rossi",
+    "product": "Salame marchigiano",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio Rossi - Salame marchigiano",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20salame_1761188673.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-marchigiano",
+    "published": "2021-10-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ciambella/",
+    "title": "",
+    "noticeDate": "7 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "7 ottobre 2021",
+      "marca": "Panificio toscano srl",
+      "denominazione": "Ciambella",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Panificio toscano srl",
+    "product": "Ciambella",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Panificio toscano srl - Ciambella",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20CIAMBELLA%20VARIEGATA_rotated_1761188678.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ciambella",
+    "published": "2021-10-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ciambella-0/",
+    "title": "",
+    "noticeDate": "7 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "7 ottobre 2021",
+      "marca": "Panificio toscano srl",
+      "denominazione": "Ciambella",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Panificio toscano srl",
+    "product": "Ciambella",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Panificio toscano srl - Ciambella",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20MANTOVANA_rotated_1761188682.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ciambella-0",
+    "published": "2021-10-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/silical-plus/",
+    "title": "",
+    "noticeDate": "5 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "5 ottobre 2021",
+      "marca": "ARCANGEA",
+      "denominazione": "SILICAL PLUS",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ARCANGEA",
+    "product": "SILICAL PLUS",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ARCANGEA - SILICAL PLUS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20Silical%20plus%20Arcangea_1761188659.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "silical-plus",
+    "published": "2021-10-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/silical-plus-0/",
+    "title": "",
+    "noticeDate": "5 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "5 ottobre 2021",
+      "marca": "ARCANGEA",
+      "denominazione": "SILICAL PLUS",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ARCANGEA",
+    "product": "SILICAL PLUS",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ARCANGEA - SILICAL PLUS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20Silical%20plus%20Arcangea_1761188663.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "silical-plus-0",
+    "published": "2021-10-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-2/",
+    "title": "",
+    "noticeDate": "5 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "5 ottobre 2021",
+      "marca": "SALUMIFICIO CORNICCHIA SRL",
+      "denominazione": "SALSICCIA STAGIONATA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO CORNICCHIA SRL",
+    "product": "SALSICCIA STAGIONATA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO CORNICCHIA SRL - SALSICCIA STAGIONATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20Cornicchia_1761188668.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-stagionata-2",
+    "published": "2021-10-05",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pepe-con-macinino-varieta-steakpfeffer/",
     "title": "",
     "noticeDate": "1 ottobre 2021",
@@ -688,6 +1182,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "estendia-30-compresse-filmate",
+    "published": "2021-10-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carboglik-30compresse/",
+    "title": "",
+    "noticeDate": "1 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "1 ottobre 2021",
+      "marca": "Farmac Zabban SpA",
+      "denominazione": "Carboglik 30compresse",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Farmac Zabban SpA",
+    "product": "Carboglik 30compresse",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Farmac Zabban SpA - Carboglik 30compresse",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20Carboglik_1761188654.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "carboglik-30compresse",
     "published": "2021-10-01",
     "source": "operator"
   },
