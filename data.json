@@ -3302,6 +3302,396 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sugo-alla-carbonara-piu-gusto-10-x-500g-0/",
+    "title": "",
+    "noticeDate": "5 agosto 2021",
+    "campi": {
+      "data pubblicazione": "5 agosto 2021",
+      "marca": "Più Gusto",
+      "denominazione": "sugo alla carbonara Più Gusto 10 x 500g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Più Gusto",
+    "product": "sugo alla carbonara Più Gusto 10 x 500g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Più Gusto - sugo alla carbonara Più Gusto 10 x 500g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Koch%20richiamo%20sugo%20carbonara%20500%20g_1761187556.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sugo-alla-carbonara-piu-gusto-10-x-500g-0",
+    "published": "2021-08-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sugo-alla-carbonara-piu-gusto-12-x-150g-0/",
+    "title": "",
+    "noticeDate": "5 agosto 2021",
+    "campi": {
+      "data pubblicazione": "5 agosto 2021",
+      "marca": "Più Gusto",
+      "denominazione": "sugo alla carbonara Più Gusto 12 x 150g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Più Gusto",
+    "product": "sugo alla carbonara Più Gusto 12 x 150g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Più Gusto - sugo alla carbonara Più Gusto 12 x 150g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Koch%20richiamo%20sugo%20carbonara%20150%20g_1761187558.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sugo-alla-carbonara-piu-gusto-12-x-150g-0",
+    "published": "2021-08-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sugo-ai-4-formaggi-piu-gusto-10-x-500g-0/",
+    "title": "",
+    "noticeDate": "5 agosto 2021",
+    "campi": {
+      "data pubblicazione": "5 agosto 2021",
+      "marca": "Più Gusto",
+      "denominazione": "sugo ai 4 formaggi Più Gusto 10 x 500g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Più Gusto",
+    "product": "sugo ai 4 formaggi Più Gusto 10 x 500g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Più Gusto - sugo ai 4 formaggi Più Gusto 10 x 500g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Koch%20richiamo%20sugo%204%20formaggi%20500%20g_1761187560.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sugo-ai-4-formaggi-piu-gusto-10-x-500g-0",
+    "published": "2021-08-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sugo-ai-4-formaggi-piu-gusto-12-x-130g-0/",
+    "title": "",
+    "noticeDate": "5 agosto 2021",
+    "campi": {
+      "data pubblicazione": "5 agosto 2021",
+      "marca": "Più Gusto",
+      "denominazione": "sugo ai 4 formaggi Più Gusto 12 x 130g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Più Gusto",
+    "product": "sugo ai 4 formaggi Più Gusto 12 x 130g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Più Gusto - sugo ai 4 formaggi Più Gusto 12 x 130g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Koch%20richiamo%20sugo%204%20formaggi%20130%20g_1761187563.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sugo-ai-4-formaggi-piu-gusto-12-x-130g-0",
+    "published": "2021-08-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sorbetto-artigianale-limoncello/",
+    "title": "",
+    "noticeDate": "4 agosto 2021",
+    "campi": {
+      "data pubblicazione": "4 agosto 2021",
+      "marca": "SEGEL",
+      "denominazione": "SORBETTO ARTIGIANALE LIMONCELLO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SEGEL",
+    "product": "SORBETTO ARTIGIANALE LIMONCELLO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SEGEL - SORBETTO ARTIGIANALE LIMONCELLO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2_SORBETTO%20LIMONCELLO%20BOTT.VETRO_1761187547.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sorbetto-artigianale-limoncello",
+    "published": "2021-08-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sorbetto-artigianale-mandarino/",
+    "title": "",
+    "noticeDate": "4 agosto 2021",
+    "campi": {
+      "data pubblicazione": "4 agosto 2021",
+      "marca": "SEGEL",
+      "denominazione": "SORBETTO ARTIGIANALE MANDARINO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SEGEL",
+    "product": "SORBETTO ARTIGIANALE MANDARINO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SEGEL - SORBETTO ARTIGIANALE MANDARINO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2_SORBETTO%20AL%20MANDARINO%20BOTT.VETRO_1761187549.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sorbetto-artigianale-mandarino",
+    "published": "2021-08-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sorbetto-artigianale-limone/",
+    "title": "",
+    "noticeDate": "4 agosto 2021",
+    "campi": {
+      "data pubblicazione": "4 agosto 2021",
+      "marca": "SEGEL",
+      "denominazione": "SORBETTO ARTIGIANALE LIMONE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SEGEL",
+    "product": "SORBETTO ARTIGIANALE LIMONE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SEGEL - SORBETTO ARTIGIANALE LIMONE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SORBETTO%20AL%20LIMONE%20BOTT.%20VETRO%20500%20GR_1761187551.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sorbetto-artigianale-limone",
+    "published": "2021-08-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sorbetto-artigianale-fragola/",
+    "title": "",
+    "noticeDate": "4 agosto 2021",
+    "campi": {
+      "data pubblicazione": "4 agosto 2021",
+      "marca": "SEGEL",
+      "denominazione": "SORBETTO ARTIGIANALE FRAGOLA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SEGEL",
+    "product": "SORBETTO ARTIGIANALE FRAGOLA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SEGEL - SORBETTO ARTIGIANALE FRAGOLA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SORBETTO%20ALLA%20FRAGOLA%20BOTT.%20VETRO%20500%20GR_1761187554.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sorbetto-artigianale-fragola",
+    "published": "2021-08-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sugo-ai-4-formaggi-piu-gusto-12-x-130g/",
+    "title": "",
+    "noticeDate": "3 agosto 2021",
+    "campi": {
+      "data pubblicazione": "3 agosto 2021",
+      "marca": "Più Gusto",
+      "denominazione": "sugo ai 4 formaggi Più Gusto 12 x 130g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Più Gusto",
+    "product": "sugo ai 4 formaggi Più Gusto 12 x 130g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Più Gusto - sugo ai 4 formaggi Più Gusto 12 x 130g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Koch%20richiamo%20sugo%204%20formaggi%20130%20g_1761187534.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sugo-ai-4-formaggi-piu-gusto-12-x-130g",
+    "published": "2021-08-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sugo-ai-4-formaggi-piu-gusto-10-x-500g/",
+    "title": "",
+    "noticeDate": "3 agosto 2021",
+    "campi": {
+      "data pubblicazione": "3 agosto 2021",
+      "marca": "Più Gusto",
+      "denominazione": "sugo ai 4 formaggi Più gusto 10 x 500g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Più Gusto",
+    "product": "sugo ai 4 formaggi Più gusto 10 x 500g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Più Gusto - sugo ai 4 formaggi Più gusto 10 x 500g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Koch%20richiamo%20sugo%204%20formaggi%20500%20g_1761187536.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sugo-ai-4-formaggi-piu-gusto-10-x-500g",
+    "published": "2021-08-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sugo-alla-carbonara-piu-gusto-12-x-150g/",
+    "title": "",
+    "noticeDate": "3 agosto 2021",
+    "campi": {
+      "data pubblicazione": "3 agosto 2021",
+      "marca": "Più Gusto",
+      "denominazione": "sugo alla carbonara Più Gusto 12 x 150g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Più Gusto",
+    "product": "sugo alla carbonara Più Gusto 12 x 150g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Più Gusto - sugo alla carbonara Più Gusto 12 x 150g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Koch%20richiamo%20sugo%20carbonara%20150%20g_1761187537.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sugo-alla-carbonara-piu-gusto-12-x-150g",
+    "published": "2021-08-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sugo-alla-carbonara-piu-gusto-10-x-500g/",
+    "title": "",
+    "noticeDate": "3 agosto 2021",
+    "campi": {
+      "data pubblicazione": "3 agosto 2021",
+      "marca": "Più Gusto",
+      "denominazione": "sugo alla carbonara Più Gusto 10 x 500g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Più Gusto",
+    "product": "sugo alla carbonara Più Gusto 10 x 500g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Più Gusto - sugo alla carbonara Più Gusto 10 x 500g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Koch%20richiamo%20sugo%20carbonara%20500%20g_1761187539.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sugo-alla-carbonara-piu-gusto-10-x-500g",
+    "published": "2021-08-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostata-albicocca/",
+    "title": "",
+    "noticeDate": "3 agosto 2021",
+    "campi": {
+      "data pubblicazione": "3 agosto 2021",
+      "marca": "Biscottificio Pasquinucci",
+      "denominazione": "Crostata albicocca",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Biscottificio Pasquinucci",
+    "product": "Crostata albicocca",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Biscottificio Pasquinucci - Crostata albicocca",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20crostata%20tabella%20unica_1_1761187541.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crostata-albicocca",
+    "published": "2021-08-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/biscotto-al-farro/",
+    "title": "",
+    "noticeDate": "3 agosto 2021",
+    "campi": {
+      "data pubblicazione": "3 agosto 2021",
+      "marca": "Biscottificio Pasquinucci",
+      "denominazione": "Biscotto al farro",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Biscottificio Pasquinucci",
+    "product": "Biscotto al farro",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Biscottificio Pasquinucci - Biscotto al farro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20farro%20lotto%20riepilogo_1_1761187543.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "biscotto-al-farro",
+    "published": "2021-08-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasticceria-da/",
+    "title": "",
+    "noticeDate": "3 agosto 2021",
+    "campi": {
+      "data pubblicazione": "3 agosto 2021",
+      "marca": "Biscottificio Pasquinucci",
+      "denominazione": "Pasticceria da thè",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Biscottificio Pasquinucci",
+    "product": "Pasticceria da thè",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Biscottificio Pasquinucci - Pasticceria da thè",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20pasticceria%20scheda%20unica_1_1761187545.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasticceria-da",
+    "published": "2021-08-03",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burger-spinaci-e-tofu/",
     "title": "",
     "noticeDate": "30 luglio 2021",
@@ -3376,6 +3766,136 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "burger-classico-bio-fresco",
+    "published": "2021-07-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cotolette-di-tofu-fresco-bio/",
+    "title": "",
+    "noticeDate": "30 luglio 2021",
+    "campi": {
+      "data pubblicazione": "30 luglio 2021",
+      "marca": "VIVI VERDE",
+      "denominazione": "COTOLETTE DI TOFU FRESCO BIO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "VIVI VERDE",
+    "product": "COTOLETTE DI TOFU FRESCO BIO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VIVI VERDE - COTOLETTE DI TOFU FRESCO BIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_LOTTI%20COOP_1761187526.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cotolette-di-tofu-fresco-bio",
+    "published": "2021-07-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/miniburger-quinoa-e-zucchine-fresco/",
+    "title": "",
+    "noticeDate": "30 luglio 2021",
+    "campi": {
+      "data pubblicazione": "30 luglio 2021",
+      "marca": "DESPAR VEGGIE",
+      "denominazione": "MINIBURGER QUINOA E ZUCCHINE FRESCO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DESPAR VEGGIE",
+    "product": "MINIBURGER QUINOA E ZUCCHINE FRESCO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DESPAR VEGGIE - MINIBURGER QUINOA E ZUCCHINE FRESCO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_MINI.ZUCC_QUIN%20RIEPILOGO_1761187527.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "miniburger-quinoa-e-zucchine-fresco",
+    "published": "2021-07-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/miniburger-miglio-e-carote-bio-fresco/",
+    "title": "",
+    "noticeDate": "30 luglio 2021",
+    "campi": {
+      "data pubblicazione": "30 luglio 2021",
+      "marca": "DESPAR VEGGIE",
+      "denominazione": "MINIBURGER MIGLIO E CAROTE BIO FRESCO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DESPAR VEGGIE",
+    "product": "MINIBURGER MIGLIO E CAROTE BIO FRESCO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DESPAR VEGGIE - MINIBURGER MIGLIO E CAROTE BIO FRESCO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_MINIB.MIGLIO_RIEPILOGO_1761187529.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "miniburger-miglio-e-carote-bio-fresco",
+    "published": "2021-07-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cotolette-veg-surg-bio/",
+    "title": "",
+    "noticeDate": "30 luglio 2021",
+    "campi": {
+      "data pubblicazione": "30 luglio 2021",
+      "marca": "Pam & PANORAMA",
+      "denominazione": "COTOLETTE VEG. SURG. BIO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Pam & PANORAMA",
+    "product": "COTOLETTE VEG. SURG. BIO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pam & PANORAMA - COTOLETTE VEG. SURG. BIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20FP00568_1761187531.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cotolette-veg-surg-bio",
+    "published": "2021-07-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burger-veg-csemi-di-quinoa/",
+    "title": "",
+    "noticeDate": "30 luglio 2021",
+    "campi": {
+      "data pubblicazione": "30 luglio 2021",
+      "marca": "Pam & PANORAMA",
+      "denominazione": "BURGER VEG. C/SEMI DI QUINOA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Pam & PANORAMA",
+    "product": "BURGER VEG. C/SEMI DI QUINOA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pam & PANORAMA - BURGER VEG. C/SEMI DI QUINOA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20FP00600_1761187532.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "burger-veg-csemi-di-quinoa",
     "published": "2021-07-30",
     "source": "operator"
   },
