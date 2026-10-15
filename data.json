@@ -3021,6 +3021,266 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisun-vegano-0/",
+    "title": "",
+    "noticeDate": "8 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "8 febbraio 2023",
+      "marca": "mascherpa tiramisù",
+      "denominazione": "tiramisun vegano",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "mascherpa tiramisù",
+    "product": "tiramisun vegano",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo mascherpa tiramisù - tiramisun vegano",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20822023_1761193159.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tiramisun-vegano-0",
+    "published": "2023-02-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mousse-cocco-e-cioccolato-con-crumble-vegana/",
+    "title": "",
+    "noticeDate": "8 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "8 febbraio 2023",
+      "marca": "Mascherpa tiramisu",
+      "denominazione": "Mousse cocco e cioccolato con crumble vegana",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Mascherpa tiramisu",
+    "product": "Mousse cocco e cioccolato con crumble vegana",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mascherpa tiramisu - Mousse cocco e cioccolato con crumble vegana",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20mousse%20cocco%20e%20cioccolato%20con%20crumble%20vegana_1761193163.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mousse-cocco-e-cioccolato-con-crumble-vegana",
+    "published": "2023-02-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mousse-cocco-e-cioccolato-vegana/",
+    "title": "",
+    "noticeDate": "8 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "8 febbraio 2023",
+      "marca": "Mascherpa tiramisu",
+      "denominazione": "Mousse cocco e cioccolato vegana",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Mascherpa tiramisu",
+    "product": "Mousse cocco e cioccolato vegana",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mascherpa tiramisu - Mousse cocco e cioccolato vegana",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20mousse%20cocco%20e%20cioccolato%20vegana_1761193168.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mousse-cocco-e-cioccolato-vegana",
+    "published": "2023-02-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-pistacchio-vegano-100g/",
+    "title": "",
+    "noticeDate": "8 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "8 febbraio 2023",
+      "marca": "Mascherpa tiramisù",
+      "denominazione": "Tiramisù pistacchio vegano 100g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Mascherpa tiramisù",
+    "product": "Tiramisù pistacchio vegano 100g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mascherpa tiramisù - Tiramisù pistacchio vegano 100g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20tiramisu%C2%BF%20pistacchio%20vegano_1761193173.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tiramisu-pistacchio-vegano-100g",
+    "published": "2023-02-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-alta-qualita-750g/",
+    "title": "",
+    "noticeDate": "7 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "7 febbraio 2023",
+      "marca": "Il tagliere del Re",
+      "denominazione": "Prosciutto cotto Alta Qualità 750g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Il tagliere del Re",
+    "product": "Prosciutto cotto Alta Qualità 750g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Il tagliere del Re - Prosciutto cotto Alta Qualità 750g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_Prosciutto%20cotto%20AQ%20750g_1761193155.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "prosciutto-cotto-alta-qualita-750g",
+    "published": "2023-02-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisun-vegano/",
+    "title": "",
+    "noticeDate": "6 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "6 febbraio 2023",
+      "marca": "Mascherpa tiramisù",
+      "denominazione": "Tiramisun vegano",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Mascherpa tiramisù",
+    "product": "Tiramisun vegano",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mascherpa tiramisù - Tiramisun vegano",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Tiramisun_1761193150.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tiramisun-vegano",
+    "published": "2023-02-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-vialone-nano-3/",
+    "title": "",
+    "noticeDate": "3 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "3 febbraio 2023",
+      "marca": "Curtiriso",
+      "denominazione": "Riso vialone nano",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Curtiriso",
+    "product": "Riso vialone nano",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Curtiriso - Riso vialone nano",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20CURTI%20vialone%20nano%20lotto%20P22110914_1761193141.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "riso-vialone-nano-3",
+    "published": "2023-02-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/drena-shock/",
+    "title": "",
+    "noticeDate": "3 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "3 febbraio 2023",
+      "marca": "Private Label",
+      "denominazione": "Drena Shock",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Private Label",
+    "product": "Drena Shock",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Private Label - Drena Shock",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761193146.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "drena-shock",
+    "published": "2023-02-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-crudo-tradizionale/",
+    "title": "",
+    "noticeDate": "1 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "1 febbraio 2023",
+      "marca": "Agrisalumeria Luiset",
+      "denominazione": "Salame crudo Tradizionale",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Agrisalumeria Luiset",
+    "product": "Salame crudo Tradizionale",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Agrisalumeria Luiset - Salame crudo Tradizionale",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Luiset_richiamo_400_e_700gr_1761193137.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-crudo-tradizionale",
+    "published": "2023-02-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinaci-italiani-con-mozzarella-e-condimento-ai-formaggi/",
+    "title": "",
+    "noticeDate": "27 gennaio 2023",
+    "campi": {
+      "data pubblicazione": "27 gennaio 2023",
+      "marca": "DECO' ITALIA S.c.a.r.l.",
+      "denominazione": "spinaci italiani con mozzarella e condimento ai formaggi",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DECO' ITALIA S.c.a.r.l.",
+    "product": "spinaci italiani con mozzarella e condimento ai formaggi",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DECO' ITALIA S.c.a.r.l. - spinaci italiani con mozzarella e condimento ai formaggi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Locandina%20richiamo_1761193133.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spinaci-italiani-con-mozzarella-e-condimento-ai-formaggi",
+    "published": "2023-01-27",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/prodotti-vegani-jayjoy/",
     "title": "Prodotti vegani",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/prodotti-vegani-con-presenza-di-listeria-monocytogenes/",
@@ -3045,6 +3305,136 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuori-di-iceberg/",
+    "title": "",
+    "noticeDate": "26 gennaio 2023",
+    "campi": {
+      "data pubblicazione": "26 gennaio 2023",
+      "marca": "DESPAR",
+      "denominazione": "CUORI DI ICEBERG",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "DESPAR",
+    "product": "CUORI DI ICEBERG",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DESPAR - CUORI DI ICEBERG",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLORICHIAMOCUORIDIICEBERG%20_1__1761193128.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cuori-di-iceberg",
+    "published": "2023-01-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-vialone-nano-2/",
+    "title": "",
+    "noticeDate": "23 gennaio 2023",
+    "campi": {
+      "data pubblicazione": "23 gennaio 2023",
+      "marca": "PRIX",
+      "denominazione": "Riso Vialone Nano",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "PRIX",
+    "product": "Riso Vialone Nano",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PRIX - Riso Vialone Nano",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PRIX%20Cartello%20richiamo%20lotto%2018_10_2024%20riso%20vialone%20nano_1761193124.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "riso-vialone-nano-2",
+    "published": "2023-01-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-vialone-nano-0/",
+    "title": "",
+    "noticeDate": "18 gennaio 2023",
+    "campi": {
+      "data pubblicazione": "18 gennaio 2023",
+      "marca": "CURTIRISO",
+      "denominazione": "Riso Vialone Nano",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CURTIRISO",
+    "product": "Riso Vialone Nano",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CURTIRISO - Riso Vialone Nano",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Volantino%20richiamo%20vialone%20nano%20CURTIRISO%208_10_2024%20lotto%20P22100472_1761193116.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "riso-vialone-nano-0",
+    "published": "2023-01-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-vialone-nano-1/",
+    "title": "",
+    "noticeDate": "18 gennaio 2023",
+    "campi": {
+      "data pubblicazione": "18 gennaio 2023",
+      "marca": "CURTIRISO",
+      "denominazione": "Riso Vialone Nano",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CURTIRISO",
+    "product": "Riso Vialone Nano",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CURTIRISO - Riso Vialone Nano",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Volantino%20richiamo%20vialone%20nano%20CURTIRISO%2018_10_2024%20lotto%20P22101164_1761193120.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "riso-vialone-nano-1",
+    "published": "2023-01-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tastasale-codice-articolo-345864/",
+    "title": "",
+    "noticeDate": "13 gennaio 2023",
+    "campi": {
+      "data pubblicazione": "13 gennaio 2023",
+      "marca": "IL PRONTO DA CUOCERE",
+      "denominazione": "TASTASALE (codice articolo 345864)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "IL PRONTO DA CUOCERE",
+    "product": "TASTASALE (codice articolo 345864)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IL PRONTO DA CUOCERE - TASTASALE (codice articolo 345864)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20Tastasale_1761193112.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tastasale-codice-articolo-345864",
+    "published": "2023-01-13",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratori-alimentari-escobar-polvere-confezione-da-250-grammi-e-kill/",
     "title": "Integratori alimentari",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/vendita-online-di-integratori-contenenti-dmaa-dimethylamylamine-dmba-13/",
@@ -3067,6 +3457,58 @@
     "id": "integratori-alimentari-escobar-polvere-confezione-da-250-grammi-e-kill",
     "published": "2023-01-12",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-lungo-b/",
+    "title": "",
+    "noticeDate": "4 gennaio 2023",
+    "campi": {
+      "data pubblicazione": "4 gennaio 2023",
+      "marca": "Smart",
+      "denominazione": "Riso lungo B",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Smart",
+    "product": "Riso lungo B",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Smart - Riso lungo B",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Riso%20Smart%205%20kg_1761193108.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "riso-lungo-b",
+    "published": "2023-01-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aquileia-bomb/",
+    "title": "",
+    "noticeDate": "3 gennaio 2023",
+    "campi": {
+      "data pubblicazione": "3 gennaio 2023",
+      "marca": "Uriach Italy",
+      "denominazione": "Aquileia Bomb",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Uriach Italy",
+    "product": "Aquileia Bomb",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Uriach Italy - Aquileia Bomb",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1761193104.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "aquileia-bomb",
+    "published": "2023-01-03",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-vialone-nano/",
@@ -7912,6 +8354,84 @@
     "id": "aggiornamento-avviso-champagne-3-litri-moet-chandon-imperial-ice",
     "published": "2022-06-08",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-polenta-bramata-la-classica/",
+    "title": "",
+    "noticeDate": "14 maggio 2022",
+    "campi": {
+      "data pubblicazione": "14 maggio 2022",
+      "marca": "Molino Riva",
+      "denominazione": "Farina per polenta bramata la classica",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Molino Riva",
+    "product": "Farina per polenta bramata la classica",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Molino Riva - Farina per polenta bramata la classica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO_1761191214.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "farina-polenta-bramata-la-classica",
+    "published": "2022-05-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-cacciatore/",
+    "title": "",
+    "noticeDate": "14 maggio 2022",
+    "campi": {
+      "data pubblicazione": "14 maggio 2022",
+      "marca": "VILLANI",
+      "denominazione": "salame cacciatore",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "VILLANI",
+    "product": "salame cacciatore",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VILLANI - salame cacciatore",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20Villani%201_1761191217.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-cacciatore",
+    "published": "2022-05-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trance-di-pesce-spada-mezzaluna-surgelate-0/",
+    "title": "",
+    "noticeDate": "12 maggio 2022",
+    "campi": {
+      "data pubblicazione": "12 maggio 2022",
+      "marca": "NORIBERICA",
+      "denominazione": "TRANCE di PESCE SPADA MEZZALUNA SURGELATE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "NORIBERICA",
+    "product": "TRANCE di PESCE SPADA MEZZALUNA SURGELATE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NORIBERICA - TRANCE di PESCE SPADA MEZZALUNA SURGELATE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_spada_Noriberica_1761191211.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "trance-di-pesce-spada-mezzaluna-surgelate-0",
+    "published": "2022-05-12",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-effervescente-naturale-claudia/",
