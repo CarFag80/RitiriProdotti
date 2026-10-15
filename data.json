@@ -1856,6 +1856,58 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-effervescente-naturale-claudia/",
+    "title": "",
+    "noticeDate": "11 maggio 2022",
+    "campi": {
+      "data pubblicazione": "11 maggio 2022",
+      "marca": "CLAVDIA",
+      "denominazione": "Acqua minerale effervescente naturale Claudia",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CLAVDIA",
+    "product": "Acqua minerale effervescente naturale Claudia",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CLAVDIA - Acqua minerale effervescente naturale Claudia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/20220511145832_1%2C5L_1761191205.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "acqua-minerale-effervescente-naturale-claudia",
+    "published": "2022-05-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-effervescente-naturale-claudia-0/",
+    "title": "",
+    "noticeDate": "11 maggio 2022",
+    "campi": {
+      "data pubblicazione": "11 maggio 2022",
+      "marca": "CLAVDIA",
+      "denominazione": "Acqua minerale effervescente naturale Claudia",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CLAVDIA",
+    "product": "Acqua minerale effervescente naturale Claudia",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CLAVDIA - Acqua minerale effervescente naturale Claudia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/20220511150042_0%2C5L_1761191208.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "acqua-minerale-effervescente-naturale-claudia-0",
+    "published": "2022-05-11",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/pesto-broccoli-siciliani-e-mandorle-la-fattoria-biodinamica-confezioni/",
     "title": "Pesto broccoli siciliani e mandorle",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/sicurezza-alimentare-episodio-di-botulismo-legato-al-consumo-di-una-confezione/",
@@ -1883,6 +1935,474 @@
     "id": "pesto-broccoli-siciliani-e-mandorle-la-fattoria-biodinamica-confezioni",
     "published": "2022-05-10",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wurstel-polli-mpack-3x100-gr/",
+    "title": "",
+    "noticeDate": "10 maggio 2022",
+    "campi": {
+      "data pubblicazione": "10 maggio 2022",
+      "marca": "FIORUCCI",
+      "denominazione": "WURSTEL POLLI MPACK 3X100 GR",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FIORUCCI",
+    "product": "WURSTEL POLLI MPACK 3X100 GR",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIORUCCI - WURSTEL POLLI MPACK 3X100 GR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModelloC17RICHIAMOPOLLI%20_002__1761191200.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "wurstel-polli-mpack-3x100-gr",
+    "published": "2022-05-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latteria-valcontadino/",
+    "title": "",
+    "noticeDate": "10 maggio 2022",
+    "campi": {
+      "data pubblicazione": "10 maggio 2022",
+      "marca": "CIRESA SRL",
+      "denominazione": "LATTERIA VALCONTADINO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CIRESA SRL",
+    "product": "LATTERIA VALCONTADINO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CIRESA SRL - LATTERIA VALCONTADINO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761191203.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "latteria-valcontadino",
+    "published": "2022-05-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vitel-tonne-200g/",
+    "title": "",
+    "noticeDate": "9 maggio 2022",
+    "campi": {
+      "data pubblicazione": "9 maggio 2022",
+      "marca": "GASTRONOMIA SOMASCA",
+      "denominazione": "VITEL TONNE' 200g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "GASTRONOMIA SOMASCA",
+    "product": "VITEL TONNE' 200g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GASTRONOMIA SOMASCA - VITEL TONNE' 200g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761191195.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "vitel-tonne-200g",
+    "published": "2022-05-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trance-di-pesce-spada-mezzaluna-surgelate/",
+    "title": "",
+    "noticeDate": "9 maggio 2022",
+    "campi": {
+      "data pubblicazione": "9 maggio 2022",
+      "marca": "NORIBERICA",
+      "denominazione": "Trance di pesce spada mezzaluna surgelate",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "NORIBERICA",
+    "product": "Trance di pesce spada mezzaluna surgelate",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NORIBERICA - Trance di pesce spada mezzaluna surgelate",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20Spada%20Noriberica_1761191197.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "trance-di-pesce-spada-mezzaluna-surgelate",
+    "published": "2022-05-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/rise-cakes-gallette-di-riso-al-cioccolato-al-latte/",
+    "title": "",
+    "noticeDate": "5 maggio 2022",
+    "campi": {
+      "data pubblicazione": "5 maggio 2022",
+      "marca": "ELITE",
+      "denominazione": "RISE CAKES - Gallette di riso al cioccolato al latte",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ELITE",
+    "product": "RISE CAKES - Gallette di riso al cioccolato al latte",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ELITE - RISE CAKES - Gallette di riso al cioccolato al latte",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%20KLP%201166_CON%20FOTO2_1761191187.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "rise-cakes-gallette-di-riso-al-cioccolato-al-latte",
+    "published": "2022-05-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/biscotti-con-gocce-di-cioccolato/",
+    "title": "",
+    "noticeDate": "5 maggio 2022",
+    "campi": {
+      "data pubblicazione": "5 maggio 2022",
+      "marca": "ELITE",
+      "denominazione": "Biscotti con gocce di cioccolato",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ELITE",
+    "product": "Biscotti con gocce di cioccolato",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ELITE - Biscotti con gocce di cioccolato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%20KLP%201128_CON%20FOTO_1761191190.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "biscotti-con-gocce-di-cioccolato",
+    "published": "2022-05-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/rise-cakes-gallette-di-riso-al-cioccolato-fondente/",
+    "title": "",
+    "noticeDate": "5 maggio 2022",
+    "campi": {
+      "data pubblicazione": "5 maggio 2022",
+      "marca": "ELITE",
+      "denominazione": "RISE CAKES - Gallette di riso al cioccolato fondente",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ELITE",
+    "product": "RISE CAKES - Gallette di riso al cioccolato fondente",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ELITE - RISE CAKES - Gallette di riso al cioccolato fondente",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%20KLP%201192_CON%20FOTO_1761191192.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "rise-cakes-gallette-di-riso-al-cioccolato-fondente",
+    "published": "2022-05-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/stoccafisso-reidratato/",
+    "title": "",
+    "noticeDate": "2 maggio 2022",
+    "campi": {
+      "data pubblicazione": "2 maggio 2022",
+      "marca": "ALBIGADUS Snc - ALBISSOLA SUPERIORE SV - IT366CE",
+      "denominazione": "STOCCAFISSO REIDRATATO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ALBIGADUS Snc - ALBISSOLA SUPERIORE SV - IT366CE",
+    "product": "STOCCAFISSO REIDRATATO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ALBIGADUS Snc - ALBISSOLA SUPERIORE SV - IT366CE - STOCCAFISSO REIDRATATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CONFEZIONE%20IN%20NYLON%20BIANCO%20IDENTIFICATO_1761191185.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "stoccafisso-reidratato",
+    "published": "2022-05-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lasagne-al-ragu/",
+    "title": "",
+    "noticeDate": "26 aprile 2022",
+    "campi": {
+      "data pubblicazione": "26 aprile 2022",
+      "marca": "BONTAL",
+      "denominazione": "Lasagne al Ragù",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "BONTAL",
+    "product": "Lasagne al Ragù",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BONTAL - Lasagne al Ragù",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_BONTAL_1761191180.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lasagne-al-ragu",
+    "published": "2022-04-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lasagne-al-ragu-0/",
+    "title": "",
+    "noticeDate": "26 aprile 2022",
+    "campi": {
+      "data pubblicazione": "26 aprile 2022",
+      "marca": "Arte Gastronomica",
+      "denominazione": "Lasagne al Ragù",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Arte Gastronomica",
+    "product": "Lasagne al Ragù",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Arte Gastronomica - Lasagne al Ragù",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_ARTE_GASTRONOMICA_1761191182.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lasagne-al-ragu-0",
+    "published": "2022-04-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mandorle-sgusciate/",
+    "title": "",
+    "noticeDate": "23 aprile 2022",
+    "campi": {
+      "data pubblicazione": "23 aprile 2022",
+      "marca": "Ciavolino",
+      "denominazione": "Mandorle sgusciate",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Ciavolino",
+    "product": "Mandorle sgusciate",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ciavolino - Mandorle sgusciate",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_mandorle_ciavolino_1761191177.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mandorle-sgusciate",
+    "published": "2022-04-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/peluche-coniglio-maxi-mix-contenente-kinder-schoko-bons/",
+    "title": "",
+    "noticeDate": "22 aprile 2022",
+    "campi": {
+      "data pubblicazione": "22 aprile 2022",
+      "marca": "Ferrero Kinder",
+      "denominazione": "Peluche coniglio Maxi Mix contenente Kinder Schoko Bons",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Ferrero Kinder",
+    "product": "Peluche coniglio Maxi Mix contenente Kinder Schoko Bons",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ferrero Kinder - Peluche coniglio Maxi Mix contenente Kinder Schoko Bons",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Peluche%20coniglio%20Ferrero_1761191166.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "peluche-coniglio-maxi-mix-contenente-kinder-schoko-bons",
+    "published": "2022-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kinder-happy-moments-minimix/",
+    "title": "",
+    "noticeDate": "22 aprile 2022",
+    "campi": {
+      "data pubblicazione": "22 aprile 2022",
+      "marca": "FERRERO KINDER",
+      "denominazione": "KINDER HAPPY MOMENTS MINIMIX",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FERRERO KINDER",
+    "product": "KINDER HAPPY MOMENTS MINIMIX",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FERRERO KINDER - KINDER HAPPY MOMENTS MINIMIX",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/KINDER%20HAPPY%20MOMENTS%20MINIMIX%20AUSTRIA_1761191168.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "kinder-happy-moments-minimix",
+    "published": "2022-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ferrero-maxi-mix-133-gr/",
+    "title": "",
+    "noticeDate": "22 aprile 2022",
+    "campi": {
+      "data pubblicazione": "22 aprile 2022",
+      "marca": "FERRERO",
+      "denominazione": "FERRERO MAXI MIX 133 GR",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "FERRERO",
+    "product": "FERRERO MAXI MIX 133 GR",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FERRERO - FERRERO MAXI MIX 133 GR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761191170.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ferrero-maxi-mix-133-gr",
+    "published": "2022-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uovo-di-pasqua-senza-lattosio/",
+    "title": "",
+    "noticeDate": "22 aprile 2022",
+    "campi": {
+      "data pubblicazione": "22 aprile 2022",
+      "marca": "LOVING",
+      "denominazione": "UOVO DI PASQUA SENZA LATTOSIO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "LOVING",
+    "product": "UOVO DI PASQUA SENZA LATTOSIO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LOVING - UOVO DI PASQUA SENZA LATTOSIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo%20Uovo%20Senza%20Lattosio%20g%20270%20L%2022035%20Loving_1761191173.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uovo-di-pasqua-senza-lattosio",
+    "published": "2022-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/24635-lazise-set-caffe-con-piatto-x6-con-appendino/",
+    "title": "",
+    "noticeDate": "22 aprile 2022",
+    "campi": {
+      "data pubblicazione": "22 aprile 2022",
+      "marca": "BORRELLA SRL",
+      "denominazione": "24635 LAZISE SET CAFFE' CON PIATTO X6 CON APPENDINO",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "BORRELLA SRL",
+    "product": "24635 LAZISE SET CAFFE' CON PIATTO X6 CON APPENDINO",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BORRELLA SRL - 24635 LAZISE SET CAFFE' CON PIATTO X6 CON APPENDINO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamo24635_1761191175.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "24635-lazise-set-caffe-con-piatto-x6-con-appendino",
+    "published": "2022-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/come-mi-vuoi-nuts-emotion-con-nocciole-italiane/",
+    "title": "",
+    "noticeDate": "21 aprile 2022",
+    "campi": {
+      "data pubblicazione": "21 aprile 2022",
+      "marca": "Socado",
+      "denominazione": "Come Mi Vuoi \"nuts emotion\" con Nocciole Italiane",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Socado",
+    "product": "Come Mi Vuoi \"nuts emotion\" con Nocciole Italiane",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Socado - Come Mi Vuoi \"nuts emotion\" con Nocciole Italiane",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20CMV%20L22P013653_1761191162.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "come-mi-vuoi-nuts-emotion-con-nocciole-italiane",
+    "published": "2022-04-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kinder-schoko-bons-6/",
+    "title": "",
+    "noticeDate": "21 aprile 2022",
+    "campi": {
+      "data pubblicazione": "21 aprile 2022",
+      "marca": "FERRERO KINDER",
+      "denominazione": "KINDER SCHOKO BONS",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FERRERO KINDER",
+    "product": "KINDER SCHOKO BONS",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FERRERO KINDER - KINDER SCHOKO BONS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1_1761191164.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "kinder-schoko-bons-6",
+    "published": "2022-04-21",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fette-croccanti-con-quinoa-bio/",
