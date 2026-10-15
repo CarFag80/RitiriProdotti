@@ -316,6 +316,240 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/alkasugar-correttore-di-acidita-antiossidante/",
+    "title": "",
+    "noticeDate": "12 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "12 dicembre 2023",
+      "marca": "Vivere Alcalino",
+      "denominazione": "AlkaSugar correttore di acidità & antiossidante",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Vivere Alcalino",
+    "product": "AlkaSugar correttore di acidità & antiossidante",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Vivere Alcalino - AlkaSugar correttore di acidità & antiossidante",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Alkasugar_1761197697.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "alkasugar-correttore-di-acidita-antiossidante",
+    "published": "2023-12-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/alkacoffee-drinks/",
+    "title": "",
+    "noticeDate": "12 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "12 dicembre 2023",
+      "marca": "Vivere Alcalino srl",
+      "denominazione": "AlkaCoffee & Drinks",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Vivere Alcalino srl",
+    "product": "AlkaCoffee & Drinks",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Vivere Alcalino srl - AlkaCoffee & Drinks",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20alkacoffee_1761197701.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "alkacoffee-drinks",
+    "published": "2023-12-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamino-toscanello-trancio/",
+    "title": "",
+    "noticeDate": "11 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "11 dicembre 2023",
+      "marca": "Salumificio Sandri s.r.l.",
+      "denominazione": "Salamino Toscanello Trancio",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio Sandri s.r.l.",
+    "product": "Salamino Toscanello Trancio",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio Sandri s.r.l. - Salamino Toscanello Trancio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%20Minesteriale%20Richiamo%20Salamino%20Toscanello%20Tranci_1761197683.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salamino-toscanello-trancio",
+    "published": "2023-12-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/7136-mortadella/",
+    "title": "",
+    "noticeDate": "11 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "11 dicembre 2023",
+      "marca": "Antica Magnolia - Ferrarini",
+      "denominazione": "7136 Mortadella",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Antica Magnolia - Ferrarini",
+    "product": "7136 Mortadella",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Antica Magnolia - Ferrarini - 7136 Mortadella",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo%20art%207136_1761197688.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "7136-mortadella",
+    "published": "2023-12-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spiedino-morbidoso-marshmallow-e-caramelle-gommose/",
+    "title": "",
+    "noticeDate": "11 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "11 dicembre 2023",
+      "marca": "DOLCIARIA CIDNEO SPA",
+      "denominazione": "SPIEDINO MORBIDOSO MARSHMALLOW E CARAMELLE GOMMOSE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "DOLCIARIA CIDNEO SPA",
+    "product": "SPIEDINO MORBIDOSO MARSHMALLOW E CARAMELLE GOMMOSE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DOLCIARIA CIDNEO SPA - SPIEDINO MORBIDOSO MARSHMALLOW E CARAMELLE GOMMOSE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_Richiamo_Cidneo_Spiedino_morbidoso_1761197692.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "spiedino-morbidoso-marshmallow-e-caramelle-gommose",
+    "published": "2023-12-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/colatura-di-alici-ml100/",
+    "title": "",
+    "noticeDate": "8 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "8 dicembre 2023",
+      "marca": "Sapori di mare",
+      "denominazione": "Colatura di alici ml.100",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Sapori di mare",
+    "product": "Colatura di alici ml.100",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sapori di mare - Colatura di alici ml.100",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20colatura%20di%20alici%20Sapori%20di%20Mare%20_%20Ammare_IASA_1761197679.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "colatura-di-alici-ml100",
+    "published": "2023-12-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pecorino-stagionato-al-miele-pecorino-stagionato-alla-pera/",
+    "title": "",
+    "noticeDate": "7 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "7 dicembre 2023",
+      "marca": "Deluxe",
+      "denominazione": "Pecorino stagionato al miele ¿ Pecorino stagionato alla pera",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Deluxe",
+    "product": "Pecorino stagionato al miele ¿ Pecorino stagionato alla pera",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Deluxe - Pecorino stagionato al miele ¿ Pecorino stagionato alla pera",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20_%20MODELLO_DI_RICHIAMO_1761197670.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pecorino-stagionato-al-miele-pecorino-stagionato-alla-pera",
+    "published": "2023-12-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/succo-di-mela-di-montagna-menta-rotondifolia/",
+    "title": "",
+    "noticeDate": "7 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "7 dicembre 2023",
+      "marca": "Kohl Thomas",
+      "denominazione": "Succo di mela di montagna & menta rotondifolia",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Kohl Thomas",
+    "product": "Succo di mela di montagna & menta rotondifolia",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Kohl Thomas - Succo di mela di montagna & menta rotondifolia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2023%2012%2006%20PABZ%20Cartellodirichiamo_SuccodimelaementaKohl_1761197674.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "succo-di-mela-di-montagna-menta-rotondifolia",
+    "published": "2023-12-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pan-masala/",
+    "title": "",
+    "noticeDate": "5 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "5 dicembre 2023",
+      "marca": "Pan Parag",
+      "denominazione": "Pan Masala",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Pan Parag",
+    "product": "Pan Masala",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pan Parag - Pan Masala",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%205_12_23_1761197666.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pan-masala",
+    "published": "2023-12-05",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesce-spada-xiphias-gladius-sashimi-5080-congelato-0/",
     "title": "",
     "noticeDate": "4 dicembre 2023",
@@ -390,6 +624,214 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "6-uova-extra-fresche-da-allevamento-terra-0",
+    "published": "2023-12-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/6-uova-pasta-gourmet-da-allevamento-terra/",
+    "title": "",
+    "noticeDate": "4 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "4 dicembre 2023",
+      "marca": "CENTRALE DEL LATTE DI BRESCIA SPA",
+      "denominazione": "6 UOVA PASTA GOURMET DA ALLEVAMENTO A TERRA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CENTRALE DEL LATTE DI BRESCIA SPA",
+    "product": "6 UOVA PASTA GOURMET DA ALLEVAMENTO A TERRA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CENTRALE DEL LATTE DI BRESCIA SPA - 6 UOVA PASTA GOURMET DA ALLEVAMENTO A TERRA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/UTD06FBP_BA820_2MR_centrale_1761197634.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "6-uova-pasta-gourmet-da-allevamento-terra",
+    "published": "2023-12-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/6-uova-extra-fresche-da-allevamento-terra-1/",
+    "title": "",
+    "noticeDate": "4 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "4 dicembre 2023",
+      "marca": "CENTRALE DEL LATTE DI BRESCIA SPA",
+      "denominazione": "6 UOVA EXTRA FRESCHE DA ALLEVAMENTO A TERRA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CENTRALE DEL LATTE DI BRESCIA SPA",
+    "product": "6 UOVA EXTRA FRESCHE DA ALLEVAMENTO A TERRA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CENTRALE DEL LATTE DI BRESCIA SPA - 6 UOVA EXTRA FRESCHE DA ALLEVAMENTO A TERRA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/UTD06XB0_BA821_1MR_centrale_1761197637.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "6-uova-extra-fresche-da-allevamento-terra-1",
+    "published": "2023-12-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/90uova-da-allevamento-terra/",
+    "title": "",
+    "noticeDate": "4 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "4 dicembre 2023",
+      "marca": "METRO",
+      "denominazione": "90UOVA DA ALLEVAMENTO A TERRA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "METRO",
+    "product": "90UOVA DA ALLEVAMENTO A TERRA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo METRO - 90UOVA DA ALLEVAMENTO A TERRA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/UTM90FM1_BA821_2MR%20metro_1761197641.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "90uova-da-allevamento-terra",
+    "published": "2023-12-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/6-uova-fresche-grandi-sapore-antico-da-allevamento-terra/",
+    "title": "",
+    "noticeDate": "4 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "4 dicembre 2023",
+      "marca": "ANTIGA",
+      "denominazione": "6 UOVA FRESCHE GRANDI SAPORE ANTICO DA ALLEVAMENTO A TERRA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ANTIGA",
+    "product": "6 UOVA FRESCHE GRANDI SAPORE ANTICO DA ALLEVAMENTO A TERRA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ANTIGA - 6 UOVA FRESCHE GRANDI SAPORE ANTICO DA ALLEVAMENTO A TERRA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/UTL06FAC_BA821_1MR_%20ANTIGA_Carefour_1761197645.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "6-uova-fresche-grandi-sapore-antico-da-allevamento-terra",
+    "published": "2023-12-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/6-uova-fresche-da-allevamento-terra/",
+    "title": "",
+    "noticeDate": "4 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "4 dicembre 2023",
+      "marca": "FIORDOVO",
+      "denominazione": "6 UOVA FRESCHE DA ALLEVAMENTO A TERRA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FIORDOVO",
+    "product": "6 UOVA FRESCHE DA ALLEVAMENTO A TERRA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIORDOVO - 6 UOVA FRESCHE DA ALLEVAMENTO A TERRA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/UTD06FR2_BA824_4MR_fiordovo_1761197649.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "6-uova-fresche-da-allevamento-terra",
+    "published": "2023-12-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/6-uova-fresche-da-allevamento-terra-0/",
+    "title": "",
+    "noticeDate": "4 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "4 dicembre 2023",
+      "marca": "FIORDOVO",
+      "denominazione": "6 UOVA FRESCHE DA ALLEVAMENTO A TERRA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FIORDOVO",
+    "product": "6 UOVA FRESCHE DA ALLEVAMENTO A TERRA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIORDOVO - 6 UOVA FRESCHE DA ALLEVAMENTO A TERRA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/UTD06FR2_BA820_2MR_fiordovo_1761197653.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "6-uova-fresche-da-allevamento-terra-0",
+    "published": "2023-12-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/6-uova-fresche-da-allevamento-terra-1/",
+    "title": "",
+    "noticeDate": "4 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "4 dicembre 2023",
+      "marca": "FIORDOVO",
+      "denominazione": "6 UOVA FRESCHE DA ALLEVAMENTO A TERRA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FIORDOVO",
+    "product": "6 UOVA FRESCHE DA ALLEVAMENTO A TERRA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIORDOVO - 6 UOVA FRESCHE DA ALLEVAMENTO A TERRA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/UTD06FR2_BA820_1MR_fiordovo_1761197657.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "6-uova-fresche-da-allevamento-terra-1",
+    "published": "2023-12-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-allevate-allaperto/",
+    "title": "",
+    "noticeDate": "4 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "4 dicembre 2023",
+      "marca": "Avicola Valle Santa",
+      "denominazione": "Uova fresche allevate all'aperto",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Avicola Valle Santa",
+    "product": "Uova fresche allevate all'aperto",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Avicola Valle Santa - Uova fresche allevate all'aperto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_uova_1761197661.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-allevate-allaperto",
     "published": "2023-12-04",
     "source": "operator"
   },
@@ -3827,6 +4269,84 @@
     "category": "info",
     "id": "paletta-forata-antiaderenti-pa-12921-01",
     "published": "2023-07-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/casoncelli/",
+    "title": "",
+    "noticeDate": "27 maggio 2023",
+    "campi": {
+      "data pubblicazione": "27 maggio 2023",
+      "marca": "Pastificio Fantasia Srl",
+      "denominazione": "Casoncelli",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Pastificio Fantasia Srl",
+    "product": "Casoncelli",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pastificio Fantasia Srl - Casoncelli",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20prodotto%20Casoncelli%20fantasia_1761195621.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "casoncelli",
+    "published": "2023-05-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/casoncelli-speal/",
+    "title": "",
+    "noticeDate": "27 maggio 2023",
+    "campi": {
+      "data pubblicazione": "27 maggio 2023",
+      "marca": "Pastificio Fantasia Srl",
+      "denominazione": "Casoncelli Speal",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Pastificio Fantasia Srl",
+    "product": "Casoncelli Speal",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pastificio Fantasia Srl - Casoncelli Speal",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20prodotto%20Casoncelli%20speal_1761195623.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "casoncelli-speal",
+    "published": "2023-05-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caffe-macinato-fresco-100-arabica-gr180/",
+    "title": "",
+    "noticeDate": "25 maggio 2023",
+    "campi": {
+      "data pubblicazione": "25 maggio 2023",
+      "marca": "FILICORI ZECCHINI",
+      "denominazione": "CAFFE' MACINATO FRESCO 100% ARABICA GR.180",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "FILICORI ZECCHINI",
+    "product": "CAFFE' MACINATO FRESCO 100% ARABICA GR.180",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FILICORI ZECCHINI - CAFFE' MACINATO FRESCO 100% ARABICA GR.180",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/30882%20CAFFE_%20MACINATO%20FRESCO%20100_ARABICA%20GR.180%20pdf_1761195620.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "caffe-macinato-fresco-100-arabica-gr180",
+    "published": "2023-05-25",
     "source": "operator"
   },
   {
