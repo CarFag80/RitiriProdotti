@@ -1851,6 +1851,188 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cookie-arachidi/",
+    "title": "",
+    "noticeDate": "23 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2023",
+      "marca": "Mascherpa",
+      "denominazione": "Cookie arachidi",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Mascherpa",
+    "product": "Cookie arachidi",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mascherpa - Cookie arachidi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cookie%20arachidi_1761193877.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cookie-arachidi",
+    "published": "2023-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cookie-doppio-cioccolato/",
+    "title": "",
+    "noticeDate": "23 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2023",
+      "marca": "Mascherpa",
+      "denominazione": "Cookie doppio cioccolato",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Mascherpa",
+    "product": "Cookie doppio cioccolato",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mascherpa - Cookie doppio cioccolato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cookie%20doppio%20cioccolato_1761193880.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cookie-doppio-cioccolato",
+    "published": "2023-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mousse-tre-cioccolati/",
+    "title": "",
+    "noticeDate": "23 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2023",
+      "marca": "Mascherpa",
+      "denominazione": "Mousse tre cioccolati",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Mascherpa",
+    "product": "Mousse tre cioccolati",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mascherpa - Mousse tre cioccolati",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mousse%20tre%20cioccolati_1761193882.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mousse-tre-cioccolati",
+    "published": "2023-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/savoiardi/",
+    "title": "",
+    "noticeDate": "23 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2023",
+      "marca": "Mascherpa",
+      "denominazione": "Savoiardi",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Mascherpa",
+    "product": "Savoiardi",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mascherpa - Savoiardi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20savoiardi_1761193885.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "savoiardi",
+    "published": "2023-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-burro-arachidi/",
+    "title": "",
+    "noticeDate": "23 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2023",
+      "marca": "Mascherpa",
+      "denominazione": "Tiramisù burro arachidi",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Mascherpa",
+    "product": "Tiramisù burro arachidi",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mascherpa - Tiramisù burro arachidi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20burro%20arachidi%20_2__1761193887.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tiramisu-burro-arachidi",
+    "published": "2023-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-caramello/",
+    "title": "",
+    "noticeDate": "23 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2023",
+      "marca": "Mascherpa",
+      "denominazione": "Tiramisù caramello",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Mascherpa",
+    "product": "Tiramisù caramello",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mascherpa - Tiramisù caramello",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20caramello_1761193890.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tiramisu-caramello",
+    "published": "2023-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-classico/",
+    "title": "",
+    "noticeDate": "23 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2023",
+      "marca": "Mascherpa",
+      "denominazione": "Tiramisù classico",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Mascherpa",
+    "product": "Tiramisù classico",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mascherpa - Tiramisù classico",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20classico_1761193892.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tiramisu-classico",
+    "published": "2023-02-23",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tuma-dfe/",
     "title": "",
     "noticeDate": "22 febbraio 2023",
@@ -2887,6 +3069,318 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pecorino-stagionato-al-tartufo/",
+    "title": "",
+    "noticeDate": "13 dicembre 2022",
+    "campi": {
+      "data pubblicazione": "13 dicembre 2022",
+      "marca": "Deluxe",
+      "denominazione": "Pecorino stagionato al tartufo",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Deluxe",
+    "product": "Pecorino stagionato al tartufo",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Deluxe - Pecorino stagionato al tartufo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20_%20MODELLO_DI_RICHIAMO%20Pecorino%20stagionato%20al%20tartufo_1761193030.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pecorino-stagionato-al-tartufo",
+    "published": "2022-12-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ritagli-salmone-affumicati-pronti-da-cucinare/",
+    "title": "",
+    "noticeDate": "9 dicembre 2022",
+    "campi": {
+      "data pubblicazione": "9 dicembre 2022",
+      "marca": "POSEIDON",
+      "denominazione": "RITAGLI SALMONE AFFUMICATI PRONTI DA CUCINARE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "POSEIDON",
+    "product": "RITAGLI SALMONE AFFUMICATI PRONTI DA CUCINARE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo POSEIDON - RITAGLI SALMONE AFFUMICATI PRONTI DA CUCINARE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Avviso%20richiamo_Sofia%20Srl_lotto%2022248E_SOLA_1995_1761193018.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ritagli-salmone-affumicati-pronti-da-cucinare",
+    "published": "2022-12-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ritagli-salmone-affumicati-pronti-da-cucinare-0/",
+    "title": "",
+    "noticeDate": "9 dicembre 2022",
+    "campi": {
+      "data pubblicazione": "9 dicembre 2022",
+      "marca": "POSEIDON",
+      "denominazione": "RITAGLI SALMONE AFFUMICATI PRONTI DA CUCINARE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "POSEIDON",
+    "product": "RITAGLI SALMONE AFFUMICATI PRONTI DA CUCINARE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo POSEIDON - RITAGLI SALMONE AFFUMICATI PRONTI DA CUCINARE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Avviso%20richiamo_Sofia%20Srl_lotto%2022248E_SOLA_2092_1761193021.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ritagli-salmone-affumicati-pronti-da-cucinare-0",
+    "published": "2022-12-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ritagli-salmone-affumicati-pronti-da-cucinare-1/",
+    "title": "",
+    "noticeDate": "9 dicembre 2022",
+    "campi": {
+      "data pubblicazione": "9 dicembre 2022",
+      "marca": "POSEIDON",
+      "denominazione": "RITAGLI SALMONE AFFUMICATI PRONTI DA CUCINARE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "POSEIDON",
+    "product": "RITAGLI SALMONE AFFUMICATI PRONTI DA CUCINARE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo POSEIDON - RITAGLI SALMONE AFFUMICATI PRONTI DA CUCINARE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Avviso%20richiamo_Sofia%20Srl_lotto%2022248E_SOLA_2094_1761193024.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ritagli-salmone-affumicati-pronti-da-cucinare-1",
+    "published": "2022-12-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/alici-marinate-dolci-e-piccanti/",
+    "title": "",
+    "noticeDate": "9 dicembre 2022",
+    "campi": {
+      "data pubblicazione": "9 dicembre 2022",
+      "marca": "Corcione Ingross",
+      "denominazione": "Alici marinate dolci e piccanti",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Corcione Ingross",
+    "product": "Alici marinate dolci e piccanti",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Corcione Ingross - Alici marinate dolci e piccanti",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20Corcione%20Ingrosso_1761193027.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "alici-marinate-dolci-e-piccanti",
+    "published": "2022-12-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-felino-igp-500-mg/",
+    "title": "",
+    "noticeDate": "7 dicembre 2022",
+    "campi": {
+      "data pubblicazione": "7 dicembre 2022",
+      "marca": "\" REGIONE CHE VAI \"",
+      "denominazione": "SALAME FELINO IGP 500 mg",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "\" REGIONE CHE VAI \"",
+    "product": "SALAME FELINO IGP 500 mg",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo \" REGIONE CHE VAI \" - SALAME FELINO IGP 500 mg",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20_%2066071%20Salame%20Felino%20IGP%20500g_1761193009.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-felino-igp-500-mg",
+    "published": "2022-12-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-acciughe-verosapore-olio-extra-vergine-doliva/",
+    "title": "",
+    "noticeDate": "7 dicembre 2022",
+    "campi": {
+      "data pubblicazione": "7 dicembre 2022",
+      "marca": "MAREBLU",
+      "denominazione": "¿Filetti di Acciughe VEROSAPORE¿ in Olio Extra Vergine d¿oliva",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MAREBLU",
+    "product": "¿Filetti di Acciughe VEROSAPORE¿ in Olio Extra Vergine d¿oliva",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MAREBLU - ¿Filetti di Acciughe VEROSAPORE¿ in Olio Extra Vergine d¿oliva",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Filetti_acciughe_VeroSapore_olio_extravergine_1761193012.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filetti-di-acciughe-verosapore-olio-extra-vergine-doliva",
+    "published": "2022-12-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-acciughe-classici-olio-di-oliva/",
+    "title": "",
+    "noticeDate": "7 dicembre 2022",
+    "campi": {
+      "data pubblicazione": "7 dicembre 2022",
+      "marca": "MAREBLU",
+      "denominazione": "Filetti di Acciughe CLASSICI¿ in olio di oliva",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "MAREBLU",
+    "product": "Filetti di Acciughe CLASSICI¿ in olio di oliva",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MAREBLU - Filetti di Acciughe CLASSICI¿ in olio di oliva",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Filetti_acciughe_CLASSICI_olio_oliva_1761193015.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filetti-di-acciughe-classici-olio-di-oliva",
+    "published": "2022-12-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-categoria-grandi-l-0/",
+    "title": "",
+    "noticeDate": "2 dicembre 2022",
+    "campi": {
+      "data pubblicazione": "2 dicembre 2022",
+      "marca": "UOVA PAZZAGLIA",
+      "denominazione": "UOVA FRESCHE CATEGORIA A - GRANDI L",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "UOVA PAZZAGLIA",
+    "product": "UOVA FRESCHE CATEGORIA A - GRANDI L",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo UOVA PAZZAGLIA - UOVA FRESCHE CATEGORIA A - GRANDI L",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Uova%20Pazzaglia_02.12.22_1761193003.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-fresche-categoria-grandi-l-0",
+    "published": "2022-12-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/focacce-con-olio-extra-vergine-di-oliva-87/",
+    "title": "",
+    "noticeDate": "2 dicembre 2022",
+    "campi": {
+      "data pubblicazione": "2 dicembre 2022",
+      "marca": "TRE MULINI",
+      "denominazione": "FOCACCE CON OLIO EXTRA VERGINE DI OLIVA 8,7%",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "TRE MULINI",
+    "product": "FOCACCE CON OLIO EXTRA VERGINE DI OLIVA 8,7%",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TRE MULINI - FOCACCE CON OLIO EXTRA VERGINE DI OLIVA 8,7%",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2022.12.02%20_%20focacce%20olio%20evo%20200g%20_%20FARTONS%20POLO_1761193006.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "focacce-con-olio-extra-vergine-di-oliva-87",
+    "published": "2022-12-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-stagionato/",
+    "title": "",
+    "noticeDate": "1 dicembre 2022",
+    "campi": {
+      "data pubblicazione": "1 dicembre 2022",
+      "marca": "SALUMIFICIO COLLI",
+      "denominazione": "SALAME STAGIONATO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO COLLI",
+    "product": "SALAME STAGIONATO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO COLLI - SALAME STAGIONATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20SALAME%20LOTTO%2013092022_1761192997.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-stagionato",
+    "published": "2022-12-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-stagionato-0/",
+    "title": "",
+    "noticeDate": "1 dicembre 2022",
+    "campi": {
+      "data pubblicazione": "1 dicembre 2022",
+      "marca": "Salumificio Colli",
+      "denominazione": "SALAME STAGIONATO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio Colli",
+    "product": "SALAME STAGIONATO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio Colli - SALAME STAGIONATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20SALAME%20LOTTO%2013092022__1761193000.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-stagionato-0",
+    "published": "2022-12-01",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-morbido-0/",
     "title": "",
     "noticeDate": "30 novembre 2022",
@@ -2935,6 +3429,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "mangime-uccelli-selvatici-multifit-wild-bird-mix",
+    "published": "2022-11-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/multifit-wild-bird-mix-mangime-uccelli-selvatici/",
+    "title": "",
+    "noticeDate": "30 novembre 2022",
+    "campi": {
+      "data pubblicazione": "30 novembre 2022",
+      "marca": "AGROS",
+      "denominazione": "MultiFit Wild Bird Mix - mangime per uccelli selvatici",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "AGROS",
+    "product": "MultiFit Wild Bird Mix - mangime per uccelli selvatici",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AGROS - MultiFit Wild Bird Mix - mangime per uccelli selvatici",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1081049_MultiFit_Wild_Bird_Mix_25kg_customer_statement_EN_1761192995.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "multifit-wild-bird-mix-mangime-uccelli-selvatici",
     "published": "2022-11-30",
     "source": "operator"
   },
