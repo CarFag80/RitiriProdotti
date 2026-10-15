@@ -421,6 +421,500 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-di-equino-oro-100g/",
+    "title": "",
+    "noticeDate": "17 marzo 2023",
+    "campi": {
+      "data pubblicazione": "17 marzo 2023",
+      "marca": "Coppiello Giovanni srl",
+      "denominazione": "Sfilaccio di equino ORO 100g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Coppiello Giovanni srl",
+    "product": "Sfilaccio di equino ORO 100g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coppiello Giovanni srl - Sfilaccio di equino ORO 100g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritito%20precauz%20sfilaccio%20equino%20oro%20100g%20_1__1761194064.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-di-equino-oro-100g",
+    "published": "2023-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-di-equino-100g/",
+    "title": "",
+    "noticeDate": "17 marzo 2023",
+    "campi": {
+      "data pubblicazione": "17 marzo 2023",
+      "marca": "Coppiello Giovanni srl",
+      "denominazione": "Sfilaccio di equino 100g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Coppiello Giovanni srl",
+    "product": "Sfilaccio di equino 100g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coppiello Giovanni srl - Sfilaccio di equino 100g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiro%20precauz%20sfilaccio%20equino%20100g%20_3__1761194068.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-di-equino-100g",
+    "published": "2023-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-di-equino-100-gr-oro/",
+    "title": "",
+    "noticeDate": "15 marzo 2023",
+    "campi": {
+      "data pubblicazione": "15 marzo 2023",
+      "marca": "Coppiello Giovanni srl",
+      "denominazione": "Sfilaccio di equino 100 gr oro",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Coppiello Giovanni srl",
+    "product": "Sfilaccio di equino 100 gr oro",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coppiello Giovanni srl - Sfilaccio di equino 100 gr oro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiro%20precauz%20sfilaccio%20equino%20100g%20oro_1761194042.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-di-equino-100-gr-oro",
+    "published": "2023-03-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-di-equino-100-g-atm/",
+    "title": "",
+    "noticeDate": "15 marzo 2023",
+    "campi": {
+      "data pubblicazione": "15 marzo 2023",
+      "marca": "Coppiello Giovanni srl",
+      "denominazione": "Sfilaccio di equino 100 g atm",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Coppiello Giovanni srl",
+    "product": "Sfilaccio di equino 100 g atm",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coppiello Giovanni srl - Sfilaccio di equino 100 g atm",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiro%20precauz%20sfilaccio%20equino%20100g_1761194046.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-di-equino-100-g-atm",
+    "published": "2023-03-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-di-equino-80-g-cod-324154/",
+    "title": "",
+    "noticeDate": "15 marzo 2023",
+    "campi": {
+      "data pubblicazione": "15 marzo 2023",
+      "marca": "Coppiello Giovanni srl",
+      "denominazione": "Sfilaccio di equino 80 g (cod. 324154)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Coppiello Giovanni srl",
+    "product": "Sfilaccio di equino 80 g (cod. 324154)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coppiello Giovanni srl - Sfilaccio di equino 80 g (cod. 324154)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiro%20precauzi%20sfilaccio%20equino%2080g%20ali_1761194051.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-di-equino-80-g-cod-324154",
+    "published": "2023-03-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/julienne-di-pollo/",
+    "title": "",
+    "noticeDate": "15 marzo 2023",
+    "campi": {
+      "data pubblicazione": "15 marzo 2023",
+      "marca": "Coppiello Giovanni srl",
+      "denominazione": "Julienne di pollo",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Coppiello Giovanni srl",
+    "product": "Julienne di pollo",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coppiello Giovanni srl - Julienne di pollo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiro%20precauz%20julienne%20di%20pollo%20_2__1761194055.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "julienne-di-pollo",
+    "published": "2023-03-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-di-pollo/",
+    "title": "",
+    "noticeDate": "15 marzo 2023",
+    "campi": {
+      "data pubblicazione": "15 marzo 2023",
+      "marca": "Coppiello Giovanni srl",
+      "denominazione": "Sfilaccio di pollo",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Coppiello Giovanni srl",
+    "product": "Sfilaccio di pollo",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coppiello Giovanni srl - Sfilaccio di pollo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiro%20precauz%20sfilaccio%20pollo_1761194059.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-di-pollo",
+    "published": "2023-03-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/risotto-speck-e-funghi-porcini-0/",
+    "title": "",
+    "noticeDate": "10 marzo 2023",
+    "campi": {
+      "data pubblicazione": "10 marzo 2023",
+      "marca": "Arconatura",
+      "denominazione": "Risotto speck e funghi porcini",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Arconatura",
+    "product": "Risotto speck e funghi porcini",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Arconatura - Risotto speck e funghi porcini",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20R8%20Risotto%20Speck%20Porcini_1761193998.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "risotto-speck-e-funghi-porcini-0",
+    "published": "2023-03-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-carnaroli-5/",
+    "title": "",
+    "noticeDate": "10 marzo 2023",
+    "campi": {
+      "data pubblicazione": "10 marzo 2023",
+      "marca": "Arconatura",
+      "denominazione": "Riso carnaroli",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Arconatura",
+    "product": "Riso carnaroli",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Arconatura - Riso carnaroli",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Riso%20Carnaroli%20_1__1761194002.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "riso-carnaroli-5",
+    "published": "2023-03-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/risotto-cacio-e-pepe-0/",
+    "title": "",
+    "noticeDate": "10 marzo 2023",
+    "campi": {
+      "data pubblicazione": "10 marzo 2023",
+      "marca": "Arconatura",
+      "denominazione": "Risotto cacio e pepe",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Arconatura",
+    "product": "Risotto cacio e pepe",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Arconatura - Risotto cacio e pepe",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Risotto%20Cacio%20pepe%20_1__1761194006.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "risotto-cacio-e-pepe-0",
+    "published": "2023-03-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/risotto-ai-funghi-porcini-e-zafferano-0/",
+    "title": "",
+    "noticeDate": "10 marzo 2023",
+    "campi": {
+      "data pubblicazione": "10 marzo 2023",
+      "marca": "Arconatura",
+      "denominazione": "Risotto ai funghi porcini e zafferano",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Arconatura",
+    "product": "Risotto ai funghi porcini e zafferano",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Arconatura - Risotto ai funghi porcini e zafferano",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Risotto%20Porcini%20e%20zafferano_1761194010.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "risotto-ai-funghi-porcini-e-zafferano-0",
+    "published": "2023-03-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/risotto-ai-funghi-porcini-0/",
+    "title": "",
+    "noticeDate": "10 marzo 2023",
+    "campi": {
+      "data pubblicazione": "10 marzo 2023",
+      "marca": "Arconatura",
+      "denominazione": "Risotto ai funghi porcini",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Arconatura",
+    "product": "Risotto ai funghi porcini",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Arconatura - Risotto ai funghi porcini",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Risotto%20Porcini_1761194014.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "risotto-ai-funghi-porcini-0",
+    "published": "2023-03-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/risotto-speck-e-funghi-porcini-1/",
+    "title": "",
+    "noticeDate": "10 marzo 2023",
+    "campi": {
+      "data pubblicazione": "10 marzo 2023",
+      "marca": "Arconatura",
+      "denominazione": "Risotto speck e funghi porcini",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Arconatura",
+    "product": "Risotto speck e funghi porcini",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Arconatura - Risotto speck e funghi porcini",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Risotto%20Speck%20e%20Porcini_1761194018.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "risotto-speck-e-funghi-porcini-1",
+    "published": "2023-03-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/risotto-al-tartufo-0/",
+    "title": "",
+    "noticeDate": "10 marzo 2023",
+    "campi": {
+      "data pubblicazione": "10 marzo 2023",
+      "marca": "Arconatura",
+      "denominazione": "Risotto al tartufo",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Arconatura",
+    "product": "Risotto al tartufo",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Arconatura - Risotto al tartufo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Risotto%20Tartufo_1761194021.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "risotto-al-tartufo-0",
+    "published": "2023-03-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/risotto-speck-e-radicchio-0/",
+    "title": "",
+    "noticeDate": "10 marzo 2023",
+    "campi": {
+      "data pubblicazione": "10 marzo 2023",
+      "marca": "Arconatura",
+      "denominazione": "Risotto speck e radicchio",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Arconatura",
+    "product": "Risotto speck e radicchio",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Arconatura - Risotto speck e radicchio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Risottto%20Speck%20e%20radicchio_1761194025.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "risotto-speck-e-radicchio-0",
+    "published": "2023-03-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-di-equino-100g-atm/",
+    "title": "",
+    "noticeDate": "10 marzo 2023",
+    "campi": {
+      "data pubblicazione": "10 marzo 2023",
+      "marca": "Coppiello Giovanni srl",
+      "denominazione": "Sfilaccio di equino 100g atm",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Coppiello Giovanni srl",
+    "product": "Sfilaccio di equino 100g atm",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coppiello Giovanni srl - Sfilaccio di equino 100g atm",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_Richiamo_MacelleriaCoppielloGiovanniSRL_09032023_1761194029.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-di-equino-100g-atm",
+    "published": "2023-03-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-di-equino-100g-atm-0/",
+    "title": "",
+    "noticeDate": "10 marzo 2023",
+    "campi": {
+      "data pubblicazione": "10 marzo 2023",
+      "marca": "Coppiello Giovanni srl",
+      "denominazione": "Sfilaccio di equino 100g atm",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Coppiello Giovanni srl",
+    "product": "Sfilaccio di equino 100g atm",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coppiello Giovanni srl - Sfilaccio di equino 100g atm",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/NUOVO_MODULO_RICHIAMO_MACELLERIA_COPPIELLO_CEIT1323L_1761194034.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-di-equino-100g-atm-0",
+    "published": "2023-03-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fontina-dop-1/",
+    "title": "",
+    "noticeDate": "10 marzo 2023",
+    "campi": {
+      "data pubblicazione": "10 marzo 2023",
+      "marca": "Fontina DOP 250 G Pascoli Italiani - scadenza 10/04/2023",
+      "denominazione": "Fontina DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Fontina DOP 250 G Pascoli Italiani - scadenza 10/04/2023",
+    "product": "Fontina DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fontina DOP 250 G Pascoli Italiani - scadenza 10/04/2023 - Fontina DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_fontina%20DOP_pascoli%20italiani_10.03.2023_1761194038.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "fontina-dop-1",
+    "published": "2023-03-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-di-ragu-di-puro-suino-0/",
+    "title": "",
+    "noticeDate": "9 marzo 2023",
+    "campi": {
+      "data pubblicazione": "9 marzo 2023",
+      "marca": "IL MAIALE",
+      "denominazione": "PREPARATO DI RAGU' DI PURO SUINO",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "IL MAIALE",
+    "product": "PREPARATO DI RAGU' DI PURO SUINO",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IL MAIALE - PREPARATO DI RAGU' DI PURO SUINO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20richiamo%20Prix%20Quality_1761193995.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "preparato-di-ragu-di-puro-suino-0",
+    "published": "2023-03-09",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/risotto-cacio-e-pepe/",
     "title": "",
     "noticeDate": "8 marzo 2023",
@@ -599,6 +1093,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "riso-carnaroli-4",
+    "published": "2023-03-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-di-ragu-di-puro-suino/",
+    "title": "",
+    "noticeDate": "8 marzo 2023",
+    "campi": {
+      "data pubblicazione": "8 marzo 2023",
+      "marca": "IL MAIALE",
+      "denominazione": "PREPARATO DI RAGU' DI PURO SUINO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "IL MAIALE",
+    "product": "PREPARATO DI RAGU' DI PURO SUINO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IL MAIALE - PREPARATO DI RAGU' DI PURO SUINO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Prix%20Quality_1761193991.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-di-ragu-di-puro-suino",
     "published": "2023-03-08",
     "source": "operator"
   },
