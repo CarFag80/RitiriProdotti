@@ -8328,6 +8328,474 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barretta-proteica-arricchita-con-vitamine-gusto-mandorla-e-vaniglia/",
+    "title": "",
+    "noticeDate": "8 luglio 2022",
+    "campi": {
+      "data pubblicazione": "8 luglio 2022",
+      "marca": "Herbalife Nutrition",
+      "denominazione": "Barretta proteica arricchita con vitamine - gusto mandorla e vaniglia",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Herbalife Nutrition",
+    "product": "Barretta proteica arricchita con vitamine - gusto mandorla e vaniglia",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Herbalife Nutrition - Barretta proteica arricchita con vitamine - gusto mandorla e vaniglia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo_aggiornato_1761191356.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "barretta-proteica-arricchita-con-vitamine-gusto-mandorla-e-vaniglia",
+    "published": "2022-07-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-sfoglia-500g/",
+    "title": "",
+    "noticeDate": "8 luglio 2022",
+    "campi": {
+      "data pubblicazione": "8 luglio 2022",
+      "marca": "REVOLUTION",
+      "denominazione": "MIX SFOGLIA 500G",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "REVOLUTION",
+    "product": "MIX SFOGLIA 500G",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo REVOLUTION - MIX SFOGLIA 500G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20mix%20sfoglia%20500G_1761191361.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mix-sfoglia-500g",
+    "published": "2022-07-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cannucce-di-carta/",
+    "title": "",
+    "noticeDate": "6 luglio 2022",
+    "campi": {
+      "data pubblicazione": "6 luglio 2022",
+      "marca": "METRO INTERNATIONAL SUPPLY GMBH",
+      "denominazione": "CANNUCCE DI CARTA",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "METRO INTERNATIONAL SUPPLY GMBH",
+    "product": "CANNUCCE DI CARTA",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo METRO INTERNATIONAL SUPPLY GMBH - CANNUCCE DI CARTA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_canucce%20carta%20MP_1761191352.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cannucce-di-carta",
+    "published": "2022-07-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-chia-salvia-hispanica-6/",
+    "title": "",
+    "noticeDate": "4 luglio 2022",
+    "campi": {
+      "data pubblicazione": "4 luglio 2022",
+      "marca": "CUCINA E SAPORI",
+      "denominazione": "SEMI DI CHIA (Salvia Hispanica)",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "CUCINA E SAPORI",
+    "product": "SEMI DI CHIA (Salvia Hispanica)",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CUCINA E SAPORI - SEMI DI CHIA (Salvia Hispanica)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/P_GEA_ALL3%20_%20CARTELLO%20RICHIAMO%20A%20CONSUMATORE_1761191348.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "semi-di-chia-salvia-hispanica-6",
+    "published": "2022-07-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lucky-me-pancit-canton-chilimansi-72x60g/",
+    "title": "",
+    "noticeDate": "1 luglio 2022",
+    "campi": {
+      "data pubblicazione": "1 luglio 2022",
+      "marca": "Lucky Me",
+      "denominazione": "Lucky Me Pancit Canton Chilimansi 72x60g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Lucky Me",
+    "product": "Lucky Me Pancit Canton Chilimansi 72x60g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Lucky Me - Lucky Me Pancit Canton Chilimansi 72x60g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20PPIN55_1761191327.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lucky-me-pancit-canton-chilimansi-72x60g",
+    "published": "2022-07-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lucky-me-istant-noodles-hot-chili-flavor-60g/",
+    "title": "",
+    "noticeDate": "1 luglio 2022",
+    "campi": {
+      "data pubblicazione": "1 luglio 2022",
+      "marca": "Lucky Me",
+      "denominazione": "Lucky Me Istant Noodles Hot Chili Flavor 60g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Lucky Me",
+    "product": "Lucky Me Istant Noodles Hot Chili Flavor 60g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Lucky Me - Lucky Me Istant Noodles Hot Chili Flavor 60g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20PPIN45_1761191331.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lucky-me-istant-noodles-hot-chili-flavor-60g",
+    "published": "2022-07-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lucky-me-pancit-canton-original-72x60g/",
+    "title": "",
+    "noticeDate": "1 luglio 2022",
+    "campi": {
+      "data pubblicazione": "1 luglio 2022",
+      "marca": "Lucky Me",
+      "denominazione": "Lucky Me Pancit Canton Original 72x60g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Lucky Me",
+    "product": "Lucky Me Pancit Canton Original 72x60g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Lucky Me - Lucky Me Pancit Canton Original 72x60g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20PPINS8_1761191335.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lucky-me-pancit-canton-original-72x60g",
+    "published": "2022-07-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lucky-me-pancit-canton-kalamansi-72x60g/",
+    "title": "",
+    "noticeDate": "1 luglio 2022",
+    "campi": {
+      "data pubblicazione": "1 luglio 2022",
+      "marca": "Lucky Me",
+      "denominazione": "Lucky Me Pancit Canton Kalamansi 72x60g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Lucky Me",
+    "product": "Lucky Me Pancit Canton Kalamansi 72x60g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Lucky Me - Lucky Me Pancit Canton Kalamansi 72x60g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20PPIN37_1761191339.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lucky-me-pancit-canton-kalamansi-72x60g",
+    "published": "2022-07-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lucky-me-noodle-beef-mami-72x55/",
+    "title": "",
+    "noticeDate": "1 luglio 2022",
+    "campi": {
+      "data pubblicazione": "1 luglio 2022",
+      "marca": "Lucky Me",
+      "denominazione": "Lucky Me Noodle Beef Mami 72x55",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Lucky Me",
+    "product": "Lucky Me Noodle Beef Mami 72x55",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Lucky Me - Lucky Me Noodle Beef Mami 72x55",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20PPIN10_1761191343.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lucky-me-noodle-beef-mami-72x55",
+    "published": "2022-07-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-russa/",
+    "title": "",
+    "noticeDate": "30 giugno 2022",
+    "campi": {
+      "data pubblicazione": "30 giugno 2022",
+      "marca": "Bontà Gastronomiche",
+      "denominazione": "Insalata russa",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Bontà Gastronomiche",
+    "product": "Insalata russa",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bontà Gastronomiche - Insalata russa",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello_richiamo_insalata_russa_1761191323.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "insalata-russa",
+    "published": "2022-06-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/strozzapreti-del-fumaiolo/",
+    "title": "",
+    "noticeDate": "29 giugno 2022",
+    "campi": {
+      "data pubblicazione": "29 giugno 2022",
+      "marca": "FUMAIOLO SRL",
+      "denominazione": "STROZZAPRETI DEL FUMAIOLO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "FUMAIOLO SRL",
+    "product": "STROZZAPRETI DEL FUMAIOLO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FUMAIOLO SRL - STROZZAPRETI DEL FUMAIOLO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20STROZZAPRETI%20_2__1761191319.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "strozzapreti-del-fumaiolo",
+    "published": "2022-06-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caffe-torrefatto-e-macinato-gusto-classico-juanito-250-g/",
+    "title": "",
+    "noticeDate": "27 giugno 2022",
+    "campi": {
+      "data pubblicazione": "27 giugno 2022",
+      "marca": "DICO SpA (Roma)",
+      "denominazione": "Caffè torrefatto e macinato gusto classico JUANITO 250 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DICO SpA (Roma)",
+    "product": "Caffè torrefatto e macinato gusto classico JUANITO 250 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DICO SpA (Roma) - Caffè torrefatto e macinato gusto classico JUANITO 250 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20Richiamo%20caff%C3%A8%20Juanito%20Gusto%20Classico%20250g_1761191315.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "caffe-torrefatto-e-macinato-gusto-classico-juanito-250-g",
+    "published": "2022-06-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pestato-di-friarielli-con-olio-extravergine-di-oliva/",
+    "title": "",
+    "noticeDate": "24 giugno 2022",
+    "campi": {
+      "data pubblicazione": "24 giugno 2022",
+      "marca": "sole e terre del vesuvio",
+      "denominazione": "pestato di friarielli con olio extravergine di oliva",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "sole e terre del vesuvio",
+    "product": "pestato di friarielli con olio extravergine di oliva",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo sole e terre del vesuvio - pestato di friarielli con olio extravergine di oliva",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Pestato%20di%20friarielli_1761191307.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pestato-di-friarielli-con-olio-extravergine-di-oliva",
+    "published": "2022-06-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pestato-di-carciofi-con-olio-extravergine-di-oliva/",
+    "title": "",
+    "noticeDate": "24 giugno 2022",
+    "campi": {
+      "data pubblicazione": "24 giugno 2022",
+      "marca": "Sole e Terra del Vesuvio srl",
+      "denominazione": "pestato di carciofi con olio extravergine di oliva",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Sole e Terra del Vesuvio srl",
+    "product": "pestato di carciofi con olio extravergine di oliva",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sole e Terra del Vesuvio srl - pestato di carciofi con olio extravergine di oliva",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Pestato%20di%20carciofi_1761191311.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pestato-di-carciofi-con-olio-extravergine-di-oliva",
+    "published": "2022-06-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bio-tofu-medallions-mit-spinat/",
+    "title": "",
+    "noticeDate": "17 giugno 2022",
+    "campi": {
+      "data pubblicazione": "17 giugno 2022",
+      "marca": "NATUR AKTIVE - BIOLAB SRL GORIZIA",
+      "denominazione": "BIO TOFU MEDALLIONS MIT SPINAT",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "NATUR AKTIVE - BIOLAB SRL GORIZIA",
+    "product": "BIO TOFU MEDALLIONS MIT SPINAT",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NATUR AKTIVE - BIOLAB SRL GORIZIA - BIO TOFU MEDALLIONS MIT SPINAT",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20TOFU_1761191304.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "bio-tofu-medallions-mit-spinat",
+    "published": "2022-06-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/milk-lait/",
+    "title": "",
+    "noticeDate": "16 giugno 2022",
+    "campi": {
+      "data pubblicazione": "16 giugno 2022",
+      "marca": "WORLD TRADE SRL",
+      "denominazione": "MILK & LAIT",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "WORLD TRADE SRL",
+    "product": "MILK & LAIT",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo WORLD TRADE SRL - MILK & LAIT",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20latte_1761191296.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "milk-lait",
+    "published": "2022-06-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesce-gattosardinestoccafissomazzancollepesce/",
+    "title": "",
+    "noticeDate": "16 giugno 2022",
+    "campi": {
+      "data pubblicazione": "16 giugno 2022",
+      "marca": "Alimenti dal Mondo -Italia srl",
+      "denominazione": "pesce gatto,sardine,stoccafisso,mazzancolle,pesce lucertola,tilapia,suro,umbrina",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Alimenti dal Mondo -Italia srl",
+    "product": "pesce gatto,sardine,stoccafisso,mazzancolle,pesce lucertola,tilapia,suro,umbrina",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Alimenti dal Mondo -Italia srl - pesce gatto,sardine,stoccafisso,mazzancolle,pesce lucertola,tilapia,suro,umbrina",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20rischiamo%20prod.%20ittici_1761191300.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pesce-gattosardinestoccafissomazzancollepesce",
+    "published": "2022-06-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lucky-me-instant-noodles-hot-chili-flavor-60-g/",
+    "title": "",
+    "noticeDate": "14 giugno 2022",
+    "campi": {
+      "data pubblicazione": "14 giugno 2022",
+      "marca": "Lucky Me",
+      "denominazione": "Lucky Me Instant Noodles Hot Chili Flavor 60 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Lucky Me",
+    "product": "Lucky Me Instant Noodles Hot Chili Flavor 60 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Lucky Me - Lucky Me Instant Noodles Hot Chili Flavor 60 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo_1761191293.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lucky-me-instant-noodles-hot-chili-flavor-60-g",
+    "published": "2022-06-14",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-colazione-misto-di-semi-con-bacche-di-goji-e-semi-di-chia/",
     "title": "",
     "noticeDate": "10 giugno 2022",
@@ -8558,6 +9026,58 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "semi-di-chia-2",
+    "published": "2022-06-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-chia-biologico/",
+    "title": "",
+    "noticeDate": "10 giugno 2022",
+    "campi": {
+      "data pubblicazione": "10 giugno 2022",
+      "marca": "OHI VITA",
+      "denominazione": "Semi di chia - biologico",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "OHI VITA",
+    "product": "Semi di chia - biologico",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo OHI VITA - Semi di chia - biologico",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/P_GEA_ALL3%20_%20CARTELLO%20RICHIAMO%20A%20CONSUMATORE_VE_GE__1761191285.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "semi-di-chia-biologico",
+    "published": "2022-06-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-chia-salvia-hispanica-5/",
+    "title": "",
+    "noticeDate": "10 giugno 2022",
+    "campi": {
+      "data pubblicazione": "10 giugno 2022",
+      "marca": "NoiVoi",
+      "denominazione": "Semi di chia (Salvia hispanica)",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "NoiVoi",
+    "product": "Semi di chia (Salvia hispanica)",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NoiVoi - Semi di chia (Salvia hispanica)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/P_GEA_ALL3%20_%20CARTELLO%20RICHIAMO%20A%20CONSUMATORE_1761191289.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "semi-di-chia-salvia-hispanica-5",
     "published": "2022-06-10",
     "source": "operator"
   },
