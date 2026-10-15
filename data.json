@@ -1769,6 +1769,188 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-supergigante-tranci/",
+    "title": "",
+    "noticeDate": "8 novembre 2022",
+    "campi": {
+      "data pubblicazione": "8 novembre 2022",
+      "marca": "Veroni",
+      "denominazione": "Mortadella supergigante a tranci",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Veroni",
+    "product": "Mortadella supergigante a tranci",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Veroni - Mortadella supergigante a tranci",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20Veroni%20lotto%20PO2221001_1761192913.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mortadella-supergigante-tranci",
+    "published": "2022-11-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-supergigante-tranci-lotto-po-2221001/",
+    "title": "",
+    "noticeDate": "8 novembre 2022",
+    "campi": {
+      "data pubblicazione": "8 novembre 2022",
+      "marca": "Veroni",
+      "denominazione": "Mortadella supergigante a tranci lotto PO 2221001",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Veroni",
+    "product": "Mortadella supergigante a tranci lotto PO 2221001",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Veroni - Mortadella supergigante a tranci lotto PO 2221001",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20Veroni%20lotto%20PO2221001_1761192915.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mortadella-supergigante-tranci-lotto-po-2221001",
+    "published": "2022-11-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-supergigante-tranci-lotto-po2227301/",
+    "title": "",
+    "noticeDate": "8 novembre 2022",
+    "campi": {
+      "data pubblicazione": "8 novembre 2022",
+      "marca": "Veroni",
+      "denominazione": "Mortadella Supergigante a tranci lotto PO2227301",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Veroni",
+    "product": "Mortadella Supergigante a tranci lotto PO2227301",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Veroni - Mortadella Supergigante a tranci lotto PO2227301",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20Veroni%20lotto%20PO2227301_1761192916.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mortadella-supergigante-tranci-lotto-po2227301",
+    "published": "2022-11-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita/",
+    "title": "",
+    "noticeDate": "8 novembre 2022",
+    "campi": {
+      "data pubblicazione": "8 novembre 2022",
+      "marca": "Veroni",
+      "denominazione": "Mortadella supergigante a tranci con e senza pistacchio distribuita da Conad",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Veroni",
+    "product": "Mortadella supergigante a tranci con e senza pistacchio distribuita da Conad",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Veroni - Mortadella supergigante a tranci con e senza pistacchio distribuita da Conad",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20supergigante%20a%20tranci%20con%20e%20senza%20pistacchio%20distribuita%20da%20CONAD_1761192917.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita",
+    "published": "2022-11-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/richiamo-cautelativo-mortadella-supergigante-tranci-con-e-senza/",
+    "title": "",
+    "noticeDate": "8 novembre 2022",
+    "campi": {
+      "data pubblicazione": "8 novembre 2022",
+      "marca": "Veroni",
+      "denominazione": "Richiamo cautelativo mortadella supergigante a tranci con e senza pistacchio distribuita da COOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Veroni",
+    "product": "Richiamo cautelativo mortadella supergigante a tranci con e senza pistacchio distribuita da COOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Veroni - Richiamo cautelativo mortadella supergigante a tranci con e senza pistacchio distribuita da COOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20supergigante%20a%20tranci%20con%20e%20senza%20pistacchio%20distribuita%20da%20COOP_1761192918.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "richiamo-cautelativo-mortadella-supergigante-tranci-con-e-senza",
+    "published": "2022-11-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita-0/",
+    "title": "",
+    "noticeDate": "8 novembre 2022",
+    "campi": {
+      "data pubblicazione": "8 novembre 2022",
+      "marca": "Veroni",
+      "denominazione": "Mortadella supergigante a tranci con e senza pistacchio distribuita da COOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Veroni",
+    "product": "Mortadella supergigante a tranci con e senza pistacchio distribuita da COOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Veroni - Mortadella supergigante a tranci con e senza pistacchio distribuita da COOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20supergigante%20a%20tranci%20con%20e%20senza%20pistacchio%20distribuita%20da%20COOP_1761192919.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita-0",
+    "published": "2022-11-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita-1/",
+    "title": "",
+    "noticeDate": "8 novembre 2022",
+    "campi": {
+      "data pubblicazione": "8 novembre 2022",
+      "marca": "Veroni",
+      "denominazione": "Mortadella supergigante a tranci con e senza pistacchio distribuita da COOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Veroni",
+    "product": "Mortadella supergigante a tranci con e senza pistacchio distribuita da COOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Veroni - Mortadella supergigante a tranci con e senza pistacchio distribuita da COOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20supergigante%20a%20tranci%20con%20e%20senza%20pistacchio%20distribuita%20da%20COOP_1761192921.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita-1",
+    "published": "2022-11-08",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratori-alimentari-natrol-yohimbe-bark-mens-health-stamina-rx/",
     "title": "Integratori alimentari",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/vendita-online-di-integratori-contenenti-yohimbina-o-yohimbe/",
@@ -1794,6 +1976,162 @@
     "id": "integratori-alimentari-natrol-yohimbe-bark-mens-health-stamina-rx",
     "published": "2022-11-07",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cannella-polvere-bio/",
+    "title": "",
+    "noticeDate": "4 novembre 2022",
+    "campi": {
+      "data pubblicazione": "4 novembre 2022",
+      "marca": "LA FINESTRA SUL CIELO",
+      "denominazione": "Cannella in polvere Bio",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "LA FINESTRA SUL CIELO",
+    "product": "Cannella in polvere Bio",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA FINESTRA SUL CIELO - Cannella in polvere Bio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20cannella_1761192296.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cannella-polvere-bio",
+    "published": "2022-11-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/anacaps-expert/",
+    "title": "",
+    "noticeDate": "2 novembre 2022",
+    "campi": {
+      "data pubblicazione": "2 novembre 2022",
+      "marca": "DUCRAY",
+      "denominazione": "ANACAPS EXPERT",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "DUCRAY",
+    "product": "ANACAPS EXPERT",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DUCRAY - ANACAPS EXPERT",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ANACAPS%20EXPERT%20_%202K1RF%202K1MD%202K1MC%20_%2030cps%20X3___1761192277.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "anacaps-expert",
+    "published": "2022-11-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/anacaps-expert-0/",
+    "title": "",
+    "noticeDate": "2 novembre 2022",
+    "campi": {
+      "data pubblicazione": "2 novembre 2022",
+      "marca": "DUCRAY",
+      "denominazione": "ANACAPS EXPERT",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "DUCRAY",
+    "product": "ANACAPS EXPERT",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DUCRAY - ANACAPS EXPERT",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ANACAPS%20EXPERT%20_%202K1RF%202K1MD%202K1MC%20_%2030cps___1761192282.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "anacaps-expert-0",
+    "published": "2022-11-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/anacaps-expert-1/",
+    "title": "",
+    "noticeDate": "2 novembre 2022",
+    "campi": {
+      "data pubblicazione": "2 novembre 2022",
+      "marca": "DUCRAY",
+      "denominazione": "ANACAPS EXPERT",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "DUCRAY",
+    "product": "ANACAPS EXPERT",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DUCRAY - ANACAPS EXPERT",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ANACAPS%20EXPERT%20_%202K1RG%2030cps___1761192287.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "anacaps-expert-1",
+    "published": "2022-11-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/anacaps-extra/",
+    "title": "",
+    "noticeDate": "2 novembre 2022",
+    "campi": {
+      "data pubblicazione": "2 novembre 2022",
+      "marca": "DUCRAY",
+      "denominazione": "ANACAPS EXTRA",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "DUCRAY",
+    "product": "ANACAPS EXTRA",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DUCRAY - ANACAPS EXTRA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ANACAPS%20EXPERT%20_%202K1RJ%20_%205cps___1761192291.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "anacaps-extra",
+    "published": "2022-11-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-3/",
+    "title": "",
+    "noticeDate": "31 ottobre 2022",
+    "campi": {
+      "data pubblicazione": "31 ottobre 2022",
+      "marca": "Bartolini Carni",
+      "denominazione": "salsiccia stagionata",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Bartolini Carni",
+    "product": "salsiccia stagionata",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bartolini Carni - salsiccia stagionata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_consumatore_finaleF_1761192272.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-stagionata-3",
+    "published": "2022-10-31",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taleggio-dop-latte-crudo-0/",
@@ -5807,6 +6145,188 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "ciocodelice-classica-ast-36-bst",
+    "published": "2022-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ciocodelice-fondente-ast-36-bs/",
+    "title": "",
+    "noticeDate": "17 marzo 2022",
+    "campi": {
+      "data pubblicazione": "17 marzo 2022",
+      "marca": "Caffè Molinari SpA",
+      "denominazione": "CIOCODELICE FONDENTE AST 36 bs",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Caffè Molinari SpA",
+    "product": "CIOCODELICE FONDENTE AST 36 bs",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caffè Molinari SpA - CIOCODELICE FONDENTE AST 36 bs",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20Ciocodelice%20fondente_1761190470.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ciocodelice-fondente-ast-36-bs",
+    "published": "2022-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ciocodelice-nocciola-ast-36-bst/",
+    "title": "",
+    "noticeDate": "17 marzo 2022",
+    "campi": {
+      "data pubblicazione": "17 marzo 2022",
+      "marca": "Caffè Molinari SpA",
+      "denominazione": "CIOCODELICE NOCCIOLA ast 36 bst",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Caffè Molinari SpA",
+    "product": "CIOCODELICE NOCCIOLA ast 36 bst",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caffè Molinari SpA - CIOCODELICE NOCCIOLA ast 36 bst",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20Ciocodelice%20Nocciola_1761190475.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ciocodelice-nocciola-ast-36-bst",
+    "published": "2022-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/melange-di-frutta-g250/",
+    "title": "",
+    "noticeDate": "17 marzo 2022",
+    "campi": {
+      "data pubblicazione": "17 marzo 2022",
+      "marca": "Abbasciano",
+      "denominazione": "Melange di Frutta g.250",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Abbasciano",
+    "product": "Melange di Frutta g.250",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Abbasciano - Melange di Frutta g.250",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Abbasciano%20%20Melange%20g250_1761190479.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "melange-di-frutta-g250",
+    "published": "2022-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/melange-di-frutta-g750/",
+    "title": "",
+    "noticeDate": "17 marzo 2022",
+    "campi": {
+      "data pubblicazione": "17 marzo 2022",
+      "marca": "Abbasciano",
+      "denominazione": "Melange di Frutta g.750",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Abbasciano",
+    "product": "Melange di Frutta g.750",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Abbasciano - Melange di Frutta g.750",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Abbasciano%20Melange%20g750_1761190484.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "melange-di-frutta-g750",
+    "published": "2022-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/melange-di-frutta-g250-busta-neutra/",
+    "title": "",
+    "noticeDate": "17 marzo 2022",
+    "campi": {
+      "data pubblicazione": "17 marzo 2022",
+      "marca": "Abbasciano",
+      "denominazione": "Melange di Frutta g250 in busta neutra",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Abbasciano",
+    "product": "Melange di Frutta g250 in busta neutra",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Abbasciano - Melange di Frutta g250 in busta neutra",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Abbasciano%20%20Melange%20g250%20bs%20neutra_1761190489.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "melange-di-frutta-g250-busta-neutra",
+    "published": "2022-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-polvere-cioccolata-classica-10/",
+    "title": "",
+    "noticeDate": "17 marzo 2022",
+    "campi": {
+      "data pubblicazione": "17 marzo 2022",
+      "marca": "Naturera Polot",
+      "denominazione": "Preparato in polvere per cioccolata classica",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Naturera Polot",
+    "product": "Preparato in polvere per cioccolata classica",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Naturera Polot - Preparato in polvere per cioccolata classica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_Cioccolata%20%20tradizionale%20kg1%20_%20L20008002_1761190493.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "preparato-polvere-cioccolata-classica-10",
+    "published": "2022-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-polvere-cioccolata-classica-11/",
+    "title": "",
+    "noticeDate": "17 marzo 2022",
+    "campi": {
+      "data pubblicazione": "17 marzo 2022",
+      "marca": "Naturera Polot",
+      "denominazione": "Preparato in polvere per cioccolata classica",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Naturera Polot",
+    "product": "Preparato in polvere per cioccolata classica",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Naturera Polot - Preparato in polvere per cioccolata classica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_Cioccolata%20%20tradizionale%20kg1%20_%20L20008001_1761190498.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "preparato-polvere-cioccolata-classica-11",
     "published": "2022-03-17",
     "source": "operator"
   },
