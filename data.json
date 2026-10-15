@@ -710,6 +710,526 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/muesli-cioccolato-3/",
+    "title": "",
+    "noticeDate": "8 agosto 2023",
+    "campi": {
+      "data pubblicazione": "8 agosto 2023",
+      "marca": "RISTORIS",
+      "denominazione": "MUESLI CIOCCOLATO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "RISTORIS",
+    "product": "MUESLI CIOCCOLATO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo RISTORIS - MUESLI CIOCCOLATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_RICHIAMO_Ristoris_Muesli%20cioccolato_completo_1761196832.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "muesli-cioccolato-3",
+    "published": "2023-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/muesli-cioccolato-375/",
+    "title": "",
+    "noticeDate": "8 agosto 2023",
+    "campi": {
+      "data pubblicazione": "8 agosto 2023",
+      "marca": "VALE",
+      "denominazione": "MUESLI CIOCCOLATO 375",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "VALE",
+    "product": "MUESLI CIOCCOLATO 375",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VALE - MUESLI CIOCCOLATO 375",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_RICHIAMO_SELEX_Muesli%20crocc%20cioccolato_compilato_1761196835.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "muesli-cioccolato-375",
+    "published": "2023-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/muesli-cioccolato-1000/",
+    "title": "",
+    "noticeDate": "8 agosto 2023",
+    "campi": {
+      "data pubblicazione": "8 agosto 2023",
+      "marca": "VALE",
+      "denominazione": "MUESLI CIOCCOLATO 1000",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "VALE",
+    "product": "MUESLI CIOCCOLATO 1000",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VALE - MUESLI CIOCCOLATO 1000",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_RICHIAMO_VALE_Muesli%20crocc%20cioccolato_compilato_1761196839.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "muesli-cioccolato-1000",
+    "published": "2023-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/muesli-uvetta-nocciole-375/",
+    "title": "",
+    "noticeDate": "8 agosto 2023",
+    "campi": {
+      "data pubblicazione": "8 agosto 2023",
+      "marca": "VALE",
+      "denominazione": "MUESLI UVETTA NOCCIOLE 375",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "VALE",
+    "product": "MUESLI UVETTA NOCCIOLE 375",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VALE - MUESLI UVETTA NOCCIOLE 375",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_RICHIAMO_SELEX_Muesli%20crocc%20uvetta%20e%20nocciole_compilato_1761196843.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "muesli-uvetta-nocciole-375",
+    "published": "2023-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/muesli-uvetta-nocciole-1000/",
+    "title": "",
+    "noticeDate": "8 agosto 2023",
+    "campi": {
+      "data pubblicazione": "8 agosto 2023",
+      "marca": "VALE",
+      "denominazione": "MUESLI UVETTA NOCCIOLE 1000",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "VALE",
+    "product": "MUESLI UVETTA NOCCIOLE 1000",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VALE - MUESLI UVETTA NOCCIOLE 1000",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_RICHIAMO_VALE_Muesli%20crocc%20uvetta%20e%20nocciole_compilato_1761196846.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "muesli-uvetta-nocciole-1000",
+    "published": "2023-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/muesli-croccante-cioccolato-e-nocciole/",
+    "title": "",
+    "noticeDate": "8 agosto 2023",
+    "campi": {
+      "data pubblicazione": "8 agosto 2023",
+      "marca": "U!",
+      "denominazione": "MUESLI CROCCANTE CIOCCOLATO E NOCCIOLE",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "U!",
+    "product": "MUESLI CROCCANTE CIOCCOLATO E NOCCIOLE",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo U! - MUESLI CROCCANTE CIOCCOLATO E NOCCIOLE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_RICHIAMO_Unes_Muesli%20cioccolato_completo_1761196850.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "muesli-croccante-cioccolato-e-nocciole",
+    "published": "2023-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/muesli-uvetta-nocciole-3/",
+    "title": "",
+    "noticeDate": "8 agosto 2023",
+    "campi": {
+      "data pubblicazione": "8 agosto 2023",
+      "marca": "U!",
+      "denominazione": "MUESLI UVETTA NOCCIOLE",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "U!",
+    "product": "MUESLI UVETTA NOCCIOLE",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo U! - MUESLI UVETTA NOCCIOLE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_RICHIAMO_Unes_Muesli%20uvetta%20e%20nocciole_completo_1761196854.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "muesli-uvetta-nocciole-3",
+    "published": "2023-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/muesli-cioccolato-4/",
+    "title": "",
+    "noticeDate": "8 agosto 2023",
+    "campi": {
+      "data pubblicazione": "8 agosto 2023",
+      "marca": "MONDO NATURA",
+      "denominazione": "MUESLI CIOCCOLATO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "MONDO NATURA",
+    "product": "MUESLI CIOCCOLATO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MONDO NATURA - MUESLI CIOCCOLATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_RICHIAMO_Vega_Muesli%20cioccolato_completo_1761196857.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "muesli-cioccolato-4",
+    "published": "2023-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/muesli-uvetta-nocciole-4/",
+    "title": "",
+    "noticeDate": "8 agosto 2023",
+    "campi": {
+      "data pubblicazione": "8 agosto 2023",
+      "marca": "MONDO NATURA",
+      "denominazione": "MUESLI UVETTA NOCCIOLE",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "MONDO NATURA",
+    "product": "MUESLI UVETTA NOCCIOLE",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MONDO NATURA - MUESLI UVETTA NOCCIOLE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_RICHIAMO_Vega_Muesli%20uvetta%20e%20nocciole_completo_1761196861.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "muesli-uvetta-nocciole-4",
+    "published": "2023-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/muesli-cioccoltao/",
+    "title": "",
+    "noticeDate": "8 agosto 2023",
+    "campi": {
+      "data pubblicazione": "8 agosto 2023",
+      "marca": "VE'GE'",
+      "denominazione": "MUESLI CIOCCOLTAO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "VE'GE'",
+    "product": "MUESLI CIOCCOLTAO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VE'GE' - MUESLI CIOCCOLTAO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_RICHIAMO_Ve_ge__Muesli%20cioccolato_completo_1761196865.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "muesli-cioccoltao",
+    "published": "2023-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/muesli-cioccolato-5/",
+    "title": "",
+    "noticeDate": "8 agosto 2023",
+    "campi": {
+      "data pubblicazione": "8 agosto 2023",
+      "marca": "VIANDER",
+      "denominazione": "MUESLI CIOCCOLATO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "VIANDER",
+    "product": "MUESLI CIOCCOLATO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VIANDER - MUESLI CIOCCOLATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_RICHIAMO_Viander_Muesli%20cioccolato_completo_1761196869.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "muesli-cioccolato-5",
+    "published": "2023-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/muesli-cioccolato-375-0/",
+    "title": "",
+    "noticeDate": "8 agosto 2023",
+    "campi": {
+      "data pubblicazione": "8 agosto 2023",
+      "marca": "ACTIVITY",
+      "denominazione": "MUESLI CIOCCOLATO 375",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "ACTIVITY",
+    "product": "MUESLI CIOCCOLATO 375",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ACTIVITY - MUESLI CIOCCOLATO 375",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_RICHIAMO_Activity_Muesli%20cioccolato%20375g_completo_1761196873.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "muesli-cioccolato-375-0",
+    "published": "2023-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/muesli-uvetta-nocciola-375/",
+    "title": "",
+    "noticeDate": "8 agosto 2023",
+    "campi": {
+      "data pubblicazione": "8 agosto 2023",
+      "marca": "ACTIVITY",
+      "denominazione": "MUESLI UVETTA NOCCIOLA 375",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "ACTIVITY",
+    "product": "MUESLI UVETTA NOCCIOLA 375",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ACTIVITY - MUESLI UVETTA NOCCIOLA 375",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_RICHIAMO_Activity_Muesli%20uvetta%20nocciole%20375g_completo_1761196877.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "muesli-uvetta-nocciola-375",
+    "published": "2023-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-arachidi-peanut-butter-100/",
+    "title": "",
+    "noticeDate": "8 agosto 2023",
+    "campi": {
+      "data pubblicazione": "8 agosto 2023",
+      "marca": "FIORENTINI",
+      "denominazione": "CREMA ARACHIDI Peanut butter 100%",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "FIORENTINI",
+    "product": "CREMA ARACHIDI Peanut butter 100%",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIORENTINI - CREMA ARACHIDI Peanut butter 100%",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_RICHIAMO_Fiorentini%20Peanut%20butter%20100_%20arachidi_1761196881.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crema-arachidi-peanut-butter-100",
+    "published": "2023-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-di-arachidi-spalmabile/",
+    "title": "",
+    "noticeDate": "8 agosto 2023",
+    "campi": {
+      "data pubblicazione": "8 agosto 2023",
+      "marca": "COOP",
+      "denominazione": "Crema di arachidi spalmabile",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "COOP",
+    "product": "Crema di arachidi spalmabile",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo COOP - Crema di arachidi spalmabile",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_RICHIAMO_MARCHIO_COOP%20crema%20di%20arachidi_1761196885.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crema-di-arachidi-spalmabile",
+    "published": "2023-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-arachidi-peanut-butter-creamy/",
+    "title": "",
+    "noticeDate": "8 agosto 2023",
+    "campi": {
+      "data pubblicazione": "8 agosto 2023",
+      "marca": "FIORENTINI",
+      "denominazione": "CREMA ARACHIDI Peanut butter CREAMY",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "FIORENTINI",
+    "product": "CREMA ARACHIDI Peanut butter CREAMY",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIORENTINI - CREMA ARACHIDI Peanut butter CREAMY",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_RICHIAMO_Fiorentini%20Peanut%20butter_1761196889.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crema-arachidi-peanut-butter-creamy",
+    "published": "2023-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-di-arachidi-spalmabile-0/",
+    "title": "",
+    "noticeDate": "8 agosto 2023",
+    "campi": {
+      "data pubblicazione": "8 agosto 2023",
+      "marca": "OK BRIO",
+      "denominazione": "Crema di arachidi spalmabile",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "OK BRIO",
+    "product": "Crema di arachidi spalmabile",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo OK BRIO - Crema di arachidi spalmabile",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_RICHIAMO_Peanut%20Butter%20Creamy_1761196893.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crema-di-arachidi-spalmabile-0",
+    "published": "2023-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-di-arachidi-peanut-butter-crunchy/",
+    "title": "",
+    "noticeDate": "8 agosto 2023",
+    "campi": {
+      "data pubblicazione": "8 agosto 2023",
+      "marca": "FIORENTINI",
+      "denominazione": "CREMA DI ARACHIDI Peanut Butter CRUNCHY",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "FIORENTINI",
+    "product": "CREMA DI ARACHIDI Peanut Butter CRUNCHY",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIORENTINI - CREMA DI ARACHIDI Peanut Butter CRUNCHY",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_RICHIAMO_Fiorentini%20Peanut%20butter%20crunchy_1761196897.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crema-di-arachidi-peanut-butter-crunchy",
+    "published": "2023-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-di-arachidi-spalmabile-100-arachidi/",
+    "title": "",
+    "noticeDate": "8 agosto 2023",
+    "campi": {
+      "data pubblicazione": "8 agosto 2023",
+      "marca": "rt",
+      "denominazione": "Crema di arachidi spalmabile 100% arachidi",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "rt",
+    "product": "Crema di arachidi spalmabile 100% arachidi",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo rt - Crema di arachidi spalmabile 100% arachidi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_RICHIAMO_MARCHIO_APULIA%20Crema%20di%20arachidi_1761196901.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crema-di-arachidi-spalmabile-100-arachidi",
+    "published": "2023-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/despar-crema-arachidi-spalmabile-100/",
+    "title": "",
+    "noticeDate": "8 agosto 2023",
+    "campi": {
+      "data pubblicazione": "8 agosto 2023",
+      "marca": "DESPAR PREMIUM",
+      "denominazione": "Despar CREMA ARACHIDI spalmabile 100%",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "DESPAR PREMIUM",
+    "product": "Despar CREMA ARACHIDI spalmabile 100%",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DESPAR PREMIUM - Despar CREMA ARACHIDI spalmabile 100%",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_RICHIAMO_MARCHIO_DESPAR_1761196905.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "despar-crema-arachidi-spalmabile-100",
+    "published": "2023-08-08",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-pasta-semicotta/",
     "title": "",
     "noticeDate": "3 agosto 2023",
