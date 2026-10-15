@@ -1940,6 +1940,396 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongole-del-pacifico-precotte-sgusciate-e-surgelate/",
+    "title": "",
+    "noticeDate": "22 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "22 ottobre 2021",
+      "marca": "veliero",
+      "denominazione": "vongole del pacifico precotte sgusciate e surgelate",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "veliero",
+    "product": "vongole del pacifico precotte sgusciate e surgelate",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo veliero - vongole del pacifico precotte sgusciate e surgelate",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20RICHIAMO%20Asur%2022_10_2021_1761189324.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "vongole-del-pacifico-precotte-sgusciate-e-surgelate",
+    "published": "2021-10-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/reflumed/",
+    "title": "",
+    "noticeDate": "20 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "20 ottobre 2021",
+      "marca": "Named srl",
+      "denominazione": "Reflumed",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Named srl",
+    "product": "Reflumed",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Named srl - Reflumed",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Reflumed%20lotto%20200451_1761189316.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "reflumed",
+    "published": "2021-10-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/reflumed-0/",
+    "title": "",
+    "noticeDate": "20 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "20 ottobre 2021",
+      "marca": "Named srl",
+      "denominazione": "Reflumed",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Named srl",
+    "product": "Reflumed",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Named srl - Reflumed",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Reflumed%20lotto%20200187_1761189318.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "reflumed-0",
+    "published": "2021-10-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/reflumed-1/",
+    "title": "",
+    "noticeDate": "20 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "20 ottobre 2021",
+      "marca": "Named srl",
+      "denominazione": "Reflumed",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Named srl",
+    "product": "Reflumed",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Named srl - Reflumed",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Reflumed%20lotto%20200188_1761189320.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "reflumed-1",
+    "published": "2021-10-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/reflumed-2/",
+    "title": "",
+    "noticeDate": "20 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "20 ottobre 2021",
+      "marca": "Named srl",
+      "denominazione": "Reflumed",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Named srl",
+    "product": "Reflumed",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Named srl - Reflumed",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Reflumed%20lotto%20200189_1761189323.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "reflumed-2",
+    "published": "2021-10-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-affumicato-fetta-lunga/",
+    "title": "",
+    "noticeDate": "19 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "19 ottobre 2021",
+      "marca": "Fish & Fine",
+      "denominazione": "Salmone affumicato a fetta lunga",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Fish & Fine",
+    "product": "Salmone affumicato a fetta lunga",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fish & Fine - Salmone affumicato a fetta lunga",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Sicily%20Food_1761189313.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salmone-affumicato-fetta-lunga",
+    "published": "2021-10-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/stomaben/",
+    "title": "",
+    "noticeDate": "19 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "19 ottobre 2021",
+      "marca": "Club Salute",
+      "denominazione": "Stomaben",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Club Salute",
+    "product": "Stomaben",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Club Salute - Stomaben",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20Stomaben_1761189315.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "stomaben",
+    "published": "2021-10-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/reflutask-20-stick-pack/",
+    "title": "",
+    "noticeDate": "18 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "18 ottobre 2021",
+      "marca": "Pharma Mum italia s.r.l.",
+      "denominazione": "Reflutask 20 stick pack",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Pharma Mum italia s.r.l.",
+    "product": "Reflutask 20 stick pack",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pharma Mum italia s.r.l. - Reflutask 20 stick pack",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamoReflutaskastuccioPharmaMum_1761189312.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "reflutask-20-stick-pack",
+    "published": "2021-10-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-da-taglio-natur/",
+    "title": "",
+    "noticeDate": "14 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "14 ottobre 2021",
+      "marca": "Hof zu Fall",
+      "denominazione": "Formaggio da taglio \"Natur\"",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Hof zu Fall",
+    "product": "Formaggio da taglio \"Natur\"",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Hof zu Fall - Formaggio da taglio \"Natur\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Hof%20zu%20Fall%20formaggio%20da%20taglio_1761189309.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-da-taglio-natur",
+    "published": "2021-10-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/d-osteo/",
+    "title": "",
+    "noticeDate": "14 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "14 ottobre 2021",
+      "marca": "NUTRIVA",
+      "denominazione": "+D OSTEO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "NUTRIVA",
+    "product": "+D OSTEO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NUTRIVA - +D OSTEO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_NUTRIVA_1761189310.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "d-osteo",
+    "published": "2021-10-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/florase-ansia/",
+    "title": "",
+    "noticeDate": "13 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "13 ottobre 2021",
+      "marca": "SANTIVERI",
+      "denominazione": "FLORASE ANSIA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "SANTIVERI",
+    "product": "FLORASE ANSIA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SANTIVERI - FLORASE ANSIA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20FLORASE%20ANSIA_1761189302.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "florase-ansia",
+    "published": "2021-10-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tacos/",
+    "title": "",
+    "noticeDate": "13 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "13 ottobre 2021",
+      "marca": "ESSELUNGA",
+      "denominazione": "TACOS",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "ESSELUNGA",
+    "product": "TACOS",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ESSELUNGA - TACOS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Esselunga_TACOS_1761189304.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tacos",
+    "published": "2021-10-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mezzi-rigatoni-allamatriciana/",
+    "title": "",
+    "noticeDate": "13 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "13 ottobre 2021",
+      "marca": "ESSELUNGA",
+      "denominazione": "MEZZI RIGATONI ALL'AMATRICIANA",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "ESSELUNGA",
+    "product": "MEZZI RIGATONI ALL'AMATRICIANA",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ESSELUNGA - MEZZI RIGATONI ALL'AMATRICIANA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Esselunga%20Spa_mezzi%20rigatoni_1761189305.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mezzi-rigatoni-allamatriciana",
+    "published": "2021-10-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burritos/",
+    "title": "",
+    "noticeDate": "13 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "13 ottobre 2021",
+      "marca": "ESSELUNGA",
+      "denominazione": "BURRITOS",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "ESSELUNGA",
+    "product": "BURRITOS",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ESSELUNGA - BURRITOS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Esselunga%20Spa_BURRITOS_1761189306.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "burritos",
+    "published": "2021-10-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-canasta-insalata-cappuccia/",
+    "title": "",
+    "noticeDate": "13 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "13 ottobre 2021",
+      "marca": "BIOCOLOMBINI",
+      "denominazione": "Insalata canasta / insalata cappuccia",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "BIOCOLOMBINI",
+    "product": "Insalata canasta / insalata cappuccia",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BIOCOLOMBINI - Insalata canasta / insalata cappuccia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamoinsalatadef1_1761189307.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "insalata-canasta-insalata-cappuccia",
+    "published": "2021-10-13",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/w-omega/",
     "title": "",
     "noticeDate": "12 ottobre 2021",
@@ -2014,6 +2404,136 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "w-natural-d-3",
+    "published": "2021-10-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/w-probio/",
+    "title": "",
+    "noticeDate": "12 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "12 ottobre 2021",
+      "marca": "WELLBEING",
+      "denominazione": "W PROBIO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "WELLBEING",
+    "product": "W PROBIO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo WELLBEING - W PROBIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Prodotti%20Giaca%20SRL_4_1761189297.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "w-probio",
+    "published": "2021-10-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/w-immuno/",
+    "title": "",
+    "noticeDate": "12 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "12 ottobre 2021",
+      "marca": "WELLBEING",
+      "denominazione": "W IMMUNO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "WELLBEING",
+    "product": "W IMMUNO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo WELLBEING - W IMMUNO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Prodotti%20Giaca%20SRL_5_1761189298.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "w-immuno",
+    "published": "2021-10-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/w-calo-0/",
+    "title": "",
+    "noticeDate": "12 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "12 ottobre 2021",
+      "marca": "WELLBEING",
+      "denominazione": "W CALO +",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "WELLBEING",
+    "product": "W CALO +",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo WELLBEING - W CALO +",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Prodotti%20Giaca%20SRL_6_1761189299.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "w-calo-0",
+    "published": "2021-10-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/w-bestrong/",
+    "title": "",
+    "noticeDate": "12 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "12 ottobre 2021",
+      "marca": "WELLBEING",
+      "denominazione": "W BESTRONG",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "WELLBEING",
+    "product": "W BESTRONG",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo WELLBEING - W BESTRONG",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Prodotti%20Giaca%20SRL_7_1761189300.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "w-bestrong",
+    "published": "2021-10-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/w-omega-0/",
+    "title": "",
+    "noticeDate": "12 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "12 ottobre 2021",
+      "marca": "WELLBEING",
+      "denominazione": "W OMEGA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "WELLBEING",
+    "product": "W OMEGA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo WELLBEING - W OMEGA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Prodotti%20Giaca%20SRL_8_1761189301.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "w-omega-0",
     "published": "2021-10-12",
     "source": "operator"
   },
