@@ -1721,6 +1721,84 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mayo-di-soya-senza-uova-da-agricoltura-biologica/",
+    "title": "",
+    "noticeDate": "9 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "9 febbraio 2023",
+      "marca": "CEREALTERRA",
+      "denominazione": "MAYO DI SOYA SENZA UOVA DA AGRICOLTURA BIOLOGICA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "CEREALTERRA",
+    "product": "MAYO DI SOYA SENZA UOVA DA AGRICOLTURA BIOLOGICA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CEREALTERRA - MAYO DI SOYA SENZA UOVA DA AGRICOLTURA BIOLOGICA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761193187.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mayo-di-soya-senza-uova-da-agricoltura-biologica",
+    "published": "2023-02-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-pistacchio-vegano-150g/",
+    "title": "",
+    "noticeDate": "8 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "8 febbraio 2023",
+      "marca": "Mascherpa tiramisù",
+      "denominazione": "Tiramisù pistacchio vegano 150g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Mascherpa tiramisù",
+    "product": "Tiramisù pistacchio vegano 150g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mascherpa tiramisù - Tiramisù pistacchio vegano 150g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20tiramisu%C2%BF%20pistacchio%20vegano%20150g_1761193177.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tiramisu-pistacchio-vegano-150g",
+    "published": "2023-02-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-pistacchio-vegano-300g/",
+    "title": "",
+    "noticeDate": "8 febbraio 2023",
+    "campi": {
+      "data pubblicazione": "8 febbraio 2023",
+      "marca": "Mascherpa tiramisù",
+      "denominazione": "Tiramisù pistacchio vegano 300g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Mascherpa tiramisù",
+    "product": "Tiramisù pistacchio vegano 300g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mascherpa tiramisù - Tiramisù pistacchio vegano 300g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20tiramisu%C2%BF%20pistacchio%20vegano%20300g_1761193182.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tiramisu-pistacchio-vegano-300g",
+    "published": "2023-02-08",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/prodotti-vegani-jayjoy/",
     "title": "Prodotti vegani",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/prodotti-vegani-con-presenza-di-listeria-monocytogenes/",
@@ -1767,6 +1845,448 @@
     "id": "integratori-alimentari-escobar-polvere-confezione-da-250-grammi-e-kill",
     "published": "2023-01-12",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-morbido-0/",
+    "title": "",
+    "noticeDate": "30 novembre 2022",
+    "campi": {
+      "data pubblicazione": "30 novembre 2022",
+      "marca": "SA.MO. srl",
+      "denominazione": "Salame morbido",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SA.MO. srl",
+    "product": "Salame morbido",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SA.MO. srl - Salame morbido",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1.CARTELLORICHIAMO_1761192989.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-morbido-0",
+    "published": "2022-11-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mangime-uccelli-selvatici-multifit-wild-bird-mix/",
+    "title": "",
+    "noticeDate": "30 novembre 2022",
+    "campi": {
+      "data pubblicazione": "30 novembre 2022",
+      "marca": "AGROS",
+      "denominazione": "Mangime per uccelli selvatici-MultiFit Wild Bird Mix",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "AGROS",
+    "product": "Mangime per uccelli selvatici-MultiFit Wild Bird Mix",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AGROS - Mangime per uccelli selvatici-MultiFit Wild Bird Mix",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1081049%20MultiFit%20Wild%20Bird%20Mix%2025kg_customer%20statement_EN_1761192992.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mangime-uccelli-selvatici-multifit-wild-bird-mix",
+    "published": "2022-11-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lotto-fl-335600-mitili-origine-spagna-confezionati-da-effelle-pesca/",
+    "title": "",
+    "noticeDate": "28 novembre 2022",
+    "campi": {
+      "data pubblicazione": "28 novembre 2022",
+      "marca": "EFFELLE PESCA S.R.L. APPROVALNUMBER IT S1086 CE",
+      "denominazione": "lotto FL 335600 MITILI ORIGINE SPAGNA CONFEZIONATI DA EFFELLE PESCA S.R.L. -MESOLA (FE)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "EFFELLE PESCA S.R.L. APPROVALNUMBER IT S1086 CE",
+    "product": "lotto FL 335600 MITILI ORIGINE SPAGNA CONFEZIONATI DA EFFELLE PESCA S.R.L. -MESOLA (FE)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo EFFELLE PESCA S.R.L. APPROVALNUMBER IT S1086 CE - lotto FL 335600 MITILI ORIGINE SPAGNA CONFEZIONATI DA EFFELLE PESCA S.R.L. -MESOLA (FE)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20FL%20335600_1761192987.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "lotto-fl-335600-mitili-origine-spagna-confezionati-da-effelle-pesca",
+    "published": "2022-11-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confezione-90-gr-notte-magica-infuso-sfuso-alla-frutta/",
+    "title": "",
+    "noticeDate": "25 novembre 2022",
+    "campi": {
+      "data pubblicazione": "25 novembre 2022",
+      "marca": "Pompadour tè Srl",
+      "denominazione": "confezione 90 gr. NOTTE MAGICA infuso sfuso alla frutta",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Pompadour tè Srl",
+    "product": "confezione 90 gr. NOTTE MAGICA infuso sfuso alla frutta",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pompadour tè Srl - confezione 90 gr. NOTTE MAGICA infuso sfuso alla frutta",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/avviso_richiamo%20_1__1761192972.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "confezione-90-gr-notte-magica-infuso-sfuso-alla-frutta",
+    "published": "2022-11-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confezione-90-gr-notte-magica-infuso-sfuso-alla-frutta-0/",
+    "title": "",
+    "noticeDate": "25 novembre 2022",
+    "campi": {
+      "data pubblicazione": "25 novembre 2022",
+      "marca": "Peter's Teahouse",
+      "denominazione": "Confezione 90 gr. NOTTE MAGICA infuso sfuso alla frutta",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Peter's Teahouse",
+    "product": "Confezione 90 gr. NOTTE MAGICA infuso sfuso alla frutta",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Peter's Teahouse - Confezione 90 gr. NOTTE MAGICA infuso sfuso alla frutta",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/avviso_richiamo%20_1__1761192974.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "confezione-90-gr-notte-magica-infuso-sfuso-alla-frutta-0",
+    "published": "2022-11-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coppa-di-suino/",
+    "title": "",
+    "noticeDate": "25 novembre 2022",
+    "campi": {
+      "data pubblicazione": "25 novembre 2022",
+      "marca": "Freschi per te",
+      "denominazione": "Coppa di Suino",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Freschi per te",
+    "product": "Coppa di Suino",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Freschi per te - Coppa di Suino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%2065946%20Coppa%20di%20suino%20DEF_1761192977.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "coppa-di-suino",
+    "published": "2022-11-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-campagnolo-0/",
+    "title": "",
+    "noticeDate": "25 novembre 2022",
+    "campi": {
+      "data pubblicazione": "25 novembre 2022",
+      "marca": "SMAPP",
+      "denominazione": "SALAME CAMPAGNOLO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SMAPP",
+    "product": "SALAME CAMPAGNOLO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SMAPP - SALAME CAMPAGNOLO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SMAPP_SPA_richiamo_1761192979.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-campagnolo-0",
+    "published": "2022-11-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-campagnolo-gourmet/",
+    "title": "",
+    "noticeDate": "25 novembre 2022",
+    "campi": {
+      "data pubblicazione": "25 novembre 2022",
+      "marca": "SMAPP",
+      "denominazione": "SALAME CAMPAGNOLO GOURMET",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SMAPP",
+    "product": "SALAME CAMPAGNOLO GOURMET",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SMAPP - SALAME CAMPAGNOLO GOURMET",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SMAPP_per_ALDI_richiamo_1761192982.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-campagnolo-gourmet",
+    "published": "2022-11-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-campagnolo-le-selezioni/",
+    "title": "",
+    "noticeDate": "25 novembre 2022",
+    "campi": {
+      "data pubblicazione": "25 novembre 2022",
+      "marca": "SMAPP",
+      "denominazione": "SALAME CAMPAGNOLO LE SELEZIONI",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SMAPP",
+    "product": "SALAME CAMPAGNOLO LE SELEZIONI",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SMAPP - SALAME CAMPAGNOLO LE SELEZIONI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SMAPP_per_IPERAL_richiamo_1761192984.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-campagnolo-le-selezioni",
+    "published": "2022-11-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/humana-3/",
+    "title": "",
+    "noticeDate": "24 novembre 2022",
+    "campi": {
+      "data pubblicazione": "24 novembre 2022",
+      "marca": "Humana Italia SPA",
+      "denominazione": "HUMANA 3",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Humana Italia SPA",
+    "product": "HUMANA 3",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Humana Italia SPA - HUMANA 3",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20Richiamo%20Humana%203_1761192970.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "humana-3",
+    "published": "2022-11-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/parmigiano-reggiano-dop-24-mesi/",
+    "title": "",
+    "noticeDate": "23 novembre 2022",
+    "campi": {
+      "data pubblicazione": "23 novembre 2022",
+      "marca": "TRENTIN SpA",
+      "denominazione": "PARMIGIANO REGGIANO DOP 24 mesi",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "TRENTIN SpA",
+    "product": "PARMIGIANO REGGIANO DOP 24 mesi",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TRENTIN SpA - PARMIGIANO REGGIANO DOP 24 mesi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_Richiamo_1761192967.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "parmigiano-reggiano-dop-24-mesi",
+    "published": "2022-11-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-pasta-filata-affumicato/",
+    "title": "",
+    "noticeDate": "22 novembre 2022",
+    "campi": {
+      "data pubblicazione": "22 novembre 2022",
+      "marca": "MERIVIO",
+      "denominazione": "Formaggio a pasta filata affumicato",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "MERIVIO",
+    "product": "Formaggio a pasta filata affumicato",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MERIVIO - Formaggio a pasta filata affumicato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_scamorzine%20_%20lidl_1761192959.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "formaggio-pasta-filata-affumicato",
+    "published": "2022-11-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-pasta-filata-affumicato-0/",
+    "title": "",
+    "noticeDate": "22 novembre 2022",
+    "campi": {
+      "data pubblicazione": "22 novembre 2022",
+      "marca": "SCERI'",
+      "denominazione": "Formaggio a pasta filata affumicato",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "SCERI'",
+    "product": "Formaggio a pasta filata affumicato",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SCERI' - Formaggio a pasta filata affumicato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_scamorzine%20_%20scer%C3%AC_1761192961.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "formaggio-pasta-filata-affumicato-0",
+    "published": "2022-11-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/jeera-whole-ali-baba-400-g-e-1-kg-semi-di-cumino-400g-e-1-kg/",
+    "title": "",
+    "noticeDate": "22 novembre 2022",
+    "campi": {
+      "data pubblicazione": "22 novembre 2022",
+      "marca": "Ali Baba",
+      "denominazione": "Jeera Whole Ali Baba 400 g e 1 Kg (semi di cumino 400g e 1 Kg)",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Ali Baba",
+    "product": "Jeera Whole Ali Baba 400 g e 1 Kg (semi di cumino 400g e 1 Kg)",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ali Baba - Jeera Whole Ali Baba 400 g e 1 Kg (semi di cumino 400g e 1 Kg)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20SEMI%20DI%20CUMINO%20400%20E%201KG%20_1__1761192963.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "jeera-whole-ali-baba-400-g-e-1-kg-semi-di-cumino-400g-e-1-kg",
+    "published": "2022-11-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cannella-polvere/",
+    "title": "",
+    "noticeDate": "22 novembre 2022",
+    "campi": {
+      "data pubblicazione": "22 novembre 2022",
+      "marca": "Principio attivo",
+      "denominazione": "Cannella polvere",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Principio attivo",
+    "product": "Cannella polvere",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Principio attivo - Cannella polvere",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo_1761192965.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cannella-polvere",
+    "published": "2022-11-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cannella-biologica-polvere/",
+    "title": "",
+    "noticeDate": "21 novembre 2022",
+    "campi": {
+      "data pubblicazione": "21 novembre 2022",
+      "marca": "Pensa Bio",
+      "denominazione": "Cannella biologica in polvere",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Pensa Bio",
+    "product": "Cannella biologica in polvere",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pensa Bio - Cannella biologica in polvere",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/food%20for%20all%20cartello%20di%20richiamo%201_1761192955.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cannella-biologica-polvere",
+    "published": "2022-11-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cannella-biologica-polvere-0/",
+    "title": "",
+    "noticeDate": "21 novembre 2022",
+    "campi": {
+      "data pubblicazione": "21 novembre 2022",
+      "marca": "Artigiano del bio",
+      "denominazione": "Cannella biologica in polvere",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Artigiano del bio",
+    "product": "Cannella biologica in polvere",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Artigiano del bio - Cannella biologica in polvere",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/food%20for%20all%20cartello%20di%20richiamo%202_1761192957.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cannella-biologica-polvere-0",
+    "published": "2022-11-21",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/le-cock-di-pollo-e-tacchino/",
