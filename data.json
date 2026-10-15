@@ -496,6 +496,136 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-18/",
+    "title": "",
+    "noticeDate": "18 agosto 2022",
+    "campi": {
+      "data pubblicazione": "18 agosto 2022",
+      "marca": "Coca-cola Original Taste",
+      "denominazione": "Bevanda analcolica",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Coca-cola Original Taste",
+    "product": "Bevanda analcolica",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coca-cola Original Taste - Bevanda analcolica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/All.%203%20Modulo%20Ministero%201_1761192075.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-analcolica-18",
+    "published": "2022-08-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-19/",
+    "title": "",
+    "noticeDate": "18 agosto 2022",
+    "campi": {
+      "data pubblicazione": "18 agosto 2022",
+      "marca": "Coca - Cola Original Taste",
+      "denominazione": "Bevanda analcolica",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Coca - Cola Original Taste",
+    "product": "Bevanda analcolica",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coca - Cola Original Taste - Bevanda analcolica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/All.%203%20Modulo%20Ministero%202_1761192078.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-analcolica-19",
+    "published": "2022-08-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-20/",
+    "title": "",
+    "noticeDate": "18 agosto 2022",
+    "campi": {
+      "data pubblicazione": "18 agosto 2022",
+      "marca": "Coca- Cola Original Taste",
+      "denominazione": "Bevanda analcolica",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Coca- Cola Original Taste",
+    "product": "Bevanda analcolica",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coca- Cola Original Taste - Bevanda analcolica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/All.%203%20Modulo%20Ministero%201_1761192080.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-analcolica-20",
+    "published": "2022-08-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wurstel-puro-suino-250g/",
+    "title": "",
+    "noticeDate": "12 agosto 2022",
+    "campi": {
+      "data pubblicazione": "12 agosto 2022",
+      "marca": "Conad",
+      "denominazione": "Würstel puro suino 250g",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Conad",
+    "product": "Würstel puro suino 250g",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Conad - Würstel puro suino 250g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/220811_modulo%20richiami%20compilato_Conad250g_1761192070.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "wurstel-puro-suino-250g",
+    "published": "2022-08-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-al-caffe-bonta-divina/",
+    "title": "",
+    "noticeDate": "12 agosto 2022",
+    "campi": {
+      "data pubblicazione": "12 agosto 2022",
+      "marca": "Bontà Divina",
+      "denominazione": "Tiramisu al Caffe' Bontà Divina",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Bontà Divina",
+    "product": "Tiramisu al Caffe' Bontà Divina",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bontà Divina - Tiramisu al Caffe' Bontà Divina",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_20171116%20Emmi%20Dessert%20Tiramis%C3%B9%20BD_1761192073.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tiramisu-al-caffe-bonta-divina",
+    "published": "2022-08-12",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trs-madras-hot-curry-powder/",
     "title": "",
     "noticeDate": "10 agosto 2022",
@@ -518,6 +648,136 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "trs-madras-hot-curry-powder",
+    "published": "2022-08-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bomba-nocciola/",
+    "title": "",
+    "noticeDate": "10 agosto 2022",
+    "campi": {
+      "data pubblicazione": "10 agosto 2022",
+      "marca": "GLUIT",
+      "denominazione": "BOMBA NOCCIOLA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "GLUIT",
+    "product": "BOMBA NOCCIOLA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GLUIT - BOMBA NOCCIOLA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20prodotto_BOMBA%20NOCCIOLA_GLUIT_GLUIT%20S.r.l.s._1761192058.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "bomba-nocciola",
+    "published": "2022-08-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cornetto-alla-nocciola/",
+    "title": "",
+    "noticeDate": "10 agosto 2022",
+    "campi": {
+      "data pubblicazione": "10 agosto 2022",
+      "marca": "LIZZI",
+      "denominazione": "CORNETTO ALLA NOCCIOLA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "LIZZI",
+    "product": "CORNETTO ALLA NOCCIOLA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LIZZI - CORNETTO ALLA NOCCIOLA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20prodotto_CORNETTO%20ALLA%20NOCCIOLA_LIZZI_LIZZI%20S.r.l._1761192060.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cornetto-alla-nocciola",
+    "published": "2022-08-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/croissant-alla-crema-nocciola/",
+    "title": "",
+    "noticeDate": "10 agosto 2022",
+    "campi": {
+      "data pubblicazione": "10 agosto 2022",
+      "marca": "VERAMORE",
+      "denominazione": "CROISSANT ALLA CREMA NOCCIOLA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "VERAMORE",
+    "product": "CROISSANT ALLA CREMA NOCCIOLA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VERAMORE - CROISSANT ALLA CREMA NOCCIOLA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20prodotto_CROISSANT%20ALLA%20CREMA%20NOCCIOLA_VERAMORE_CELIACO.M%20S.r.l._1761192063.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "croissant-alla-crema-nocciola",
+    "published": "2022-08-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fagotti-alla-crema-nocciola/",
+    "title": "",
+    "noticeDate": "10 agosto 2022",
+    "campi": {
+      "data pubblicazione": "10 agosto 2022",
+      "marca": "VERAMORE HOME SWEET HOME",
+      "denominazione": "FAGOTTI ALLA CREMA NOCCIOLA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "VERAMORE HOME SWEET HOME",
+    "product": "FAGOTTI ALLA CREMA NOCCIOLA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VERAMORE HOME SWEET HOME - FAGOTTI ALLA CREMA NOCCIOLA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20prodotto_FAGOTTI%20CREMA%20NOCCIOLA_VERAMORE%20HOME%20SWEET%20HOME_CELIACO.M%20S.r.l._1761192065.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "fagotti-alla-crema-nocciola",
+    "published": "2022-08-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-ossolano-dop/",
+    "title": "",
+    "noticeDate": "10 agosto 2022",
+    "campi": {
+      "data pubblicazione": "10 agosto 2022",
+      "marca": "OSSOLANO D.O.P.",
+      "denominazione": "FORMAGGIO OSSOLANO D.O.P.",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "OSSOLANO D.O.P.",
+    "product": "FORMAGGIO OSSOLANO D.O.P.",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo OSSOLANO D.O.P. - FORMAGGIO OSSOLANO D.O.P.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20formaggio%20stagionato%20ossolano%20Dop_1761192068.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-ossolano-dop",
     "published": "2022-08-10",
     "source": "operator"
   },
@@ -1623,6 +1883,266 @@
     "id": "pesto-broccoli-siciliani-e-mandorle-la-fattoria-biodinamica-confezioni",
     "published": "2022-05-10",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-alimentare-tipo-zuppa-al-gusto-verdure/",
+    "title": "",
+    "noticeDate": "1 aprile 2022",
+    "campi": {
+      "data pubblicazione": "1 aprile 2022",
+      "marca": "TISANOREICA GIANLUCA MECH",
+      "denominazione": "Preparato alimentare tipo zuppa al gusto verdure",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "TISANOREICA GIANLUCA MECH",
+    "product": "Preparato alimentare tipo zuppa al gusto verdure",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TISANOREICA GIANLUCA MECH - Preparato alimentare tipo zuppa al gusto verdure",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_zuppa%20di%20verdure_lot%2021S3_03388_1761191129.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-alimentare-tipo-zuppa-al-gusto-verdure",
+    "published": "2022-04-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spezia-margaz/",
+    "title": "",
+    "noticeDate": "25 marzo 2022",
+    "campi": {
+      "data pubblicazione": "25 marzo 2022",
+      "marca": "44",
+      "denominazione": "Spezia Margaz",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "44",
+    "product": "Spezia Margaz",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo 44 - Spezia Margaz",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761191128.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "spezia-margaz",
+    "published": "2022-03-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-sottovuoto-0/",
+    "title": "",
+    "noticeDate": "22 marzo 2022",
+    "campi": {
+      "data pubblicazione": "22 marzo 2022",
+      "marca": "SALUMIFICIO A. LOVISON SRL",
+      "denominazione": "SALSICCIA SOTTOVUOTO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO A. LOVISON SRL",
+    "product": "SALSICCIA SOTTOVUOTO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO A. LOVISON SRL - SALSICCIA SOTTOVUOTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20lovison_1761191126.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-sottovuoto-0",
+    "published": "2022-03-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-sottovuoto/",
+    "title": "",
+    "noticeDate": "21 marzo 2022",
+    "campi": {
+      "data pubblicazione": "21 marzo 2022",
+      "marca": "SALUMIFICIO A. LOVISON SRL",
+      "denominazione": "SALSICCIA SOTTOVUOTO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO A. LOVISON SRL",
+    "product": "SALSICCIA SOTTOVUOTO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO A. LOVISON SRL - SALSICCIA SOTTOVUOTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20lovison_1761191125.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-sottovuoto",
+    "published": "2022-03-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-polvere-cioccolata-classica-12/",
+    "title": "",
+    "noticeDate": "17 marzo 2022",
+    "campi": {
+      "data pubblicazione": "17 marzo 2022",
+      "marca": "Naturera Polot",
+      "denominazione": "Preparato in polvere per cioccolata classica",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Naturera Polot",
+    "product": "Preparato in polvere per cioccolata classica",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Naturera Polot - Preparato in polvere per cioccolata classica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_Cioccolata%20%20tradizionale%20kg1%20_%20L%2021003131_1761190503.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "preparato-polvere-cioccolata-classica-12",
+    "published": "2022-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-polvere-cioccolata-fondente-2/",
+    "title": "",
+    "noticeDate": "17 marzo 2022",
+    "campi": {
+      "data pubblicazione": "17 marzo 2022",
+      "marca": "Naturera Polot",
+      "denominazione": "Preparato in polvere per cioccolata fondente",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Naturera Polot",
+    "product": "Preparato in polvere per cioccolata fondente",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Naturera Polot - Preparato in polvere per cioccolata fondente",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_Cioccolata%20%20fondente%20%20kg1_%20L20009328_1761190508.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "preparato-polvere-cioccolata-fondente-2",
+    "published": "2022-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-polvere-sorbetto-al-limone-0/",
+    "title": "",
+    "noticeDate": "17 marzo 2022",
+    "campi": {
+      "data pubblicazione": "17 marzo 2022",
+      "marca": "Sù",
+      "denominazione": "Preparato in polvere per sorbetto al limone",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Sù",
+    "product": "Preparato in polvere per sorbetto al limone",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sù - Preparato in polvere per sorbetto al limone",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2022_02_10_ModelloRichiamo_Preparato_per_Sorbetto_Limone_S%C3%B9_Lotto_20007571_TMC170923__1761190513.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "preparato-polvere-sorbetto-al-limone-0",
+    "published": "2022-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-polvere-sorbetto-al-limone-1/",
+    "title": "",
+    "noticeDate": "17 marzo 2022",
+    "campi": {
+      "data pubblicazione": "17 marzo 2022",
+      "marca": "Sù",
+      "denominazione": "Preparato in polvere per sorbetto al limone",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Sù",
+    "product": "Preparato in polvere per sorbetto al limone",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sù - Preparato in polvere per sorbetto al limone",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2022_02_10_ModelloRichiamo_Preparato_per_Sorbetto_Limone_S%C3%B9_Lotto%2021000073_TMC130124__1761190518.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "preparato-polvere-sorbetto-al-limone-1",
+    "published": "2022-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-polvere-cioccolata-fondente-3/",
+    "title": "",
+    "noticeDate": "17 marzo 2022",
+    "campi": {
+      "data pubblicazione": "17 marzo 2022",
+      "marca": "Naturera Polot",
+      "denominazione": "Preparato in polvere per cioccolata fondente",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Naturera Polot",
+    "product": "Preparato in polvere per cioccolata fondente",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Naturera Polot - Preparato in polvere per cioccolata fondente",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_Cioccolata%20%20fondente%20%20kg1%20_%20L21003133_1761191123.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "preparato-polvere-cioccolata-fondente-3",
+    "published": "2022-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-polvere-cioccolata-fondente-4/",
+    "title": "",
+    "noticeDate": "17 marzo 2022",
+    "campi": {
+      "data pubblicazione": "17 marzo 2022",
+      "marca": "Naturera Polot",
+      "denominazione": "Preparato in polvere per cioccolata fondente",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Naturera Polot",
+    "product": "Preparato in polvere per cioccolata fondente",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Naturera Polot - Preparato in polvere per cioccolata fondente",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_Cioccolata%20%20fondente%20%20kg1%20_%20L20008003_1761191124.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "preparato-polvere-cioccolata-fondente-4",
+    "published": "2022-03-17",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/arachidi-tostati-guscio/",
