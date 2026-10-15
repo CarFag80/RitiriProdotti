@@ -640,6 +640,526 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/erbe-che-alleggeriscono-sacchetto-15-filtri-18-gr-barattolo-40-gr/",
+    "title": "",
+    "noticeDate": "19 novembre 2021",
+    "campi": {
+      "data pubblicazione": "19 novembre 2021",
+      "marca": "ERBA LOGICA",
+      "denominazione": "Erbe che Alleggeriscono; Sacchetto 15 filtri 18 gr, Barattolo 40 gr, Barattolo 20 filtri 24 gr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ERBA LOGICA",
+    "product": "Erbe che Alleggeriscono; Sacchetto 15 filtri 18 gr, Barattolo 40 gr, Barattolo 20 filtri 24 gr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ERBA LOGICA - Erbe che Alleggeriscono; Sacchetto 15 filtri 18 gr, Barattolo 40 gr, Barattolo 20 filtri 24 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_LOTTO_2052_ERBE_CHE_ALLEGGERISCONO_1761189496.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "erbe-che-alleggeriscono-sacchetto-15-filtri-18-gr-barattolo-40-gr",
+    "published": "2021-11-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barattolo-degustazione-infusi-45-filtri/",
+    "title": "",
+    "noticeDate": "19 novembre 2021",
+    "campi": {
+      "data pubblicazione": "19 novembre 2021",
+      "marca": "ERBA LOGICA",
+      "denominazione": "Barattolo degustazione Infusi 45 filtri",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ERBA LOGICA",
+    "product": "Barattolo degustazione Infusi 45 filtri",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ERBA LOGICA - Barattolo degustazione Infusi 45 filtri",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_LOTTO_2021_BARATTOLO_DEGUSTAZIONE_INFUSI_1761189500.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "barattolo-degustazione-infusi-45-filtri",
+    "published": "2021-11-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aglio-olio-e-peperoncino-2/",
+    "title": "",
+    "noticeDate": "18 novembre 2021",
+    "campi": {
+      "data pubblicazione": "18 novembre 2021",
+      "marca": "F.lli Polli",
+      "denominazione": "Aglio olio e peperoncino",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "F.lli Polli",
+    "product": "Aglio olio e peperoncino",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo F.lli Polli - Aglio olio e peperoncino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Depubblicazione%20POLLI_1761189481.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "aglio-olio-e-peperoncino-2",
+    "published": "2021-11-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carpaccio-di-pesce-spada-affumicato-2/",
+    "title": "",
+    "noticeDate": "18 novembre 2021",
+    "campi": {
+      "data pubblicazione": "18 novembre 2021",
+      "marca": "Gastronomia Valdarnese",
+      "denominazione": "Carpaccio di pesce spada affumicato",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "Gastronomia Valdarnese",
+    "product": "Carpaccio di pesce spada affumicato",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gastronomia Valdarnese - Carpaccio di pesce spada affumicato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/80g%20revoca%20richiamo_1761189484.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "carpaccio-di-pesce-spada-affumicato-2",
+    "published": "2021-11-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carpaccio-pesce-spada-affumicato/",
+    "title": "",
+    "noticeDate": "18 novembre 2021",
+    "campi": {
+      "data pubblicazione": "18 novembre 2021",
+      "marca": "Gastronomia Valdarnese",
+      "denominazione": "Carpaccio pesce spada affumicato",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "Gastronomia Valdarnese",
+    "product": "Carpaccio pesce spada affumicato",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gastronomia Valdarnese - Carpaccio pesce spada affumicato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/100g%20revoca%20richiamo_1761189488.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "carpaccio-pesce-spada-affumicato",
+    "published": "2021-11-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelato-tartufo/",
+    "title": "",
+    "noticeDate": "18 novembre 2021",
+    "campi": {
+      "data pubblicazione": "18 novembre 2021",
+      "marca": "IPER",
+      "denominazione": "GELATO TARTUFO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "IPER",
+    "product": "GELATO TARTUFO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IPER - GELATO TARTUFO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20gelato%20Iper_1761189492.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gelato-tartufo",
+    "published": "2021-11-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-cat-0/",
+    "title": "",
+    "noticeDate": "17 novembre 2021",
+    "campi": {
+      "data pubblicazione": "17 novembre 2021",
+      "marca": "ALLEVAMENTI FALCO SRL GINO",
+      "denominazione": "UOVA FRESCHE CAT A",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ALLEVAMENTI FALCO SRL GINO",
+    "product": "UOVA FRESCHE CAT A",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ALLEVAMENTI FALCO SRL GINO - UOVA FRESCHE CAT A",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_1761189477.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-cat-0",
+    "published": "2021-11-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-fave-riso-rosso-e-curcuma-bio-risoni-0/",
+    "title": "",
+    "noticeDate": "16 novembre 2021",
+    "campi": {
+      "data pubblicazione": "16 novembre 2021",
+      "marca": "Pastificio Fiorentino Renaissance",
+      "denominazione": "Pasta di fave, riso rosso e curcuma bio - risoni",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Pastificio Fiorentino Renaissance",
+    "product": "Pasta di fave, riso rosso e curcuma bio - risoni",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pastificio Fiorentino Renaissance - Pasta di fave, riso rosso e curcuma bio - risoni",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/FAVE_Risoni_1761189448.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasta-di-fave-riso-rosso-e-curcuma-bio-risoni-0",
+    "published": "2021-11-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-fave-riso-rosso-e-curcuma-bio-paccheri-0/",
+    "title": "",
+    "noticeDate": "16 novembre 2021",
+    "campi": {
+      "data pubblicazione": "16 novembre 2021",
+      "marca": "Pastificio fiorentino Renaissance",
+      "denominazione": "Pasta di fave, riso rosso e curcuma bio - paccheri",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Pastificio fiorentino Renaissance",
+    "product": "Pasta di fave, riso rosso e curcuma bio - paccheri",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pastificio fiorentino Renaissance - Pasta di fave, riso rosso e curcuma bio - paccheri",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/FAVE_Paccheri_1761189452.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasta-di-fave-riso-rosso-e-curcuma-bio-paccheri-0",
+    "published": "2021-11-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-fave-riso-rosso-e-curcuma-bio-fusilli-0/",
+    "title": "",
+    "noticeDate": "16 novembre 2021",
+    "campi": {
+      "data pubblicazione": "16 novembre 2021",
+      "marca": "Pastificio Fiorentino renaissance",
+      "denominazione": "Pasta di fave, riso rosso e curcuma bio - fusilli",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Pastificio Fiorentino renaissance",
+    "product": "Pasta di fave, riso rosso e curcuma bio - fusilli",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pastificio Fiorentino renaissance - Pasta di fave, riso rosso e curcuma bio - fusilli",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/FAVE_Fusilli_1761189455.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasta-di-fave-riso-rosso-e-curcuma-bio-fusilli-0",
+    "published": "2021-11-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-lenticchie-rosse-riso-rosso-e-curcuma-bio-penne-0/",
+    "title": "",
+    "noticeDate": "16 novembre 2021",
+    "campi": {
+      "data pubblicazione": "16 novembre 2021",
+      "marca": "Pastificio Fiorentino renaissance",
+      "denominazione": "Pasta di lenticchie rosse, riso rosso e curcuma bio - penne",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Pastificio Fiorentino renaissance",
+    "product": "Pasta di lenticchie rosse, riso rosso e curcuma bio - penne",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pastificio Fiorentino renaissance - Pasta di lenticchie rosse, riso rosso e curcuma bio - penne",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LENTICCHIE_Penne_1761189459.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasta-di-lenticchie-rosse-riso-rosso-e-curcuma-bio-penne-0",
+    "published": "2021-11-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-fave-riso-rosso-e-curcuma-bio-calamarata-0/",
+    "title": "",
+    "noticeDate": "16 novembre 2021",
+    "campi": {
+      "data pubblicazione": "16 novembre 2021",
+      "marca": "Pastificio Fiorentino Renaissance",
+      "denominazione": "Pasta di fave, riso rosso e curcuma bio - calamarata",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Pastificio Fiorentino Renaissance",
+    "product": "Pasta di fave, riso rosso e curcuma bio - calamarata",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pastificio Fiorentino Renaissance - Pasta di fave, riso rosso e curcuma bio - calamarata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/FAVE_Calamarata_1761189462.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasta-di-fave-riso-rosso-e-curcuma-bio-calamarata-0",
+    "published": "2021-11-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-lenticchie-rosse-riso-rosso-e-curcuma-bio-calamarata-0/",
+    "title": "",
+    "noticeDate": "16 novembre 2021",
+    "campi": {
+      "data pubblicazione": "16 novembre 2021",
+      "marca": "Pastificio Fiorentino Renaissance",
+      "denominazione": "Pasta di lenticchie rosse, riso rosso e curcuma bio - calamarata",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Pastificio Fiorentino Renaissance",
+    "product": "Pasta di lenticchie rosse, riso rosso e curcuma bio - calamarata",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pastificio Fiorentino Renaissance - Pasta di lenticchie rosse, riso rosso e curcuma bio - calamarata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LENTICCHIE_Calamarata_1761189466.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasta-di-lenticchie-rosse-riso-rosso-e-curcuma-bio-calamarata-0",
+    "published": "2021-11-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-lenticchie-rosse-riso-rosso-e-curcuma-bio-risoni-0/",
+    "title": "",
+    "noticeDate": "16 novembre 2021",
+    "campi": {
+      "data pubblicazione": "16 novembre 2021",
+      "marca": "Pastificio Fiorentino Renaissance",
+      "denominazione": "Pasta di lenticchie rosse, riso rosso e curcuma bio - risoni",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Pastificio Fiorentino Renaissance",
+    "product": "Pasta di lenticchie rosse, riso rosso e curcuma bio - risoni",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pastificio Fiorentino Renaissance - Pasta di lenticchie rosse, riso rosso e curcuma bio - risoni",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LENTICCHIE_Risoni_1761189469.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasta-di-lenticchie-rosse-riso-rosso-e-curcuma-bio-risoni-0",
+    "published": "2021-11-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-lenticchie-rosse-riso-rosso-e-curcuma-bio-paccheri-0/",
+    "title": "",
+    "noticeDate": "16 novembre 2021",
+    "campi": {
+      "data pubblicazione": "16 novembre 2021",
+      "marca": "Pastificio Fiorentino renaissance",
+      "denominazione": "Pasta di lenticchie rosse, riso rosso e curcuma bio - paccheri",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Pastificio Fiorentino renaissance",
+    "product": "Pasta di lenticchie rosse, riso rosso e curcuma bio - paccheri",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pastificio Fiorentino renaissance - Pasta di lenticchie rosse, riso rosso e curcuma bio - paccheri",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LENTICCHIE_Paccheri_1761189473.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasta-di-lenticchie-rosse-riso-rosso-e-curcuma-bio-paccheri-0",
+    "published": "2021-11-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/equiseto-bio/",
+    "title": "",
+    "noticeDate": "15 novembre 2021",
+    "campi": {
+      "data pubblicazione": "15 novembre 2021",
+      "marca": "BIOPLANTA sas",
+      "denominazione": "EQUISETO BIO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "BIOPLANTA sas",
+    "product": "EQUISETO BIO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BIOPLANTA sas - EQUISETO BIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20equiseto%20_1__1761189432.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "equiseto-bio",
+    "published": "2021-11-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/il-pandoro-originale-750g/",
+    "title": "",
+    "noticeDate": "15 novembre 2021",
+    "campi": {
+      "data pubblicazione": "15 novembre 2021",
+      "marca": "Melegatti 1894 S.p.a.",
+      "denominazione": "Il Pandoro Originale 750g",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Melegatti 1894 S.p.a.",
+    "product": "Il Pandoro Originale 750g",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Melegatti 1894 S.p.a. - Il Pandoro Originale 750g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Avvviso%20ritiro%20PF%20PRT002VS%20%20lotto%20210917_1761189435.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "il-pandoro-originale-750g",
+    "published": "2021-11-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/il-pandoro-originale-740g-prodotto-di-aspetto-eo-forma-eo-struttura/",
+    "title": "",
+    "noticeDate": "15 novembre 2021",
+    "campi": {
+      "data pubblicazione": "15 novembre 2021",
+      "marca": "MELEGATTI 1894 S.p.A.",
+      "denominazione": "Il Pandoro Originale 740g \"Prodotto di aspetto e/o forma e/o struttura non perfetta",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "MELEGATTI 1894 S.p.A.",
+    "product": "Il Pandoro Originale 740g \"Prodotto di aspetto e/o forma e/o struttura non perfetta",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MELEGATTI 1894 S.p.A. - Il Pandoro Originale 740g \"Prodotto di aspetto e/o forma e/o struttura non perfetta",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Avviso%20ritiro%202S%20PRT002CA%20lotto%20210917_1761189438.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "il-pandoro-originale-740g-prodotto-di-aspetto-eo-forma-eo-struttura",
+    "published": "2021-11-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-cata/",
+    "title": "",
+    "noticeDate": "15 novembre 2021",
+    "campi": {
+      "data pubblicazione": "15 novembre 2021",
+      "marca": "Allevamenti Falco srl",
+      "denominazione": "Uova fresche cat.A",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Allevamenti Falco srl",
+    "product": "Uova fresche cat.A",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Allevamenti Falco srl - Uova fresche cat.A",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%20uova%20falco%201_1761189442.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-cata",
+    "published": "2021-11-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-cata-0/",
+    "title": "",
+    "noticeDate": "15 novembre 2021",
+    "campi": {
+      "data pubblicazione": "15 novembre 2021",
+      "marca": "Allevamenti Falco srl",
+      "denominazione": "Uova fresche cat.A",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Allevamenti Falco srl",
+    "product": "Uova fresche cat.A",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Allevamenti Falco srl - Uova fresche cat.A",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_uova%20falco%202_1761189445.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-cata-0",
+    "published": "2021-11-15",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-farfalle-ndeg265/",
     "title": "",
     "noticeDate": "14 novembre 2021",
