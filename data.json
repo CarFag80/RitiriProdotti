@@ -612,6 +612,500 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-carnaroli/",
+    "title": "",
+    "noticeDate": "28 gennaio 2022",
+    "campi": {
+      "data pubblicazione": "28 gennaio 2022",
+      "marca": "COOP",
+      "denominazione": "RISO CARNAROLI",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "COOP",
+    "product": "RISO CARNAROLI",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo COOP - RISO CARNAROLI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20COOP_1761190263.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "riso-carnaroli",
+    "published": "2022-01-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-carnaroli-0/",
+    "title": "",
+    "noticeDate": "28 gennaio 2022",
+    "campi": {
+      "data pubblicazione": "28 gennaio 2022",
+      "marca": "PER TE",
+      "denominazione": "RISO CARNAROLI",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "PER TE",
+    "product": "RISO CARNAROLI",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PER TE - RISO CARNAROLI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PER%20TE_1761190266.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "riso-carnaroli-0",
+    "published": "2022-01-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cous-cous-4-cereali-biologico/",
+    "title": "",
+    "noticeDate": "26 gennaio 2022",
+    "campi": {
+      "data pubblicazione": "26 gennaio 2022",
+      "marca": "Nuova Terra",
+      "denominazione": "Cous Cous 4 cereali biologico",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Nuova Terra",
+    "product": "Cous Cous 4 cereali biologico",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nuova Terra - Cous Cous 4 cereali biologico",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/leBontaRichiamo_1761190261.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cous-cous-4-cereali-biologico",
+    "published": "2022-01-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yutaka-sushi-nori-11g/",
+    "title": "",
+    "noticeDate": "19 gennaio 2022",
+    "campi": {
+      "data pubblicazione": "19 gennaio 2022",
+      "marca": "SUSHI NORI",
+      "denominazione": "YUTAKA SUSHI NORI 11g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SUSHI NORI",
+    "product": "YUTAKA SUSHI NORI 11g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SUSHI NORI - YUTAKA SUSHI NORI 11g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2022%2001%2019%20mPREIS%20SUSHI%20NORI_1761190259.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "yutaka-sushi-nori-11g",
+    "published": "2022-01-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/norvegesi-sale-marino-ed-erbe-aromatiche-220-g-tmc-13-02-2022/",
+    "title": "",
+    "noticeDate": "17 gennaio 2022",
+    "campi": {
+      "data pubblicazione": "17 gennaio 2022",
+      "marca": "DAILY BREAD",
+      "denominazione": "NORVEGESI SALE MARINO ED ERBE AROMATICHE - 220 g - TMC 13-02-2022",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DAILY BREAD",
+    "product": "NORVEGESI SALE MARINO ED ERBE AROMATICHE - 220 g - TMC 13-02-2022",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DAILY BREAD - NORVEGESI SALE MARINO ED ERBE AROMATICHE - 220 g - TMC 13-02-2022",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Daily%20Bread%20Norvegesi%20TMC%2013%2002%202022_1761190253.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "norvegesi-sale-marino-ed-erbe-aromatiche-220-g-tmc-13-02-2022",
+    "published": "2022-01-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/norvegesi-sale-marino-ed-erbe-aromatiche-220-g-tmc-14-04-2022/",
+    "title": "",
+    "noticeDate": "17 gennaio 2022",
+    "campi": {
+      "data pubblicazione": "17 gennaio 2022",
+      "marca": "DAILY BREAD",
+      "denominazione": "NORVEGESI SALE MARINO ED ERBE AROMATICHE - 220 g - TMC 14-04-2022",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DAILY BREAD",
+    "product": "NORVEGESI SALE MARINO ED ERBE AROMATICHE - 220 g - TMC 14-04-2022",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DAILY BREAD - NORVEGESI SALE MARINO ED ERBE AROMATICHE - 220 g - TMC 14-04-2022",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Daily%20Bread%20Norvegesi%20TMC%2014%2004%202022_1761190255.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "norvegesi-sale-marino-ed-erbe-aromatiche-220-g-tmc-14-04-2022",
+    "published": "2022-01-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/polpette-al-pomodoro/",
+    "title": "",
+    "noticeDate": "17 gennaio 2022",
+    "campi": {
+      "data pubblicazione": "17 gennaio 2022",
+      "marca": "NATURHOUSE",
+      "denominazione": "Polpette al pomodoro",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "NATURHOUSE",
+    "product": "Polpette al pomodoro",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NATURHOUSE - Polpette al pomodoro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20polpette%20al%20pomodoro_1761190257.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "polpette-al-pomodoro",
+    "published": "2022-01-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/peperoncino-macinato/",
+    "title": "",
+    "noticeDate": "14 gennaio 2022",
+    "campi": {
+      "data pubblicazione": "14 gennaio 2022",
+      "marca": "SHAPUR",
+      "denominazione": "PEPERONCINO MACINATO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SHAPUR",
+    "product": "PEPERONCINO MACINATO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SHAPUR - PEPERONCINO MACINATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PEPERONCINO%20SHAPUR_1761190252.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "peperoncino-macinato",
+    "published": "2022-01-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/polase-difesa-inverno/",
+    "title": "",
+    "noticeDate": "3 gennaio 2022",
+    "campi": {
+      "data pubblicazione": "3 gennaio 2022",
+      "marca": "GSK",
+      "denominazione": "Polase difesa inverno",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "GSK",
+    "product": "Polase difesa inverno",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GSK - Polase difesa inverno",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Polase%20Difesa%20Inverno_1761190250.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "polase-difesa-inverno",
+    "published": "2022-01-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-primosale-con-olive-rucola-e-peperoncino/",
+    "title": "",
+    "noticeDate": "30 dicembre 2021",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2021",
+      "marca": "Pascoli italiani PECORICCO (distribuzione EUROSPIN)",
+      "denominazione": "Formaggio primosale con olive rucola e peperoncino",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Pascoli italiani PECORICCO (distribuzione EUROSPIN)",
+    "product": "Formaggio primosale con olive rucola e peperoncino",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pascoli italiani PECORICCO (distribuzione EUROSPIN) - Formaggio primosale con olive rucola e peperoncino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_1761190248.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-primosale-con-olive-rucola-e-peperoncino",
+    "published": "2021-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-mais-e-grano-saraceno-penne/",
+    "title": "",
+    "noticeDate": "29 dicembre 2021",
+    "campi": {
+      "data pubblicazione": "29 dicembre 2021",
+      "marca": "BIO IN",
+      "denominazione": "PASTA DI MAIS E GRANO SARACENO - PENNE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BIO IN",
+    "product": "PASTA DI MAIS E GRANO SARACENO - PENNE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BIO IN - PASTA DI MAIS E GRANO SARACENO - PENNE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Prodotto%20Penne%20Mais%20e%20Grano%20Saraceno_1761190238.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasta-di-mais-e-grano-saraceno-penne",
+    "published": "2021-12-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-riso-integrale-filini/",
+    "title": "",
+    "noticeDate": "29 dicembre 2021",
+    "campi": {
+      "data pubblicazione": "29 dicembre 2021",
+      "marca": "BIO IN",
+      "denominazione": "PASTA DI RISO INTEGRALE - FILINI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BIO IN",
+    "product": "PASTA DI RISO INTEGRALE - FILINI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BIO IN - PASTA DI RISO INTEGRALE - FILINI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Prodotto%20Filini%20di%20Riso_1761190240.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasta-di-riso-integrale-filini",
+    "published": "2021-12-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-riso-integrale-bersaglieri/",
+    "title": "",
+    "noticeDate": "29 dicembre 2021",
+    "campi": {
+      "data pubblicazione": "29 dicembre 2021",
+      "marca": "BIO IN",
+      "denominazione": "PASTA DI RISO INTEGRALE - BERSAGLIERI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BIO IN",
+    "product": "PASTA DI RISO INTEGRALE - BERSAGLIERI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BIO IN - PASTA DI RISO INTEGRALE - BERSAGLIERI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Prodotto%20Bersaglieri%20Riso%20Integrale_1761190241.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasta-di-riso-integrale-bersaglieri",
+    "published": "2021-12-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-riso-integrale-fusilli/",
+    "title": "",
+    "noticeDate": "29 dicembre 2021",
+    "campi": {
+      "data pubblicazione": "29 dicembre 2021",
+      "marca": "BIO IN",
+      "denominazione": "PASTA DI RISO INTEGRALE - FUSILLI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BIO IN",
+    "product": "PASTA DI RISO INTEGRALE - FUSILLI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BIO IN - PASTA DI RISO INTEGRALE - FUSILLI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Prodotto%20Fusilli%20Riso%20Integrale_1761190243.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasta-di-riso-integrale-fusilli",
+    "published": "2021-12-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-riso-integrale-penne/",
+    "title": "",
+    "noticeDate": "29 dicembre 2021",
+    "campi": {
+      "data pubblicazione": "29 dicembre 2021",
+      "marca": "BIO IN",
+      "denominazione": "PASTA DI RISO INTEGRALE - PENNE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BIO IN",
+    "product": "PASTA DI RISO INTEGRALE - PENNE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BIO IN - PASTA DI RISO INTEGRALE - PENNE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Prodotto%20Penne%20Riso%20Integrale_1761190244.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasta-di-riso-integrale-penne",
+    "published": "2021-12-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-riso-integrale-e-canapa-bersaglieri/",
+    "title": "",
+    "noticeDate": "29 dicembre 2021",
+    "campi": {
+      "data pubblicazione": "29 dicembre 2021",
+      "marca": "BIO IN",
+      "denominazione": "PASTA DI RISO INTEGRALE E CANAPA - BERSAGLIERI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BIO IN",
+    "product": "PASTA DI RISO INTEGRALE E CANAPA - BERSAGLIERI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BIO IN - PASTA DI RISO INTEGRALE E CANAPA - BERSAGLIERI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Prodotto%20Bersaglieri%20Riso%20e%20Canapa_1761190246.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasta-di-riso-integrale-e-canapa-bersaglieri",
+    "published": "2021-12-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/torta-sacripantina-gr-1300/",
+    "title": "",
+    "noticeDate": "27 dicembre 2021",
+    "campi": {
+      "data pubblicazione": "27 dicembre 2021",
+      "marca": "QMAIUSCOLA",
+      "denominazione": "torta sacripantina gr 1300",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "QMAIUSCOLA",
+    "product": "torta sacripantina gr 1300",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo QMAIUSCOLA - torta sacripantina gr 1300",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Q%20Maiuscola_1772465616.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "torta-sacripantina-gr-1300",
+    "published": "2021-12-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-1/",
+    "title": "",
+    "noticeDate": "24 dicembre 2021",
+    "campi": {
+      "data pubblicazione": "24 dicembre 2021",
+      "marca": "Salumificio Bonalumi srl",
+      "denominazione": "Salsiccia",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio Bonalumi srl",
+    "product": "Salsiccia",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio Bonalumi srl - Salsiccia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Avviso%20di%20richiamo_1761190235.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-1",
+    "published": "2021-12-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gnocchetti-alla-sorrentina-550g/",
+    "title": "",
+    "noticeDate": "22 dicembre 2021",
+    "campi": {
+      "data pubblicazione": "22 dicembre 2021",
+      "marca": "FINDUS",
+      "denominazione": "Gnocchetti alla Sorrentina 550g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "FINDUS",
+    "product": "Gnocchetti alla Sorrentina 550g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FINDUS - Gnocchetti alla Sorrentina 550g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoGnocchettiSorrentinaL1319el1320_1761190234.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gnocchetti-alla-sorrentina-550g",
+    "published": "2021-12-22",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-arborio-1000g-sottovuoto/",
     "title": "",
     "noticeDate": "17 dicembre 2021",
@@ -686,6 +1180,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "riso-arborio",
+    "published": "2021-12-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-arborio-500g/",
+    "title": "",
+    "noticeDate": "17 dicembre 2021",
+    "campi": {
+      "data pubblicazione": "17 dicembre 2021",
+      "marca": "Carpi Riso",
+      "denominazione": "Riso Arborio 500g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Carpi Riso",
+    "product": "Riso Arborio 500g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Carpi Riso - Riso Arborio 500g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Carpi%20Riso%20500g_1761190232.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "riso-arborio-500g",
     "published": "2021-12-17",
     "source": "operator"
   },
