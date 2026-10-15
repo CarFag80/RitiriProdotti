@@ -345,6 +345,292 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/condimento-insalata-di-pasta/",
+    "title": "",
+    "noticeDate": "3 ottobre 2023",
+    "campi": {
+      "data pubblicazione": "3 ottobre 2023",
+      "marca": "coop",
+      "denominazione": "CONDIMENTO PER INSALATA DI PASTA",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "coop",
+    "product": "CONDIMENTO PER INSALATA DI PASTA",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo coop - CONDIMENTO PER INSALATA DI PASTA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Tafuro_Coop_Richiamo%20prodotto_1761197500.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "condimento-insalata-di-pasta",
+    "published": "2023-10-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hamburger-di-bovino-razza-chianina/",
+    "title": "",
+    "noticeDate": "3 ottobre 2023",
+    "campi": {
+      "data pubblicazione": "3 ottobre 2023",
+      "marca": "Lidl Italia S.r.l",
+      "denominazione": "HAMBURGER DI BOVINO RAZZA CHIANINA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Lidl Italia S.r.l",
+    "product": "HAMBURGER DI BOVINO RAZZA CHIANINA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Lidl Italia S.r.l - HAMBURGER DI BOVINO RAZZA CHIANINA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%203%20_%20MODELLO_DI_RICHIAMO%20mod%20v2_1761197502.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "hamburger-di-bovino-razza-chianina",
+    "published": "2023-10-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wasabi-peas-coated-gt/",
+    "title": "",
+    "noticeDate": "29 settembre 2023",
+    "campi": {
+      "data pubblicazione": "29 settembre 2023",
+      "marca": "Golden Turtle",
+      "denominazione": "Wasabi peas coated GT",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Golden Turtle",
+    "product": "Wasabi peas coated GT",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Golden Turtle - Wasabi peas coated GT",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1761197497.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "wasabi-peas-coated-gt",
+    "published": "2023-09-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aldog-articafreedog-artica/",
+    "title": "",
+    "noticeDate": "26 settembre 2023",
+    "campi": {
+      "data pubblicazione": "26 settembre 2023",
+      "marca": "EUROCEREALI PESENTI SRL",
+      "denominazione": "ALDOG ARTICA/FREEDOG ARTICA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "EUROCEREALI PESENTI SRL",
+    "product": "ALDOG ARTICA/FREEDOG ARTICA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo EUROCEREALI PESENTI SRL - ALDOG ARTICA/FREEDOG ARTICA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Eurocereali_1761197495.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "aldog-articafreedog-artica",
+    "published": "2023-09-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carne-alla-tartara/",
+    "title": "",
+    "noticeDate": "22 settembre 2023",
+    "campi": {
+      "data pubblicazione": "22 settembre 2023",
+      "marca": "Fiorani & C. S.p.a.",
+      "denominazione": "Carne alla tartara",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Fiorani & C. S.p.a.",
+    "product": "Carne alla tartara",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fiorani & C. S.p.a. - Carne alla tartara",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20ritiro%20TARTARE%20EUROSPIN_1761197493.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "carne-alla-tartara",
+    "published": "2023-09-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fagioli-secchi-black-eye/",
+    "title": "",
+    "noticeDate": "21 settembre 2023",
+    "campi": {
+      "data pubblicazione": "21 settembre 2023",
+      "marca": "Ali Baba",
+      "denominazione": "Fagioli secchi black eye",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Ali Baba",
+    "product": "Fagioli secchi black eye",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ali Baba - Fagioli secchi black eye",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20Richiamo%20Fagioli_1761197491.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fagioli-secchi-black-eye",
+    "published": "2023-09-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uvetta-sultanina-250-g/",
+    "title": "",
+    "noticeDate": "12 settembre 2023",
+    "campi": {
+      "data pubblicazione": "12 settembre 2023",
+      "marca": "Eurospin Italia Spa",
+      "denominazione": "Uvetta sultanina 250 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Eurospin Italia Spa",
+    "product": "Uvetta sultanina 250 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Eurospin Italia Spa - Uvetta sultanina 250 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo_1761197486.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uvetta-sultanina-250-g",
+    "published": "2023-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/estratto-mela-spinaci-sedano/",
+    "title": "",
+    "noticeDate": "12 settembre 2023",
+    "campi": {
+      "data pubblicazione": "12 settembre 2023",
+      "marca": "Orsero",
+      "denominazione": "estratto mela spinaci sedano",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Orsero",
+    "product": "estratto mela spinaci sedano",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Orsero - estratto mela spinaci sedano",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Estratto%20Mela%20Sedano%20Spinacio%20rev1_1761197488.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "estratto-mela-spinaci-sedano",
+    "published": "2023-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/banane-chips-vassoio-150-g-0/",
+    "title": "",
+    "noticeDate": "31 agosto 2023",
+    "campi": {
+      "data pubblicazione": "31 agosto 2023",
+      "marca": "BANANE CHIPS \"VASSOIO 150 G\"",
+      "denominazione": "BANANE CHIPS \"VASSOIO 150 G\"",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BANANE CHIPS \"VASSOIO 150 G\"",
+    "product": "BANANE CHIPS \"VASSOIO 150 G\"",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BANANE CHIPS \"VASSOIO 150 G\" - BANANE CHIPS \"VASSOIO 150 G\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/unicommmodificadel30_08_2023%20_1__1761197480.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "banane-chips-vassoio-150-g-0",
+    "published": "2023-08-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/banane-chips-vassoio-150-g-1/",
+    "title": "",
+    "noticeDate": "31 agosto 2023",
+    "campi": {
+      "data pubblicazione": "31 agosto 2023",
+      "marca": "BANANE CHIPS \"VASSOIO\" 150 G",
+      "denominazione": "BANANE CHIPS \"VASSOIO\" 150 G",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BANANE CHIPS \"VASSOIO\" 150 G",
+    "product": "BANANE CHIPS \"VASSOIO\" 150 G",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BANANE CHIPS \"VASSOIO\" 150 G - BANANE CHIPS \"VASSOIO\" 150 G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/banane%20chips%20vassoio%20230726048_1761197482.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "banane-chips-vassoio-150-g-1",
+    "published": "2023-08-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/banane-chips-vassoio-biopap-150-g-0/",
+    "title": "",
+    "noticeDate": "31 agosto 2023",
+    "campi": {
+      "data pubblicazione": "31 agosto 2023",
+      "marca": "BANANE CHIPS \"VASSOIO BIOPAP 150 G\"",
+      "denominazione": "BANANE CHIPS \"VASSOIO BIOPAP 150 G\"",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BANANE CHIPS \"VASSOIO BIOPAP 150 G\"",
+    "product": "BANANE CHIPS \"VASSOIO BIOPAP 150 G\"",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BANANE CHIPS \"VASSOIO BIOPAP 150 G\" - BANANE CHIPS \"VASSOIO BIOPAP 150 G\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/unicommmodificadel30_08_2023%20_1__1761197484.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "banane-chips-vassoio-biopap-150-g-0",
+    "published": "2023-08-31",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/melange-esotico-vassoio-300-g/",
     "title": "",
     "noticeDate": "29 agosto 2023",
@@ -679,6 +965,240 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "melange-esotico-180-g-1",
+    "published": "2023-08-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/melange-esotico-180-g-2/",
+    "title": "",
+    "noticeDate": "29 agosto 2023",
+    "campi": {
+      "data pubblicazione": "29 agosto 2023",
+      "marca": "MELANGE ESOTICO 180 G",
+      "denominazione": "MELANGE ESOTICO 180 G",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MELANGE ESOTICO 180 G",
+    "product": "MELANGE ESOTICO 180 G",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MELANGE ESOTICO 180 G - MELANGE ESOTICO 180 G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Melange%20esotico%20180%20g%20L%20230802014_1761197463.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "melange-esotico-180-g-2",
+    "published": "2023-08-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/melange-esotico-250-g/",
+    "title": "",
+    "noticeDate": "29 agosto 2023",
+    "campi": {
+      "data pubblicazione": "29 agosto 2023",
+      "marca": "MELANGE ESOTICO 250 G",
+      "denominazione": "MELANGE ESOTICO 250 G",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MELANGE ESOTICO 250 G",
+    "product": "MELANGE ESOTICO 250 G",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MELANGE ESOTICO 250 G - MELANGE ESOTICO 250 G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Melange%20esotico%20250%20g%20L%20230802014_1761197465.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "melange-esotico-250-g",
+    "published": "2023-08-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/melange-esotico-5-kg/",
+    "title": "",
+    "noticeDate": "29 agosto 2023",
+    "campi": {
+      "data pubblicazione": "29 agosto 2023",
+      "marca": "MELANGE ESOTICO 5 KG",
+      "denominazione": "MELANGE ESOTICO 5 KG",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MELANGE ESOTICO 5 KG",
+    "product": "MELANGE ESOTICO 5 KG",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MELANGE ESOTICO 5 KG - MELANGE ESOTICO 5 KG",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Melange%20esotico%205%20kg_1761197467.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "melange-esotico-5-kg",
+    "published": "2023-08-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/banane-chips-68-kg/",
+    "title": "",
+    "noticeDate": "29 agosto 2023",
+    "campi": {
+      "data pubblicazione": "29 agosto 2023",
+      "marca": "BANANE CHIPS 6,8 KG",
+      "denominazione": "BANANE CHIPS 6,8 KG",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BANANE CHIPS 6,8 KG",
+    "product": "BANANE CHIPS 6,8 KG",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BANANE CHIPS 6,8 KG - BANANE CHIPS 6,8 KG",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BANANE%20CHIPS%206%2C8%20kg_1761197468.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "banane-chips-68-kg",
+    "published": "2023-08-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/banane-chips-150-g/",
+    "title": "",
+    "noticeDate": "29 agosto 2023",
+    "campi": {
+      "data pubblicazione": "29 agosto 2023",
+      "marca": "BANANE CHIPS 150 G",
+      "denominazione": "BANANE CHIPS 150 G",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BANANE CHIPS 150 G",
+    "product": "BANANE CHIPS 150 G",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BANANE CHIPS 150 G - BANANE CHIPS 150 G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BANANE%20CHIPS%20150%20g%20L230728003_1761197470.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "banane-chips-150-g",
+    "published": "2023-08-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/energy-mix-80-g-0/",
+    "title": "",
+    "noticeDate": "29 agosto 2023",
+    "campi": {
+      "data pubblicazione": "29 agosto 2023",
+      "marca": "ENERGY MIX 80 G",
+      "denominazione": "ENERGY MIX 80 G",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ENERGY MIX 80 G",
+    "product": "ENERGY MIX 80 G",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ENERGY MIX 80 G - ENERGY MIX 80 G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ENERGY%20MIX%2080%20g%20L%20230718007_1761197472.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "energy-mix-80-g-0",
+    "published": "2023-08-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/keo-banane-essiccate-chips-150-g/",
+    "title": "",
+    "noticeDate": "29 agosto 2023",
+    "campi": {
+      "data pubblicazione": "29 agosto 2023",
+      "marca": "KEO BANANE ESSICCATE CHIPS 150 G",
+      "denominazione": "KEO BANANE ESSICCATE CHIPS 150 G",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "KEO BANANE ESSICCATE CHIPS 150 G",
+    "product": "KEO BANANE ESSICCATE CHIPS 150 G",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo KEO BANANE ESSICCATE CHIPS 150 G - KEO BANANE ESSICCATE CHIPS 150 G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/KEO%20BANANE%20ESSICCATE%20CHIPS%20150%20g_1761197474.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "keo-banane-essiccate-chips-150-g",
+    "published": "2023-08-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/patata-novella-selenella/",
+    "title": "",
+    "noticeDate": "29 agosto 2023",
+    "campi": {
+      "data pubblicazione": "29 agosto 2023",
+      "marca": "Selenella",
+      "denominazione": "Patata novella Selenella",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Selenella",
+    "product": "Patata novella Selenella",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Selenella - Patata novella Selenella",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761197476.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "patata-novella-selenella",
+    "published": "2023-08-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/il-gelato-di-romagna-gusto-spagnola-gelato-alla-panna-variegato-con/",
+    "title": "",
+    "noticeDate": "29 agosto 2023",
+    "campi": {
+      "data pubblicazione": "29 agosto 2023",
+      "marca": "Consorzio Produttori Latte Soc. Agr. Coop. Centrale del Latte di Cesena",
+      "denominazione": "Il Gelato di Romagna gusto ¿Spagnola¿ (Gelato alla panna variegato con amarene) Barattolo da 500 gr.",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Consorzio Produttori Latte Soc. Agr. Coop. Centrale del Latte di Cesena",
+    "product": "Il Gelato di Romagna gusto ¿Spagnola¿ (Gelato alla panna variegato con amarene) Barattolo da 500 gr.",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Consorzio Produttori Latte Soc. Agr. Coop. Centrale del Latte di Cesena - Il Gelato di Romagna gusto ¿Spagnola¿ (Gelato alla panna variegato con amarene) Barattolo da 500 gr.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Gelato%20Spagnola_1761197478.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "il-gelato-di-romagna-gusto-spagnola-gelato-alla-panna-variegato-con",
     "published": "2023-08-29",
     "source": "operator"
   },
