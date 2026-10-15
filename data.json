@@ -230,6 +230,266 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/beauty-mix-secchio-kg1/",
+    "title": "",
+    "noticeDate": "23 maggio 2024",
+    "campi": {
+      "data pubblicazione": "23 maggio 2024",
+      "marca": "FORLIVESE",
+      "denominazione": "BEAUTY MIX secchio KG.1",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "FORLIVESE",
+    "product": "BEAUTY MIX secchio KG.1",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FORLIVESE - BEAUTY MIX secchio KG.1",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Beauty%20Mix%20KG1%20L%20080324_1761195903.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "beauty-mix-secchio-kg1",
+    "published": "2024-05-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-di-fegato/",
+    "title": "",
+    "noticeDate": "21 maggio 2024",
+    "campi": {
+      "data pubblicazione": "21 maggio 2024",
+      "marca": "Salumificio Ciccarelli",
+      "denominazione": "Salame di fegato",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio Ciccarelli",
+    "product": "Salame di fegato",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio Ciccarelli - Salame di fegato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartellonisticaRichiamo%20salam%20fegato_1761195896.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-di-fegato",
+    "published": "2024-05-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/set-di-3-utensili-da-cucina-masterchef-plastica/",
+    "title": "",
+    "noticeDate": "20 maggio 2024",
+    "campi": {
+      "data pubblicazione": "20 maggio 2024",
+      "marca": "Arovo",
+      "denominazione": "Set di 3 utensili da cucina Masterchef - Plastica",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "Arovo",
+    "product": "Set di 3 utensili da cucina Masterchef - Plastica",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Arovo - Set di 3 utensili da cucina Masterchef - Plastica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761195891.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "set-di-3-utensili-da-cucina-masterchef-plastica",
+    "published": "2024-05-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/piatti-rey-natura-20-fondi/",
+    "title": "",
+    "noticeDate": "17 maggio 2024",
+    "campi": {
+      "data pubblicazione": "17 maggio 2024",
+      "marca": "REY PLASTICA SHPK",
+      "denominazione": "PIATTI REY NATURA 20 FONDI",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "REY PLASTICA SHPK",
+    "product": "PIATTI REY NATURA 20 FONDI",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo REY PLASTICA SHPK - PIATTI REY NATURA 20 FONDI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PIATTI%20FONDI_1761195856.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "piatti-rey-natura-20-fondi",
+    "published": "2024-05-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/piatti-rey-natura-20-piani/",
+    "title": "",
+    "noticeDate": "17 maggio 2024",
+    "campi": {
+      "data pubblicazione": "17 maggio 2024",
+      "marca": "REY PLASTICA SHPK",
+      "denominazione": "PIATTI REY NATURA 20 PIANI",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "REY PLASTICA SHPK",
+    "product": "PIATTI REY NATURA 20 PIANI",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo REY PLASTICA SHPK - PIATTI REY NATURA 20 PIANI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PIATTI%20PIANI_1761195862.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "piatti-rey-natura-20-piani",
+    "published": "2024-05-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/piatti-rey-dessert-25-pezzi/",
+    "title": "",
+    "noticeDate": "17 maggio 2024",
+    "campi": {
+      "data pubblicazione": "17 maggio 2024",
+      "marca": "REY PLASTICA SHPK",
+      "denominazione": "PIATTI REY DESSERT 25 PEZZI",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "REY PLASTICA SHPK",
+    "product": "PIATTI REY DESSERT 25 PEZZI",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo REY PLASTICA SHPK - PIATTI REY DESSERT 25 PEZZI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMI%20PIATTI%20DESSERT_1761195865.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "piatti-rey-dessert-25-pezzi",
+    "published": "2024-05-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/piatti-rey-natura-t-500-piano/",
+    "title": "",
+    "noticeDate": "17 maggio 2024",
+    "campi": {
+      "data pubblicazione": "17 maggio 2024",
+      "marca": "REY PLASTICA SHPK",
+      "denominazione": "PIATTI REY NATURA T 500 PIANO",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "REY PLASTICA SHPK",
+    "product": "PIATTI REY NATURA T 500 PIANO",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo REY PLASTICA SHPK - PIATTI REY NATURA T 500 PIANO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMIO%20T%20%20500%20no%20lotto%20PIANO_1761195872.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "piatti-rey-natura-t-500-piano",
+    "published": "2024-05-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/piatti-rey-natura-t-500-fondo/",
+    "title": "",
+    "noticeDate": "17 maggio 2024",
+    "campi": {
+      "data pubblicazione": "17 maggio 2024",
+      "marca": "REY PLASTICA SHPK",
+      "denominazione": "PIATTI REY NATURA T 500 FONDO",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "REY PLASTICA SHPK",
+    "product": "PIATTI REY NATURA T 500 FONDO",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo REY PLASTICA SHPK - PIATTI REY NATURA T 500 FONDO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20T%20500%20NO%20LOTTO%20FONDI_1761195878.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "piatti-rey-natura-t-500-fondo",
+    "published": "2024-05-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/piatti-rey-natura-fondi/",
+    "title": "",
+    "noticeDate": "17 maggio 2024",
+    "campi": {
+      "data pubblicazione": "17 maggio 2024",
+      "marca": "REY PLASTICA SHPK",
+      "denominazione": "PIATTI REY NATURA FONDI",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "REY PLASTICA SHPK",
+    "product": "PIATTI REY NATURA FONDI",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo REY PLASTICA SHPK - PIATTI REY NATURA FONDI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REY%20NATURA%20CON%20LOTTO%20FONDI_1761195882.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "piatti-rey-natura-fondi",
+    "published": "2024-05-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/piatti-rey-natura-fondi-0/",
+    "title": "",
+    "noticeDate": "17 maggio 2024",
+    "campi": {
+      "data pubblicazione": "17 maggio 2024",
+      "marca": "REY PLASTICA SHPK",
+      "denominazione": "PIATTI REY NATURA FONDI",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "REY PLASTICA SHPK",
+    "product": "PIATTI REY NATURA FONDI",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo REY PLASTICA SHPK - PIATTI REY NATURA FONDI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REY%20%20NATURA%20LOTTO%202%20FONDI_1761195887.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "piatti-rey-natura-fondi-0",
+    "published": "2024-05-17",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/bustine-monodose-di-te-meridetox-tea-premium/",
     "title": "Bustine monodose di tè",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/sistema-di-allerta-europeo-alimenti-e-mangimi/",
@@ -4272,6 +4532,188 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tofu-spinacia-200-gr/",
+    "title": "",
+    "noticeDate": "5 giugno 2023",
+    "campi": {
+      "data pubblicazione": "5 giugno 2023",
+      "marca": "TAIFUN",
+      "denominazione": "TOFU SPINACIA 200 gr",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "TAIFUN",
+    "product": "TOFU SPINACIA 200 gr",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TAIFUN - TOFU SPINACIA 200 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20TOFU_1761196684.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tofu-spinacia-200-gr",
+    "published": "2023-06-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/il-buongustaio/",
+    "title": "",
+    "noticeDate": "3 giugno 2023",
+    "campi": {
+      "data pubblicazione": "3 giugno 2023",
+      "marca": "Vitel Tonnè Il Buongustaio 200g S6",
+      "denominazione": "IL BUONGUSTAIO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Vitel Tonnè Il Buongustaio 200g S6",
+    "product": "IL BUONGUSTAIO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Vitel Tonnè Il Buongustaio 200g S6 - IL BUONGUSTAIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RECALL_IN_S_Il_Buongustaio_1761195637.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "il-buongustaio",
+    "published": "2023-06-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/viva-la-mamma/",
+    "title": "",
+    "noticeDate": "3 giugno 2023",
+    "campi": {
+      "data pubblicazione": "3 giugno 2023",
+      "marca": "Vitel Tonnè Viva La Mamma 180g S12",
+      "denominazione": "VIVA LA MAMMA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Vitel Tonnè Viva La Mamma 180g S12",
+    "product": "VIVA LA MAMMA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Vitel Tonnè Viva La Mamma 180g S12 - VIVA LA MAMMA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Piatti_freschi_richiamo_Vitel_tonne_Viva_la_Mamma_1761196682.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "viva-la-mamma",
+    "published": "2023-06-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sweet-peppers-140-gr/",
+    "title": "",
+    "noticeDate": "1 giugno 2023",
+    "campi": {
+      "data pubblicazione": "1 giugno 2023",
+      "marca": "Vipa Chips",
+      "denominazione": "Sweet Peppers 140 gr",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Vipa Chips",
+    "product": "Sweet Peppers 140 gr",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Vipa Chips - Sweet Peppers 140 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/patatine_piccolo_1761195631.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sweet-peppers-140-gr",
+    "published": "2023-06-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cacao-polvere-bio/",
+    "title": "",
+    "noticeDate": "1 giugno 2023",
+    "campi": {
+      "data pubblicazione": "1 giugno 2023",
+      "marca": "BAULE VOLANTE",
+      "denominazione": "CACAO IN POLVERE BIO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BAULE VOLANTE",
+    "product": "CACAO IN POLVERE BIO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BAULE VOLANTE - CACAO IN POLVERE BIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Cacao%20in%20polvere_1761195633.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cacao-polvere-bio",
+    "published": "2023-06-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-cacao-tazza-bio/",
+    "title": "",
+    "noticeDate": "1 giugno 2023",
+    "campi": {
+      "data pubblicazione": "1 giugno 2023",
+      "marca": "BAULE VOLANTE",
+      "denominazione": "PREPARATO PER CACAO IN TAZZA BIO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BAULE VOLANTE",
+    "product": "PREPARATO PER CACAO IN TAZZA BIO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BAULE VOLANTE - PREPARATO PER CACAO IN TAZZA BIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Cacao%20in%20tazza_1761195635.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "preparato-cacao-tazza-bio",
+    "published": "2023-06-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparto-crema-catalana/",
+    "title": "",
+    "noticeDate": "31 maggio 2023",
+    "campi": {
+      "data pubblicazione": "31 maggio 2023",
+      "marca": "San Martino",
+      "denominazione": "Preparto per crema catalana",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "San Martino",
+    "product": "Preparto per crema catalana",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo San Martino - Preparto per crema catalana",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/DITTA%20CLECA%20MODULO%20RICHIAMO%20MINISTERO%20SALUTE_1761195629.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparto-crema-catalana",
+    "published": "2023-05-31",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/casoncelli/",
     "title": "",
     "noticeDate": "27 maggio 2023",
@@ -4320,6 +4762,84 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "casoncelli-speal",
+    "published": "2023-05-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/quadrati-alla-carne/",
+    "title": "",
+    "noticeDate": "27 maggio 2023",
+    "campi": {
+      "data pubblicazione": "27 maggio 2023",
+      "marca": "Pastificio Fantasia Srl",
+      "denominazione": "Quadrati alla carne",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Pastificio Fantasia Srl",
+    "product": "Quadrati alla carne",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pastificio Fantasia Srl - Quadrati alla carne",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20prodotto%20quadrati%20alla%20carne%20Fantasia_1761195624.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "quadrati-alla-carne",
+    "published": "2023-05-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/quadrucci-alla-carne/",
+    "title": "",
+    "noticeDate": "27 maggio 2023",
+    "campi": {
+      "data pubblicazione": "27 maggio 2023",
+      "marca": "Pastificio Fantasia Srl",
+      "denominazione": "Quadrucci alla carne",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Pastificio Fantasia Srl",
+    "product": "Quadrucci alla carne",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pastificio Fantasia Srl - Quadrucci alla carne",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20prodotto%20quadrucci%20alla%20carne%20Fantasia_1761195626.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "quadrucci-alla-carne",
+    "published": "2023-05-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ravioli-alla-carne/",
+    "title": "",
+    "noticeDate": "27 maggio 2023",
+    "campi": {
+      "data pubblicazione": "27 maggio 2023",
+      "marca": "Raviolificio Dei Cas",
+      "denominazione": "Ravioli alla carne",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Raviolificio Dei Cas",
+    "product": "Ravioli alla carne",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Raviolificio Dei Cas - Ravioli alla carne",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20prodotto%20ravioli%20di%20carne%20cas_1761195627.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ravioli-alla-carne",
     "published": "2023-05-27",
     "source": "operator"
   },
