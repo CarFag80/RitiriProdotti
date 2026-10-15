@@ -640,6 +640,266 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pepe-con-macinino-varieta-steakpfeffer/",
+    "title": "",
+    "noticeDate": "1 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "1 ottobre 2021",
+      "marca": "BBQ",
+      "denominazione": "Pepe con macinino - Varietà \"Steakpfeffer\"",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "BBQ",
+    "product": "Pepe con macinino - Varietà \"Steakpfeffer\"",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BBQ - Pepe con macinino - Varietà \"Steakpfeffer\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Manifesto%20Steakpfeffer%20_%20Pepe%20con%20macinino_1761188645.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pepe-con-macinino-varieta-steakpfeffer",
+    "published": "2021-10-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/estendia-30-compresse-filmate/",
+    "title": "",
+    "noticeDate": "1 ottobre 2021",
+    "campi": {
+      "data pubblicazione": "1 ottobre 2021",
+      "marca": "Estendia",
+      "denominazione": "Estendia 30 compresse filmate",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Estendia",
+    "product": "Estendia 30 compresse filmate",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Estendia - Estendia 30 compresse filmate",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Estendia_cartello%20richiamo_1761188650.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "estendia-30-compresse-filmate",
+    "published": "2021-10-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/granulare-brodo-e-condimento-base-di-glutammato/",
+    "title": "",
+    "noticeDate": "29 settembre 2021",
+    "campi": {
+      "data pubblicazione": "29 settembre 2021",
+      "marca": "Dialbrodo Delicato EAN 8003802025303",
+      "denominazione": "Granulare per brodo e condimento a base di glutammato",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Dialbrodo Delicato EAN 8003802025303",
+    "product": "Granulare per brodo e condimento a base di glutammato",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Dialbrodo Delicato EAN 8003802025303 - Granulare per brodo e condimento a base di glutammato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/90510_DialbrodoDelicato_250g_8003802025303_20210928_1761188610.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "granulare-brodo-e-condimento-base-di-glutammato",
+    "published": "2021-09-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/granulare-brodo-e-condimento-base-di-glutammato-0/",
+    "title": "",
+    "noticeDate": "29 settembre 2021",
+    "campi": {
+      "data pubblicazione": "29 settembre 2021",
+      "marca": "Dialbrodo Gusto Ricco EAN 8003802030185",
+      "denominazione": "Granulare per brodo e condimento a base di glutammato",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Dialbrodo Gusto Ricco EAN 8003802030185",
+    "product": "Granulare per brodo e condimento a base di glutammato",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Dialbrodo Gusto Ricco EAN 8003802030185 - Granulare per brodo e condimento a base di glutammato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/90801_GustoRicco_250g_8003802030185_28092021_1761188614.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "granulare-brodo-e-condimento-base-di-glutammato-0",
+    "published": "2021-09-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/granulare-brodo-e-condimento-base-di-glutammato-1/",
+    "title": "",
+    "noticeDate": "29 settembre 2021",
+    "campi": {
+      "data pubblicazione": "29 settembre 2021",
+      "marca": "Dialbrodo Gusto Ricco EAN 8003802030567",
+      "denominazione": "Granulare per brodo e condimento a base di glutammato",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Dialbrodo Gusto Ricco EAN 8003802030567",
+    "product": "Granulare per brodo e condimento a base di glutammato",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Dialbrodo Gusto Ricco EAN 8003802030567 - Granulare per brodo e condimento a base di glutammato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/90803_GustoRicco_1000g_20210928_1761188619.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "granulare-brodo-e-condimento-base-di-glutammato-1",
+    "published": "2021-09-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/granulare-brodo-e-condimento-base-di-glutammato-2/",
+    "title": "",
+    "noticeDate": "29 settembre 2021",
+    "campi": {
+      "data pubblicazione": "29 settembre 2021",
+      "marca": "Dialbrodo Gusto Ricco EAN 8003802030635",
+      "denominazione": "Granulare per brodo e condimento a base di glutammato",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Dialbrodo Gusto Ricco EAN 8003802030635",
+    "product": "Granulare per brodo e condimento a base di glutammato",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Dialbrodo Gusto Ricco EAN 8003802030635 - Granulare per brodo e condimento a base di glutammato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/90804_GustoRicco_3000g_20210928_1761188623.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "granulare-brodo-e-condimento-base-di-glutammato-2",
+    "published": "2021-09-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-brodo-e-condimento-con-estratto-di-lievito/",
+    "title": "",
+    "noticeDate": "29 settembre 2021",
+    "campi": {
+      "data pubblicazione": "29 settembre 2021",
+      "marca": "Mon Bouillon",
+      "denominazione": "Preparato per Brodo e condimento con estratto di lievito",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Mon Bouillon",
+    "product": "Preparato per Brodo e condimento con estratto di lievito",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mon Bouillon - Preparato per Brodo e condimento con estratto di lievito",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/93001_MonBouillon_200g_20210928_1761188627.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-brodo-e-condimento-con-estratto-di-lievito",
+    "published": "2021-09-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mister-mix-insaporitore-vegetale/",
+    "title": "",
+    "noticeDate": "29 settembre 2021",
+    "campi": {
+      "data pubblicazione": "29 settembre 2021",
+      "marca": "Mr Mix 8003802070204",
+      "denominazione": "Mister Mix Insaporitore Vegetale",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Mr Mix 8003802070204",
+    "product": "Mister Mix Insaporitore Vegetale",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mr Mix 8003802070204 - Mister Mix Insaporitore Vegetale",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/94000_MrMix_200g_20210928_1761188632.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mister-mix-insaporitore-vegetale",
+    "published": "2021-09-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-vegetale-polvere-brodo-e-condimento/",
+    "title": "",
+    "noticeDate": "29 settembre 2021",
+    "campi": {
+      "data pubblicazione": "29 settembre 2021",
+      "marca": "(prodotto per l'industria)",
+      "denominazione": "Preparato vegetale in polvere per brodo e condimento",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "(prodotto per l'industria)",
+    "product": "Preparato vegetale in polvere per brodo e condimento",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo (prodotto per l'industria) - Preparato vegetale in polvere per brodo e condimento",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/94010_MrMix_7.5KG_1761188636.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-vegetale-polvere-brodo-e-condimento",
+    "published": "2021-09-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/naturalmix-cocorite-1-kg/",
+    "title": "",
+    "noticeDate": "29 settembre 2021",
+    "campi": {
+      "data pubblicazione": "29 settembre 2021",
+      "marca": "PADOVAN",
+      "denominazione": "NATURALMIX COCORITE 1 KG",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "PADOVAN",
+    "product": "NATURALMIX COCORITE 1 KG",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PADOVAN - NATURALMIX COCORITE 1 KG",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20compilato_1761188641.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "naturalmix-cocorite-1-kg",
+    "published": "2021-09-29",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/biorg-cocco-1-l/",
     "title": "",
     "noticeDate": "27 settembre 2021",
@@ -792,6 +1052,266 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "isolabio-crema-di-soia-200ml",
+    "published": "2021-09-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/isola-bio/",
+    "title": "",
+    "noticeDate": "27 settembre 2021",
+    "campi": {
+      "data pubblicazione": "27 settembre 2021",
+      "marca": "ISOLA BIO - DELIZIA DI MANDORLA 1 L",
+      "denominazione": "ISOLA BIO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ISOLA BIO - DELIZIA DI MANDORLA 1 L",
+    "product": "ISOLA BIO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ISOLA BIO - DELIZIA DI MANDORLA 1 L - ISOLA BIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ISOLABIO_DELIZIA%20DI%20MANDORLA_1761188571.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "isola-bio",
+    "published": "2021-09-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/isolabio-mandorla-go-250ml/",
+    "title": "",
+    "noticeDate": "27 settembre 2021",
+    "campi": {
+      "data pubblicazione": "27 settembre 2021",
+      "marca": "ISOLABIO",
+      "denominazione": "ISOLABIO - MANDORLA ON THE GO 250ml",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ISOLABIO",
+    "product": "ISOLABIO - MANDORLA ON THE GO 250ml",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ISOLABIO - ISOLABIO - MANDORLA ON THE GO 250ml",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ISOLABIO_MANDORLA%20ON%20THE%20GO_1761188575.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "isolabio-mandorla-go-250ml",
+    "published": "2021-09-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/isolabio-mandorla-tostata-1l/",
+    "title": "",
+    "noticeDate": "27 settembre 2021",
+    "campi": {
+      "data pubblicazione": "27 settembre 2021",
+      "marca": "ISOLABIO",
+      "denominazione": "ISOLABIO - MANDORLA TOSTATA 1L",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ISOLABIO",
+    "product": "ISOLABIO - MANDORLA TOSTATA 1L",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ISOLABIO - ISOLABIO - MANDORLA TOSTATA 1L",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ISOLABIO_MANDORLA%20TOSTATA_1761188579.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "isolabio-mandorla-tostata-1l",
+    "published": "2021-09-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/isola-bio-supreme-cocco-1l/",
+    "title": "",
+    "noticeDate": "27 settembre 2021",
+    "campi": {
+      "data pubblicazione": "27 settembre 2021",
+      "marca": "ISOLA BIO",
+      "denominazione": "ISOLA BIO - SUPREME COCCO 1L",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ISOLA BIO",
+    "product": "ISOLA BIO - SUPREME COCCO 1L",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ISOLA BIO - ISOLA BIO - SUPREME COCCO 1L",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ISOLABIO_SUPREME%20COCCO_1761188583.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "isola-bio-supreme-cocco-1l",
+    "published": "2021-09-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/stammibene/",
+    "title": "",
+    "noticeDate": "27 settembre 2021",
+    "campi": {
+      "data pubblicazione": "27 settembre 2021",
+      "marca": "STAMMIBENE - BIOCOCCO 500 ML",
+      "denominazione": "STAMMIBENE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "STAMMIBENE - BIOCOCCO 500 ML",
+    "product": "STAMMIBENE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo STAMMIBENE - BIOCOCCO 500 ML - STAMMIBENE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/STAMMIBENE_BIOCOCCO_1761188586.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "stammibene",
+    "published": "2021-09-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/isolabio-crema-di-cocco-200ml/",
+    "title": "",
+    "noticeDate": "27 settembre 2021",
+    "campi": {
+      "data pubblicazione": "27 settembre 2021",
+      "marca": "ISOLABIO",
+      "denominazione": "ISOLABIO - CREMA DI COCCO 200ML",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ISOLABIO",
+    "product": "ISOLABIO - CREMA DI COCCO 200ML",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ISOLABIO - ISOLABIO - CREMA DI COCCO 200ML",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ISOLABIO_CREMA%20DI%20COCCO_1761188590.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "isolabio-crema-di-cocco-200ml",
+    "published": "2021-09-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/isolabio-cocco-senza-zuccheri-1l/",
+    "title": "",
+    "noticeDate": "27 settembre 2021",
+    "campi": {
+      "data pubblicazione": "27 settembre 2021",
+      "marca": "ISOLABIO",
+      "denominazione": "ISOLABIO - COCCO SENZA ZUCCHERI 1L",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ISOLABIO",
+    "product": "ISOLABIO - COCCO SENZA ZUCCHERI 1L",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ISOLABIO - ISOLABIO - COCCO SENZA ZUCCHERI 1L",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ISOLABIO_COCCO%20SENZA%20ZUCCHERI_1761188594.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "isolabio-cocco-senza-zuccheri-1l",
+    "published": "2021-09-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/isolabio-avena-cacao-1l/",
+    "title": "",
+    "noticeDate": "27 settembre 2021",
+    "campi": {
+      "data pubblicazione": "27 settembre 2021",
+      "marca": "ISOLABIO",
+      "denominazione": "ISOLABIO - AVENA CACAO 1L",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ISOLABIO",
+    "product": "ISOLABIO - AVENA CACAO 1L",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ISOLABIO - ISOLABIO - AVENA CACAO 1L",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ISOLABIO_AVENA%20CACAO_1761188598.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "isolabio-avena-cacao-1l",
+    "published": "2021-09-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/stammibene-biococco-500-ml/",
+    "title": "",
+    "noticeDate": "27 settembre 2021",
+    "campi": {
+      "data pubblicazione": "27 settembre 2021",
+      "marca": "STAMMIBENE",
+      "denominazione": "STAMMIBENE - BIOCOCCO 500 ML",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "STAMMIBENE",
+    "product": "STAMMIBENE - BIOCOCCO 500 ML",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo STAMMIBENE - STAMMIBENE - BIOCOCCO 500 ML",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/STAMMIBENE_BIOCOCCO_1761188602.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "stammibene-biococco-500-ml",
+    "published": "2021-09-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/isola-bio-delizia-di-mandorla-1-l/",
+    "title": "",
+    "noticeDate": "27 settembre 2021",
+    "campi": {
+      "data pubblicazione": "27 settembre 2021",
+      "marca": "ISOLA BIO",
+      "denominazione": "ISOLA BIO - DELIZIA DI MANDORLA 1 L",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ISOLA BIO",
+    "product": "ISOLA BIO - DELIZIA DI MANDORLA 1 L",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ISOLA BIO - ISOLA BIO - DELIZIA DI MANDORLA 1 L",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ISOLABIO_DELIZIA%20DI%20MANDORLA_1761188606.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "isola-bio-delizia-di-mandorla-1-l",
     "published": "2021-09-27",
     "source": "operator"
   },
