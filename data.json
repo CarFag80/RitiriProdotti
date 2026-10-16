@@ -1790,6 +1790,240 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-toscano/",
+    "title": "",
+    "noticeDate": "15 maggio 2024",
+    "campi": {
+      "data pubblicazione": "15 maggio 2024",
+      "marca": "I Salumi di Sciano",
+      "denominazione": "Salame Toscano",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "I Salumi di Sciano",
+    "product": "Salame Toscano",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo I Salumi di Sciano - Salame Toscano",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_1761202865.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-toscano",
+    "published": "2024-05-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-mantovano-sfuso/",
+    "title": "",
+    "noticeDate": "15 maggio 2024",
+    "campi": {
+      "data pubblicazione": "15 maggio 2024",
+      "marca": "SALUMIFIICO CATTINI SRL",
+      "denominazione": "SALAME MANTOVANO SFUSO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFIICO CATTINI SRL",
+    "product": "SALAME MANTOVANO SFUSO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFIICO CATTINI SRL - SALAME MANTOVANO SFUSO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_salame%20Cattini_sfuso_1761202872.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-mantovano-sfuso",
+    "published": "2024-05-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/deco-spritz-75-cl/",
+    "title": "",
+    "noticeDate": "14 maggio 2024",
+    "campi": {
+      "data pubblicazione": "14 maggio 2024",
+      "marca": "Decò",
+      "denominazione": "Decò Spritz 75 cl",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Decò",
+    "product": "Decò Spritz 75 cl",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Decò - Decò Spritz 75 cl",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20SPRITZ_1761202859.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "deco-spritz-75-cl",
+    "published": "2024-05-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/buchweizenkekse-biscotti-di-grano-saraceno/",
+    "title": "",
+    "noticeDate": "10 maggio 2024",
+    "campi": {
+      "data pubblicazione": "10 maggio 2024",
+      "marca": "Oliver Gasser",
+      "denominazione": "Buchweizenkekse - Biscotti di grano saraceno",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Oliver Gasser",
+    "product": "Buchweizenkekse - Biscotti di grano saraceno",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Oliver Gasser - Buchweizenkekse - Biscotti di grano saraceno",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2024%2005%2009%20CARTELLO%20DI%20RICHIAMO%20OLIVER%20GASSER_1761202852.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "buchweizenkekse-biscotti-di-grano-saraceno",
+    "published": "2024-05-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-grano-tenero-00-pasta/",
+    "title": "",
+    "noticeDate": "8 maggio 2024",
+    "campi": {
+      "data pubblicazione": "8 maggio 2024",
+      "marca": "Molino Soncini Cesare s.r.l.",
+      "denominazione": "Farina di grano tenero 00 per pasta",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Molino Soncini Cesare s.r.l.",
+    "product": "Farina di grano tenero 00 per pasta",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Molino Soncini Cesare s.r.l. - Farina di grano tenero 00 per pasta",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Molino%20Soncini_1761202839.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "farina-di-grano-tenero-00-pasta",
+    "published": "2024-05-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-fresco-alta-qualita-e-latte-parzialmente-scremato/",
+    "title": "",
+    "noticeDate": "8 maggio 2024",
+    "campi": {
+      "data pubblicazione": "8 maggio 2024",
+      "marca": "marchi vari",
+      "denominazione": "Latte fresco alta qualita' e latte parzialmente scremato",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "marchi vari",
+    "product": "Latte fresco alta qualita' e latte parzialmente scremato",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo marchi vari - Latte fresco alta qualita' e latte parzialmente scremato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Ditta%20Latteria_Soresina_Cartelli_richiamo_1761202846.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-fresco-alta-qualita-e-latte-parzialmente-scremato",
+    "published": "2024-05-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kokonte-cassave-flour/",
+    "title": "",
+    "noticeDate": "7 maggio 2024",
+    "campi": {
+      "data pubblicazione": "7 maggio 2024",
+      "marca": "KOAS FOODS BV",
+      "denominazione": "KOKONTE CASSAVE FLOUR",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "KOAS FOODS BV",
+    "product": "KOKONTE CASSAVE FLOUR",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo KOAS FOODS BV - KOKONTE CASSAVE FLOUR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20Ideal%20Africa_1761202833.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "kokonte-cassave-flour",
+    "published": "2024-05-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-pizzeria/",
+    "title": "",
+    "noticeDate": "4 maggio 2024",
+    "campi": {
+      "data pubblicazione": "4 maggio 2024",
+      "marca": "fattorie marchigiane",
+      "denominazione": "mozzarella per pizzeria",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "fattorie marchigiane",
+    "product": "mozzarella per pizzeria",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo fattorie marchigiane - mozzarella per pizzeria",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulodirichiamo_1761202826.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mozzarella-pizzeria",
+    "published": "2024-05-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zuppa-con-farro-e-verdure/",
+    "title": "",
+    "noticeDate": "2 maggio 2024",
+    "campi": {
+      "data pubblicazione": "2 maggio 2024",
+      "marca": "Foglia verde",
+      "denominazione": "Zuppa con farro e verdure",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Foglia verde",
+    "product": "Zuppa con farro e verdure",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Foglia verde - Zuppa con farro e verdure",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20_1__1761202819.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "zuppa-con-farro-e-verdure",
+    "published": "2024-05-02",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/bustine-monodose-di-te-meridetox-tea-premium/",
     "title": "Bustine monodose di tè",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/sistema-di-allerta-europeo-alimenti-e-mangimi/",
@@ -1817,6 +2051,266 @@
     "id": "bustine-monodose-di-te-meridetox-tea-premium",
     "published": "2024-04-30",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lala-fish-crackers-salt-vinegar-lala-fish-crackers-classic-lala/",
+    "title": "",
+    "noticeDate": "30 aprile 2024",
+    "campi": {
+      "data pubblicazione": "30 aprile 2024",
+      "marca": "LaLa",
+      "denominazione": "Lala Fish crackers salt & vinegar, Lala fish crackers classic, Lala fish crackers sweet chilli",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LaLa",
+    "product": "Lala Fish crackers salt & vinegar, Lala fish crackers classic, Lala fish crackers sweet chilli",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LaLa - Lala Fish crackers salt & vinegar, Lala fish crackers classic, Lala fish crackers sweet chilli",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761202805.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lala-fish-crackers-salt-vinegar-lala-fish-crackers-classic-lala",
+    "published": "2024-04-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-classico-850g/",
+    "title": "",
+    "noticeDate": "30 aprile 2024",
+    "campi": {
+      "data pubblicazione": "30 aprile 2024",
+      "marca": "La Valle degli Orti",
+      "denominazione": "Minestrone Classico 850g",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "La Valle degli Orti",
+    "product": "Minestrone Classico 850g",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo La Valle degli Orti - Minestrone Classico 850g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_frosta_1761202812.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "minestrone-classico-850g",
+    "published": "2024-04-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sigaro-di-suino-0/",
+    "title": "",
+    "noticeDate": "29 aprile 2024",
+    "campi": {
+      "data pubblicazione": "29 aprile 2024",
+      "marca": "SOC AGR LA VALLATA SAS",
+      "denominazione": "Sigaro di suino",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SOC AGR LA VALLATA SAS",
+    "product": "Sigaro di suino",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SOC AGR LA VALLATA SAS - Sigaro di suino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamosigarodisuino_1761202772.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sigaro-di-suino-0",
+    "published": "2024-04-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sigaro-di-pollo-0/",
+    "title": "",
+    "noticeDate": "29 aprile 2024",
+    "campi": {
+      "data pubblicazione": "29 aprile 2024",
+      "marca": "SOC AGR LA VALLATA SAS",
+      "denominazione": "Sigaro di pollo",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SOC AGR LA VALLATA SAS",
+    "product": "Sigaro di pollo",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SOC AGR LA VALLATA SAS - Sigaro di pollo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamosigarodipollo_1761202778.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sigaro-di-pollo-0",
+    "published": "2024-04-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sigaro-di-chianina-0/",
+    "title": "",
+    "noticeDate": "29 aprile 2024",
+    "campi": {
+      "data pubblicazione": "29 aprile 2024",
+      "marca": "SOC AGR LA VALLATA SAS",
+      "denominazione": "Sigaro di chianina",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SOC AGR LA VALLATA SAS",
+    "product": "Sigaro di chianina",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SOC AGR LA VALLATA SAS - Sigaro di chianina",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamosigarodichianina_1761202785.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sigaro-di-chianina-0",
+    "published": "2024-04-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sigaro-di-angus-0/",
+    "title": "",
+    "noticeDate": "29 aprile 2024",
+    "campi": {
+      "data pubblicazione": "29 aprile 2024",
+      "marca": "SOC AGR LA VALLATA SAS",
+      "denominazione": "Sigaro di angus",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SOC AGR LA VALLATA SAS",
+    "product": "Sigaro di angus",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SOC AGR LA VALLATA SAS - Sigaro di angus",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamosigarodiangus_1761202791.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sigaro-di-angus-0",
+    "published": "2024-04-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bottarga-di-piccione-0/",
+    "title": "",
+    "noticeDate": "29 aprile 2024",
+    "campi": {
+      "data pubblicazione": "29 aprile 2024",
+      "marca": "SOC AGR LA VALLATA SAS",
+      "denominazione": "Bottarga di piccione",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SOC AGR LA VALLATA SAS",
+    "product": "Bottarga di piccione",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SOC AGR LA VALLATA SAS - Bottarga di piccione",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modrichiamobottargapiccione_1761202797.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "bottarga-di-piccione-0",
+    "published": "2024-04-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ajwain/",
+    "title": "",
+    "noticeDate": "26 aprile 2024",
+    "campi": {
+      "data pubblicazione": "26 aprile 2024",
+      "marca": "Ali Baba",
+      "denominazione": "AJWAIN",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Ali Baba",
+    "product": "AJWAIN",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ali Baba - AJWAIN",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO_1761202760.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ajwain",
+    "published": "2024-04-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/petit-fleur-g180/",
+    "title": "",
+    "noticeDate": "26 aprile 2024",
+    "campi": {
+      "data pubblicazione": "26 aprile 2024",
+      "marca": "TREVISAN SRL",
+      "denominazione": "PETIT FLEUR G.180",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "TREVISAN SRL",
+    "product": "PETIT FLEUR G.180",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TREVISAN SRL - PETIT FLEUR G.180",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello__Richiamo_PETIT%20FLEUR%20TREVISAN__1761202767.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "petit-fleur-g180",
+    "published": "2024-04-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/marinated-wakame/",
+    "title": "",
+    "noticeDate": "24 aprile 2024",
+    "campi": {
+      "data pubblicazione": "24 aprile 2024",
+      "marca": "VITASIA",
+      "denominazione": "MARINATED WAKAME",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "VITASIA",
+    "product": "MARINATED WAKAME",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VITASIA - MARINATED WAKAME",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato4_MODELLO_DI_RICHIAMOK24021_1761202754.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "marinated-wakame",
+    "published": "2024-04-24",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuore-di-mandorla-e-arancia-lotto-f0401-f0219-1500g-naturalia/",
@@ -2153,6 +2647,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "ricciarelli-lotto-a0325-a0408-200g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ricciarelli-lotto-a0408-200g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "HERSUN",
+      "denominazione": "RICCIARELLI - LOTTO A0408 200G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "HERSUN",
+    "product": "RICCIARELLI - LOTTO A0408 200G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo HERSUN - RICCIARELLI - LOTTO A0408 200G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICCIARELLI%20200G%20H0408%20HERSUN_1761202748.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ricciarelli-lotto-a0408-200g",
     "published": "2024-04-22",
     "source": "operator"
   },
