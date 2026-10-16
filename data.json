@@ -406,6 +406,500 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caciotta-stagionata-di-bufala/",
+    "title": "",
+    "noticeDate": "29 luglio 2025",
+    "campi": {
+      "data pubblicazione": "29 luglio 2025",
+      "marca": "FATTORIE GAROFALO",
+      "denominazione": "CACIOTTA STAGIONATA DI BUFALA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FATTORIE GAROFALO",
+    "product": "CACIOTTA STAGIONATA DI BUFALA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FATTORIE GAROFALO - CACIOTTA STAGIONATA DI BUFALA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20%20Richiamo_1761208315.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "caciotta-stagionata-di-bufala",
+    "published": "2025-07-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/i-savoiardi/",
+    "title": "",
+    "noticeDate": "28 luglio 2025",
+    "campi": {
+      "data pubblicazione": "28 luglio 2025",
+      "marca": "DILEO PIETRO SPA - MATERA",
+      "denominazione": "I SAVOIARDI",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "DILEO PIETRO SPA - MATERA",
+    "product": "I SAVOIARDI",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DILEO PIETRO SPA - MATERA - I SAVOIARDI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761208313.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "i-savoiardi",
+    "published": "2025-07-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gamberetto-rosa-salamoia-precotto-e-sgusciato-0/",
+    "title": "",
+    "noticeDate": "25 luglio 2025",
+    "campi": {
+      "data pubblicazione": "25 luglio 2025",
+      "marca": "Gamberetto artico",
+      "denominazione": "Gamberetto rosa in salamoia precotto e sgusciato",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Gamberetto artico",
+    "product": "Gamberetto rosa in salamoia precotto e sgusciato",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gamberetto artico - Gamberetto rosa in salamoia precotto e sgusciato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/29a%20_%20Richiamo%20Artici%20g.%20125%20_%20TMC%2007.08.2025_1761208305.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gamberetto-rosa-salamoia-precotto-e-sgusciato-0",
+    "published": "2025-07-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gamberetto-rosa-salamoia-precotto-e-sgusciato-1/",
+    "title": "",
+    "noticeDate": "25 luglio 2025",
+    "campi": {
+      "data pubblicazione": "25 luglio 2025",
+      "marca": "Gamberetto Artico",
+      "denominazione": "Gamberetto rosa in salamoia precotto e sgusciato",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Gamberetto Artico",
+    "product": "Gamberetto rosa in salamoia precotto e sgusciato",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gamberetto Artico - Gamberetto rosa in salamoia precotto e sgusciato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/29c%20_%20Richiamo%20Artici%20g.%20125%20_%20TMC%2011.08.2025_1761208308.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gamberetto-rosa-salamoia-precotto-e-sgusciato-1",
+    "published": "2025-07-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mitili/",
+    "title": "",
+    "noticeDate": "25 luglio 2025",
+    "campi": {
+      "data pubblicazione": "25 luglio 2025",
+      "marca": "Olbiesina - Spano Group srl IT 543/CSM CE",
+      "denominazione": "Mitili",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Olbiesina - Spano Group srl IT 543/CSM CE",
+    "product": "Mitili",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Olbiesina - Spano Group srl IT 543/CSM CE - Mitili",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20Spano%20Group_1761208310.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mitili",
+    "published": "2025-07-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gastrogel/",
+    "title": "",
+    "noticeDate": "24 luglio 2025",
+    "campi": {
+      "data pubblicazione": "24 luglio 2025",
+      "marca": "Solimé",
+      "denominazione": "Gastrogel",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Solimé",
+    "product": "Gastrogel",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Solimé - Gastrogel",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_%20Gastrogel_1761208303.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gastrogel",
+    "published": "2025-07-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/2-fette-di-zampone-senza-pelle-gia-cotto/",
+    "title": "",
+    "noticeDate": "23 luglio 2025",
+    "campi": {
+      "data pubblicazione": "23 luglio 2025",
+      "marca": "Palmieri",
+      "denominazione": "2 fette di zampone senza pelle gia' cotto",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Palmieri",
+    "product": "2 fette di zampone senza pelle gia' cotto",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Palmieri - 2 fette di zampone senza pelle gia' cotto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20fette%20marchio%20palmieri%20lotto%2002449040_1761208289.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "2-fette-di-zampone-senza-pelle-gia-cotto",
+    "published": "2025-07-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fette-di-zampone-senza-pelle/",
+    "title": "",
+    "noticeDate": "23 luglio 2025",
+    "campi": {
+      "data pubblicazione": "23 luglio 2025",
+      "marca": "Consilia",
+      "denominazione": "Fette di Zampone senza pelle",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Consilia",
+    "product": "Fette di Zampone senza pelle",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Consilia - Fette di Zampone senza pelle",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20Consilia_1761208292.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "fette-di-zampone-senza-pelle",
+    "published": "2025-07-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fette-di-zampone-senza-pelle-precotte/",
+    "title": "",
+    "noticeDate": "23 luglio 2025",
+    "campi": {
+      "data pubblicazione": "23 luglio 2025",
+      "marca": "Il viaggiator goloso",
+      "denominazione": "Fette di zampone senza pelle precotte",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Il viaggiator goloso",
+    "product": "Fette di zampone senza pelle precotte",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Il viaggiator goloso - Fette di zampone senza pelle precotte",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20marchio%20VG%20Unes_1761208294.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "fette-di-zampone-senza-pelle-precotte",
+    "published": "2025-07-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/2-fette-di-zampone-senza-pelle-gia-cotto-0/",
+    "title": "",
+    "noticeDate": "23 luglio 2025",
+    "campi": {
+      "data pubblicazione": "23 luglio 2025",
+      "marca": "Palmieri",
+      "denominazione": "2 fette di zampone senza pelle gia' cotto",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Palmieri",
+    "product": "2 fette di zampone senza pelle gia' cotto",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Palmieri - 2 fette di zampone senza pelle gia' cotto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20Palmieri_1761208296.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "2-fette-di-zampone-senza-pelle-gia-cotto-0",
+    "published": "2025-07-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fette-di-zampone-senza-pelle-0/",
+    "title": "",
+    "noticeDate": "23 luglio 2025",
+    "campi": {
+      "data pubblicazione": "23 luglio 2025",
+      "marca": "Consilia",
+      "denominazione": "Fette di zampone senza pelle",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Consilia",
+    "product": "Fette di zampone senza pelle",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Consilia - Fette di zampone senza pelle",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20Consilia_1761208298.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "fette-di-zampone-senza-pelle-0",
+    "published": "2025-07-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fette-di-zampone-senza-pelle-precotte-0/",
+    "title": "",
+    "noticeDate": "23 luglio 2025",
+    "campi": {
+      "data pubblicazione": "23 luglio 2025",
+      "marca": "il viaggiator goloso",
+      "denominazione": "Fette di zampone senza pelle precotte",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "il viaggiator goloso",
+    "product": "Fette di zampone senza pelle precotte",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo il viaggiator goloso - Fette di zampone senza pelle precotte",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20VG%20Unes_1761208301.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "fette-di-zampone-senza-pelle-precotte-0",
+    "published": "2025-07-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gamberetto-rosa-salamoia-precotto-e-sgusciato/",
+    "title": "",
+    "noticeDate": "22 luglio 2025",
+    "campi": {
+      "data pubblicazione": "22 luglio 2025",
+      "marca": "Gamberetti Artico",
+      "denominazione": "Gamberetto rosa in salamoia precotto e sgusciato",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Gamberetti Artico",
+    "product": "Gamberetto rosa in salamoia precotto e sgusciato",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gamberetti Artico - Gamberetto rosa in salamoia precotto e sgusciato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Artici%20g.%20125_1761208285.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gamberetto-rosa-salamoia-precotto-e-sgusciato",
+    "published": "2025-07-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aligastril-gel/",
+    "title": "",
+    "noticeDate": "22 luglio 2025",
+    "campi": {
+      "data pubblicazione": "22 luglio 2025",
+      "marca": "Aliveda",
+      "denominazione": "Aligastril Gel",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Aliveda",
+    "product": "Aligastril Gel",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Aliveda - Aligastril Gel",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Aligastril%20Gel%20_%20Laboratori%20Aliveda%20srl%20_1__1761208287.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "aligastril-gel",
+    "published": "2025-07-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/origano-foglioline/",
+    "title": "",
+    "noticeDate": "11 luglio 2025",
+    "campi": {
+      "data pubblicazione": "11 luglio 2025",
+      "marca": "Teorema mediterraneo s.r.l.",
+      "denominazione": "Origano foglioline",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Teorema mediterraneo s.r.l.",
+    "product": "Origano foglioline",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Teorema mediterraneo s.r.l. - Origano foglioline",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20lotto%201106A_1761208279.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "origano-foglioline",
+    "published": "2025-07-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/origano-foglioline-0/",
+    "title": "",
+    "noticeDate": "11 luglio 2025",
+    "campi": {
+      "data pubblicazione": "11 luglio 2025",
+      "marca": "Teorema Mediterraneo s.r.l.",
+      "denominazione": "Origano foglioline",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Teorema Mediterraneo s.r.l.",
+    "product": "Origano foglioline",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Teorema Mediterraneo s.r.l. - Origano foglioline",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20lotto%200606A_1761208281.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "origano-foglioline-0",
+    "published": "2025-07-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/parboiled-royal-golden-sella-basmati-rice/",
+    "title": "",
+    "noticeDate": "11 luglio 2025",
+    "campi": {
+      "data pubblicazione": "11 luglio 2025",
+      "marca": "ROYAL GOLDEN",
+      "denominazione": "PARBOILED ROYAL GOLDEN SELLA BASMATI RICE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ROYAL GOLDEN",
+    "product": "PARBOILED ROYAL GOLDEN SELLA BASMATI RICE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ROYAL GOLDEN - PARBOILED ROYAL GOLDEN SELLA BASMATI RICE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20di%20RICHIAMO_1761208283.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "parboiled-royal-golden-sella-basmati-rice",
+    "published": "2025-07-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pepe-nero-macinato-premiati-sapori/",
+    "title": "",
+    "noticeDate": "10 luglio 2025",
+    "campi": {
+      "data pubblicazione": "10 luglio 2025",
+      "marca": "PREMIATI SAPORI",
+      "denominazione": "Pepe Nero Macinato \"PREMIATI SAPORI\"",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "PREMIATI SAPORI",
+    "product": "Pepe Nero Macinato \"PREMIATI SAPORI\"",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PREMIATI SAPORI - Pepe Nero Macinato \"PREMIATI SAPORI\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20di%20%20RICHIAMO_PEPE%20_Premiati%20Sapori_1761208277.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pepe-nero-macinato-premiati-sapori",
+    "published": "2025-07-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tramezzino-farcito-con-prosciutto-praga-scamorza-affumicata/",
+    "title": "",
+    "noticeDate": "8 luglio 2025",
+    "campi": {
+      "data pubblicazione": "8 luglio 2025",
+      "marca": "IBIS",
+      "denominazione": "Tramezzino farcito con prosciutto praga, scamorza affumicata, pomodorini e maionese",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "IBIS",
+    "product": "Tramezzino farcito con prosciutto praga, scamorza affumicata, pomodorini e maionese",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IBIS - Tramezzino farcito con prosciutto praga, scamorza affumicata, pomodorini e maionese",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/DITTA%20ITALIA%20ALIMENTARI_%20modulo%20richiamo%200340104_SAND.PR.PRAG_SCAM._POM.170GR.%20L.163_1761208276.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tramezzino-farcito-con-prosciutto-praga-scamorza-affumicata",
+    "published": "2025-07-08",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/contorno-delicato/",
     "title": "",
     "noticeDate": "7 luglio 2025",
@@ -428,6 +922,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "contorno-delicato",
+    "published": "2025-07-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-allevamento-allaperto/",
+    "title": "",
+    "noticeDate": "7 luglio 2025",
+    "campi": {
+      "data pubblicazione": "7 luglio 2025",
+      "marca": "AGRICOLA PANENI",
+      "denominazione": "UOVA FRESCHE DA ALLEVAMENTO ALL'APERTO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "AGRICOLA PANENI",
+    "product": "UOVA FRESCHE DA ALLEVAMENTO ALL'APERTO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AGRICOLA PANENI - UOVA FRESCHE DA ALLEVAMENTO ALL'APERTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Paneni_1761208274.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-da-allevamento-allaperto",
     "published": "2025-07-07",
     "source": "operator"
   },
