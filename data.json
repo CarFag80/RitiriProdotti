@@ -406,6 +406,32 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/marmellata-di-mandarini/",
+    "title": "",
+    "noticeDate": "24 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "24 gennaio 2025",
+      "marca": "Mentuccia di Zavone Anita",
+      "denominazione": "Marmellata di mandarini",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Mentuccia di Zavone Anita",
+    "product": "Marmellata di mandarini",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mentuccia di Zavone Anita - Marmellata di mandarini",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_MARMELLATA%20DI%20MANDARINI_1761206327.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "marmellata-di-mandarini",
+    "published": "2025-01-24",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cremini-alle-nocciole-e-mandorle/",
     "title": "",
     "noticeDate": "23 gennaio 2025",
