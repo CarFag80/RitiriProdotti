@@ -172,6 +172,84 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/melus/",
+    "title": "",
+    "noticeDate": "21 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "21 gennaio 2025",
+      "marca": "Degust",
+      "denominazione": "Melus",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Degust",
+    "product": "Melus",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Degust - Melus",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Melus%20pdf_1761206227.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "melus",
+    "published": "2025-01-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kloaznkas/",
+    "title": "",
+    "noticeDate": "21 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "21 gennaio 2025",
+      "marca": "Degust",
+      "denominazione": "Kloaznkas",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Degust",
+    "product": "Kloaznkas",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Degust - Kloaznkas",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Kloaznkas%20pdf_1761206231.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "kloaznkas",
+    "published": "2025-01-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cremini-sapori-idee-0/",
+    "title": "",
+    "noticeDate": "21 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "21 gennaio 2025",
+      "marca": "Conad",
+      "denominazione": "Cremini Sapori & Idee",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Conad",
+    "product": "Cremini Sapori & Idee",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Conad - Cremini Sapori & Idee",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cremini%20nocciola%20e%20mandorle%20Conad%20ulteriori%20lotti_1761206235.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cremini-sapori-idee-0",
+    "published": "2025-01-21",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burger-miglio-melanzane/",
     "title": "",
     "noticeDate": "25 ottobre 2024",
@@ -2801,6 +2879,266 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-grattugiato-500g/",
+    "title": "",
+    "noticeDate": "23 agosto 2024",
+    "campi": {
+      "data pubblicazione": "23 agosto 2024",
+      "marca": "SAPOR DI CASCINA",
+      "denominazione": "MIX GRATTUGIATO 500G",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SAPOR DI CASCINA",
+    "product": "MIX GRATTUGIATO 500G",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SAPOR DI CASCINA - MIX GRATTUGIATO 500G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_Richiamo_MIX_GRATTUGIATO_1761205381.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mix-grattugiato-500g",
+    "published": "2024-08-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-pistacchi-metrochef/",
+    "title": "",
+    "noticeDate": "14 agosto 2024",
+    "campi": {
+      "data pubblicazione": "14 agosto 2024",
+      "marca": "METROCHEF",
+      "denominazione": "FARINA DI PISTACCHI METROCHEF",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "METROCHEF",
+    "product": "FARINA DI PISTACCHI METROCHEF",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo METROCHEF - FARINA DI PISTACCHI METROCHEF",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_farina%20pistacchio_1761205376.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "farina-di-pistacchi-metrochef",
+    "published": "2024-08-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wurstel-servelade-affumicato/",
+    "title": "",
+    "noticeDate": "13 agosto 2024",
+    "campi": {
+      "data pubblicazione": "13 agosto 2024",
+      "marca": "DULANO",
+      "denominazione": "Wurstel servelade affumicato",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "DULANO",
+    "product": "Wurstel servelade affumicato",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DULANO - Wurstel servelade affumicato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato4_MODELLO_DI_RICHIAMOmodv2%20_1__1761205371.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "wurstel-servelade-affumicato",
+    "published": "2024-08-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-piccolo-piccante/",
+    "title": "",
+    "noticeDate": "12 agosto 2024",
+    "campi": {
+      "data pubblicazione": "12 agosto 2024",
+      "marca": "LOS NECOS",
+      "denominazione": "MAIS PICCOLO PICCANTE",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "LOS NECOS",
+    "product": "MAIS PICCOLO PICCANTE",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LOS NECOS - MAIS PICCOLO PICCANTE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MAIS%20PICCOLO%20PICCANTE%20_%20Modulo%20richiamo_1761205366.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mais-piccolo-piccante",
+    "published": "2024-08-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/grappa-elegant/",
+    "title": "",
+    "noticeDate": "8 agosto 2024",
+    "campi": {
+      "data pubblicazione": "8 agosto 2024",
+      "marca": "Gielledi srl",
+      "denominazione": "Grappa Elegant",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Gielledi srl",
+    "product": "Grappa Elegant",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gielledi srl - Grappa Elegant",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/GRAPPA%20ELEGANT%20ALLEGATO1_1761205351.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "grappa-elegant",
+    "published": "2024-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/grappa-bianca/",
+    "title": "",
+    "noticeDate": "8 agosto 2024",
+    "campi": {
+      "data pubblicazione": "8 agosto 2024",
+      "marca": "GIELLEDI srl",
+      "denominazione": "Grappa Bianca",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "GIELLEDI srl",
+    "product": "Grappa Bianca",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GIELLEDI srl - Grappa Bianca",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/GRAPPA%20BIANCA%20ALLEGATO%202_1761205356.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "grappa-bianca",
+    "published": "2024-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/il-trullo-del-sovrano/",
+    "title": "",
+    "noticeDate": "8 agosto 2024",
+    "campi": {
+      "data pubblicazione": "8 agosto 2024",
+      "marca": "Mandorlotto ( Liquore a vase di grappa e mandorla)",
+      "denominazione": "Il trullo del sovrano",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Mandorlotto ( Liquore a vase di grappa e mandorla)",
+    "product": "Il trullo del sovrano",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mandorlotto ( Liquore a vase di grappa e mandorla) - Il trullo del sovrano",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MANDORLOTTO%20ALLEGATO%203_1761205361.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "il-trullo-del-sovrano",
+    "published": "2024-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aggiungi-un-posto-set-4-posate-acciaio-codice-articolo-a35494/",
+    "title": "",
+    "noticeDate": "7 agosto 2024",
+    "campi": {
+      "data pubblicazione": "7 agosto 2024",
+      "marca": "FEDERIGHI 1926 SPA",
+      "denominazione": "\"Aggiungi un posto SET 4 POSATE ACCIAIO\" codice articolo A35494",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "FEDERIGHI 1926 SPA",
+    "product": "\"Aggiungi un posto SET 4 POSATE ACCIAIO\" codice articolo A35494",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FEDERIGHI 1926 SPA - \"Aggiungi un posto SET 4 POSATE ACCIAIO\" codice articolo A35494",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modellorichiamoColtelloacciaio_1761205346.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "aggiungi-un-posto-set-4-posate-acciaio-codice-articolo-a35494",
+    "published": "2024-08-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinaci-500-g/",
+    "title": "",
+    "noticeDate": "5 agosto 2024",
+    "campi": {
+      "data pubblicazione": "5 agosto 2024",
+      "marca": "I Colori del sapore",
+      "denominazione": "SPINACI 500 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "I Colori del sapore",
+    "product": "SPINACI 500 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo I Colori del sapore - SPINACI 500 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20_%20Spinaci%20500g%20_1__1761205341.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spinaci-500-g",
+    "published": "2024-08-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/utensile-nylon-schiacciapatate/",
+    "title": "",
+    "noticeDate": "2 agosto 2024",
+    "campi": {
+      "data pubblicazione": "2 agosto 2024",
+      "marca": "Alpina",
+      "denominazione": "utensile in nylon-schiacciapatate",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "Alpina",
+    "product": "utensile in nylon-schiacciapatate",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Alpina - utensile in nylon-schiacciapatate",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20di%20richiamo_1761205337.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "utensile-nylon-schiacciapatate",
+    "published": "2024-08-02",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinacio-aldi/",
     "title": "",
     "noticeDate": "1 agosto 2024",
@@ -3057,6 +3395,188 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "spinacio-250gr-ambruosi-viscardi",
+    "published": "2024-08-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinacio-buongiorno-freschezza/",
+    "title": "",
+    "noticeDate": "1 agosto 2024",
+    "campi": {
+      "data pubblicazione": "1 agosto 2024",
+      "marca": "BUONGIORNO FRESCHEZZA",
+      "denominazione": "SPINACIO BUONGIORNO FRESCHEZZA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BUONGIORNO FRESCHEZZA",
+    "product": "SPINACIO BUONGIORNO FRESCHEZZA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BUONGIORNO FRESCHEZZA - SPINACIO BUONGIORNO FRESCHEZZA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO%20SPINACIO%20ORTOFIN%20500GR%20CON%20FOTO_1761205309.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spinacio-buongiorno-freschezza",
+    "published": "2024-08-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinacio-natura-e/",
+    "title": "",
+    "noticeDate": "1 agosto 2024",
+    "campi": {
+      "data pubblicazione": "1 agosto 2024",
+      "marca": "NATURA E¿",
+      "denominazione": "SPINACIO NATURA E¿",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "NATURA E¿",
+    "product": "SPINACIO NATURA E¿",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NATURA E¿ - SPINACIO NATURA E¿",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO%20SPINACIO%20PENNY%20500GR_1761205313.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spinacio-natura-e",
+    "published": "2024-08-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinacio-natura-chiama-selex/",
+    "title": "",
+    "noticeDate": "1 agosto 2024",
+    "campi": {
+      "data pubblicazione": "1 agosto 2024",
+      "marca": "NATURA CHIAMA SELEX",
+      "denominazione": "SPINACIO NATURA CHIAMA SELEX",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "NATURA CHIAMA SELEX",
+    "product": "SPINACIO NATURA CHIAMA SELEX",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NATURA CHIAMA SELEX - SPINACIO NATURA CHIAMA SELEX",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO%20SPINACIO%20SELEX%20500GR%20CON%20FOTO_1761205317.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spinacio-natura-chiama-selex",
+    "published": "2024-08-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinacio-sendero/",
+    "title": "",
+    "noticeDate": "1 agosto 2024",
+    "campi": {
+      "data pubblicazione": "1 agosto 2024",
+      "marca": "SENDERO",
+      "denominazione": "SPINACIO SENDERO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SENDERO",
+    "product": "SPINACIO SENDERO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SENDERO - SPINACIO SENDERO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO%20SENDERO%20350gr_1761205321.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spinacio-sendero",
+    "published": "2024-08-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinacio-naturale-e/",
+    "title": "",
+    "noticeDate": "1 agosto 2024",
+    "campi": {
+      "data pubblicazione": "1 agosto 2024",
+      "marca": "Natura E'",
+      "denominazione": "Spinacio Naturale E'",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Natura E'",
+    "product": "Spinacio Naturale E'",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Natura E' - Spinacio Naturale E'",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO%20SPINACIO%20PENNY%20500GR%20_1__1761205324.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spinacio-naturale-e",
+    "published": "2024-08-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinacio-buongiorno-freschezza-0/",
+    "title": "",
+    "noticeDate": "1 agosto 2024",
+    "campi": {
+      "data pubblicazione": "1 agosto 2024",
+      "marca": "Buongiorno Freschezza",
+      "denominazione": "Spinacio Buongiorno Freschezza",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Buongiorno Freschezza",
+    "product": "Spinacio Buongiorno Freschezza",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Buongiorno Freschezza - Spinacio Buongiorno Freschezza",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO%20SPINACIO%20ORTOFIN%20500GR_1761205328.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spinacio-buongiorno-freschezza-0",
+    "published": "2024-08-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinaci/",
+    "title": "",
+    "noticeDate": "1 agosto 2024",
+    "campi": {
+      "data pubblicazione": "1 agosto 2024",
+      "marca": "FOGLIA VERDE",
+      "denominazione": "Spinaci",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "FOGLIA VERDE",
+    "product": "Spinaci",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FOGLIA VERDE - Spinaci",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20RICHIAMO%20Ministeriale_spinaci_stramonio_1761205333.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spinaci",
     "published": "2024-08-01",
     "source": "operator"
   },
