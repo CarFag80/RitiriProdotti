@@ -1,5 +1,135 @@
 [
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/veggarella-preparazione-gastronomica-vegetale-base-di-soia-e/",
+    "title": "",
+    "noticeDate": "14 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "14 ottobre 2026",
+      "marca": "IO VEG",
+      "denominazione": "VEGGARELLA - Preparazione gastronomica vegetale a base di soia e mandorle",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "IO VEG",
+    "product": "VEGGARELLA - Preparazione gastronomica vegetale a base di soia e mandorle",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IO VEG - VEGGARELLA - Preparazione gastronomica vegetale a base di soia e mandorle",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/07102026%20Modello_richiamo_Veggarella_compilato_1791979728.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "veggarella-preparazione-gastronomica-vegetale-base-di-soia-e",
+    "published": "2026-10-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/perfetto-moka-macinato-aromatizzato-al-caramello/",
+    "title": "",
+    "noticeDate": "13 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "13 ottobre 2026",
+      "marca": "Bialetti",
+      "denominazione": "Perfetto moka macinato aromatizzato al caramello",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Bialetti",
+    "product": "Perfetto moka macinato aromatizzato al caramello",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bialetti - Perfetto moka macinato aromatizzato al caramello",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALL.1%20cartello%20di%20richiamo_1791893295.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "perfetto-moka-macinato-aromatizzato-al-caramello",
+    "published": "2026-10-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cooperlat-soc-coop-agr/",
+    "title": "",
+    "noticeDate": "13 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "13 ottobre 2026",
+      "marca": "Cigno",
+      "denominazione": "Cooperlat Soc. Coop: Agr.",
+      "motivo della segnalazione": "Altro motivo di richiamo"
+    },
+    "brand": "Cigno",
+    "product": "Cooperlat Soc. Coop: Agr.",
+    "reasonShort": "Altro motivo di richiamo",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cigno - Cooperlat Soc. Coop: Agr.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/12.10.2026_Cartello_Richiamo_latte_Cigno_1791893297.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cooperlat-soc-coop-agr",
+    "published": "2026-10-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tramezzino-coop-prosciutto-cotto-150g/",
+    "title": "",
+    "noticeDate": "12 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "12 ottobre 2026",
+      "marca": "COOP",
+      "denominazione": "TRAMEZZINO COOP PROSCIUTTO COTTO 150G",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "COOP",
+    "product": "TRAMEZZINO COOP PROSCIUTTO COTTO 150G",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo COOP - TRAMEZZINO COOP PROSCIUTTO COTTO 150G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_Richiam_Tramezzino_COOP_A_269_F_1791815635.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tramezzino-coop-prosciutto-cotto-150g",
+    "published": "2026-10-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vitello-tonnato-gr-180/",
+    "title": "",
+    "noticeDate": "12 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "12 ottobre 2026",
+      "marca": "PORTAMI VIA",
+      "denominazione": "VITELLO TONNATO gr. 180",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "PORTAMI VIA",
+    "product": "VITELLO TONNATO gr. 180",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PORTAMI VIA - VITELLO TONNATO gr. 180",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Vitello%20tonnato%20gr.%20180%20Portamivia%20L260_26_1791815682.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "vitello-tonnato-gr-180",
+    "published": "2026-10-12",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/valtellina-casera-dop/",
     "title": "",
     "noticeDate": "9 ottobre 2026",
@@ -276,6 +406,240 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/diversi-nomi-commerciali-rispetto-tipologie-di-prodotto-0/",
+    "title": "",
+    "noticeDate": "27 marzo 2025",
+    "campi": {
+      "data pubblicazione": "27 marzo 2025",
+      "marca": "SWEER CREAM SRLS",
+      "denominazione": "Diversi nomi commerciali rispetto a tipologie di prodotto differenti",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SWEER CREAM SRLS",
+    "product": "Diversi nomi commerciali rispetto a tipologie di prodotto differenti",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SWEER CREAM SRLS - Diversi nomi commerciali rispetto a tipologie di prodotto differenti",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_referenze_Sweet_Cream_srls_1761206699.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "diversi-nomi-commerciali-rispetto-tipologie-di-prodotto-0",
+    "published": "2025-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/petto-dipollo-cotto-al-forno/",
+    "title": "",
+    "noticeDate": "27 marzo 2025",
+    "campi": {
+      "data pubblicazione": "27 marzo 2025",
+      "marca": "IL TAGLIERE DEL RE",
+      "denominazione": "PETTO DIPOLLO COTTO AL FORNO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "IL TAGLIERE DEL RE",
+    "product": "PETTO DIPOLLO COTTO AL FORNO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IL TAGLIERE DEL RE - PETTO DIPOLLO COTTO AL FORNO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20MINISTERIALE%20COMPILATO%20ALDI%20_1__1761206704.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "petto-dipollo-cotto-al-forno",
+    "published": "2025-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/petto-di-pollo-cotto-al-forno/",
+    "title": "",
+    "noticeDate": "27 marzo 2025",
+    "campi": {
+      "data pubblicazione": "27 marzo 2025",
+      "marca": "LE VIE DEL GUSTO",
+      "denominazione": "PETTO DI POLLO COTTO AL FORNO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "LE VIE DEL GUSTO",
+    "product": "PETTO DI POLLO COTTO AL FORNO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LE VIE DEL GUSTO - PETTO DI POLLO COTTO AL FORNO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20MINISTERIALE%20COMPILATO%20CONAD_1761206710.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "petto-di-pollo-cotto-al-forno",
+    "published": "2025-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bbcolic/",
+    "title": "",
+    "noticeDate": "26 marzo 2025",
+    "campi": {
+      "data pubblicazione": "26 marzo 2025",
+      "marca": "BUONA",
+      "denominazione": "BBCOLIC",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "BUONA",
+    "product": "BBCOLIC",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BUONA - BBCOLIC",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Standard%20per%20Richiami%20_%20BBCOLIC%20_%20Lotto%200412_1761206695.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "bbcolic",
+    "published": "2025-03-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wurstel-puro-suino/",
+    "title": "",
+    "noticeDate": "25 marzo 2025",
+    "campi": {
+      "data pubblicazione": "25 marzo 2025",
+      "marca": "CONAD S.C.",
+      "denominazione": "WURSTEL PURO SUINO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "CONAD S.C.",
+    "product": "WURSTEL PURO SUINO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONAD S.C. - WURSTEL PURO SUINO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo_1761206690.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "wurstel-puro-suino",
+    "published": "2025-03-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-girasole-decorticati-bio/",
+    "title": "",
+    "noticeDate": "24 marzo 2025",
+    "campi": {
+      "data pubblicazione": "24 marzo 2025",
+      "marca": "Bongiovanni srl",
+      "denominazione": "Semi di girasole decorticati BIO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Bongiovanni srl",
+    "product": "Semi di girasole decorticati BIO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bongiovanni srl - Semi di girasole decorticati BIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_semi_Bongiovanni_1761206680.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "semi-di-girasole-decorticati-bio",
+    "published": "2025-03-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mixseeds/",
+    "title": "",
+    "noticeDate": "24 marzo 2025",
+    "campi": {
+      "data pubblicazione": "24 marzo 2025",
+      "marca": "Bongiovanni srl",
+      "denominazione": "Mixseeds",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Bongiovanni srl",
+    "product": "Mixseeds",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bongiovanni srl - Mixseeds",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_mixseeds_1761206685.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mixseeds",
+    "published": "2025-03-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/snep-crockis/",
+    "title": "",
+    "noticeDate": "22 marzo 2025",
+    "campi": {
+      "data pubblicazione": "22 marzo 2025",
+      "marca": "SNEP SPA",
+      "denominazione": "SNEP CROCKIS",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SNEP SPA",
+    "product": "SNEP CROCKIS",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SNEP SPA - SNEP CROCKIS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_20171116%20regione1_1_1761206676.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "snep-crockis",
+    "published": "2025-03-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/petto-di-polloal-forno-affettato/",
+    "title": "",
+    "noticeDate": "21 marzo 2025",
+    "campi": {
+      "data pubblicazione": "21 marzo 2025",
+      "marca": "IL TAGLIERE DEL RE",
+      "denominazione": "PETTO DI POLLOAL FORNO AFFETTATO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "IL TAGLIERE DEL RE",
+    "product": "PETTO DI POLLOAL FORNO AFFETTATO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IL TAGLIERE DEL RE - PETTO DI POLLOAL FORNO AFFETTATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULOMINISTERIALECOMPILATOALDI%20_1_%20_1__1761206672.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "petto-di-polloal-forno-affettato",
+    "published": "2025-03-21",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/apollini-micro/",
     "title": "",
     "noticeDate": "20 marzo 2025",
@@ -324,6 +688,162 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "apollini-mignon",
+    "published": "2025-03-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/apollini-napoli/",
+    "title": "",
+    "noticeDate": "20 marzo 2025",
+    "campi": {
+      "data pubblicazione": "20 marzo 2025",
+      "marca": "SWEET CREAM SRLS",
+      "denominazione": "APOLLINI NAPOLI",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SWEET CREAM SRLS",
+    "product": "APOLLINI NAPOLI",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SWEET CREAM SRLS - APOLLINI NAPOLI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20prodotto%20apollino%20NAPOLI_1761206646.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "apollini-napoli",
+    "published": "2025-03-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/apollino-piu/",
+    "title": "",
+    "noticeDate": "20 marzo 2025",
+    "campi": {
+      "data pubblicazione": "20 marzo 2025",
+      "marca": "SWEET CREAM SRLS",
+      "denominazione": "APOLLINO PIU'",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SWEET CREAM SRLS",
+    "product": "APOLLINO PIU'",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SWEET CREAM SRLS - APOLLINO PIU'",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20prodotto%20apollino%20PIU__1761206650.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "apollino-piu",
+    "published": "2025-03-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aragosta-k-2-pz-75/",
+    "title": "",
+    "noticeDate": "20 marzo 2025",
+    "campi": {
+      "data pubblicazione": "20 marzo 2025",
+      "marca": "SWEET CREAM SRLS",
+      "denominazione": "ARAGOSTA K. 2 PZ. 75",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SWEET CREAM SRLS",
+    "product": "ARAGOSTA K. 2 PZ. 75",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SWEET CREAM SRLS - ARAGOSTA K. 2 PZ. 75",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20prodotto%20ARAGOSTA%20K%202%20PZ.%2075%20__1761206654.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "aragosta-k-2-pz-75",
+    "published": "2025-03-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfogliata-napoletana/",
+    "title": "",
+    "noticeDate": "20 marzo 2025",
+    "campi": {
+      "data pubblicazione": "20 marzo 2025",
+      "marca": "SWEET CREAM SRLS",
+      "denominazione": "SFOGLIATA NAPOLETANA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SWEET CREAM SRLS",
+    "product": "SFOGLIATA NAPOLETANA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SWEET CREAM SRLS - SFOGLIATA NAPOLETANA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20prodotto%20SFOGLIATA%20NAPOLETANA%20PZ.%2075_1761206658.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfogliata-napoletana",
+    "published": "2025-03-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfogliata-santa-rosa/",
+    "title": "",
+    "noticeDate": "20 marzo 2025",
+    "campi": {
+      "data pubblicazione": "20 marzo 2025",
+      "marca": "SWEET CREAM SRLS",
+      "denominazione": "SFOGLIATA SANTA ROSA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SWEET CREAM SRLS",
+    "product": "SFOGLIATA SANTA ROSA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SWEET CREAM SRLS - SFOGLIATA SANTA ROSA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20prodotto%20SFOGLIATA%20S.%20ROSA%20PZ.%2060_1761206663.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfogliata-santa-rosa",
+    "published": "2025-03-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfogliata-mignon/",
+    "title": "",
+    "noticeDate": "20 marzo 2025",
+    "campi": {
+      "data pubblicazione": "20 marzo 2025",
+      "marca": "SWEET CREAM SRLS",
+      "denominazione": "SFOGLIATA MIGNON",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SWEET CREAM SRLS",
+    "product": "SFOGLIATA MIGNON",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SWEET CREAM SRLS - SFOGLIATA MIGNON",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20prodotto%20SFOGLIATINA%20MIGNON_1761206667.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfogliata-mignon",
     "published": "2025-03-20",
     "source": "operator"
   },
