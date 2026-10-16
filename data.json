@@ -253,6 +253,188 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/la-pronta-tavola-iceberg/",
+    "title": "",
+    "noticeDate": "12 settembre 2024",
+    "campi": {
+      "data pubblicazione": "12 settembre 2024",
+      "marca": "Centrale del latte",
+      "denominazione": "La pronta in tavola iceberg",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Centrale del latte",
+    "product": "La pronta in tavola iceberg",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Centrale del latte - La pronta in tavola iceberg",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_CENTRALE%20DEL%20LATTE%20200g_1761205677.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "la-pronta-tavola-iceberg",
+    "published": "2024-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/i-freschi-iceberg-250-g/",
+    "title": "",
+    "noticeDate": "12 settembre 2024",
+    "campi": {
+      "data pubblicazione": "12 settembre 2024",
+      "marca": "Ciro Amodio",
+      "denominazione": "I freschi iceberg 250 g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Ciro Amodio",
+    "product": "I freschi iceberg 250 g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ciro Amodio - I freschi iceberg 250 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_CIRO%20AMODIO%20250g_1761205679.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "i-freschi-iceberg-250-g",
+    "published": "2024-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-200-gr-0/",
+    "title": "",
+    "noticeDate": "12 settembre 2024",
+    "campi": {
+      "data pubblicazione": "12 settembre 2024",
+      "marca": "Colline Verdi",
+      "denominazione": "Iceberg 200 gr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Colline Verdi",
+    "product": "Iceberg 200 gr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Colline Verdi - Iceberg 200 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_COLLINE%20VERDI%20200g_1761205680.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "iceberg-200-gr-0",
+    "published": "2024-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-250-gr/",
+    "title": "",
+    "noticeDate": "12 settembre 2024",
+    "campi": {
+      "data pubblicazione": "12 settembre 2024",
+      "marca": "Il Castello",
+      "denominazione": "Iceberg 250 gr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Il Castello",
+    "product": "Iceberg 250 gr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Il Castello - Iceberg 250 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_IL%20CASTELLO%20250g_1761205682.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "iceberg-250-gr",
+    "published": "2024-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-150-gr/",
+    "title": "",
+    "noticeDate": "12 settembre 2024",
+    "campi": {
+      "data pubblicazione": "12 settembre 2024",
+      "marca": "Il mio Orto",
+      "denominazione": "Iceberg 150 gr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Il mio Orto",
+    "product": "Iceberg 150 gr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Il mio Orto - Iceberg 150 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_IL%20MIO%20ORTO%20150g_1761205683.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "iceberg-150-gr",
+    "published": "2024-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-200-gr-fresche-bonta/",
+    "title": "",
+    "noticeDate": "12 settembre 2024",
+    "campi": {
+      "data pubblicazione": "12 settembre 2024",
+      "marca": "Latte Francia",
+      "denominazione": "Iceberg 200 gr Fresche Bontà",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Latte Francia",
+    "product": "Iceberg 200 gr Fresche Bontà",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Latte Francia - Iceberg 200 gr Fresche Bontà",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_LATTE%20FRANCIA%20200g_1761205685.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "iceberg-200-gr-fresche-bonta",
+    "published": "2024-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuori-di-lattuga/",
+    "title": "",
+    "noticeDate": "12 settembre 2024",
+    "campi": {
+      "data pubblicazione": "12 settembre 2024",
+      "marca": "Selex",
+      "denominazione": "Cuori di lattuga",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Selex",
+    "product": "Cuori di lattuga",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Selex - Cuori di lattuga",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_LATTUGA%20SELEX%20200g_1761205687.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cuori-di-lattuga",
+    "published": "2024-09-12",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-secca/",
     "title": "",
     "noticeDate": "11 settembre 2024",
@@ -4234,6 +4416,344 @@
     "category": "info",
     "id": "ricciarelli-lotto-a0408-200g",
     "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salvia-polvere-bio/",
+    "title": "",
+    "noticeDate": "19 aprile 2024",
+    "campi": {
+      "data pubblicazione": "19 aprile 2024",
+      "marca": "Padovana Macinazione srl",
+      "denominazione": "Salvia Polvere Bio",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Padovana Macinazione srl",
+    "product": "Salvia Polvere Bio",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Padovana Macinazione srl - Salvia Polvere Bio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLODIRICHIAMOLOTTO005Q_01%20_1__1761201151.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salvia-polvere-bio",
+    "published": "2024-04-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salvia-polvere-bio-0/",
+    "title": "",
+    "noticeDate": "19 aprile 2024",
+    "campi": {
+      "data pubblicazione": "19 aprile 2024",
+      "marca": "Padovana Macinazione Srl",
+      "denominazione": "Salvia polvere Bio",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Padovana Macinazione Srl",
+    "product": "Salvia polvere Bio",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Padovana Macinazione Srl - Salvia polvere Bio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLODIRICHIAMOLOTTO005Q_01%20_1__1761201155.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salvia-polvere-bio-0",
+    "published": "2024-04-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salvia-polvere-bio-1/",
+    "title": "",
+    "noticeDate": "19 aprile 2024",
+    "campi": {
+      "data pubblicazione": "19 aprile 2024",
+      "marca": "Padovana Macinazione Srl",
+      "denominazione": "Salvia Polvere Bio",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Padovana Macinazione Srl",
+    "product": "Salvia Polvere Bio",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Padovana Macinazione Srl - Salvia Polvere Bio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLODIRICHIAMOLOTTO005Q%20_1__1761201160.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salvia-polvere-bio-1",
+    "published": "2024-04-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/set-6-coltelli-tavola-impugnatura-colore-rosso/",
+    "title": "",
+    "noticeDate": "17 aprile 2024",
+    "campi": {
+      "data pubblicazione": "17 aprile 2024",
+      "marca": "GNALI",
+      "denominazione": "Set 6 Coltelli Tavola - impugnatura colore ROSSO",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "GNALI",
+    "product": "Set 6 Coltelli Tavola - impugnatura colore ROSSO",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GNALI - Set 6 Coltelli Tavola - impugnatura colore ROSSO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20di%20richiamo%20Coltelli%20MOCA_1761201146.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "set-6-coltelli-tavola-impugnatura-colore-rosso",
+    "published": "2024-04-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-nostrano-con-aglio-0/",
+    "title": "",
+    "noticeDate": "16 aprile 2024",
+    "campi": {
+      "data pubblicazione": "16 aprile 2024",
+      "marca": "MACELLERIA MARTINI MARIO",
+      "denominazione": "SALAME NOSTRANO CON AGLIO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "MACELLERIA MARTINI MARIO",
+    "product": "SALAME NOSTRANO CON AGLIO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MACELLERIA MARTINI MARIO - SALAME NOSTRANO CON AGLIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20salame%20con%20aglio%20martini_1761201128.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-nostrano-con-aglio-0",
+    "published": "2024-04-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/soppressa-nostrana-con-aglio/",
+    "title": "",
+    "noticeDate": "16 aprile 2024",
+    "campi": {
+      "data pubblicazione": "16 aprile 2024",
+      "marca": "MACELLERIA MARTINI MARIO",
+      "denominazione": "SOPPRESSA NOSTRANA CON AGLIO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "MACELLERIA MARTINI MARIO",
+    "product": "SOPPRESSA NOSTRANA CON AGLIO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MACELLERIA MARTINI MARIO - SOPPRESSA NOSTRANA CON AGLIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20sopressa%20con%20filetto%20martini_1761201133.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "soppressa-nostrana-con-aglio",
+    "published": "2024-04-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/soppressa-nostrana-con-aglio-0/",
+    "title": "",
+    "noticeDate": "16 aprile 2024",
+    "campi": {
+      "data pubblicazione": "16 aprile 2024",
+      "marca": "MACELLERIA MARTINI MARIO",
+      "denominazione": "SOPPRESSA NOSTRANA CON AGLIO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "MACELLERIA MARTINI MARIO",
+    "product": "SOPPRESSA NOSTRANA CON AGLIO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MACELLERIA MARTINI MARIO - SOPPRESSA NOSTRANA CON AGLIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20sopressa%20con%20aglio%20martini_1761201137.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "soppressa-nostrana-con-aglio-0",
+    "published": "2024-04-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/te-al-matcha/",
+    "title": "",
+    "noticeDate": "16 aprile 2024",
+    "campi": {
+      "data pubblicazione": "16 aprile 2024",
+      "marca": "Shan Wai Shan",
+      "denominazione": "Tè al Matcha",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Shan Wai Shan",
+    "product": "Tè al Matcha",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Shan Wai Shan - Tè al Matcha",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20tea%20matcha_1761201142.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "te-al-matcha",
+    "published": "2024-04-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-nostrano-0/",
+    "title": "",
+    "noticeDate": "13 aprile 2024",
+    "campi": {
+      "data pubblicazione": "13 aprile 2024",
+      "marca": "Salumificio Flli Scapocchin S.R.L",
+      "denominazione": "Salame nostrano",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio Flli Scapocchin S.R.L",
+    "product": "Salame nostrano",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio Flli Scapocchin S.R.L - Salame nostrano",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20SALAME%20NOSTRANO%20164_1761199876.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-nostrano-0",
+    "published": "2024-04-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-nostrano-con-aglio/",
+    "title": "",
+    "noticeDate": "13 aprile 2024",
+    "campi": {
+      "data pubblicazione": "13 aprile 2024",
+      "marca": "Salumificio Flli Scapocchin S.R.L",
+      "denominazione": "Salame nostrano con aglio",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio Flli Scapocchin S.R.L",
+    "product": "Salame nostrano con aglio",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio Flli Scapocchin S.R.L - Salame nostrano con aglio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20SALAME%20NOSTRANO%20CON%20AGLIO%20165_1761199883.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-nostrano-con-aglio",
+    "published": "2024-04-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uvetta-sultanina-250-g-0/",
+    "title": "",
+    "noticeDate": "12 aprile 2024",
+    "campi": {
+      "data pubblicazione": "12 aprile 2024",
+      "marca": "La Madia srl",
+      "denominazione": "Uvetta sultanina 250 g",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "La Madia srl",
+    "product": "Uvetta sultanina 250 g",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo La Madia srl - Uvetta sultanina 250 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/uvetta_1761199870.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uvetta-sultanina-250-g-0",
+    "published": "2024-04-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/petali-grano-ceci-limone-e-curcuma/",
+    "title": "",
+    "noticeDate": "11 aprile 2024",
+    "campi": {
+      "data pubblicazione": "11 aprile 2024",
+      "marca": "Così Bio",
+      "denominazione": "Petali grano ceci limone e curcuma",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Così Bio",
+    "product": "Petali grano ceci limone e curcuma",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Così Bio - Petali grano ceci limone e curcuma",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Petali%20grano%20ceci%20limone%20e%20curcuma_1761199858.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "petali-grano-ceci-limone-e-curcuma",
+    "published": "2024-04-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/petali-grano-barbabietola-bacche-di-sambuco-nero/",
+    "title": "",
+    "noticeDate": "11 aprile 2024",
+    "campi": {
+      "data pubblicazione": "11 aprile 2024",
+      "marca": "Così Bio",
+      "denominazione": "Petali grano barbabietola bacche di sambuco nero",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Così Bio",
+    "product": "Petali grano barbabietola bacche di sambuco nero",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Così Bio - Petali grano barbabietola bacche di sambuco nero",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Petali%20grano%20barbabietola%20bacche%20di%20sambuco%20nero_1761199864.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "petali-grano-barbabietola-bacche-di-sambuco-nero",
+    "published": "2024-04-11",
     "source": "operator"
   },
   {
