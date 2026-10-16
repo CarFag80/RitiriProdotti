@@ -519,6 +519,448 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-capricciosa/",
+    "title": "",
+    "noticeDate": "26 marzo 2024",
+    "campi": {
+      "data pubblicazione": "26 marzo 2024",
+      "marca": "BELMONTE GASTRONOMIA",
+      "denominazione": "INSALATA CAPRICCIOSA",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "BELMONTE GASTRONOMIA",
+    "product": "INSALATA CAPRICCIOSA",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BELMONTE GASTRONOMIA - INSALATA CAPRICCIOSA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_marchio_Belmonte_Gastronomia_1761199611.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "insalata-capricciosa",
+    "published": "2024-03-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-capricciosa-insalata-capricciosa-decorata/",
+    "title": "",
+    "noticeDate": "26 marzo 2024",
+    "campi": {
+      "data pubblicazione": "26 marzo 2024",
+      "marca": "FONTANETO",
+      "denominazione": "INSALATA CAPRICCIOSA / INSALATA CAPRICCIOSA DECORATA",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "FONTANETO",
+    "product": "INSALATA CAPRICCIOSA / INSALATA CAPRICCIOSA DECORATA",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FONTANETO - INSALATA CAPRICCIOSA / INSALATA CAPRICCIOSA DECORATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_marchio_Fontaneto_1761199614.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "insalata-capricciosa-insalata-capricciosa-decorata",
+    "published": "2024-03-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filante-di-anacardi/",
+    "title": "",
+    "noticeDate": "26 marzo 2024",
+    "campi": {
+      "data pubblicazione": "26 marzo 2024",
+      "marca": "VEGELUNA",
+      "denominazione": "FILANTE DI ANACARDI",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "VEGELUNA",
+    "product": "FILANTE DI ANACARDI",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VEGELUNA - FILANTE DI ANACARDI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Richiamo_Filantedianacardi_1761199617.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "filante-di-anacardi",
+    "published": "2024-03-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trance-di-pesce-spada-1/",
+    "title": "",
+    "noticeDate": "22 marzo 2024",
+    "campi": {
+      "data pubblicazione": "22 marzo 2024",
+      "marca": "Maravilla",
+      "denominazione": "trance di pesce spada",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Maravilla",
+    "product": "trance di pesce spada",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Maravilla - trance di pesce spada",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_1761199593.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "trance-di-pesce-spada-1",
+    "published": "2024-03-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fibra-di-psyllium-polvere-bio-99/",
+    "title": "",
+    "noticeDate": "22 marzo 2024",
+    "campi": {
+      "data pubblicazione": "22 marzo 2024",
+      "marca": "FIBRA DI PSYLLIUM POLVERE BIO 99%",
+      "denominazione": "FIBRA DI PSYLLIUM POLVERE BIO 99%",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "FIBRA DI PSYLLIUM POLVERE BIO 99%",
+    "product": "FIBRA DI PSYLLIUM POLVERE BIO 99%",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIBRA DI PSYLLIUM POLVERE BIO 99% - FIBRA DI PSYLLIUM POLVERE BIO 99%",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLODIRICHIAMOLOTTONO.PHP.25.21%20_2__1761199595.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "fibra-di-psyllium-polvere-bio-99",
+    "published": "2024-03-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fibra-di-psyllium-polvere-bio-99-0/",
+    "title": "",
+    "noticeDate": "22 marzo 2024",
+    "campi": {
+      "data pubblicazione": "22 marzo 2024",
+      "marca": "FIBRA DI PSYLLIUM POLVERE BIO 99%",
+      "denominazione": "FIBRA DI PSYLLIUM POLVERE BIO 99%",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "FIBRA DI PSYLLIUM POLVERE BIO 99%",
+    "product": "FIBRA DI PSYLLIUM POLVERE BIO 99%",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIBRA DI PSYLLIUM POLVERE BIO 99% - FIBRA DI PSYLLIUM POLVERE BIO 99%",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULORICHIAMOLOTTONO.PHP__25.21%20_2__1761199597.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "fibra-di-psyllium-polvere-bio-99-0",
+    "published": "2024-03-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lala-prawn-crackhotspicy/",
+    "title": "",
+    "noticeDate": "22 marzo 2024",
+    "campi": {
+      "data pubblicazione": "22 marzo 2024",
+      "marca": "LALA",
+      "denominazione": "LALA PRAWN CRACK.HOTSPICY",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LALA",
+    "product": "LALA PRAWN CRACK.HOTSPICY",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LALA - LALA PRAWN CRACK.HOTSPICY",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20LALA%20PRAWN%20CRACK.HOTSPICY48X60G_1761199599.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lala-prawn-crackhotspicy",
+    "published": "2024-03-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ph-chips-jj-mrchips-nacho-cheese/",
+    "title": "",
+    "noticeDate": "22 marzo 2024",
+    "campi": {
+      "data pubblicazione": "22 marzo 2024",
+      "marca": "JACK& JILL",
+      "denominazione": "PH CHIPS J&J MRCHIPS NACHO CHEESE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "JACK& JILL",
+    "product": "PH CHIPS J&J MRCHIPS NACHO CHEESE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo JACK& JILL - PH CHIPS J&J MRCHIPS NACHO CHEESE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20PH%20CHIPS%20J_J%20MRCHIPS%20NACHO%20CHEESE50X110g_1761199601.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ph-chips-jj-mrchips-nacho-cheese",
+    "published": "2024-03-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/j-j-piattos-nacho-pizza/",
+    "title": "",
+    "noticeDate": "22 marzo 2024",
+    "campi": {
+      "data pubblicazione": "22 marzo 2024",
+      "marca": "JACK & JILL",
+      "denominazione": "J & J PIATTOS NACHO PIZZA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "JACK & JILL",
+    "product": "J & J PIATTOS NACHO PIZZA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo JACK & JILL - J & J PIATTOS NACHO PIZZA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20J_J%20PIATTOS%20NACHO%20PIZZA%2050X85G_1761199604.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "j-j-piattos-nacho-pizza",
+    "published": "2024-03-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ph-chips-jj-piattos-cheese/",
+    "title": "",
+    "noticeDate": "22 marzo 2024",
+    "campi": {
+      "data pubblicazione": "22 marzo 2024",
+      "marca": "JACK & JILL",
+      "denominazione": "PH CHIPS J&J PIATTOS CHEESE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "JACK & JILL",
+    "product": "PH CHIPS J&J PIATTOS CHEESE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo JACK & JILL - PH CHIPS J&J PIATTOS CHEESE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20PH%20CHIPS%20J_J%20PIATTOS%20CHEESE%2050X85G_1761199606.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ph-chips-jj-piattos-cheese",
+    "published": "2024-03-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ph-chips-jj-nova-country-cheddar/",
+    "title": "",
+    "noticeDate": "22 marzo 2024",
+    "campi": {
+      "data pubblicazione": "22 marzo 2024",
+      "marca": "Jack & Jill",
+      "denominazione": "PH CHIPS J&J NOVA COUNTRY CHEDDAR",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Jack & Jill",
+    "product": "PH CHIPS J&J NOVA COUNTRY CHEDDAR",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Jack & Jill - PH CHIPS J&J NOVA COUNTRY CHEDDAR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20PH%20CHIPS%20J_J%20NOVA%20COUNTRY%20CHEDDAR%2050X78G_1761199608.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ph-chips-jj-nova-country-cheddar",
+    "published": "2024-03-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-al-salmone-scozzese/",
+    "title": "",
+    "noticeDate": "18 marzo 2024",
+    "campi": {
+      "data pubblicazione": "18 marzo 2024",
+      "marca": "MAGRINI LE DELIZIE",
+      "denominazione": "SALSA AL SALMONE SCOZZESE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "MAGRINI LE DELIZIE",
+    "product": "SALSA AL SALMONE SCOZZESE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MAGRINI LE DELIZIE - SALSA AL SALMONE SCOZZESE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PG_11_%20All%2010%20C_17_PubblicazioneRichiami_129_sp90_1761199591.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsa-al-salmone-scozzese",
+    "published": "2024-03-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongola-o-lupino-chamelea-gallina/",
+    "title": "",
+    "noticeDate": "15 marzo 2024",
+    "campi": {
+      "data pubblicazione": "15 marzo 2024",
+      "marca": "Consorzio Pescatori di Goro Soc. Coop O.P",
+      "denominazione": "Vongola o lupino (chamelea gallina)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Consorzio Pescatori di Goro Soc. Coop O.P",
+    "product": "Vongola o lupino (chamelea gallina)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Consorzio Pescatori di Goro Soc. Coop O.P - Vongola o lupino (chamelea gallina)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20_1761199586.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "vongola-o-lupino-chamelea-gallina",
+    "published": "2024-03-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/shama-seekh-kebab-chicken/",
+    "title": "",
+    "noticeDate": "15 marzo 2024",
+    "campi": {
+      "data pubblicazione": "15 marzo 2024",
+      "marca": "Pollo Seekh kebab Shama",
+      "denominazione": "Shama Seekh kebab chicken",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Pollo Seekh kebab Shama",
+    "product": "Shama Seekh kebab chicken",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pollo Seekh kebab Shama - Shama Seekh kebab chicken",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartellorichiamo_5_1761199588.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "shama-seekh-kebab-chicken",
+    "published": "2024-03-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-di-noci-0/",
+    "title": "",
+    "noticeDate": "14 marzo 2024",
+    "campi": {
+      "data pubblicazione": "14 marzo 2024",
+      "marca": "MAGRINI LE DELIZIE SRL",
+      "denominazione": "SALSA DI NOCI",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "MAGRINI LE DELIZIE SRL",
+    "product": "SALSA DI NOCI",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MAGRINI LE DELIZIE SRL - SALSA DI NOCI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3.PG_11_All10C_17_PubblicazioneRichiami_129_NO90FOTO_1761199030.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsa-di-noci-0",
+    "published": "2024-03-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cioccolato-al-latte-delle-alpi-con-biscotti-al-cacao-pezzi-e/",
+    "title": "",
+    "noticeDate": "14 marzo 2024",
+    "campi": {
+      "data pubblicazione": "14 marzo 2024",
+      "marca": "Milka Oreo 37 g",
+      "denominazione": "Cioccolato al latte delle Alpi con biscotti al cacao in pezzi e ripieno di crema al latte",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Milka Oreo 37 g",
+    "product": "Cioccolato al latte delle Alpi con biscotti al cacao in pezzi e ripieno di crema al latte",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Milka Oreo 37 g - Cioccolato al latte delle Alpi con biscotti al cacao in pezzi e ripieno di crema al latte",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo_1761199035.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cioccolato-al-latte-delle-alpi-con-biscotti-al-cacao-pezzi-e",
+    "published": "2024-03-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-di-noci/",
+    "title": "",
+    "noticeDate": "12 marzo 2024",
+    "campi": {
+      "data pubblicazione": "12 marzo 2024",
+      "marca": "MAGRINI LE DELIZIE SRL",
+      "denominazione": "SALSA DI NOCI",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "MAGRINI LE DELIZIE SRL",
+    "product": "SALSA DI NOCI",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MAGRINI LE DELIZIE SRL - SALSA DI NOCI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20SALSA%20NOCI%20_%2090%20GRAMMI_1761199024.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsa-di-noci",
+    "published": "2024-03-12",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-huancaina-alacena-sobre-400g/",
     "title": "",
     "noticeDate": "11 marzo 2024",
@@ -1374,6 +1816,84 @@
     "category": "info",
     "id": "patate-fritte-surgelate-0",
     "published": "2024-02-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sciroppo-alle-erbe-bergsteiger/",
+    "title": "",
+    "noticeDate": "20 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "20 dicembre 2023",
+      "marca": "Prettauer Kräuterwiese",
+      "denominazione": "Sciroppo alle erbe Bergsteiger",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Prettauer Kräuterwiese",
+    "product": "Sciroppo alle erbe Bergsteiger",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Prettauer Kräuterwiese - Sciroppo alle erbe Bergsteiger",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2023%2012%2018%20Prettauer%20Kra%C3%A4terwiese%20Sciroppo%20alle%20erbe%20Bergsteiger_1761197715.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sciroppo-alle-erbe-bergsteiger",
+    "published": "2023-12-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dop/",
+    "title": "",
+    "noticeDate": "16 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "16 dicembre 2023",
+      "marca": "Caseificio Latini",
+      "denominazione": "Gorgonzola DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Caseificio Latini",
+    "product": "Gorgonzola DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caseificio Latini - Gorgonzola DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_latini%20GORGONZOLA%20DOP_1761197710.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gorgonzola-dop",
+    "published": "2023-12-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fichi-secchi-spagna/",
+    "title": "",
+    "noticeDate": "13 dicembre 2023",
+    "campi": {
+      "data pubblicazione": "13 dicembre 2023",
+      "marca": "LA TOCONA",
+      "denominazione": "FICHI SECCHI SPAGNA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LA TOCONA",
+    "product": "FICHI SECCHI SPAGNA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA TOCONA - FICHI SECCHI SPAGNA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20FICHI%20SECCHI_1761197706.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fichi-secchi-spagna",
+    "published": "2023-12-13",
     "source": "operator"
   },
   {
