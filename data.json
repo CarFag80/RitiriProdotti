@@ -406,6 +406,526 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/contorno-delicato/",
+    "title": "",
+    "noticeDate": "7 luglio 2025",
+    "campi": {
+      "data pubblicazione": "7 luglio 2025",
+      "marca": "DELIZIE DAL SOLE",
+      "denominazione": "CONTORNO DELICATO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "DELIZIE DAL SOLE",
+    "product": "CONTORNO DELICATO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DELIZIE DAL SOLE - CONTORNO DELICATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20ministeriale_1761208272.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "contorno-delicato",
+    "published": "2025-07-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-norvegese-affumicato-300g/",
+    "title": "",
+    "noticeDate": "5 luglio 2025",
+    "campi": {
+      "data pubblicazione": "5 luglio 2025",
+      "marca": "DESPAR",
+      "denominazione": "Salmone Norvegese Affumicato 300g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "DESPAR",
+    "product": "Salmone Norvegese Affumicato 300g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DESPAR - Salmone Norvegese Affumicato 300g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/05_SAN300DES05%20%20modulo%20di%20richiamo%20Ministero_1761208265.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salmone-norvegese-affumicato-300g",
+    "published": "2025-07-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-norvegese-affumicato-200g/",
+    "title": "",
+    "noticeDate": "5 luglio 2025",
+    "campi": {
+      "data pubblicazione": "5 luglio 2025",
+      "marca": "DESPAR",
+      "denominazione": "Salmone norvegese affumicato 200g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "DESPAR",
+    "product": "Salmone norvegese affumicato 200g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DESPAR - Salmone norvegese affumicato 200g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/05_SAN200DES07%20%20modulo%20di%20richiamo%20Ministero_1761208267.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salmone-norvegese-affumicato-200g",
+    "published": "2025-07-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-norvegese-affumicato-100g/",
+    "title": "",
+    "noticeDate": "5 luglio 2025",
+    "campi": {
+      "data pubblicazione": "5 luglio 2025",
+      "marca": "DESPAR",
+      "denominazione": "Salmone norvegese affumicato 100g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "DESPAR",
+    "product": "Salmone norvegese affumicato 100g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DESPAR - Salmone norvegese affumicato 100g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/05_SAN100DES08%20modulo%20di%20richiamo%20Ministero_1761208268.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salmone-norvegese-affumicato-100g",
+    "published": "2025-07-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-norvegese-affumicato-50g-0/",
+    "title": "",
+    "noticeDate": "5 luglio 2025",
+    "campi": {
+      "data pubblicazione": "5 luglio 2025",
+      "marca": "DESPAR",
+      "denominazione": "Salmone norvegese affumicato 50g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "DESPAR",
+    "product": "Salmone norvegese affumicato 50g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DESPAR - Salmone norvegese affumicato 50g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/05_SAN050DES10%20%20modulo%20di%20richiamo%20Ministero_1761208270.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salmone-norvegese-affumicato-50g-0",
+    "published": "2025-07-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aglio-granulare/",
+    "title": "",
+    "noticeDate": "3 luglio 2025",
+    "campi": {
+      "data pubblicazione": "3 luglio 2025",
+      "marca": "PREMIATI SAPORI",
+      "denominazione": "Aglio Granulare",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "PREMIATI SAPORI",
+    "product": "Aglio Granulare",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PREMIATI SAPORI - Aglio Granulare",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20AGLIO%20GRANULARE%20PS_1761208262.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "aglio-granulare",
+    "published": "2025-07-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pepe-nero-macinato-vasetto-mini/",
+    "title": "",
+    "noticeDate": "3 luglio 2025",
+    "campi": {
+      "data pubblicazione": "3 luglio 2025",
+      "marca": "Ubena",
+      "denominazione": "Pepe nero macinato - vasetto mini",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Ubena",
+    "product": "Pepe nero macinato - vasetto mini",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ubena - Pepe nero macinato - vasetto mini",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20RICHIAMO%20Pepe%20Nero%20macinato%2022%20gr%20Linea%20Mini%20Ubena_1761208264.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pepe-nero-macinato-vasetto-mini",
+    "published": "2025-07-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-acciughe-olio-di-oliva-riserva-speciale-mar-cantabrico/",
+    "title": "",
+    "noticeDate": "2 luglio 2025",
+    "campi": {
+      "data pubblicazione": "2 luglio 2025",
+      "marca": "Vicente Marino",
+      "denominazione": "filetti di acciughe in olio di oliva - riserva speciale - mar cantabrico -50gr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Vicente Marino",
+    "product": "filetti di acciughe in olio di oliva - riserva speciale - mar cantabrico -50gr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Vicente Marino - filetti di acciughe in olio di oliva - riserva speciale - mar cantabrico -50gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1776696031.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "filetti-di-acciughe-olio-di-oliva-riserva-speciale-mar-cantabrico",
+    "published": "2025-07-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/miniburger-broccoli-carote-e-zucchine/",
+    "title": "",
+    "noticeDate": "2 luglio 2025",
+    "campi": {
+      "data pubblicazione": "2 luglio 2025",
+      "marca": "KIOENE",
+      "denominazione": "MINIBURGER BROCCOLI, CAROTE E ZUCCHINE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "KIOENE",
+    "product": "MINIBURGER BROCCOLI, CAROTE E ZUCCHINE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo KIOENE - MINIBURGER BROCCOLI, CAROTE E ZUCCHINE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20_1__1761208261.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "miniburger-broccoli-carote-e-zucchine",
+    "published": "2025-07-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-suino-bovino/",
+    "title": "",
+    "noticeDate": "30 giugno 2025",
+    "campi": {
+      "data pubblicazione": "30 giugno 2025",
+      "marca": "SALUMIFICIO MOLTONI",
+      "denominazione": "SALAME SUINO BOVINO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO MOLTONI",
+    "product": "SALAME SUINO BOVINO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO MOLTONI - SALAME SUINO BOVINO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/salame%20suino%20bovino%201_1761208251.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-suino-bovino",
+    "published": "2025-06-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salametto-di-asino/",
+    "title": "",
+    "noticeDate": "30 giugno 2025",
+    "campi": {
+      "data pubblicazione": "30 giugno 2025",
+      "marca": "SALUMIFICIO MOLTONI",
+      "denominazione": "SALAMETTO DI ASINO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO MOLTONI",
+    "product": "SALAMETTO DI ASINO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO MOLTONI - SALAMETTO DI ASINO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/salametto%20di%20asino%202_1761208252.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salametto-di-asino",
+    "published": "2025-06-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-puro-suino/",
+    "title": "",
+    "noticeDate": "30 giugno 2025",
+    "campi": {
+      "data pubblicazione": "30 giugno 2025",
+      "marca": "SALUMIFICIO MOLTONI",
+      "denominazione": "SALAME PURO SUINO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO MOLTONI",
+    "product": "SALAME PURO SUINO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO MOLTONI - SALAME PURO SUINO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/salame%20puro%20suino%203_1761208253.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-puro-suino",
+    "published": "2025-06-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salametto-puro-suino/",
+    "title": "",
+    "noticeDate": "30 giugno 2025",
+    "campi": {
+      "data pubblicazione": "30 giugno 2025",
+      "marca": "SALUMIFICIO MOLTONI",
+      "denominazione": "SALAMETTO PURO SUINO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO MOLTONI",
+    "product": "SALAMETTO PURO SUINO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO MOLTONI - SALAMETTO PURO SUINO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/salametto%20puro%20suino%204_1761208255.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salametto-puro-suino",
+    "published": "2025-06-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccetta/",
+    "title": "",
+    "noticeDate": "30 giugno 2025",
+    "campi": {
+      "data pubblicazione": "30 giugno 2025",
+      "marca": "SALUMIFICIO MOLTONI",
+      "denominazione": "SALSICCETTA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO MOLTONI",
+    "product": "SALSICCETTA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO MOLTONI - SALSICCETTA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/salsiccetta%205_1761208256.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccetta",
+    "published": "2025-06-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-3/",
+    "title": "",
+    "noticeDate": "30 giugno 2025",
+    "campi": {
+      "data pubblicazione": "30 giugno 2025",
+      "marca": "SALUMIFICIO MOLTONI",
+      "denominazione": "SALSICCIA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO MOLTONI",
+    "product": "SALSICCIA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO MOLTONI - SALSICCIA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/salsiccia%206_1761208258.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-3",
+    "published": "2025-06-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/croccante-d-5x2kg/",
+    "title": "",
+    "noticeDate": "27 giugno 2025",
+    "campi": {
+      "data pubblicazione": "27 giugno 2025",
+      "marca": "Zeelandia Spa",
+      "denominazione": "Croccante D 5x2kg",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Zeelandia Spa",
+    "product": "Croccante D 5x2kg",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Zeelandia Spa - Croccante D 5x2kg",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo_1761207651.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "croccante-d-5x2kg",
+    "published": "2025-06-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-acciughe-di-sicilia-olio-extravergine-di-oliva/",
+    "title": "",
+    "noticeDate": "27 giugno 2025",
+    "campi": {
+      "data pubblicazione": "27 giugno 2025",
+      "marca": "TERRE D'ITALIA",
+      "denominazione": "FILETTI DI ACCIUGHE DI SICILIA IN OLIO EXTRAVERGINE DI OLIVA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "TERRE D'ITALIA",
+    "product": "FILETTI DI ACCIUGHE DI SICILIA IN OLIO EXTRAVERGINE DI OLIVA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TERRE D'ITALIA - FILETTI DI ACCIUGHE DI SICILIA IN OLIO EXTRAVERGINE DI OLIVA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20FILETTI%20ACCIUGHE%20TDI_1761208249.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filetti-di-acciughe-di-sicilia-olio-extravergine-di-oliva",
+    "published": "2025-06-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nutella-gelato-nutella-ice-cream-pot/",
+    "title": "",
+    "noticeDate": "26 giugno 2025",
+    "campi": {
+      "data pubblicazione": "26 giugno 2025",
+      "marca": "FERRERO",
+      "denominazione": "NUTELLA GELATO (NUTELLA ICE CREAM POT)",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "FERRERO",
+    "product": "NUTELLA GELATO (NUTELLA ICE CREAM POT)",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FERRERO - NUTELLA GELATO (NUTELLA ICE CREAM POT)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Nutella%20Gelato_1761207641.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "nutella-gelato-nutella-ice-cream-pot",
+    "published": "2025-06-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caffe-macinato-classico/",
+    "title": "",
+    "noticeDate": "26 giugno 2025",
+    "campi": {
+      "data pubblicazione": "26 giugno 2025",
+      "marca": "Happy Dì",
+      "denominazione": "Caffè macinato classico",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Happy Dì",
+    "product": "Caffè macinato classico",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Happy Dì - Caffè macinato classico",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20_3__1761207646.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "caffe-macinato-classico",
+    "published": "2025-06-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sardina-mar-ligure/",
+    "title": "",
+    "noticeDate": "25 giugno 2025",
+    "campi": {
+      "data pubblicazione": "25 giugno 2025",
+      "marca": "NESSUN MARCHIO",
+      "denominazione": "SARDINA MAR LIGURE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "NESSUN MARCHIO",
+    "product": "SARDINA MAR LIGURE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NESSUN MARCHIO - SARDINA MAR LIGURE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo_1761207636.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sardina-mar-ligure",
+    "published": "2025-06-25",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/g0271-mozart-cioccolato-white-15-cl-50/",
     "title": "",
     "noticeDate": "18 giugno 2025",
