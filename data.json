@@ -230,6 +230,84 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tortelloni-ricotta-e-spinaci-0/",
+    "title": "",
+    "noticeDate": "5 giugno 2024",
+    "campi": {
+      "data pubblicazione": "5 giugno 2024",
+      "marca": "REGGIANA GOURMET SRL",
+      "denominazione": "TORTELLONI RICOTTA E SPINACI",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "REGGIANA GOURMET SRL",
+    "product": "TORTELLONI RICOTTA E SPINACI",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo REGGIANA GOURMET SRL - TORTELLONI RICOTTA E SPINACI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20corretto_1761204257.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tortelloni-ricotta-e-spinaci-0",
+    "published": "2024-06-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-mantovano-fette-0/",
+    "title": "",
+    "noticeDate": "4 giugno 2024",
+    "campi": {
+      "data pubblicazione": "4 giugno 2024",
+      "marca": "CUCINA EXPRESS",
+      "denominazione": "PESTO MANTOVANO A FETTE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CUCINA EXPRESS",
+    "product": "PESTO MANTOVANO A FETTE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CUCINA EXPRESS - PESTO MANTOVANO A FETTE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo%20per%20Pesto%20mantovano%20a%20fette%206142110785_1761203009.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pesto-mantovano-fette-0",
+    "published": "2024-06-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-mantovano-fette-1/",
+    "title": "",
+    "noticeDate": "4 giugno 2024",
+    "campi": {
+      "data pubblicazione": "4 giugno 2024",
+      "marca": "CUCINA EXPRESS",
+      "denominazione": "PESTO MANTOVANO A FETTE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CUCINA EXPRESS",
+    "product": "PESTO MANTOVANO A FETTE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CUCINA EXPRESS - PESTO MANTOVANO A FETTE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo%20per%20Pesto%20mantovano%20a%20fette%206141950899_1761204253.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pesto-mantovano-fette-1",
+    "published": "2024-06-04",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/beauty-mix-secchio-kg1/",
     "title": "",
     "noticeDate": "23 maggio 2024",
@@ -517,6 +595,448 @@
     "id": "bustine-monodose-di-te-meridetox-tea-premium",
     "published": "2024-04-30",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cacao-polvere-250g/",
+    "title": "",
+    "noticeDate": "10 aprile 2024",
+    "campi": {
+      "data pubblicazione": "10 aprile 2024",
+      "marca": "PENNY",
+      "denominazione": "CACAO IN POLVERE 250g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "PENNY",
+    "product": "CACAO IN POLVERE 250g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PENNY - CACAO IN POLVERE 250g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%2010_4_24%20Cacao%20in%20polvere%20nuovi%20Lotti_1761199853.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cacao-polvere-250g",
+    "published": "2024-04-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-pane-e-pizza/",
+    "title": "",
+    "noticeDate": "9 aprile 2024",
+    "campi": {
+      "data pubblicazione": "9 aprile 2024",
+      "marca": "TRE MULINI",
+      "denominazione": "PREPARATO PANE E PIZZA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "TRE MULINI",
+    "product": "PREPARATO PANE E PIZZA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TRE MULINI - PREPARATO PANE E PIZZA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20TRE%20MULINI%20LV23005666_1761199820.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-pane-e-pizza",
+    "published": "2024-04-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-sin-gluten-para-multiples-usos/",
+    "title": "",
+    "noticeDate": "9 aprile 2024",
+    "campi": {
+      "data pubblicazione": "9 aprile 2024",
+      "marca": "PASTAS GALLO",
+      "denominazione": "MIX SIN GLUTEN PARA MULTIPLES USOS",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "PASTAS GALLO",
+    "product": "MIX SIN GLUTEN PARA MULTIPLES USOS",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PASTAS GALLO - MIX SIN GLUTEN PARA MULTIPLES USOS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamoPASTAS%20GALLO%20LV23027102_1761199825.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mix-sin-gluten-para-multiples-usos",
+    "published": "2024-04-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-frittelle-e-castagnole-senza-glutine/",
+    "title": "",
+    "noticeDate": "9 aprile 2024",
+    "campi": {
+      "data pubblicazione": "9 aprile 2024",
+      "marca": "MOLINO ROSSETTO",
+      "denominazione": "PREPARATO PER FRITTELLE E CASTAGNOLE SENZA GLUTINE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "MOLINO ROSSETTO",
+    "product": "PREPARATO PER FRITTELLE E CASTAGNOLE SENZA GLUTINE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MOLINO ROSSETTO - PREPARATO PER FRITTELLE E CASTAGNOLE SENZA GLUTINE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20FRITELLE%20LV23024104_1761199830.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-frittelle-e-castagnole-senza-glutine",
+    "published": "2024-04-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-pane-e-pizza-0/",
+    "title": "",
+    "noticeDate": "9 aprile 2024",
+    "campi": {
+      "data pubblicazione": "9 aprile 2024",
+      "marca": "TRE MULINI",
+      "denominazione": "PREPARATO PER PANE E PIZZA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "TRE MULINI",
+    "product": "PREPARATO PER PANE E PIZZA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TRE MULINI - PREPARATO PER PANE E PIZZA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20TRE%20MULINI%20LV23016666_1761199835.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-pane-e-pizza-0",
+    "published": "2024-04-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-sin-gluten-para-multiples-uses/",
+    "title": "",
+    "noticeDate": "9 aprile 2024",
+    "campi": {
+      "data pubblicazione": "9 aprile 2024",
+      "marca": "PASTAS GALLO",
+      "denominazione": "MIX SIN GLUTEN PARA MULTIPLES USES",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "PASTAS GALLO",
+    "product": "MIX SIN GLUTEN PARA MULTIPLES USES",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PASTAS GALLO - MIX SIN GLUTEN PARA MULTIPLES USES",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamoPASTAS%20GALLO%20LV23038102_1761199841.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mix-sin-gluten-para-multiples-uses",
+    "published": "2024-04-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-sin-gluten-para-multiples-usos-0/",
+    "title": "",
+    "noticeDate": "9 aprile 2024",
+    "campi": {
+      "data pubblicazione": "9 aprile 2024",
+      "marca": "PASTAS GALLO",
+      "denominazione": "MIX SIN GLUTEN PARA MULTIPLES USOS",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "PASTAS GALLO",
+    "product": "MIX SIN GLUTEN PARA MULTIPLES USOS",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PASTAS GALLO - MIX SIN GLUTEN PARA MULTIPLES USOS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamoPASTAS%20GALLO%20LV23011101_1761199847.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mix-sin-gluten-para-multiples-usos-0",
+    "published": "2024-04-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/misto-di-bosco/",
+    "title": "",
+    "noticeDate": "7 aprile 2024",
+    "campi": {
+      "data pubblicazione": "7 aprile 2024",
+      "marca": "Versilfood",
+      "denominazione": "Misto di bosco",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Versilfood",
+    "product": "Misto di bosco",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Versilfood - Misto di bosco",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo%205%20formati_1_1761199789.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "misto-di-bosco",
+    "published": "2024-04-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/misto-di-bosco-0/",
+    "title": "",
+    "noticeDate": "7 aprile 2024",
+    "campi": {
+      "data pubblicazione": "7 aprile 2024",
+      "marca": "Versilfood",
+      "denominazione": "Misto di bosco",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Versilfood",
+    "product": "Misto di bosco",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Versilfood - Misto di bosco",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo%205%20formati_2_1761199794.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "misto-di-bosco-0",
+    "published": "2024-04-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/misto-di-bosco-1/",
+    "title": "",
+    "noticeDate": "7 aprile 2024",
+    "campi": {
+      "data pubblicazione": "7 aprile 2024",
+      "marca": "Versilfood",
+      "denominazione": "Misto di bosco",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Versilfood",
+    "product": "Misto di bosco",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Versilfood - Misto di bosco",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo%205%20formati_4_1761199799.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "misto-di-bosco-1",
+    "published": "2024-04-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/frutti-di-bosco/",
+    "title": "",
+    "noticeDate": "7 aprile 2024",
+    "campi": {
+      "data pubblicazione": "7 aprile 2024",
+      "marca": "Cuor di scelta",
+      "denominazione": "Frutti di bosco",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Cuor di scelta",
+    "product": "Frutti di bosco",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cuor di scelta - Frutti di bosco",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo%205%20formati_3_1761199804.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "frutti-di-bosco",
+    "published": "2024-04-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/misto-di-bosco-2/",
+    "title": "",
+    "noticeDate": "7 aprile 2024",
+    "campi": {
+      "data pubblicazione": "7 aprile 2024",
+      "marca": "Versilfood",
+      "denominazione": "Misto di bosco",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Versilfood",
+    "product": "Misto di bosco",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Versilfood - Misto di bosco",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo%205%20formati_5_1761199809.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "misto-di-bosco-2",
+    "published": "2024-04-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/frutti-di-bosco-0/",
+    "title": "",
+    "noticeDate": "7 aprile 2024",
+    "campi": {
+      "data pubblicazione": "7 aprile 2024",
+      "marca": "Cuor di scelta",
+      "denominazione": "Frutti di bosco",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Cuor di scelta",
+    "product": "Frutti di bosco",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cuor di scelta - Frutti di bosco",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo%205%20formati_5_1761199814.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "frutti-di-bosco-0",
+    "published": "2024-04-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barretta-bio-mango-miele-e-spirulina/",
+    "title": "",
+    "noticeDate": "5 aprile 2024",
+    "campi": {
+      "data pubblicazione": "5 aprile 2024",
+      "marca": "AGROINIZIATIVE SRL SOCIETA' AGRICOLA",
+      "denominazione": "BARRETTA BIO MANGO MIELE E SPIRULINA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "AGROINIZIATIVE SRL SOCIETA' AGRICOLA",
+    "product": "BARRETTA BIO MANGO MIELE E SPIRULINA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AGROINIZIATIVE SRL SOCIETA' AGRICOLA - BARRETTA BIO MANGO MIELE E SPIRULINA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/All%209%20cartello%20richiamo%20GIUSTO_1761199769.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "barretta-bio-mango-miele-e-spirulina",
+    "published": "2024-04-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filone-di-tonno-pinne-gialle-chunk/",
+    "title": "",
+    "noticeDate": "5 aprile 2024",
+    "campi": {
+      "data pubblicazione": "5 aprile 2024",
+      "marca": "ALFRISSA",
+      "denominazione": "FILONE DI TONNO PINNE GIALLE CHUNK",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ALFRISSA",
+    "product": "FILONE DI TONNO PINNE GIALLE CHUNK",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ALFRISSA - FILONE DI TONNO PINNE GIALLE CHUNK",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/TONNO_Cartello%20RICHIAMO%20_%20aggiornato_1761199775.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filone-di-tonno-pinne-gialle-chunk",
+    "published": "2024-04-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamino-dolce/",
+    "title": "",
+    "noticeDate": "5 aprile 2024",
+    "campi": {
+      "data pubblicazione": "5 aprile 2024",
+      "marca": "Azzocchi Roberto SRL",
+      "denominazione": "Salamino dolce",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Azzocchi Roberto SRL",
+    "product": "Salamino dolce",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Azzocchi Roberto SRL - Salamino dolce",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salamino_1761199780.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salamino-dolce",
+    "published": "2024-04-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-tronchetto/",
+    "title": "",
+    "noticeDate": "5 aprile 2024",
+    "campi": {
+      "data pubblicazione": "5 aprile 2024",
+      "marca": "Alborghetti",
+      "denominazione": "Salame Tronchetto",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Alborghetti",
+    "product": "Salame Tronchetto",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Alborghetti - Salame Tronchetto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Avviso%20Richiamo%20Sal%20Alborghetti_1761199784.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-tronchetto",
+    "published": "2024-04-05",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/patatine-cheese-ring/",
