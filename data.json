@@ -1472,6 +1472,422 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mousse-baba-esotico/",
+    "title": "",
+    "noticeDate": "20 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "20 gennaio 2025",
+      "marca": "Iginio Massari Alta Pasticceria",
+      "denominazione": "Mousse babà esotico",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Iginio Massari Alta Pasticceria",
+    "product": "Mousse babà esotico",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Iginio Massari Alta Pasticceria - Mousse babà esotico",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20baba%20esotico_1761206220.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mousse-baba-esotico",
+    "published": "2025-01-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-pasta-molle-grace/",
+    "title": "",
+    "noticeDate": "20 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "20 gennaio 2025",
+      "marca": "DEGUST",
+      "denominazione": "formaggio a pasta molle \"Grace\"",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "DEGUST",
+    "product": "formaggio a pasta molle \"Grace\"",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DEGUST - formaggio a pasta molle \"Grace\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Grace_1761206224.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-pasta-molle-grace",
+    "published": "2025-01-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pate-di-olive-taggiasche/",
+    "title": "",
+    "noticeDate": "18 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "18 gennaio 2025",
+      "marca": "PRIMIA-PERCORSI DI GUSTO",
+      "denominazione": "PATE' DI OLIVE TAGGIASCHE",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "PRIMIA-PERCORSI DI GUSTO",
+    "product": "PATE' DI OLIVE TAGGIASCHE",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PRIMIA-PERCORSI DI GUSTO - PATE' DI OLIVE TAGGIASCHE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLODIRICHIAMOPATEDIOLIVE3lotti_1761206209.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pate-di-olive-taggiasche",
+    "published": "2025-01-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pate-di-olive-taggiasche-0/",
+    "title": "",
+    "noticeDate": "18 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "18 gennaio 2025",
+      "marca": "IL VIAGGIATOR GOLOSO",
+      "denominazione": "PATE' DI OLIVE TAGGIASCHE",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "IL VIAGGIATOR GOLOSO",
+    "product": "PATE' DI OLIVE TAGGIASCHE",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IL VIAGGIATOR GOLOSO - PATE' DI OLIVE TAGGIASCHE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20UNES_1761206212.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pate-di-olive-taggiasche-0",
+    "published": "2025-01-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pate-di-olive-taggiasche-1/",
+    "title": "",
+    "noticeDate": "18 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "18 gennaio 2025",
+      "marca": "PAM & PANORAMA",
+      "denominazione": "PATE' DI OLIVE TAGGIASCHE",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "PAM & PANORAMA",
+    "product": "PATE' DI OLIVE TAGGIASCHE",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PAM & PANORAMA - PATE' DI OLIVE TAGGIASCHE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20PAM_1761206216.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pate-di-olive-taggiasche-1",
+    "published": "2025-01-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tris-di-verdure/",
+    "title": "",
+    "noticeDate": "17 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "17 gennaio 2025",
+      "marca": "A.M.M.53 PASTICCERIA-GASTRONOMIA",
+      "denominazione": "TRIS DI VERDURE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "A.M.M.53 PASTICCERIA-GASTRONOMIA",
+    "product": "TRIS DI VERDURE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo A.M.M.53 PASTICCERIA-GASTRONOMIA - TRIS DI VERDURE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1737112771525%20_1__1761206198.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tris-di-verdure",
+    "published": "2025-01-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cremini-sapori-idee/",
+    "title": "",
+    "noticeDate": "17 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "17 gennaio 2025",
+      "marca": "Conad",
+      "denominazione": "Cremini Sapori & Idee",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Conad",
+    "product": "Cremini Sapori & Idee",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Conad - Cremini Sapori & Idee",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CREMINI%20Cartello%20Richiamo_1761206202.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cremini-sapori-idee",
+    "published": "2025-01-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pate-di-capperi-di-salina-con-mentuccia-e-mandorle/",
+    "title": "",
+    "noticeDate": "17 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "17 gennaio 2025",
+      "marca": "Mentuccia di Zavone Anita",
+      "denominazione": "Paté di capperi di salina con mentuccia e mandorle",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Mentuccia di Zavone Anita",
+    "product": "Paté di capperi di salina con mentuccia e mandorle",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mentuccia di Zavone Anita - Paté di capperi di salina con mentuccia e mandorle",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Pat%C3%A8_Capperi_Salina_1761206205.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pate-di-capperi-di-salina-con-mentuccia-e-mandorle",
+    "published": "2025-01-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-di-cerali-riso-biologica-200-g/",
+    "title": "",
+    "noticeDate": "16 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "16 gennaio 2025",
+      "marca": "CONAD",
+      "denominazione": "Crema di cerali Riso biologica 200 g",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "CONAD",
+    "product": "Crema di cerali Riso biologica 200 g",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONAD - Crema di cerali Riso biologica 200 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO_%20revoca_1761206194.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crema-di-cerali-riso-biologica-200-g",
+    "published": "2025-01-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-pfiffikas/",
+    "title": "",
+    "noticeDate": "15 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "15 gennaio 2025",
+      "marca": "DEGUST",
+      "denominazione": "formaggio PFIFFIKAS",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "DEGUST",
+    "product": "formaggio PFIFFIKAS",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DEGUST - formaggio PFIFFIKAS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/doc04128620250115115851_1761206190.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-pfiffikas",
+    "published": "2025-01-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nuggets-vegetali/",
+    "title": "",
+    "noticeDate": "14 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "14 gennaio 2025",
+      "marca": "VEMONDO",
+      "denominazione": "NUGGETS VEGETALI",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "VEMONDO",
+    "product": "NUGGETS VEGETALI",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VEMONDO - NUGGETS VEGETALI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato4_MODELLO_DI_RICHIAMOmodv2._rev.011_1761206175.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "nuggets-vegetali",
+    "published": "2025-01-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pfiffikas/",
+    "title": "",
+    "noticeDate": "14 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "14 gennaio 2025",
+      "marca": "DEGUST",
+      "denominazione": "Pfiffikas",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "DEGUST",
+    "product": "Pfiffikas",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DEGUST - Pfiffikas",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Pfiffkas_1761206179.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pfiffikas",
+    "published": "2025-01-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-muscatis/",
+    "title": "",
+    "noticeDate": "14 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "14 gennaio 2025",
+      "marca": "DEGUST",
+      "denominazione": "formaggio Muscatis",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "DEGUST",
+    "product": "formaggio Muscatis",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DEGUST - formaggio Muscatis",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Muscatis_1761206182.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-muscatis",
+    "published": "2025-01-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-kaffalat/",
+    "title": "",
+    "noticeDate": "14 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "14 gennaio 2025",
+      "marca": "DEGUST",
+      "denominazione": "formaggio Kaffalat",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "DEGUST",
+    "product": "formaggio Kaffalat",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DEGUST - formaggio Kaffalat",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Kaffalat_1761206186.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-kaffalat",
+    "published": "2025-01-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongole-sgusciate-paphia-textile/",
+    "title": "",
+    "noticeDate": "11 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "11 gennaio 2025",
+      "marca": "NUOVA EUROGEL SUD SRL",
+      "denominazione": "VONGOLE SGUSCIATE (PAPHIA TEXTILE)",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "NUOVA EUROGEL SUD SRL",
+    "product": "VONGOLE SGUSCIATE (PAPHIA TEXTILE)",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NUOVA EUROGEL SUD SRL - VONGOLE SGUSCIATE (PAPHIA TEXTILE)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Nuova%20Eurogel%20sud_1761206168.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "vongole-sgusciate-paphia-textile",
+    "published": "2025-01-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pinoli-sgusciati-100g/",
+    "title": "",
+    "noticeDate": "11 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "11 gennaio 2025",
+      "marca": "Mister Sibamba",
+      "denominazione": "Pinoli sgusciati 100g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Mister Sibamba",
+    "product": "Pinoli sgusciati 100g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mister Sibamba - Pinoli sgusciati 100g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALL%206%20_%20Cartello%20Ministeriale%202025.01.08%20_%20Pinoli%20sgusciati%20100g%20_%20MOCERINO_1761206171.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pinoli-sgusciati-100g",
+    "published": "2025-01-11",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fitne-infusion-box-green-tisana-di-senna-12x-6x40g/",
     "title": "",
     "noticeDate": "10 gennaio 2025",
@@ -2356,6 +2772,84 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hamburger-di-bovino-bio/",
+    "title": "",
+    "noticeDate": "28 ottobre 2024",
+    "campi": {
+      "data pubblicazione": "28 ottobre 2024",
+      "marca": "Fileni bio",
+      "denominazione": "Hamburger di bovino bio",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Fileni bio",
+    "product": "Hamburger di bovino bio",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fileni bio - Hamburger di bovino bio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/45672_cartello_richiamo_1761205828.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "hamburger-di-bovino-bio",
+    "published": "2024-10-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hamburger-di-bovino-bio-0/",
+    "title": "",
+    "noticeDate": "28 ottobre 2024",
+    "campi": {
+      "data pubblicazione": "28 ottobre 2024",
+      "marca": "Fileni bio",
+      "denominazione": "Hamburger di bovino bio",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Fileni bio",
+    "product": "Hamburger di bovino bio",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fileni bio - Hamburger di bovino bio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/45372_cartello_richiamo_1761205831.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "hamburger-di-bovino-bio-0",
+    "published": "2024-10-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hamburger-di-bovino-bio-1/",
+    "title": "",
+    "noticeDate": "28 ottobre 2024",
+    "campi": {
+      "data pubblicazione": "28 ottobre 2024",
+      "marca": "Fileni bio",
+      "denominazione": "Hamburger di bovino bio",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Fileni bio",
+    "product": "Hamburger di bovino bio",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fileni bio - Hamburger di bovino bio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/45072_cartello_richiamo_1761205835.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "hamburger-di-bovino-bio-1",
+    "published": "2024-10-28",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burger-miglio-melanzane/",
     "title": "",
     "noticeDate": "25 ottobre 2024",
@@ -2508,6 +3002,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "polpettine-di-lenticchie",
+    "published": "2024-10-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/i-friulani-salame-soppressa-con-aglio-i-friulani-salame-soppressa/",
+    "title": "",
+    "noticeDate": "25 ottobre 2024",
+    "campi": {
+      "data pubblicazione": "25 ottobre 2024",
+      "marca": "SALUMI LUIGI VIDA",
+      "denominazione": "I Friulani salame /soppressa con aglio- I Friulani salame /soppressa",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMI LUIGI VIDA",
+    "product": "I Friulani salame /soppressa con aglio- I Friulani salame /soppressa",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMI LUIGI VIDA - I Friulani salame /soppressa con aglio- I Friulani salame /soppressa",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2024%2010%2025%20Modello%20richiamo%20compilato%202_1761205824.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "i-friulani-salame-soppressa-con-aglio-i-friulani-salame-soppressa",
     "published": "2024-10-25",
     "source": "operator"
   },
