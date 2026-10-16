@@ -201,6 +201,266 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/le-croccanti-cuori-di-iceberg/",
+    "title": "",
+    "noticeDate": "12 settembre 2024",
+    "campi": {
+      "data pubblicazione": "12 settembre 2024",
+      "marca": "foglia verde eurospin",
+      "denominazione": "le Croccanti Cuori di iceberg",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "foglia verde eurospin",
+    "product": "le Croccanti Cuori di iceberg",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo foglia verde eurospin - le Croccanti Cuori di iceberg",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_%20FOGLIA%20VERDE%20EUROSPIN%20200g%20_1__1761205674.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "le-croccanti-cuori-di-iceberg",
+    "published": "2024-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-200-gr/",
+    "title": "",
+    "noticeDate": "12 settembre 2024",
+    "campi": {
+      "data pubblicazione": "12 settembre 2024",
+      "marca": "Alifresh",
+      "denominazione": "Iceberg 200 gr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Alifresh",
+    "product": "Iceberg 200 gr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Alifresh - Iceberg 200 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_ALIFRESH%20200g_1761205676.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "iceberg-200-gr",
+    "published": "2024-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-secca/",
+    "title": "",
+    "noticeDate": "11 settembre 2024",
+    "campi": {
+      "data pubblicazione": "11 settembre 2024",
+      "marca": "Il Baroncino",
+      "denominazione": "Salsiccia secca",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Il Baroncino",
+    "product": "Salsiccia secca",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Il Baroncino - Salsiccia secca",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20%20E2%20pdf%20_1__1761205673.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-secca",
+    "published": "2024-09-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/light-lunch-low-carb/",
+    "title": "",
+    "noticeDate": "9 settembre 2024",
+    "campi": {
+      "data pubblicazione": "9 settembre 2024",
+      "marca": "Italian Beauty Service",
+      "denominazione": "light lunch low carb",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Italian Beauty Service",
+    "product": "light lunch low carb",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Italian Beauty Service - light lunch low carb",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo_1761205670.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "light-lunch-low-carb",
+    "published": "2024-09-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/light-lunch-low-carb-0/",
+    "title": "",
+    "noticeDate": "9 settembre 2024",
+    "campi": {
+      "data pubblicazione": "9 settembre 2024",
+      "marca": "Integra",
+      "denominazione": "Light lunch low carb",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Integra",
+    "product": "Light lunch low carb",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Integra - Light lunch low carb",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo_1761205671.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "light-lunch-low-carb-0",
+    "published": "2024-09-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pecorino-sardo-dop-maturo/",
+    "title": "",
+    "noticeDate": "5 settembre 2024",
+    "campi": {
+      "data pubblicazione": "5 settembre 2024",
+      "marca": "Eurospin Italia SpA - Argiolas Formaggi",
+      "denominazione": "Pecorino Sardo DOP maturo",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Eurospin Italia SpA - Argiolas Formaggi",
+    "product": "Pecorino Sardo DOP maturo",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Eurospin Italia SpA - Argiolas Formaggi - Pecorino Sardo DOP maturo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2024.08.28%20_RICHIAMO%20Pecorino%20sardo%20maturo%20300g%20_%20ARGIOLAS_1761205668.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pecorino-sardo-dop-maturo",
+    "published": "2024-09-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/piatto-pronto-di-carni-bovine-gelatina-vegetale/",
+    "title": "",
+    "noticeDate": "4 settembre 2024",
+    "campi": {
+      "data pubblicazione": "4 settembre 2024",
+      "marca": "Simmenthal",
+      "denominazione": "Piatto pronto di carni bovine in gelatina vegetale",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Simmenthal",
+    "product": "Piatto pronto di carni bovine in gelatina vegetale",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Simmenthal - Piatto pronto di carni bovine in gelatina vegetale",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Simmenthal%20140G%20_%20Lotto%20G156_1761205664.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "piatto-pronto-di-carni-bovine-gelatina-vegetale",
+    "published": "2024-09-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongole-del-pacifico-cotte-e-sgusciat-surgelate-da-120-gr/",
+    "title": "",
+    "noticeDate": "4 settembre 2024",
+    "campi": {
+      "data pubblicazione": "4 settembre 2024",
+      "marca": "MARINAI",
+      "denominazione": "VONGOLE DEL PACIFICO COTTE E SGUSCIAT - SURGELATE DA 120 GR",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MARINAI",
+    "product": "VONGOLE DEL PACIFICO COTTE E SGUSCIAT - SURGELATE DA 120 GR",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MARINAI - VONGOLE DEL PACIFICO COTTE E SGUSCIAT - SURGELATE DA 120 GR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20NAI_Vongole%20del%20Pacifico%20cotte%20sgusciate%20surgelate_2_1761205666.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "vongole-del-pacifico-cotte-e-sgusciat-surgelate-da-120-gr",
+    "published": "2024-09-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongole-del-pacifico-cotte-e-sgusciate-surgelate-da-800-gr/",
+    "title": "",
+    "noticeDate": "4 settembre 2024",
+    "campi": {
+      "data pubblicazione": "4 settembre 2024",
+      "marca": "MARINAI",
+      "denominazione": "VONGOLE DEL PACIFICO COTTE E SGUSCIATE - SURGELATE da 800 gr",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MARINAI",
+    "product": "VONGOLE DEL PACIFICO COTTE E SGUSCIATE - SURGELATE da 800 gr",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MARINAI - VONGOLE DEL PACIFICO COTTE E SGUSCIATE - SURGELATE da 800 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20NAI_Vongole%20del%20Pacifico%20cotte%20sgusciate%20surgelate_1_1761205667.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "vongole-del-pacifico-cotte-e-sgusciate-surgelate-da-800-gr",
+    "published": "2024-09-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-cat-ada-allevamento-terra-vario-calibro-amadori/",
+    "title": "",
+    "noticeDate": "2 settembre 2024",
+    "campi": {
+      "data pubblicazione": "2 settembre 2024",
+      "marca": "AMADORI",
+      "denominazione": "UOVA FRESCHE CAT. ADA ALLEVAMENTO, A TERRA, VARIO CALIBRO, AMADORI",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "AMADORI",
+    "product": "UOVA FRESCHE CAT. ADA ALLEVAMENTO, A TERRA, VARIO CALIBRO, AMADORI",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AMADORI - UOVA FRESCHE CAT. ADA ALLEVAMENTO, A TERRA, VARIO CALIBRO, AMADORI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Amadori%20_1__1761205537.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-cat-ada-allevamento-terra-vario-calibro-amadori",
+    "published": "2024-09-02",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/muesli-alla-frutta-bio-vivereverde-coop-scatola-g-375/",
     "title": "",
     "noticeDate": "27 agosto 2024",
@@ -795,6 +1055,266 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "uova-fresche-da-allevamento-terra-cat-20",
+    "published": "2024-08-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-allevamento-terra-cat-21/",
+    "title": "",
+    "noticeDate": "27 agosto 2024",
+    "campi": {
+      "data pubblicazione": "27 agosto 2024",
+      "marca": "Del Campo",
+      "denominazione": "Uova fresche da allevamento a terra Cat A",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Del Campo",
+    "product": "Uova fresche da allevamento a terra Cat A",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Del Campo - Uova fresche da allevamento a terra Cat A",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/12913_1761205482.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-da-allevamento-terra-cat-21",
+    "published": "2024-08-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-allevamento-terra-cat-22/",
+    "title": "",
+    "noticeDate": "27 agosto 2024",
+    "campi": {
+      "data pubblicazione": "27 agosto 2024",
+      "marca": "Gesco",
+      "denominazione": "Uova fresche da allevamento a terra Cat A",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Gesco",
+    "product": "Uova fresche da allevamento a terra Cat A",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gesco - Uova fresche da allevamento a terra Cat A",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/12921_1761205487.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-da-allevamento-terra-cat-22",
+    "published": "2024-08-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-allevamento-terra-cat-23/",
+    "title": "",
+    "noticeDate": "27 agosto 2024",
+    "campi": {
+      "data pubblicazione": "27 agosto 2024",
+      "marca": "Smart",
+      "denominazione": "Uova fresche da allevamento a terra Cat A",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Smart",
+    "product": "Uova fresche da allevamento a terra Cat A",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Smart - Uova fresche da allevamento a terra Cat A",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/12925%20ESSELUNGA%20GESCO_1761205492.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-da-allevamento-terra-cat-23",
+    "published": "2024-08-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-allevamento-terra-cat-24/",
+    "title": "",
+    "noticeDate": "27 agosto 2024",
+    "campi": {
+      "data pubblicazione": "27 agosto 2024",
+      "marca": "Eurospin",
+      "denominazione": "Uova fresche da allevamento a terra Cat A",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Eurospin",
+    "product": "Uova fresche da allevamento a terra Cat A",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Eurospin - Uova fresche da allevamento a terra Cat A",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/12937_1761205497.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-da-allevamento-terra-cat-24",
+    "published": "2024-08-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-allevamento-terra-cat-25/",
+    "title": "",
+    "noticeDate": "27 agosto 2024",
+    "campi": {
+      "data pubblicazione": "27 agosto 2024",
+      "marca": "Conad",
+      "denominazione": "Uova fresche da allevamento a terra Cat A",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Conad",
+    "product": "Uova fresche da allevamento a terra Cat A",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Conad - Uova fresche da allevamento a terra Cat A",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/12942_1761205503.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-da-allevamento-terra-cat-25",
+    "published": "2024-08-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-allevamento-terra-cat-26/",
+    "title": "",
+    "noticeDate": "27 agosto 2024",
+    "campi": {
+      "data pubblicazione": "27 agosto 2024",
+      "marca": "Conad",
+      "denominazione": "Uova fresche da allevamento a terra Cat A",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Conad",
+    "product": "Uova fresche da allevamento a terra Cat A",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Conad - Uova fresche da allevamento a terra Cat A",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/12949_1761205509.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-da-allevamento-terra-cat-26",
+    "published": "2024-08-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-allevamento-terra-cat-27/",
+    "title": "",
+    "noticeDate": "27 agosto 2024",
+    "campi": {
+      "data pubblicazione": "27 agosto 2024",
+      "marca": "Amadori",
+      "denominazione": "Uova fresche da allevamento a terra Cat A",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Amadori",
+    "product": "Uova fresche da allevamento a terra Cat A",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Amadori - Uova fresche da allevamento a terra Cat A",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/76025_1761205515.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-da-allevamento-terra-cat-27",
+    "published": "2024-08-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-allevamento-terra-senza-uso-atb/",
+    "title": "",
+    "noticeDate": "27 agosto 2024",
+    "campi": {
+      "data pubblicazione": "27 agosto 2024",
+      "marca": "Conad",
+      "denominazione": "Uova fresche da allevamento a terra senza uso atb",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Conad",
+    "product": "Uova fresche da allevamento a terra senza uso atb",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Conad - Uova fresche da allevamento a terra senza uso atb",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20DI%20RICHIAMO_Conad_AntibioticFree_1761205520.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-da-allevamento-terra-senza-uso-atb",
+    "published": "2024-08-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-galline-allevate-terra/",
+    "title": "",
+    "noticeDate": "27 agosto 2024",
+    "campi": {
+      "data pubblicazione": "27 agosto 2024",
+      "marca": "Conad",
+      "denominazione": "Uova fresche da galline allevate a terra",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Conad",
+    "product": "Uova fresche da galline allevate a terra",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Conad - Uova fresche da galline allevate a terra",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20DI%20RICHIAMO_Conad_Terra%206%20M_L_1761205526.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-da-galline-allevate-terra",
+    "published": "2024-08-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-galline-allevate-terra-0/",
+    "title": "",
+    "noticeDate": "27 agosto 2024",
+    "campi": {
+      "data pubblicazione": "27 agosto 2024",
+      "marca": "Conad",
+      "denominazione": "Uova fresche da galline allevate a terra",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Conad",
+    "product": "Uova fresche da galline allevate a terra",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Conad - Uova fresche da galline allevate a terra",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20DI%20RICHIAMO_Conad_Terra%2010%20M_1761205531.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-da-galline-allevate-terra-0",
     "published": "2024-08-27",
     "source": "operator"
   },
