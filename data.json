@@ -230,6 +230,500 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-mantovana-con-finocchio/",
+    "title": "",
+    "noticeDate": "27 giugno 2024",
+    "campi": {
+      "data pubblicazione": "27 giugno 2024",
+      "marca": "Cucina express",
+      "denominazione": "Salsiccia mantovana con finocchio",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Cucina express",
+    "product": "Salsiccia mantovana con finocchio",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cucina express - Salsiccia mantovana con finocchio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/salsiccia%20mantovana%20con%20finocchio%20lotto%206142440329__1761204340.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-mantovana-con-finocchio",
+    "published": "2024-06-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-monte-veronese-dop-latte-intero-take-away/",
+    "title": "",
+    "noticeDate": "26 giugno 2024",
+    "campi": {
+      "data pubblicazione": "26 giugno 2024",
+      "marca": "SUPERMERCATO TOSANO CEREA SRL",
+      "denominazione": "FORMAGGIO MONTE VERONESE DOP LATTE INTERO TAKE AWAY",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SUPERMERCATO TOSANO CEREA SRL",
+    "product": "FORMAGGIO MONTE VERONESE DOP LATTE INTERO TAKE AWAY",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SUPERMERCATO TOSANO CEREA SRL - FORMAGGIO MONTE VERONESE DOP LATTE INTERO TAKE AWAY",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%202%20_1__1761204335.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-monte-veronese-dop-latte-intero-take-away",
+    "published": "2024-06-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confezione-uova-da-6/",
+    "title": "",
+    "noticeDate": "23 giugno 2024",
+    "campi": {
+      "data pubblicazione": "23 giugno 2024",
+      "marca": "AZIENDA AGRICOLA VANZELLI GINO",
+      "denominazione": "CONFEZIONE UOVA DA 6",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "AZIENDA AGRICOLA VANZELLI GINO",
+    "product": "CONFEZIONE UOVA DA 6",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AZIENDA AGRICOLA VANZELLI GINO - CONFEZIONE UOVA DA 6",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%201_1761204317.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "confezione-uova-da-6",
+    "published": "2024-06-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confezione-uova-da-10/",
+    "title": "",
+    "noticeDate": "23 giugno 2024",
+    "campi": {
+      "data pubblicazione": "23 giugno 2024",
+      "marca": "AZIENDA AGRICOLA VANZELLI GINO",
+      "denominazione": "CONFEZIONE UOVA DA 10",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "AZIENDA AGRICOLA VANZELLI GINO",
+    "product": "CONFEZIONE UOVA DA 10",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AZIENDA AGRICOLA VANZELLI GINO - CONFEZIONE UOVA DA 10",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%202_1761204322.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "confezione-uova-da-10",
+    "published": "2024-06-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confezione-uova-da-6-0/",
+    "title": "",
+    "noticeDate": "23 giugno 2024",
+    "campi": {
+      "data pubblicazione": "23 giugno 2024",
+      "marca": "AZIENDA AGRICOLA VANZELLI GINO",
+      "denominazione": "CONFEZIONE UOVA DA 6",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "AZIENDA AGRICOLA VANZELLI GINO",
+    "product": "CONFEZIONE UOVA DA 6",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AZIENDA AGRICOLA VANZELLI GINO - CONFEZIONE UOVA DA 6",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%203_1761204326.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "confezione-uova-da-6-0",
+    "published": "2024-06-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confezione-uova-da-30/",
+    "title": "",
+    "noticeDate": "23 giugno 2024",
+    "campi": {
+      "data pubblicazione": "23 giugno 2024",
+      "marca": "AZIENDA AGRICOLA VANZELLI GINO",
+      "denominazione": "CONFEZIONE UOVA DA 30",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "AZIENDA AGRICOLA VANZELLI GINO",
+    "product": "CONFEZIONE UOVA DA 30",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AZIENDA AGRICOLA VANZELLI GINO - CONFEZIONE UOVA DA 30",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%204_1761204331.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "confezione-uova-da-30",
+    "published": "2024-06-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ventaglini-di-pasta-sfoglia/",
+    "title": "",
+    "noticeDate": "20 giugno 2024",
+    "campi": {
+      "data pubblicazione": "20 giugno 2024",
+      "marca": "EUROSPIN ITALIA SPA",
+      "denominazione": "VENTAGLINI DI PASTA SFOGLIA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "EUROSPIN ITALIA SPA",
+    "product": "VENTAGLINI DI PASTA SFOGLIA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo EUROSPIN ITALIA SPA - VENTAGLINI DI PASTA SFOGLIA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20RICHIAMO%20Ventaglini%20di%20pasta%20sfoglia_1761204312.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ventaglini-di-pasta-sfoglia",
+    "published": "2024-06-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ensure-advance-vegetale/",
+    "title": "",
+    "noticeDate": "18 giugno 2024",
+    "campi": {
+      "data pubblicazione": "18 giugno 2024",
+      "marca": "ABBOTT Manufacturing Singapore",
+      "denominazione": "ENSURE ADVANCE VEGETALE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "ABBOTT Manufacturing Singapore",
+    "product": "ENSURE ADVANCE VEGETALE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ABBOTT Manufacturing Singapore - ENSURE ADVANCE VEGETALE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Ensure%20Advance%20Vegetale_1761204303.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ensure-advance-vegetale",
+    "published": "2024-06-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/rane-cosce/",
+    "title": "",
+    "noticeDate": "18 giugno 2024",
+    "campi": {
+      "data pubblicazione": "18 giugno 2024",
+      "marca": "EPIC",
+      "denominazione": "RANE COSCE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "EPIC",
+    "product": "RANE COSCE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo EPIC - RANE COSCE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello_richiamo_3_1761204307.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "rane-cosce",
+    "published": "2024-06-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nutella-ice-cream-pot/",
+    "title": "",
+    "noticeDate": "17 giugno 2024",
+    "campi": {
+      "data pubblicazione": "17 giugno 2024",
+      "marca": "Ferrero",
+      "denominazione": "Nutella Ice cream pot",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Ferrero",
+    "product": "Nutella Ice cream pot",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ferrero - Nutella Ice cream pot",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20nutella%20ice%20cream%20pot_1761204290.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "nutella-ice-cream-pot",
+    "published": "2024-06-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gambero-rosa-delladriatico-con-lime-zenzero-e-filetto-di/",
+    "title": "",
+    "noticeDate": "17 giugno 2024",
+    "campi": {
+      "data pubblicazione": "17 giugno 2024",
+      "marca": "Le ricette di Monia e Lorena",
+      "denominazione": "GAMBERO ROSA DELL'ADRIATICO CON LIME, ZENZERO E FILETTO DI PEPERONCINO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Le ricette di Monia e Lorena",
+    "product": "GAMBERO ROSA DELL'ADRIATICO CON LIME, ZENZERO E FILETTO DI PEPERONCINO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Le ricette di Monia e Lorena - GAMBERO ROSA DELL'ADRIATICO CON LIME, ZENZERO E FILETTO DI PEPERONCINO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamoprot53909_17_06_2024_1761204294.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gambero-rosa-delladriatico-con-lime-zenzero-e-filetto-di",
+    "published": "2024-06-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/rane-cosce-13-15-0/",
+    "title": "",
+    "noticeDate": "17 giugno 2024",
+    "campi": {
+      "data pubblicazione": "17 giugno 2024",
+      "marca": "EPIC",
+      "denominazione": "RANE COSCE 13-15",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "EPIC",
+    "product": "RANE COSCE 13-15",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo EPIC - RANE COSCE 13-15",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO_RICHIAMO_MARE_1761204298.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "rane-cosce-13-15-0",
+    "published": "2024-06-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/rane-cosce-13-15/",
+    "title": "",
+    "noticeDate": "15 giugno 2024",
+    "campi": {
+      "data pubblicazione": "15 giugno 2024",
+      "marca": "EPIC",
+      "denominazione": "RANE COSCE 13-15",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "EPIC",
+    "product": "RANE COSCE 13-15",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo EPIC - RANE COSCE 13-15",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20ditta%20Ma.re._1761204286.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "rane-cosce-13-15",
+    "published": "2024-06-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/dry-cake-cake-rusk/",
+    "title": "",
+    "noticeDate": "12 giugno 2024",
+    "campi": {
+      "data pubblicazione": "12 giugno 2024",
+      "marca": "Banoful",
+      "denominazione": "Dry Cake Cake Rusk",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Banoful",
+    "product": "Dry Cake Cake Rusk",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Banoful - Dry Cake Cake Rusk",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/DRYCAKE__cartellorichiamo_1761204282.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "dry-cake-cake-rusk",
+    "published": "2024-06-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/arselle-cuore-vongole-veraci-marceddi-0/",
+    "title": "",
+    "noticeDate": "10 giugno 2024",
+    "campi": {
+      "data pubblicazione": "10 giugno 2024",
+      "marca": "CONSORZIO COOPERATIVE RIUNITE DELLA PESCA MARCEDDI'",
+      "denominazione": "ARSELLE CUORE - VONGOLE VERACI MARCEDDI'",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CONSORZIO COOPERATIVE RIUNITE DELLA PESCA MARCEDDI'",
+    "product": "ARSELLE CUORE - VONGOLE VERACI MARCEDDI'",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONSORZIO COOPERATIVE RIUNITE DELLA PESCA MARCEDDI' - ARSELLE CUORE - VONGOLE VERACI MARCEDDI'",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_CONSORZIO%20Marcedd%C3%AC%20compilato_1761204275.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "arselle-cuore-vongole-veraci-marceddi-0",
+    "published": "2024-06-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/arselle-cuore/",
+    "title": "",
+    "noticeDate": "10 giugno 2024",
+    "campi": {
+      "data pubblicazione": "10 giugno 2024",
+      "marca": "cirdu",
+      "denominazione": "arselle cuore",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "cirdu",
+    "product": "arselle cuore",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo cirdu - arselle cuore",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20CIRDU_1761204279.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "arselle-cuore",
+    "published": "2024-06-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongole-cuore-cerastoderma-spp/",
+    "title": "",
+    "noticeDate": "8 giugno 2024",
+    "campi": {
+      "data pubblicazione": "8 giugno 2024",
+      "marca": "Cooperativa Pescatori Arborea",
+      "denominazione": "Vongole cuore (Cerastoderma spp)",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Cooperativa Pescatori Arborea",
+    "product": "Vongole cuore (Cerastoderma spp)",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cooperativa Pescatori Arborea - Vongole cuore (Cerastoderma spp)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20cuore_05062024172603_1761204265.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "vongole-cuore-cerastoderma-spp",
+    "published": "2024-06-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongole-veraci-nostrane-ruditapes-decussatus/",
+    "title": "",
+    "noticeDate": "8 giugno 2024",
+    "campi": {
+      "data pubblicazione": "8 giugno 2024",
+      "marca": "Cooperativa Pescatori Arborea)",
+      "denominazione": "Vongole veraci nostrane (Ruditapes decussatus)",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Cooperativa Pescatori Arborea)",
+    "product": "Vongole veraci nostrane (Ruditapes decussatus)",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cooperativa Pescatori Arborea) - Vongole veraci nostrane (Ruditapes decussatus)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20vv_05062024172542_1761204268.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "vongole-veraci-nostrane-ruditapes-decussatus",
+    "published": "2024-06-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/arselle-cuore-vongole-veraci-marceddi/",
+    "title": "",
+    "noticeDate": "8 giugno 2024",
+    "campi": {
+      "data pubblicazione": "8 giugno 2024",
+      "marca": "Consorzio Cooperative della Pesca \"Marceddì\"",
+      "denominazione": "Arselle cuore - Vongole veraci Marceddì",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Consorzio Cooperative della Pesca \"Marceddì\"",
+    "product": "Arselle cuore - Vongole veraci Marceddì",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Consorzio Cooperative della Pesca \"Marceddì\" - Arselle cuore - Vongole veraci Marceddì",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Cons.%20Marcedd%C3%AC%20CSM_1761204272.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "arselle-cuore-vongole-veraci-marceddi",
+    "published": "2024-06-08",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tortelloni-ricotta-e-spinaci-0/",
     "title": "",
     "noticeDate": "5 giugno 2024",
@@ -252,6 +746,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "tortelloni-ricotta-e-spinaci-0",
+    "published": "2024-06-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/snack-mais-gusto-barbecue/",
+    "title": "",
+    "noticeDate": "5 giugno 2024",
+    "campi": {
+      "data pubblicazione": "5 giugno 2024",
+      "marca": "Clover chips",
+      "denominazione": "Snack Mais gusto barbecue",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Clover chips",
+    "product": "Snack Mais gusto barbecue",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Clover chips - Snack Mais gusto barbecue",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1761204261.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "snack-mais-gusto-barbecue",
     "published": "2024-06-05",
     "source": "operator"
   },
