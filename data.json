@@ -172,6 +172,58 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-morbier-dop-forma/",
+    "title": "",
+    "noticeDate": "31 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "31 gennaio 2025",
+      "marca": "JEAN PERRIN",
+      "denominazione": "FORMAGGIO MORBIER DOP FORMA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "JEAN PERRIN",
+    "product": "FORMAGGIO MORBIER DOP FORMA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo JEAN PERRIN - FORMAGGIO MORBIER DOP FORMA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20formaggio%20Morbier_1761206477.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-morbier-dop-forma",
+    "published": "2025-01-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/turmeric-powder/",
+    "title": "",
+    "noticeDate": "31 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "31 gennaio 2025",
+      "marca": "AFT",
+      "denominazione": "Turmeric Powder",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "AFT",
+    "product": "Turmeric Powder",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AFT - Turmeric Powder",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761206479.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "turmeric-powder",
+    "published": "2025-01-31",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/egusi-macinato-ali-baba-12x500g-jars/",
     "title": "",
     "noticeDate": "30 gennaio 2025",
@@ -220,6 +272,110 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "formaggio-morbier-dop-125g-ta",
+    "published": "2025-01-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barretta-low-sugar-singola-12-g-0/",
+    "title": "",
+    "noticeDate": "30 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "30 gennaio 2025",
+      "marca": "AGROINIZIATIVE SRL SOCIETA'",
+      "denominazione": "Barretta Low Sugar singola 12 g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "AGROINIZIATIVE SRL SOCIETA'",
+    "product": "Barretta Low Sugar singola 12 g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AGROINIZIATIVE SRL SOCIETA' - Barretta Low Sugar singola 12 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/All%209%20format%20cartello%20richiamo%20Low%20Sugar%20gr%2012%20_1__1761206468.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "barretta-low-sugar-singola-12-g-0",
+    "published": "2025-01-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barretta-low-sugar-singola-30-g-0/",
+    "title": "",
+    "noticeDate": "30 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "30 gennaio 2025",
+      "marca": "AGROINIZIATIVE SRL SOCIETA' AGRICOLE",
+      "denominazione": "Barretta Low sugar singola 30 g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "AGROINIZIATIVE SRL SOCIETA' AGRICOLE",
+    "product": "Barretta Low sugar singola 30 g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AGROINIZIATIVE SRL SOCIETA' AGRICOLE - Barretta Low sugar singola 30 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/All%209%20format%20cartello%20richiamo%20Low%20sugar%20gr%2030%20_1__1761206470.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "barretta-low-sugar-singola-30-g-0",
+    "published": "2025-01-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barretta-keto-singola-12-g/",
+    "title": "",
+    "noticeDate": "30 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "30 gennaio 2025",
+      "marca": "AGROINIZIATIVE SRL SOCIETA' AGRICOLA",
+      "denominazione": "Barretta Keto singola 12 g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "AGROINIZIATIVE SRL SOCIETA' AGRICOLA",
+    "product": "Barretta Keto singola 12 g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AGROINIZIATIVE SRL SOCIETA' AGRICOLA - Barretta Keto singola 12 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/All%209%20format%20cartello%20richiamo%20Keto%20gr%2012%20_1__1761206472.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "barretta-keto-singola-12-g",
+    "published": "2025-01-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barretta-keto-singola-30-g-0/",
+    "title": "",
+    "noticeDate": "30 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "30 gennaio 2025",
+      "marca": "AGROINIZIATIVE SRL SOCIETA' AGRICOLA",
+      "denominazione": "Barretta Keto singola 30 g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "AGROINIZIATIVE SRL SOCIETA' AGRICOLA",
+    "product": "Barretta Keto singola 30 g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AGROINIZIATIVE SRL SOCIETA' AGRICOLA - Barretta Keto singola 30 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/All%209%20format%20cartello%20richiamo%20Keto%20gr%2030%20_1__1761206475.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "barretta-keto-singola-30-g-0",
     "published": "2025-01-30",
     "source": "operator"
   },
@@ -1313,6 +1469,370 @@
     "category": "info",
     "id": "mousse-baba-esotico-0",
     "published": "2025-01-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-gialla-di-storo/",
+    "title": "",
+    "noticeDate": "6 dicembre 2024",
+    "campi": {
+      "data pubblicazione": "6 dicembre 2024",
+      "marca": "Agri90",
+      "denominazione": "Farina gialla di Storo",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Agri90",
+    "product": "Farina gialla di Storo",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Agri90 - Farina gialla di Storo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20SKM_C300i24120608370_1761206107.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "farina-gialla-di-storo",
+    "published": "2024-12-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/whey-protein-chocolat-30g/",
+    "title": "",
+    "noticeDate": "5 dicembre 2024",
+    "campi": {
+      "data pubblicazione": "5 dicembre 2024",
+      "marca": "Decathlon",
+      "denominazione": "WHEY PROTEIN CHOCOLAT 30G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Decathlon",
+    "product": "WHEY PROTEIN CHOCOLAT 30G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Decathlon - WHEY PROTEIN CHOCOLAT 30G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20Decathlon_1761206105.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "whey-protein-chocolat-30g",
+    "published": "2024-12-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/form-il-saporito-di-montagna-lc/",
+    "title": "",
+    "noticeDate": "4 dicembre 2024",
+    "campi": {
+      "data pubblicazione": "4 dicembre 2024",
+      "marca": "Tessaro",
+      "denominazione": "FORM. IL SAPORITO di MONTAGNA L.C.",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Tessaro",
+    "product": "FORM. IL SAPORITO di MONTAGNA L.C.",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Tessaro - FORM. IL SAPORITO di MONTAGNA L.C.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RitiroSaporitoMontagna_1761206100.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "form-il-saporito-di-montagna-lc",
+    "published": "2024-12-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/form-il-saporito-di-mlc-quarto/",
+    "title": "",
+    "noticeDate": "4 dicembre 2024",
+    "campi": {
+      "data pubblicazione": "4 dicembre 2024",
+      "marca": "Tessaro",
+      "denominazione": "FORM. il SAPORITO di M.L.C. QUARTO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Tessaro",
+    "product": "FORM. il SAPORITO di M.L.C. QUARTO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Tessaro - FORM. il SAPORITO di M.L.C. QUARTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RitiroSaporitoMontagnaQuarto_1761206103.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "form-il-saporito-di-mlc-quarto",
+    "published": "2024-12-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/puzzone-di-moena-di-predazzo-e-moena-dop/",
+    "title": "",
+    "noticeDate": "29 novembre 2024",
+    "campi": {
+      "data pubblicazione": "29 novembre 2024",
+      "marca": "CASEIFICIO SOCIALE DI PREDAZZO E MOENA S.C.A",
+      "denominazione": "PUZZONE DI MOENA DI PREDAZZO E MOENA DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CASEIFICIO SOCIALE DI PREDAZZO E MOENA S.C.A",
+    "product": "PUZZONE DI MOENA DI PREDAZZO E MOENA DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASEIFICIO SOCIALE DI PREDAZZO E MOENA S.C.A - PUZZONE DI MOENA DI PREDAZZO E MOENA DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Puzzone%20di%20Moena_1761206080.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "puzzone-di-moena-di-predazzo-e-moena-dop",
+    "published": "2024-11-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/soprassata-un-balla/",
+    "title": "",
+    "noticeDate": "29 novembre 2024",
+    "campi": {
+      "data pubblicazione": "29 novembre 2024",
+      "marca": "CAPO FREDDO IN BALLA",
+      "denominazione": "SOPRASSATA UN BALLA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CAPO FREDDO IN BALLA",
+    "product": "SOPRASSATA UN BALLA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CAPO FREDDO IN BALLA - SOPRASSATA UN BALLA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20_1__1761206082.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "soprassata-un-balla",
+    "published": "2024-11-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-di-cereali-riso-biologica-200-g/",
+    "title": "",
+    "noticeDate": "29 novembre 2024",
+    "campi": {
+      "data pubblicazione": "29 novembre 2024",
+      "marca": "CONAD",
+      "denominazione": "Crema di cereali Riso biologica 200 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CONAD",
+    "product": "Crema di cereali Riso biologica 200 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONAD - Crema di cereali Riso biologica 200 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20crema%20di%20riso_1761206085.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crema-di-cereali-riso-biologica-200-g",
+    "published": "2024-11-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongole-o-lupini-sottovuoto-4x05-kg/",
+    "title": "",
+    "noticeDate": "29 novembre 2024",
+    "campi": {
+      "data pubblicazione": "29 novembre 2024",
+      "marca": "L'acquachiara un mare di freschezza",
+      "denominazione": "VONGOLE O LUPINI SOTTOVUOTO 4x0.5 KG",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "L'acquachiara un mare di freschezza",
+    "product": "VONGOLE O LUPINI SOTTOVUOTO 4x0.5 KG",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo L'acquachiara un mare di freschezza - VONGOLE O LUPINI SOTTOVUOTO 4x0.5 KG",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20lotto%20n.%20A5962_1761206087.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "vongole-o-lupini-sottovuoto-4x05-kg",
+    "published": "2024-11-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongole-o-lupini-sottovuoto-4x05-kg-0/",
+    "title": "",
+    "noticeDate": "29 novembre 2024",
+    "campi": {
+      "data pubblicazione": "29 novembre 2024",
+      "marca": "L'acquachiara un mare di freschezza",
+      "denominazione": "VONGOLE O LUPINI SOTTOVUOTO 4x0.5 KG",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "L'acquachiara un mare di freschezza",
+    "product": "VONGOLE O LUPINI SOTTOVUOTO 4x0.5 KG",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo L'acquachiara un mare di freschezza - VONGOLE O LUPINI SOTTOVUOTO 4x0.5 KG",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20lotto%20n.%20A6027_1761206089.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "vongole-o-lupini-sottovuoto-4x05-kg-0",
+    "published": "2024-11-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongole-o-lupini-sottovuoto-4x05-kg-1/",
+    "title": "",
+    "noticeDate": "29 novembre 2024",
+    "campi": {
+      "data pubblicazione": "29 novembre 2024",
+      "marca": "L'acquachiara un mare di freschezza",
+      "denominazione": "VONGOLE O LUPINI SOTTOVUOTO 4x0.5 KG",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "L'acquachiara un mare di freschezza",
+    "product": "VONGOLE O LUPINI SOTTOVUOTO 4x0.5 KG",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo L'acquachiara un mare di freschezza - VONGOLE O LUPINI SOTTOVUOTO 4x0.5 KG",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20lotto%20n.%20A6020_1761206091.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "vongole-o-lupini-sottovuoto-4x05-kg-1",
+    "published": "2024-11-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-capricciosa-lotto-24304/",
+    "title": "",
+    "noticeDate": "29 novembre 2024",
+    "campi": {
+      "data pubblicazione": "29 novembre 2024",
+      "marca": "CONAD",
+      "denominazione": "Insalata Capricciosa lotto 24304",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CONAD",
+    "product": "Insalata Capricciosa lotto 24304",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONAD - Insalata Capricciosa lotto 24304",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_modulo%20richiamo%20Insalata%20Capricciosa%20L24304_1761206093.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "insalata-capricciosa-lotto-24304",
+    "published": "2024-11-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/puzzone-di-moena-di-predazzo-e-moena/",
+    "title": "",
+    "noticeDate": "29 novembre 2024",
+    "campi": {
+      "data pubblicazione": "29 novembre 2024",
+      "marca": "Puzzone di Moena di Predazzo e MoenaDOP",
+      "denominazione": "Puzzone di Moena di Predazzo e Moena",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Puzzone di Moena di Predazzo e MoenaDOP",
+    "product": "Puzzone di Moena di Predazzo e Moena",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Puzzone di Moena di Predazzo e MoenaDOP - Puzzone di Moena di Predazzo e Moena",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20prodotto%20Puzzone%20di%20Moena_1761206096.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "puzzone-di-moena-di-predazzo-e-moena",
+    "published": "2024-11-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/puzzone-di-moena-di-predazzo-e-moena-dop-0/",
+    "title": "",
+    "noticeDate": "29 novembre 2024",
+    "campi": {
+      "data pubblicazione": "29 novembre 2024",
+      "marca": "PUZZONE DI MOENA DI PREDAZZO E MOENA DOP",
+      "denominazione": "PUZZONE DI MOENA DI PREDAZZO E MOENA DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "PUZZONE DI MOENA DI PREDAZZO E MOENA DOP",
+    "product": "PUZZONE DI MOENA DI PREDAZZO E MOENA DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PUZZONE DI MOENA DI PREDAZZO E MOENA DOP - PUZZONE DI MOENA DI PREDAZZO E MOENA DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Secondo%20Cartello%20richiamo%20Puzzone%2028novembre_1761206098.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "puzzone-di-moena-di-predazzo-e-moena-dop-0",
+    "published": "2024-11-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vialetto-tavoletta-amarena-e-mandorle/",
+    "title": "",
+    "noticeDate": "27 novembre 2024",
+    "campi": {
+      "data pubblicazione": "27 novembre 2024",
+      "marca": "VIALETTO",
+      "denominazione": "Vialetto tavoletta amarena e mandorle",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "VIALETTO",
+    "product": "Vialetto tavoletta amarena e mandorle",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VIALETTO - Vialetto tavoletta amarena e mandorle",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Vialetto%20tavoletta%20amarena%20e%20mandorle_1761206078.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "vialetto-tavoletta-amarena-e-mandorle",
+    "published": "2024-11-27",
     "source": "operator"
   },
   {
