@@ -406,6 +406,474 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/g0271-mozart-cioccolato-white-15-cl-50/",
+    "title": "",
+    "noticeDate": "18 giugno 2025",
+    "campi": {
+      "data pubblicazione": "18 giugno 2025",
+      "marca": "MOZART WHITE",
+      "denominazione": "G0271 MOZART CIOCCOLATO WHITE 15 cl 50",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "MOZART WHITE",
+    "product": "G0271 MOZART CIOCCOLATO WHITE 15 cl 50",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MOZART WHITE - G0271 MOZART CIOCCOLATO WHITE 15 cl 50",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20MOZART%20CHOCOLATE%20WHITE%20_1__1761207621.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "g0271-mozart-cioccolato-white-15-cl-50",
+    "published": "2025-06-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/g1623-mozart-chocolate-blackdark-17-cl-70/",
+    "title": "",
+    "noticeDate": "18 giugno 2025",
+    "campi": {
+      "data pubblicazione": "18 giugno 2025",
+      "marca": "MOZART DARK",
+      "denominazione": "G1623 MOZART CHOCOLATE BLACK/DARK 17 CL 70",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "MOZART DARK",
+    "product": "G1623 MOZART CHOCOLATE BLACK/DARK 17 CL 70",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MOZART DARK - G1623 MOZART CHOCOLATE BLACK/DARK 17 CL 70",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20MOZART%20CHOCOLATE%20BLACK%20DARK%202%20_1__1761207626.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "g1623-mozart-chocolate-blackdark-17-cl-70",
+    "published": "2025-06-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/g0044-mozart-chocolate-black-dark-17-cl-50/",
+    "title": "",
+    "noticeDate": "18 giugno 2025",
+    "campi": {
+      "data pubblicazione": "18 giugno 2025",
+      "marca": "MOZART",
+      "denominazione": "G0044 MOZART CHOCOLATE BLACK / DARK 17 CL 50",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "MOZART",
+    "product": "G0044 MOZART CHOCOLATE BLACK / DARK 17 CL 50",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MOZART - G0044 MOZART CHOCOLATE BLACK / DARK 17 CL 50",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20MOZART%20CHOCOLATE%20BLACK%20DARK%20_1__1761207631.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "g0044-mozart-chocolate-black-dark-17-cl-50",
+    "published": "2025-06-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-di-bufala-campana-dop/",
+    "title": "",
+    "noticeDate": "17 giugno 2025",
+    "campi": {
+      "data pubblicazione": "17 giugno 2025",
+      "marca": "CILENTO",
+      "denominazione": "MOZZARELLA DI BUFALA CAMPANA DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CILENTO",
+    "product": "MOZZARELLA DI BUFALA CAMPANA DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CILENTO - MOZZARELLA DI BUFALA CAMPANA DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LOCANDINA%20RICHIAMO%20MBC%20125%20G%20VASCHETTA%20CILENTO%20L%20160_1761207616.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mozzarella-di-bufala-campana-dop",
+    "published": "2025-06-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongola-verace/",
+    "title": "",
+    "noticeDate": "14 giugno 2025",
+    "campi": {
+      "data pubblicazione": "14 giugno 2025",
+      "marca": "Mitilmare",
+      "denominazione": "Vongola verace",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Mitilmare",
+    "product": "Vongola verace",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mitilmare - Vongola verace",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20rititiro%20richiamo_1761207611.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "vongola-verace",
+    "published": "2025-06-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/liquore-mozart-white-vanilla-chocolate-cream-15-70-cl/",
+    "title": "",
+    "noticeDate": "13 giugno 2025",
+    "campi": {
+      "data pubblicazione": "13 giugno 2025",
+      "marca": "MOZART",
+      "denominazione": "Liquore Mozart White Vanilla Chocolate Cream 15% 70 cl",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "MOZART",
+    "product": "Liquore Mozart White Vanilla Chocolate Cream 15% 70 cl",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MOZART - Liquore Mozart White Vanilla Chocolate Cream 15% 70 cl",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20White%20Vanilla%20Chocolate%20Cream_1761207597.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "liquore-mozart-white-vanilla-chocolate-cream-15-70-cl",
+    "published": "2025-06-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/liquore-mozart-gold-chocolate-cream-17-70-cl/",
+    "title": "",
+    "noticeDate": "13 giugno 2025",
+    "campi": {
+      "data pubblicazione": "13 giugno 2025",
+      "marca": "MOZART",
+      "denominazione": "Liquore Mozart Gold Chocolate Cream 17% 70 cl",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "MOZART",
+    "product": "Liquore Mozart Gold Chocolate Cream 17% 70 cl",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MOZART - Liquore Mozart Gold Chocolate Cream 17% 70 cl",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Gold%20Chocolate%20Cream_1761207601.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "liquore-mozart-gold-chocolate-cream-17-70-cl",
+    "published": "2025-06-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-4/",
+    "title": "",
+    "noticeDate": "13 giugno 2025",
+    "campi": {
+      "data pubblicazione": "13 giugno 2025",
+      "marca": "DAVID SALUMI SRL",
+      "denominazione": "SALSICCIA STAGIONATA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "DAVID SALUMI SRL",
+    "product": "SALSICCIA STAGIONATA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DAVID SALUMI SRL - SALSICCIA STAGIONATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20David%20Salumi%202_1761207606.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-stagionata-4",
+    "published": "2025-06-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spatola-ikea-365-hjalte/",
+    "title": "",
+    "noticeDate": "12 giugno 2025",
+    "campi": {
+      "data pubblicazione": "12 giugno 2025",
+      "marca": "Ikea",
+      "denominazione": "Spatola Ikea 365 + Hjalte",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "Ikea",
+    "product": "Spatola Ikea 365 + Hjalte",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ikea - Spatola Ikea 365 + Hjalte",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20spatola_1761207587.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spatola-ikea-365-hjalte",
+    "published": "2025-06-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spremiaglio-ikea-365-vardefull-nero/",
+    "title": "",
+    "noticeDate": "12 giugno 2025",
+    "campi": {
+      "data pubblicazione": "12 giugno 2025",
+      "marca": "Ikea",
+      "denominazione": "Spremiaglio Ikea 365 + Vardefull nero",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Ikea",
+    "product": "Spremiaglio Ikea 365 + Vardefull nero",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ikea - Spremiaglio Ikea 365 + Vardefull nero",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20spremiaglio_1761207592.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spremiaglio-ikea-365-vardefull-nero",
+    "published": "2025-06-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-di-magliano/",
+    "title": "",
+    "noticeDate": "10 giugno 2025",
+    "campi": {
+      "data pubblicazione": "10 giugno 2025",
+      "marca": "MONTE ARGEGNA SALUMI",
+      "denominazione": "SALAME DI MAGLIANO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "MONTE ARGEGNA SALUMI",
+    "product": "SALAME DI MAGLIANO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MONTE ARGEGNA SALUMI - SALAME DI MAGLIANO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20ritiro_richiamo%20Ditta%20Monte%20Argegna%20Salumi_1761207561.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-di-magliano",
+    "published": "2025-06-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mondiolamortadella-garfagnina/",
+    "title": "",
+    "noticeDate": "10 giugno 2025",
+    "campi": {
+      "data pubblicazione": "10 giugno 2025",
+      "marca": "MONTE ARGEGNA SALUMI",
+      "denominazione": "MONDIOLA/MORTADELLA GARFAGNINA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "MONTE ARGEGNA SALUMI",
+    "product": "MONDIOLA/MORTADELLA GARFAGNINA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MONTE ARGEGNA SALUMI - MONDIOLA/MORTADELLA GARFAGNINA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20MORTADELLA%20%20MONDIOLA%20GARFAGNINA%20_1761207566.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mondiolamortadella-garfagnina",
+    "published": "2025-06-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tartufo-dolce-al-flor-de-sal-e-caramello/",
+    "title": "",
+    "noticeDate": "10 giugno 2025",
+    "campi": {
+      "data pubblicazione": "10 giugno 2025",
+      "marca": "GOLOSITA' dal 1885 Srl",
+      "denominazione": "Tartufo dolce al Flor de Sal e Caramello",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "GOLOSITA' dal 1885 Srl",
+    "product": "Tartufo dolce al Flor de Sal e Caramello",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GOLOSITA' dal 1885 Srl - Tartufo dolce al Flor de Sal e Caramello",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Richiamo_Tartufo%20dolce%20al%20flor%20de%20sal%20e%20caramello_1761207570.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tartufo-dolce-al-flor-de-sal-e-caramello",
+    "published": "2025-06-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tartufo-dolce-al-caramello-salato/",
+    "title": "",
+    "noticeDate": "10 giugno 2025",
+    "campi": {
+      "data pubblicazione": "10 giugno 2025",
+      "marca": "GOLOSITA' dal 1885 Srl",
+      "denominazione": "Tartufo dolce al caramello salato",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "GOLOSITA' dal 1885 Srl",
+    "product": "Tartufo dolce al caramello salato",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GOLOSITA' dal 1885 Srl - Tartufo dolce al caramello salato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Richiamo_Tartufo%20dolce%20al%20caramello%20salato_1761207574.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tartufo-dolce-al-caramello-salato",
+    "published": "2025-06-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tartufo-dolce-al-caramello-e-nocciole-salate/",
+    "title": "",
+    "noticeDate": "10 giugno 2025",
+    "campi": {
+      "data pubblicazione": "10 giugno 2025",
+      "marca": "GOLOSITA' dal 1885 Srl",
+      "denominazione": "Tartufo dolce al caramello e nocciole salate",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "GOLOSITA' dal 1885 Srl",
+    "product": "Tartufo dolce al caramello e nocciole salate",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GOLOSITA' dal 1885 Srl - Tartufo dolce al caramello e nocciole salate",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Richiamo_Tartufo%20dolce%20al%20caramello%20e%20nocciole%20salate_1761207578.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tartufo-dolce-al-caramello-e-nocciole-salate",
+    "published": "2025-06-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tartufo-dolce-al-caramello-e-nocciole-salate-0/",
+    "title": "",
+    "noticeDate": "10 giugno 2025",
+    "campi": {
+      "data pubblicazione": "10 giugno 2025",
+      "marca": "GOLOSITA' dal 1885 Srl",
+      "denominazione": "Tartufo dolce al caramello e nocciole salate",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "GOLOSITA' dal 1885 Srl",
+    "product": "Tartufo dolce al caramello e nocciole salate",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GOLOSITA' dal 1885 Srl - Tartufo dolce al caramello e nocciole salate",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Richiamo_Tartufo%20dolce%20al%20caramello%20e%20nocciole%20salate%20L%20522_1_1761207583.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tartufo-dolce-al-caramello-e-nocciole-salate-0",
+    "published": "2025-06-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-agrel-stagionato/",
+    "title": "",
+    "noticeDate": "9 giugno 2025",
+    "campi": {
+      "data pubblicazione": "9 giugno 2025",
+      "marca": "Casearia Arnoldi",
+      "denominazione": "Formaggio AGREL stagionato",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Casearia Arnoldi",
+    "product": "Formaggio AGREL stagionato",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Casearia Arnoldi - Formaggio AGREL stagionato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20AGREL%20STAG.%20LOTTO%20520020_1761207557.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-agrel-stagionato",
+    "published": "2025-06-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cozze-mytilus-galloprovincialis/",
+    "title": "",
+    "noticeDate": "6 giugno 2025",
+    "campi": {
+      "data pubblicazione": "6 giugno 2025",
+      "marca": "Adriatica srl",
+      "denominazione": "Cozze ( Mytilus Galloprovincialis)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Adriatica srl",
+    "product": "Cozze ( Mytilus Galloprovincialis)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Adriatica srl - Cozze ( Mytilus Galloprovincialis)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modelloministerialenegozio04_06_25_1761207553.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cozze-mytilus-galloprovincialis",
+    "published": "2025-06-06",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/dmbio-spalmabile-anacardi-lamponi-250g-dan-2477707/",
     "title": "",
     "noticeDate": "5 giugno 2025",
@@ -532,6 +1000,58 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "latte-intero-pastorizzato-temperatura-elevata-2",
+    "published": "2025-06-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-intero-pastorizzato-temperatura-elevata-3/",
+    "title": "",
+    "noticeDate": "5 giugno 2025",
+    "campi": {
+      "data pubblicazione": "5 giugno 2025",
+      "marca": "Cappuccino Lovers",
+      "denominazione": "Latte intero pastorizzato a temperatura elevata",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Cappuccino Lovers",
+    "product": "Latte intero pastorizzato a temperatura elevata",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cappuccino Lovers - Latte intero pastorizzato a temperatura elevata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20Cap.Lovers_1761207545.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-intero-pastorizzato-temperatura-elevata-3",
+    "published": "2025-06-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-intero-pastorizzato-temperatura-elevata-4/",
+    "title": "",
+    "noticeDate": "5 giugno 2025",
+    "campi": {
+      "data pubblicazione": "5 giugno 2025",
+      "marca": "Fior di Maso",
+      "denominazione": "Latte intero pastorizzato a temperatura elevata",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Fior di Maso",
+    "product": "Latte intero pastorizzato a temperatura elevata",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fior di Maso - Latte intero pastorizzato a temperatura elevata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20Ca%20Form_1761207549.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-intero-pastorizzato-temperatura-elevata-4",
     "published": "2025-06-05",
     "source": "operator"
   },
