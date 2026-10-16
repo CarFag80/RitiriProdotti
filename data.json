@@ -519,6 +519,500 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-huancaina-alacena-sobre-400g/",
+    "title": "",
+    "noticeDate": "11 marzo 2024",
+    "campi": {
+      "data pubblicazione": "11 marzo 2024",
+      "marca": "ALACENA",
+      "denominazione": "CREMA HUANCAINA ALACENA SOBRE 400g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ALACENA",
+    "product": "CREMA HUANCAINA ALACENA SOBRE 400g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ALACENA - CREMA HUANCAINA ALACENA SOBRE 400g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%201_1761199003.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crema-huancaina-alacena-sobre-400g",
+    "published": "2024-03-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/castelmagno-dop-4/",
+    "title": "",
+    "noticeDate": "11 marzo 2024",
+    "campi": {
+      "data pubblicazione": "11 marzo 2024",
+      "marca": "BEPPINO OCCELLI",
+      "denominazione": "CASTELMAGNO DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "BEPPINO OCCELLI",
+    "product": "CASTELMAGNO DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BEPPINO OCCELLI - CASTELMAGNO DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Beppino%20Occelli%20lotti%2023137011%20_%2023144011_1761199009.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "castelmagno-dop-4",
+    "published": "2024-03-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/antipasto-giapponese-di-alghe-congelato-goma-wakame/",
+    "title": "",
+    "noticeDate": "11 marzo 2024",
+    "campi": {
+      "data pubblicazione": "11 marzo 2024",
+      "marca": "Asiantrade srl",
+      "denominazione": "antipasto giapponese di alghe -congelato-Goma Wakame",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Asiantrade srl",
+    "product": "antipasto giapponese di alghe -congelato-Goma Wakame",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Asiantrade srl - antipasto giapponese di alghe -congelato-Goma Wakame",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20Goma%20Wakame_1761199014.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "antipasto-giapponese-di-alghe-congelato-goma-wakame",
+    "published": "2024-03-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mirtilli/",
+    "title": "",
+    "noticeDate": "11 marzo 2024",
+    "campi": {
+      "data pubblicazione": "11 marzo 2024",
+      "marca": "PRIMA VOGLIA",
+      "denominazione": "MIRTILLI",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "PRIMA VOGLIA",
+    "product": "MIRTILLI",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PRIMA VOGLIA - MIRTILLI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartelloi%20Richiamo%20Mirtilli_In_s_1761199019.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mirtilli",
+    "published": "2024-03-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-base-di-piu-frutti-frullato-red-genius/",
+    "title": "",
+    "noticeDate": "9 marzo 2024",
+    "campi": {
+      "data pubblicazione": "9 marzo 2024",
+      "marca": "Solevita",
+      "denominazione": "Bevanda a base di più frutti (frullato red genius)",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Solevita",
+    "product": "Bevanda a base di più frutti (frullato red genius)",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Solevita - Bevanda a base di più frutti (frullato red genius)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato4_MODELLO_DI_RICHIAMOK24014_1761198997.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-base-di-piu-frutti-frullato-red-genius",
+    "published": "2024-03-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ph-chips-jj-chiz-curls-50x-55g/",
+    "title": "",
+    "noticeDate": "6 marzo 2024",
+    "campi": {
+      "data pubblicazione": "6 marzo 2024",
+      "marca": "JACK & JILL",
+      "denominazione": "PH CHIPS J&J CHIZ CURLS 50X 55G",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "JACK & JILL",
+    "product": "PH CHIPS J&J CHIZ CURLS 50X 55G",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo JACK & JILL - PH CHIPS J&J CHIZ CURLS 50X 55G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo_1761198981.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ph-chips-jj-chiz-curls-50x-55g",
+    "published": "2024-03-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barrette-multicereali-gusto-classico/",
+    "title": "",
+    "noticeDate": "6 marzo 2024",
+    "campi": {
+      "data pubblicazione": "6 marzo 2024",
+      "marca": "Cerealitalia I.D. S.p.A.",
+      "denominazione": "Barrette Multicereali- Gusto Classico",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Cerealitalia I.D. S.p.A.",
+    "product": "Barrette Multicereali- Gusto Classico",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cerealitalia I.D. S.p.A. - Barrette Multicereali- Gusto Classico",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20Barrette%20Multicereali%20_%20Gusto%20classico%20L23150_1761198986.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "barrette-multicereali-gusto-classico",
+    "published": "2024-03-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barrette-multicereali-gusto-cioccolato-extrafondente-e-cocco/",
+    "title": "",
+    "noticeDate": "6 marzo 2024",
+    "campi": {
+      "data pubblicazione": "6 marzo 2024",
+      "marca": "Cerealitalia I.D. S.p.A.",
+      "denominazione": "Barrette Multicereali - Gusto cioccolato extrafondente e cocco",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Cerealitalia I.D. S.p.A.",
+    "product": "Barrette Multicereali - Gusto cioccolato extrafondente e cocco",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cerealitalia I.D. S.p.A. - Barrette Multicereali - Gusto cioccolato extrafondente e cocco",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20Barrette%20Multicereali%20_%20Gusto%20cioccolato%20extrafondente%20e%20cocco%20L23236_1761198992.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "barrette-multicereali-gusto-cioccolato-extrafondente-e-cocco",
+    "published": "2024-03-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/chips-lala-fish-salt-vinegar/",
+    "title": "",
+    "noticeDate": "5 marzo 2024",
+    "campi": {
+      "data pubblicazione": "5 marzo 2024",
+      "marca": "LALA",
+      "denominazione": "CHIPS LALA FISH SALT VINEGAR",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LALA",
+    "product": "CHIPS LALA FISH SALT VINEGAR",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LALA - CHIPS LALA FISH SALT VINEGAR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20CHIPS%20LALA%20FISH%20SALT%20VINEGAR_1761198968.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "chips-lala-fish-salt-vinegar",
+    "published": "2024-03-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/chips-lala-fish-sweet-chili/",
+    "title": "",
+    "noticeDate": "5 marzo 2024",
+    "campi": {
+      "data pubblicazione": "5 marzo 2024",
+      "marca": "LALA",
+      "denominazione": "CHIPS LALA FISH SWEET CHILI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LALA",
+    "product": "CHIPS LALA FISH SWEET CHILI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LALA - CHIPS LALA FISH SWEET CHILI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20CHIPS%20LALA%20FISH%20SWEET%20CHILI_1761198972.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "chips-lala-fish-sweet-chili",
+    "published": "2024-03-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/chips-lala-fish-cracker-classic/",
+    "title": "",
+    "noticeDate": "5 marzo 2024",
+    "campi": {
+      "data pubblicazione": "5 marzo 2024",
+      "marca": "LALA",
+      "denominazione": "CHIPS LALA FISH CRACKER CLASSIC",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LALA",
+    "product": "CHIPS LALA FISH CRACKER CLASSIC",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LALA - CHIPS LALA FISH CRACKER CLASSIC",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20CHIPS%20LALAFISH%20CRACKER%20CLASSIC_1761198976.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "chips-lala-fish-cracker-classic",
+    "published": "2024-03-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/more-di-bosco-mc-kg-1-0/",
+    "title": "",
+    "noticeDate": "4 marzo 2024",
+    "campi": {
+      "data pubblicazione": "4 marzo 2024",
+      "marca": "METRO CHEF",
+      "denominazione": "MORE DI BOSCO MC KG 1",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "METRO CHEF",
+    "product": "MORE DI BOSCO MC KG 1",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo METRO CHEF - MORE DI BOSCO MC KG 1",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_More%20_1761198963.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "more-di-bosco-mc-kg-1-0",
+    "published": "2024-03-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/castelmagno-dop-prodotto-della-montagna-0/",
+    "title": "",
+    "noticeDate": "2 marzo 2024",
+    "campi": {
+      "data pubblicazione": "2 marzo 2024",
+      "marca": "TINO PAIOLO-LA BRUNA",
+      "denominazione": "CASTELMAGNO DOP PRODOTTO DELLA MONTAGNA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "TINO PAIOLO-LA BRUNA",
+    "product": "CASTELMAGNO DOP PRODOTTO DELLA MONTAGNA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TINO PAIOLO-LA BRUNA - CASTELMAGNO DOP PRODOTTO DELLA MONTAGNA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_01.03.2024_1761198959.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "castelmagno-dop-prodotto-della-montagna-0",
+    "published": "2024-03-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/rehsalami-salame-con-capriolo/",
+    "title": "",
+    "noticeDate": "1 marzo 2024",
+    "campi": {
+      "data pubblicazione": "1 marzo 2024",
+      "marca": "Kofler Viktor & Andreas Ohg",
+      "denominazione": "Rehsalami - salame con capriolo",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Kofler Viktor & Andreas Ohg",
+    "product": "Rehsalami - salame con capriolo",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Kofler Viktor & Andreas Ohg - Rehsalami - salame con capriolo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761198934.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "rehsalami-salame-con-capriolo",
+    "published": "2024-03-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/castelmagno-dop-2/",
+    "title": "",
+    "noticeDate": "1 marzo 2024",
+    "campi": {
+      "data pubblicazione": "1 marzo 2024",
+      "marca": "TERRE D'ITALIA",
+      "denominazione": "CASTELMAGNO DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "TERRE D'ITALIA",
+    "product": "CASTELMAGNO DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TERRE D'ITALIA - CASTELMAGNO DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%202%20_%20Modulo%20di%20Richiamo%20Terre%20d_Italia%20rev_1761198938.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "castelmagno-dop-2",
+    "published": "2024-03-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/castelmagno-dop-3/",
+    "title": "",
+    "noticeDate": "1 marzo 2024",
+    "campi": {
+      "data pubblicazione": "1 marzo 2024",
+      "marca": "Beppino Occelli",
+      "denominazione": "CASTELMAGNO DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Beppino Occelli",
+    "product": "CASTELMAGNO DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Beppino Occelli - CASTELMAGNO DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%202%20_%20Modulo%20di%20Richiamo%20Beppino%20Occelli%20rev_1761198942.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "castelmagno-dop-3",
+    "published": "2024-03-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/more-di-bosco-mc-kg-1/",
+    "title": "",
+    "noticeDate": "1 marzo 2024",
+    "campi": {
+      "data pubblicazione": "1 marzo 2024",
+      "marca": "METRO CHEF",
+      "denominazione": "MORE DI BOSCO MC KG 1",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "METRO CHEF",
+    "product": "MORE DI BOSCO MC KG 1",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo METRO CHEF - MORE DI BOSCO MC KG 1",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_More_1761198947.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "more-di-bosco-mc-kg-1",
+    "published": "2024-03-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/current-cheese-balls/",
+    "title": "",
+    "noticeDate": "1 marzo 2024",
+    "campi": {
+      "data pubblicazione": "1 marzo 2024",
+      "marca": "Yashoda Foods PVT LTD",
+      "denominazione": "Current Cheese Balls",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Yashoda Foods PVT LTD",
+    "product": "Current Cheese Balls",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Yashoda Foods PVT LTD - Current Cheese Balls",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20Yashoda%20Foods%201_1761198951.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "current-cheese-balls",
+    "published": "2024-03-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/current-cheese-balls-0/",
+    "title": "",
+    "noticeDate": "1 marzo 2024",
+    "campi": {
+      "data pubblicazione": "1 marzo 2024",
+      "marca": "Yashoda Foods PVT LTD",
+      "denominazione": "Current Cheese Balls",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Yashoda Foods PVT LTD",
+    "product": "Current Cheese Balls",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Yashoda Foods PVT LTD - Current Cheese Balls",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20Yashoda%20Foods%202_1761198955.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "current-cheese-balls-0",
+    "published": "2024-03-01",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-da-125g/",
     "title": "",
     "noticeDate": "29 febbraio 2024",
@@ -567,6 +1061,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "spicy-seafood-flavor",
+    "published": "2024-02-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/xo-spicy-seafood-flavor/",
+    "title": "",
+    "noticeDate": "29 febbraio 2024",
+    "campi": {
+      "data pubblicazione": "29 febbraio 2024",
+      "marca": "ITON S.R.L.",
+      "denominazione": "XO SPICY SEAFOOD FLAVOR",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "ITON S.R.L.",
+    "product": "XO SPICY SEAFOOD FLAVOR",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ITON S.R.L. - XO SPICY SEAFOOD FLAVOR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%2040742_1761198930.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "xo-spicy-seafood-flavor",
     "published": "2024-02-29",
     "source": "operator"
   },
