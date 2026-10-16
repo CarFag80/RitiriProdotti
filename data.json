@@ -406,6 +406,500 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/friarielli-alla-napoletana/",
+    "title": "",
+    "noticeDate": "9 agosto 2025",
+    "campi": {
+      "data pubblicazione": "9 agosto 2025",
+      "marca": "Vittoria",
+      "denominazione": "Friarielli alla napoletana",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Vittoria",
+    "product": "Friarielli alla napoletana",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Vittoria - Friarielli alla napoletana",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/VELLECA_VITTORIA%20290425_1761208373.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "friarielli-alla-napoletana",
+    "published": "2025-08-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/friarielli-alla-napoletana-0/",
+    "title": "",
+    "noticeDate": "9 agosto 2025",
+    "campi": {
+      "data pubblicazione": "9 agosto 2025",
+      "marca": "Vittoria",
+      "denominazione": "Friarielli alla napoletana",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Vittoria",
+    "product": "Friarielli alla napoletana",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Vittoria - Friarielli alla napoletana",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/VELLECA_VITTORIA%20280325_1761208376.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "friarielli-alla-napoletana-0",
+    "published": "2025-08-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-salviotto-del-nera/",
+    "title": "",
+    "noticeDate": "8 agosto 2025",
+    "campi": {
+      "data pubblicazione": "8 agosto 2025",
+      "marca": "Salumificio del Nera",
+      "denominazione": "salame salviotto del nera",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio del Nera",
+    "product": "salame salviotto del nera",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio del Nera - salame salviotto del nera",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20_%20Salumificio%20del%20Nera_1761208366.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-salviotto-del-nera",
+    "published": "2025-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ashwagandha-fermentata/",
+    "title": "",
+    "noticeDate": "8 agosto 2025",
+    "campi": {
+      "data pubblicazione": "8 agosto 2025",
+      "marca": "TERRANOVA",
+      "denominazione": "ASHWAGANDHA FERMENTATA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "TERRANOVA",
+    "product": "ASHWAGANDHA FERMENTATA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TERRANOVA - ASHWAGANDHA FERMENTATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO_1761208369.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ashwagandha-fermentata",
+    "published": "2025-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/passata-di-datterino/",
+    "title": "",
+    "noticeDate": "7 agosto 2025",
+    "campi": {
+      "data pubblicazione": "7 agosto 2025",
+      "marca": "granoro dedicato",
+      "denominazione": "passata di datterino",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "granoro dedicato",
+    "product": "passata di datterino",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo granoro dedicato - passata di datterino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/La%20Formica%20Richiamo_1761208356.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "passata-di-datterino",
+    "published": "2025-08-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cous-cous-biologico-0/",
+    "title": "",
+    "noticeDate": "7 agosto 2025",
+    "campi": {
+      "data pubblicazione": "7 agosto 2025",
+      "marca": "Bontà Mediterranea",
+      "denominazione": "Cous Cous biologico",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Bontà Mediterranea",
+    "product": "Cous Cous biologico",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bontà Mediterranea - Cous Cous biologico",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%206_08_25%20_int.%2025_07__1761208359.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cous-cous-biologico-0",
+    "published": "2025-08-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caffe-torrefatto-e-macinato-gimoka-gusto-ricco-250-g/",
+    "title": "",
+    "noticeDate": "7 agosto 2025",
+    "campi": {
+      "data pubblicazione": "7 agosto 2025",
+      "marca": "Gimoka",
+      "denominazione": "Caffè torrefatto e macinato Gimoka gusto ricco 250 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Gimoka",
+    "product": "Caffè torrefatto e macinato Gimoka gusto ricco 250 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gimoka - Caffè torrefatto e macinato Gimoka gusto ricco 250 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_Gimoka_1761208363.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "caffe-torrefatto-e-macinato-gimoka-gusto-ricco-250-g",
+    "published": "2025-08-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mielness-miele-zenzero/",
+    "title": "",
+    "noticeDate": "6 agosto 2025",
+    "campi": {
+      "data pubblicazione": "6 agosto 2025",
+      "marca": "G.B. AMBROSOLI SPA",
+      "denominazione": "MIELNESS MIELE & ZENZERO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "G.B. AMBROSOLI SPA",
+    "product": "MIELNESS MIELE & ZENZERO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo G.B. AMBROSOLI SPA - MIELNESS MIELE & ZENZERO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/COMUNICAZIONE%20RICHIAMO%20MIELNESS%20ZENZERO%20C1015_1761208346.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mielness-miele-zenzero",
+    "published": "2025-08-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mielness-miele-cannella/",
+    "title": "",
+    "noticeDate": "6 agosto 2025",
+    "campi": {
+      "data pubblicazione": "6 agosto 2025",
+      "marca": "G.B. AMBROSOLI SPA",
+      "denominazione": "MIELNESS MIELE & CANNELLA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "G.B. AMBROSOLI SPA",
+    "product": "MIELNESS MIELE & CANNELLA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo G.B. AMBROSOLI SPA - MIELNESS MIELE & CANNELLA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/COMUNICAZIONE%20RICHIAMO%20MIELNESS%20CANNELLA%20D0611_1761208350.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mielness-miele-cannella",
+    "published": "2025-08-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mielness-miele-cannella-0/",
+    "title": "",
+    "noticeDate": "6 agosto 2025",
+    "campi": {
+      "data pubblicazione": "6 agosto 2025",
+      "marca": "G.B. AMBROSOLI SPA",
+      "denominazione": "MIELNESS MIELE & CANNELLA",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "G.B. AMBROSOLI SPA",
+    "product": "MIELNESS MIELE & CANNELLA",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo G.B. AMBROSOLI SPA - MIELNESS MIELE & CANNELLA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/COMUNICAZIONE%20RICHIAMO%20MIELNESS%20CANNELLA%20C1212_1761208353.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mielness-miele-cannella-0",
+    "published": "2025-08-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-acciughe-sottolio/",
+    "title": "",
+    "noticeDate": "5 agosto 2025",
+    "campi": {
+      "data pubblicazione": "5 agosto 2025",
+      "marca": "U_Piscaturi_Filetti_Acciughe_Vasetto_720_gr",
+      "denominazione": "Filetti di acciughe sott'olio",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "U_Piscaturi_Filetti_Acciughe_Vasetto_720_gr",
+    "product": "Filetti di acciughe sott'olio",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo U_Piscaturi_Filetti_Acciughe_Vasetto_720_gr - Filetti di acciughe sott'olio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_U_Piscaturi_Filetti_Acciughe_Vasetto_720_gr_1761208340.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "filetti-di-acciughe-sottolio",
+    "published": "2025-08-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-acciughe-sottolio-0/",
+    "title": "",
+    "noticeDate": "5 agosto 2025",
+    "campi": {
+      "data pubblicazione": "5 agosto 2025",
+      "marca": "Gold Fish_Filetti_Acciughe_Vasetto_720_gr",
+      "denominazione": "Filetti di acciughe sott'olio",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Gold Fish_Filetti_Acciughe_Vasetto_720_gr",
+    "product": "Filetti di acciughe sott'olio",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gold Fish_Filetti_Acciughe_Vasetto_720_gr - Filetti di acciughe sott'olio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Gold%20Fish_Filetti_Acciughe_Vasetto_720_gr_1761208343.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "filetti-di-acciughe-sottolio-0",
+    "published": "2025-08-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/saporito-dalpeggio/",
+    "title": "",
+    "noticeDate": "4 agosto 2025",
+    "campi": {
+      "data pubblicazione": "4 agosto 2025",
+      "marca": "SAPORITO D'ALPEGGIO",
+      "denominazione": "SAPORITO D'ALPEGGIO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SAPORITO D'ALPEGGIO",
+    "product": "SAPORITO D'ALPEGGIO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SAPORITO D'ALPEGGIO - SAPORITO D'ALPEGGIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Alpeggio_1761208337.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "saporito-dalpeggio",
+    "published": "2025-08-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/polpa-di-avocado-metro-chef/",
+    "title": "",
+    "noticeDate": "2 agosto 2025",
+    "campi": {
+      "data pubblicazione": "2 agosto 2025",
+      "marca": "METRO Chef",
+      "denominazione": "Polpa di Avocado METRO Chef",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "METRO Chef",
+    "product": "Polpa di Avocado METRO Chef",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo METRO Chef - Polpa di Avocado METRO Chef",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Polpa%20Avocado%20MC%20LI4218%20%20_1__1761208331.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "polpa-di-avocado-metro-chef",
+    "published": "2025-08-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/polpa-di-avocado-metro-chef-0/",
+    "title": "",
+    "noticeDate": "2 agosto 2025",
+    "campi": {
+      "data pubblicazione": "2 agosto 2025",
+      "marca": "METRO Chef",
+      "denominazione": "Polpa di Avocado METRO Chef",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "METRO Chef",
+    "product": "Polpa di Avocado METRO Chef",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo METRO Chef - Polpa di Avocado METRO Chef",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Polpa%20Avocado%20MC%20LI4213%20%20_1__1761208334.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "polpa-di-avocado-metro-chef-0",
+    "published": "2025-08-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/polline-grandi-conf-1-kg-origine-spagna/",
+    "title": "",
+    "noticeDate": "1 agosto 2025",
+    "campi": {
+      "data pubblicazione": "1 agosto 2025",
+      "marca": "POLLINE IN GRANDI CONF. 1KG ORIGINE SPAGNA",
+      "denominazione": "POLLINE IN GRANDI CONF 1 KG ORIGINE SPAGNA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "POLLINE IN GRANDI CONF. 1KG ORIGINE SPAGNA",
+    "product": "POLLINE IN GRANDI CONF 1 KG ORIGINE SPAGNA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo POLLINE IN GRANDI CONF. 1KG ORIGINE SPAGNA - POLLINE IN GRANDI CONF 1 KG ORIGINE SPAGNA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20POLLINE%20PO0924_PO0125_1761208323.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "polline-grandi-conf-1-kg-origine-spagna",
+    "published": "2025-08-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-acciughe-vasetto-720-g/",
+    "title": "",
+    "noticeDate": "1 agosto 2025",
+    "campi": {
+      "data pubblicazione": "1 agosto 2025",
+      "marca": "Il Cannone",
+      "denominazione": "Filetti di acciughe vasetto 720 g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Il Cannone",
+    "product": "Filetti di acciughe vasetto 720 g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Il Cannone - Filetti di acciughe vasetto 720 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20prodotto%20FAG720_Ministero_1776696129.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "filetti-di-acciughe-vasetto-720-g",
+    "published": "2025-08-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-salviotto-del-nera-affumicato/",
+    "title": "",
+    "noticeDate": "1 agosto 2025",
+    "campi": {
+      "data pubblicazione": "1 agosto 2025",
+      "marca": "Salumificio del Nera",
+      "denominazione": "Salame Salviotto del Nera affumicato",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio del Nera",
+    "product": "Salame Salviotto del Nera affumicato",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio del Nera - Salame Salviotto del Nera affumicato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20Richiamo%20_%20Salumificio%20del%20Nera_1761208329.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-salviotto-del-nera-affumicato",
+    "published": "2025-08-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cous-cous-biologico/",
+    "title": "",
+    "noticeDate": "31 luglio 2025",
+    "campi": {
+      "data pubblicazione": "31 luglio 2025",
+      "marca": "Bontà Mediterranea",
+      "denominazione": "Cous Cous Biologico",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Bontà Mediterranea",
+    "product": "Cous Cous Biologico",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bontà Mediterranea - Cous Cous Biologico",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Cous%20cous%20Bio%20Linea%20Mediterranea_agg_1761208321.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cous-cous-biologico",
+    "published": "2025-07-31",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caciotta-stagionata-di-bufala/",
     "title": "",
     "noticeDate": "29 luglio 2025",
@@ -428,6 +922,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "caciotta-stagionata-di-bufala",
+    "published": "2025-07-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/scatola-pizza/",
+    "title": "",
+    "noticeDate": "29 luglio 2025",
+    "campi": {
+      "data pubblicazione": "29 luglio 2025",
+      "marca": "Liner Italia",
+      "denominazione": "Scatola per pizza",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "Liner Italia",
+    "product": "Scatola per pizza",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Liner Italia - Scatola per pizza",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LINER_Modulo%20Ritiro_1761208318.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "scatola-pizza",
     "published": "2025-07-29",
     "source": "operator"
   },
