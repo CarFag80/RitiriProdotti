@@ -435,6 +435,84 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-200-gr-1/",
+    "title": "",
+    "noticeDate": "12 settembre 2024",
+    "campi": {
+      "data pubblicazione": "12 settembre 2024",
+      "marca": "Mi Mordi",
+      "denominazione": "Iceberg 200 gr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Mi Mordi",
+    "product": "Iceberg 200 gr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mi Mordi - Iceberg 200 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_MI%20MORDI%20200g_1761205689.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "iceberg-200-gr-1",
+    "published": "2024-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuori-di-icebreg/",
+    "title": "",
+    "noticeDate": "12 settembre 2024",
+    "campi": {
+      "data pubblicazione": "12 settembre 2024",
+      "marca": "Natura è",
+      "denominazione": "Cuori di icebreg",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Natura è",
+    "product": "Cuori di icebreg",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Natura è - Cuori di icebreg",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_NATURA%20E_%20200g_1761205690.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cuori-di-icebreg",
+    "published": "2024-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-200-gr-2/",
+    "title": "",
+    "noticeDate": "12 settembre 2024",
+    "campi": {
+      "data pubblicazione": "12 settembre 2024",
+      "marca": "Ortofresco pulito",
+      "denominazione": "Iceberg 200 gr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Ortofresco pulito",
+    "product": "Iceberg 200 gr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ortofresco pulito - Iceberg 200 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_ORTOFRESCO%20PULITO%20200g_1761205692.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "iceberg-200-gr-2",
+    "published": "2024-09-12",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-secca/",
     "title": "",
     "noticeDate": "11 settembre 2024",
@@ -4935,6 +5013,448 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "bocconcini-del-nonno-lotto-a0226-1500g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bocconcini-del-nonno-lotto-j0226-1500g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "JADORE",
+      "denominazione": "BOCCONCINI DEL NONNO - LOTTO J0226 1500G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "JADORE",
+    "product": "BOCCONCINI DEL NONNO - LOTTO J0226 1500G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo JADORE - BOCCONCINI DEL NONNO - LOTTO J0226 1500G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BOCCONCINI%20DEL%20NONNO%201500G%20JADORE%20J0226_1761201267.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bocconcini-del-nonno-lotto-j0226-1500g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bocconcini-del-nonno-lotto-m0325-1500g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "TREO",
+      "denominazione": "BOCCONCINI DEL NONNO - LOTTO M0325 1500G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "TREO",
+    "product": "BOCCONCINI DEL NONNO - LOTTO M0325 1500G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TREO - BOCCONCINI DEL NONNO - LOTTO M0325 1500G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BOCCONCINI%20DEL%20NONNO%201500G%20TREO%20M0325_1761201272.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bocconcini-del-nonno-lotto-m0325-1500g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bocconcini-ai-fichi-lotto-a0408-200g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "FIMARDOLCI SRL",
+      "denominazione": "BOCCONCINI AI FICHI - LOTTO A0408 200G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "FIMARDOLCI SRL",
+    "product": "BOCCONCINI AI FICHI - LOTTO A0408 200G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIMARDOLCI SRL - BOCCONCINI AI FICHI - LOTTO A0408 200G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BOCCONCINI%20FICO%20200G%20A0408_1761201278.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bocconcini-ai-fichi-lotto-a0408-200g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bocconcini-alla-fragola-lotto-a0408-200g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "FIMARDOLCI SRL",
+      "denominazione": "BOCCONCINI ALLA FRAGOLA - LOTTO A0408 200G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "FIMARDOLCI SRL",
+    "product": "BOCCONCINI ALLA FRAGOLA - LOTTO A0408 200G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIMARDOLCI SRL - BOCCONCINI ALLA FRAGOLA - LOTTO A0408 200G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BOCCONCINI%20FRAGOLA%20200G%20A0408_1761201284.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bocconcini-alla-fragola-lotto-a0408-200g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bocconcini-limone-lotto-a0318-b0318-200g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "FIMARDOLCI SRL",
+      "denominazione": "BOCCONCINI LIMONE - LOTTO A0318, B0318 200G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "FIMARDOLCI SRL",
+    "product": "BOCCONCINI LIMONE - LOTTO A0318, B0318 200G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIMARDOLCI SRL - BOCCONCINI LIMONE - LOTTO A0318, B0318 200G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BOCCONCINI%20LIMONE%20200G%20A0318%20B0318_1761201290.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bocconcini-limone-lotto-a0318-b0318-200g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bocconcini-limone-lotto-h0408-200g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "HERSUN",
+      "denominazione": "BOCCONCINI LIMONE - LOTTO H0408 200G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "HERSUN",
+    "product": "BOCCONCINI LIMONE - LOTTO H0408 200G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo HERSUN - BOCCONCINI LIMONE - LOTTO H0408 200G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BOCCONCINI%20LIMONE%20200G%20HERSUN%20H0408_1761201296.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bocconcini-limone-lotto-h0408-200g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bocconcini-limone-lotto-m0401-200g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "SOPRANO",
+      "denominazione": "BOCCONCINI LIMONE - LOTTO M0401 200G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "SOPRANO",
+    "product": "BOCCONCINI LIMONE - LOTTO M0401 200G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SOPRANO - BOCCONCINI LIMONE - LOTTO M0401 200G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BOCCONCINI%20LIMONE%20200G%20SOPRANO%20M0401_1761201303.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bocconcini-limone-lotto-m0401-200g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bocconcini-limone-lotto-a0226-1500g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "FIMARDOLCI SRL",
+      "denominazione": "BOCCONCINI LIMONE - LOTTO A0226 1500G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "FIMARDOLCI SRL",
+    "product": "BOCCONCINI LIMONE - LOTTO A0226 1500G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIMARDOLCI SRL - BOCCONCINI LIMONE - LOTTO A0226 1500G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BOCCONCINI%20LIMONE%201500G%20A0226_1761201309.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bocconcini-limone-lotto-a0226-1500g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/campanelle-mandorla-lotto-a0212-200g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "FIMARDOLCI SRL",
+      "denominazione": "CAMPANELLE MANDORLA - LOTTO A0212 200G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "FIMARDOLCI SRL",
+    "product": "CAMPANELLE MANDORLA - LOTTO A0212 200G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIMARDOLCI SRL - CAMPANELLE MANDORLA - LOTTO A0212 200G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CAMPANELLE%20MANDORLA%20200G%20A0212_1761201315.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "campanelle-mandorla-lotto-a0212-200g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cocco-lotto-h0408-200g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "HERSUN",
+      "denominazione": "COCCO - LOTTO H0408 200G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "HERSUN",
+    "product": "COCCO - LOTTO H0408 200G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo HERSUN - COCCO - LOTTO H0408 200G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/COCCO%20%20200G%20HERSUN%20H0408_1761201322.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cocco-lotto-h0408-200g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cocco-glassa-cacao-lotto-h0408-200g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "HERSUN",
+      "denominazione": "COCCO GLASSA CACAO - LOTTO H0408 200G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "HERSUN",
+    "product": "COCCO GLASSA CACAO - LOTTO H0408 200G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo HERSUN - COCCO GLASSA CACAO - LOTTO H0408 200G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/COCCO%20GLASSA%20CACAO%20200G%20HERSUN%20H0408_1761201328.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cocco-glassa-cacao-lotto-h0408-200g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/colombine-mandorla-lotto-a0205-200g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "FIMARDOLCI SRL",
+      "denominazione": "COLOMBINE MANDORLA - LOTTO A0205 200G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "FIMARDOLCI SRL",
+    "product": "COLOMBINE MANDORLA - LOTTO A0205 200G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIMARDOLCI SRL - COLOMBINE MANDORLA - LOTTO A0205 200G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/COLOMBINE%20MANDORLA%20200G%20A0205_1761201334.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "colombine-mandorla-lotto-a0205-200g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/colombine-mandorla-lotto-a0205-1500g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "FIMARDOLCI SRL",
+      "denominazione": "COLOMBINE MANDORLA - LOTTO A0205 1500G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "FIMARDOLCI SRL",
+    "product": "COLOMBINE MANDORLA - LOTTO A0205 1500G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIMARDOLCI SRL - COLOMBINE MANDORLA - LOTTO A0205 1500G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/COLOMBINE%20MANDORLA%201500G%20A0205_1761201341.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "colombine-mandorla-lotto-a0205-1500g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cornettini-lotto-a0325-200g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "FIMARDOLCI SRL",
+      "denominazione": "CORNETTINI - LOTTO A0325 200G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "FIMARDOLCI SRL",
+    "product": "CORNETTINI - LOTTO A0325 200G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIMARDOLCI SRL - CORNETTINI - LOTTO A0325 200G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CORNETTINI%20200G%20A0325_1761201348.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cornettini-lotto-a0325-200g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cornettini-lotto-h0408-200g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "HERSUN",
+      "denominazione": "CORNETTINI - LOTTO H0408 200G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "HERSUN",
+    "product": "CORNETTINI - LOTTO H0408 200G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo HERSUN - CORNETTINI - LOTTO H0408 200G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CORNETTINI%20200G%20H0408%20HERSUN_1761201356.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cornettini-lotto-h0408-200g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuore-di-mandorla-classico-lotto-f0401-f0219-1500g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "NATURALIA",
+      "denominazione": "CUORE DI MANDORLA CLASSICO - LOTTO F0401, F0219 1500G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "NATURALIA",
+    "product": "CUORE DI MANDORLA CLASSICO - LOTTO F0401, F0219 1500G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NATURALIA - CUORE DI MANDORLA CLASSICO - LOTTO F0401, F0219 1500G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CUORI%20DI%20MANDORLA%20CLASSICO%201500G%20F0401%20F0219%20NATURALIA_1761201363.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cuore-di-mandorla-classico-lotto-f0401-f0219-1500g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuore-di-mandorla-e-amarena-lotto-f0401-f0304-1500g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "NATURALIA",
+      "denominazione": "CUORE DI MANDORLA E AMARENA - LOTTO F0401, F0304 1500G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "NATURALIA",
+    "product": "CUORE DI MANDORLA E AMARENA - LOTTO F0401, F0304 1500G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NATURALIA - CUORE DI MANDORLA E AMARENA - LOTTO F0401, F0304 1500G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CUORI%20DI%20MANDORLA%20E%20AMARENA%201500G%20F0401%20F0304%20NATURALIA_1761201371.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cuore-di-mandorla-e-amarena-lotto-f0401-f0304-1500g",
     "published": "2024-04-22",
     "source": "operator"
   },
