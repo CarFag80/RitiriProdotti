@@ -406,6 +406,370 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/schiacciatella-gusto-pizza/",
+    "title": "",
+    "noticeDate": "20 aprile 2025",
+    "campi": {
+      "data pubblicazione": "20 aprile 2025",
+      "marca": "Piaceri Mediterranei",
+      "denominazione": "Schiacciatella gusto pizza",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Piaceri Mediterranei",
+    "product": "Schiacciatella gusto pizza",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Piaceri Mediterranei - Schiacciatella gusto pizza",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20schiacciatella%20pizza_1761207365.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "schiacciatella-gusto-pizza",
+    "published": "2025-04-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yovis-bambini/",
+    "title": "",
+    "noticeDate": "20 aprile 2025",
+    "campi": {
+      "data pubblicazione": "20 aprile 2025",
+      "marca": "YOVIS BAMBINI Aroma Fragola - YOVIS BAMBINI Aroma Banana",
+      "denominazione": "YOVIS BAMBINI",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "YOVIS BAMBINI Aroma Fragola - YOVIS BAMBINI Aroma Banana",
+    "product": "YOVIS BAMBINI",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo YOVIS BAMBINI Aroma Fragola - YOVIS BAMBINI Aroma Banana - YOVIS BAMBINI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Yovis%20Flaconcini_1761207367.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "yovis-bambini",
+    "published": "2025-04-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/basilico-ocinum-basilicum-l-biologico/",
+    "title": "",
+    "noticeDate": "18 aprile 2025",
+    "campi": {
+      "data pubblicazione": "18 aprile 2025",
+      "marca": "Giardino Botanico dei Berici",
+      "denominazione": "Basilico (Ocinum basilicum L.) biologico",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Giardino Botanico dei Berici",
+    "product": "Basilico (Ocinum basilicum L.) biologico",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Giardino Botanico dei Berici - Basilico (Ocinum basilicum L.) biologico",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20BASILICO%20GBB_1761207361.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "basilico-ocinum-basilicum-l-biologico",
+    "published": "2025-04-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/basilico-biologico/",
+    "title": "",
+    "noticeDate": "18 aprile 2025",
+    "campi": {
+      "data pubblicazione": "18 aprile 2025",
+      "marca": "Herbalia",
+      "denominazione": "Basilico biologico",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Herbalia",
+    "product": "Basilico biologico",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Herbalia - Basilico biologico",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20BASILICO%20HERBALIA_1761207362.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "basilico-biologico",
+    "published": "2025-04-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/dilecce-olive-nere-al-forno/",
+    "title": "",
+    "noticeDate": "18 aprile 2025",
+    "campi": {
+      "data pubblicazione": "18 aprile 2025",
+      "marca": "DILECCE",
+      "denominazione": "DILECCE OLIVE NERE AL FORNO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "DILECCE",
+    "product": "DILECCE OLIVE NERE AL FORNO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DILECCE - DILECCE OLIVE NERE AL FORNO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/AVVISO%20ALLA%20CLIENTELA%20DI%20LECCE%20OLIVE%20AL%20FORNO%20_2__1761207364.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "dilecce-olive-nere-al-forno",
+    "published": "2025-04-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zucchero-di-palma-fette/",
+    "title": "",
+    "noticeDate": "11 aprile 2025",
+    "campi": {
+      "data pubblicazione": "11 aprile 2025",
+      "marca": "THAI DANCER",
+      "denominazione": "ZUCCHERO DI PALMA A FETTE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "THAI DANCER",
+    "product": "ZUCCHERO DI PALMA A FETTE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo THAI DANCER - ZUCCHERO DI PALMA A FETTE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_Zucchero%20di%20Palma_1761207359.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "zucchero-di-palma-fette",
+    "published": "2025-04-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-semola-e-pasta-di-semola-integrale-di-grano-duro/",
+    "title": "",
+    "noticeDate": "9 aprile 2025",
+    "campi": {
+      "data pubblicazione": "9 aprile 2025",
+      "marca": "Carrefour Classic",
+      "denominazione": "Pasta di semola e pasta di semola integrale di grano duro",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Carrefour Classic",
+    "product": "Pasta di semola e pasta di semola integrale di grano duro",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Carrefour Classic - Pasta di semola e pasta di semola integrale di grano duro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761207358.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pasta-di-semola-e-pasta-di-semola-integrale-di-grano-duro",
+    "published": "2025-04-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/early-grey-tea-bio/",
+    "title": "",
+    "noticeDate": "8 aprile 2025",
+    "campi": {
+      "data pubblicazione": "8 aprile 2025",
+      "marca": "BLUE HILLS TEAS & INFUSIONS",
+      "denominazione": "Early Grey tea bio",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BLUE HILLS TEAS & INFUSIONS",
+    "product": "Early Grey tea bio",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BLUE HILLS TEAS & INFUSIONS - Early Grey tea bio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20EARL%20GREY_1761207356.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "early-grey-tea-bio",
+    "published": "2025-04-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sardine-olio-di-oliva/",
+    "title": "",
+    "noticeDate": "4 aprile 2025",
+    "campi": {
+      "data pubblicazione": "4 aprile 2025",
+      "marca": "Delicius",
+      "denominazione": "Sardine in olio di oliva",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Delicius",
+    "product": "Sardine in olio di oliva",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Delicius - Sardine in olio di oliva",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20SARDINE%20DELICIUS%20_1__1761207355.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sardine-olio-di-oliva",
+    "published": "2025-04-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/basilico-foglia-biologico/",
+    "title": "",
+    "noticeDate": "3 aprile 2025",
+    "campi": {
+      "data pubblicazione": "3 aprile 2025",
+      "marca": "PENSA BIO",
+      "denominazione": "Basilico foglia biologico",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "PENSA BIO",
+    "product": "Basilico foglia biologico",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PENSA BIO - Basilico foglia biologico",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20basilico%2020g%20PENSA%20BIO%20tmc%2031%2007%202026_11%2008%202026%20_1__1761206735.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "basilico-foglia-biologico",
+    "published": "2025-04-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/basilico-foglia-biologico-0/",
+    "title": "",
+    "noticeDate": "3 aprile 2025",
+    "campi": {
+      "data pubblicazione": "3 aprile 2025",
+      "marca": "ARTIGIANO BIO",
+      "denominazione": "Basilico foglia biologico",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ARTIGIANO BIO",
+    "product": "Basilico foglia biologico",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ARTIGIANO BIO - Basilico foglia biologico",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%201kg%20ARTIGIANO%20DEL%20BIO%20tmc%2029%2007%202028%20_1__1761206740.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "basilico-foglia-biologico-0",
+    "published": "2025-04-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/valle-daosta-lard-darnad-dop-affettato/",
+    "title": "",
+    "noticeDate": "3 aprile 2025",
+    "campi": {
+      "data pubblicazione": "3 aprile 2025",
+      "marca": "BUONI COME AL BANCO",
+      "denominazione": "VALLE D¿AOSTA LARD D¿ARNAD DOP AFFETTATO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "BUONI COME AL BANCO",
+    "product": "VALLE D¿AOSTA LARD D¿ARNAD DOP AFFETTATO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BUONI COME AL BANCO - VALLE D¿AOSTA LARD D¿ARNAD DOP AFFETTATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Comunicazionedirichiamo%20_2__1761207352.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "valle-daosta-lard-darnad-dop-affettato",
+    "published": "2025-04-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cloves-whole-ali-baba-1/",
+    "title": "",
+    "noticeDate": "3 aprile 2025",
+    "campi": {
+      "data pubblicazione": "3 aprile 2025",
+      "marca": "ALI BABA",
+      "denominazione": "CLOVES WHOLE ALI BABA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ALI BABA",
+    "product": "CLOVES WHOLE ALI BABA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ALI BABA - CLOVES WHOLE ALI BABA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20CLOVES%20_%20TUTTI%20ALL%20LOTTI_1761207353.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cloves-whole-ali-baba-1",
+    "published": "2025-04-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filone-di-tonno-pinne-gialle-decongelato-marinato-atm/",
+    "title": "",
+    "noticeDate": "2 aprile 2025",
+    "campi": {
+      "data pubblicazione": "2 aprile 2025",
+      "marca": "ES 12.024991/B UE FRIME S.A.U. - BARCELLONA SPAGNA",
+      "denominazione": "FILONE DI TONNO A PINNE GIALLE DECONGELATO MARINATO ATM",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ES 12.024991/B UE FRIME S.A.U. - BARCELLONA SPAGNA",
+    "product": "FILONE DI TONNO A PINNE GIALLE DECONGELATO MARINATO ATM",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ES 12.024991/B UE FRIME S.A.U. - BARCELLONA SPAGNA - FILONE DI TONNO A PINNE GIALLE DECONGELATO MARINATO ATM",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20MODIFICATO_1761206730.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "filone-di-tonno-pinne-gialle-decongelato-marinato-atm",
+    "published": "2025-04-02",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/diversi-nomi-commerciali-rispetto-tipologie-di-prodotto-0/",
     "title": "",
     "noticeDate": "27 marzo 2025",
@@ -480,6 +844,84 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "petto-di-pollo-cotto-al-forno",
+    "published": "2025-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/petto-di-pollo-cotto-al-forno-0/",
+    "title": "",
+    "noticeDate": "27 marzo 2025",
+    "campi": {
+      "data pubblicazione": "27 marzo 2025",
+      "marca": "DAL SALUMIERE",
+      "denominazione": "PETTO DI POLLO COTTO AL FORNO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "DAL SALUMIERE",
+    "product": "PETTO DI POLLO COTTO AL FORNO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DAL SALUMIERE - PETTO DI POLLO COTTO AL FORNO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20MINISTERIALE%20COMPILATO%20LIDL_77763_1761206715.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "petto-di-pollo-cotto-al-forno-0",
+    "published": "2025-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/petto-di-pollo-cotto-al-forno-1/",
+    "title": "",
+    "noticeDate": "27 marzo 2025",
+    "campi": {
+      "data pubblicazione": "27 marzo 2025",
+      "marca": "DAL SALUMIERE",
+      "denominazione": "PETTO DI POLLO COTTO AL FORNO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "DAL SALUMIERE",
+    "product": "PETTO DI POLLO COTTO AL FORNO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DAL SALUMIERE - PETTO DI POLLO COTTO AL FORNO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20MINISTERIALE%20COMPILATO%20LIDL_77891_1761206720.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "petto-di-pollo-cotto-al-forno-1",
+    "published": "2025-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/petto-di-pollo/",
+    "title": "",
+    "noticeDate": "27 marzo 2025",
+    "campi": {
+      "data pubblicazione": "27 marzo 2025",
+      "marca": "ROSSETTO SELEZIONE",
+      "denominazione": "PETTO DI POLLO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "ROSSETTO SELEZIONE",
+    "product": "PETTO DI POLLO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ROSSETTO SELEZIONE - PETTO DI POLLO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20MINISTERIALE%20COMPILATO%20ROSSETTO_1761206725.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "petto-di-pollo",
     "published": "2025-03-27",
     "source": "operator"
   },
