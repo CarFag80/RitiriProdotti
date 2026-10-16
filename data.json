@@ -406,6 +406,526 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-uht-del-giudice-ps-0/",
+    "title": "",
+    "noticeDate": "21 maggio 2025",
+    "campi": {
+      "data pubblicazione": "21 maggio 2025",
+      "marca": "DEL GIUDICE",
+      "denominazione": "LATTE UHT DEL GIUDICE PS",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "DEL GIUDICE",
+    "product": "LATTE UHT DEL GIUDICE PS",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DEL GIUDICE - LATTE UHT DEL GIUDICE PS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20Grifo%20Latte%20_1__1761207464.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "latte-uht-del-giudice-ps-0",
+    "published": "2025-05-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-carrozza-al-prosciutto/",
+    "title": "",
+    "noticeDate": "21 maggio 2025",
+    "campi": {
+      "data pubblicazione": "21 maggio 2025",
+      "marca": "I Freschissimi",
+      "denominazione": "Mozzarella in carrozza al prosciutto",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "I Freschissimi",
+    "product": "Mozzarella in carrozza al prosciutto",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo I Freschissimi - Mozzarella in carrozza al prosciutto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20ALI%20_%20entrambi%20i%20lotti_1765372594.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mozzarella-carrozza-al-prosciutto",
+    "published": "2025-05-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-uht-del-giudice-ps/",
+    "title": "",
+    "noticeDate": "20 maggio 2025",
+    "campi": {
+      "data pubblicazione": "20 maggio 2025",
+      "marca": "DEL GIUDICE",
+      "denominazione": "LATTE UHT DEL GIUDICE PS",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "DEL GIUDICE",
+    "product": "LATTE UHT DEL GIUDICE PS",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DEL GIUDICE - LATTE UHT DEL GIUDICE PS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20Grifo%20Latte%20_1__1761207461.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-uht-del-giudice-ps",
+    "published": "2025-05-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/primo-sale-senza-lattosio-200g-bonla-aldi/",
+    "title": "",
+    "noticeDate": "19 maggio 2025",
+    "campi": {
+      "data pubblicazione": "19 maggio 2025",
+      "marca": "Caseificio Longo srl",
+      "denominazione": "PRIMO SALE SENZA LATTOSIO 200g (BONLA' ALDI)",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Caseificio Longo srl",
+    "product": "PRIMO SALE SENZA LATTOSIO 200g (BONLA' ALDI)",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caseificio Longo srl - PRIMO SALE SENZA LATTOSIO 200g (BONLA' ALDI)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Primosale_ALDI_LANDRIANO_1761207442.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "primo-sale-senza-lattosio-200g-bonla-aldi",
+    "published": "2025-05-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/primo-sale-senza-lattosio-200g-bonla-aldi-0/",
+    "title": "",
+    "noticeDate": "19 maggio 2025",
+    "campi": {
+      "data pubblicazione": "19 maggio 2025",
+      "marca": "Caseificio Longo srl",
+      "denominazione": "PRIMO SALE SENZA LATTOSIO 200g (BONLA' ALDI)",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Caseificio Longo srl",
+    "product": "PRIMO SALE SENZA LATTOSIO 200g (BONLA' ALDI)",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caseificio Longo srl - PRIMO SALE SENZA LATTOSIO 200g (BONLA' ALDI)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Primosale_ALDI_OPPEANO_1761207445.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "primo-sale-senza-lattosio-200g-bonla-aldi-0",
+    "published": "2025-05-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/primo-sale-senza-lattosio-1pz-200g-pfisso-despar/",
+    "title": "",
+    "noticeDate": "19 maggio 2025",
+    "campi": {
+      "data pubblicazione": "19 maggio 2025",
+      "marca": "Caseificio Longo srl",
+      "denominazione": "PRIMO SALE SENZA LATTOSIO 1PZ. 200g P.FISSO DESPAR",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Caseificio Longo srl",
+    "product": "PRIMO SALE SENZA LATTOSIO 1PZ. 200g P.FISSO DESPAR",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caseificio Longo srl - PRIMO SALE SENZA LATTOSIO 1PZ. 200g P.FISSO DESPAR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Primosale_CEDIS_ERGON_1761207448.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "primo-sale-senza-lattosio-1pz-200g-pfisso-despar",
+    "published": "2025-05-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/primo-sale-senza-lattosio-1pz-200g-pfisso-despar-0/",
+    "title": "",
+    "noticeDate": "19 maggio 2025",
+    "campi": {
+      "data pubblicazione": "19 maggio 2025",
+      "marca": "Caseificio Longo srl",
+      "denominazione": "PRIMO SALE SENZA LATTOSIO 1PZ. 200g P.FISSO DESPAR",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Caseificio Longo srl",
+    "product": "PRIMO SALE SENZA LATTOSIO 1PZ. 200g P.FISSO DESPAR",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caseificio Longo srl - PRIMO SALE SENZA LATTOSIO 1PZ. 200g P.FISSO DESPAR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Primosale_CENTRO_3A_1761207451.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "primo-sale-senza-lattosio-1pz-200g-pfisso-despar-0",
+    "published": "2025-05-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/luna-di-primo-sale-senza-lattosio-peso-variabile/",
+    "title": "",
+    "noticeDate": "19 maggio 2025",
+    "campi": {
+      "data pubblicazione": "19 maggio 2025",
+      "marca": "Caseificio Longo srl",
+      "denominazione": "LUNA DI PRIMO SALE SENZA LATTOSIO PESO VARIABILE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Caseificio Longo srl",
+    "product": "LUNA DI PRIMO SALE SENZA LATTOSIO PESO VARIABILE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caseificio Longo srl - LUNA DI PRIMO SALE SENZA LATTOSIO PESO VARIABILE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Primosale_EUROSPIN_TIRRENICA_1761207454.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "luna-di-primo-sale-senza-lattosio-peso-variabile",
+    "published": "2025-05-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/luna-di-primo-sale-senza-lattosio-1pz-200g-pfisso/",
+    "title": "",
+    "noticeDate": "19 maggio 2025",
+    "campi": {
+      "data pubblicazione": "19 maggio 2025",
+      "marca": "Caseificio Longo srl",
+      "denominazione": "LUNA DI PRIMO SALE SENZA LATTOSIO 1PZ. 200g P.FISSO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Caseificio Longo srl",
+    "product": "LUNA DI PRIMO SALE SENZA LATTOSIO 1PZ. 200g P.FISSO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caseificio Longo srl - LUNA DI PRIMO SALE SENZA LATTOSIO 1PZ. 200g P.FISSO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Primosale_ROSSETTO_1761207457.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "luna-di-primo-sale-senza-lattosio-1pz-200g-pfisso",
+    "published": "2025-05-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-parzialmente-scremato-pastorizzato-ad-elevate-temperature-0/",
+    "title": "",
+    "noticeDate": "16 maggio 2025",
+    "campi": {
+      "data pubblicazione": "16 maggio 2025",
+      "marca": "Alberti 1L",
+      "denominazione": "latte parzialmente scremato pastorizzato ad elevate temperature",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Alberti 1L",
+    "product": "latte parzialmente scremato pastorizzato ad elevate temperature",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Alberti 1L - latte parzialmente scremato pastorizzato ad elevate temperature",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/01.%20richiamo%20ALBERTI%20_%201%20LITRO_1761207421.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-parzialmente-scremato-pastorizzato-ad-elevate-temperature-0",
+    "published": "2025-05-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-parzialmente-scremato-pastorizzato-ad-elevate-temperature-1/",
+    "title": "",
+    "noticeDate": "16 maggio 2025",
+    "campi": {
+      "data pubblicazione": "16 maggio 2025",
+      "marca": "Alberti 0.5L",
+      "denominazione": "latte parzialmente scremato pastorizzato ad elevate temperature",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Alberti 0.5L",
+    "product": "latte parzialmente scremato pastorizzato ad elevate temperature",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Alberti 0.5L - latte parzialmente scremato pastorizzato ad elevate temperature",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/02.%20richiamo%20ALBERTI%200%2C5%20LITRI_1761207424.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-parzialmente-scremato-pastorizzato-ad-elevate-temperature-1",
+    "published": "2025-05-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-parzialmente-scremato-pastorizzato-ad-elevate-temperature-2/",
+    "title": "",
+    "noticeDate": "16 maggio 2025",
+    "campi": {
+      "data pubblicazione": "16 maggio 2025",
+      "marca": "Valle Stura 0.5L",
+      "denominazione": "latte parzialmente scremato pastorizzato ad elevate temperature",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Valle Stura 0.5L",
+    "product": "latte parzialmente scremato pastorizzato ad elevate temperature",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Valle Stura 0.5L - latte parzialmente scremato pastorizzato ad elevate temperature",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/03.%20richiamo%20VALLE%20STURA%20_%200.5%20LITRI_1761207427.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-parzialmente-scremato-pastorizzato-ad-elevate-temperature-2",
+    "published": "2025-05-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-parzialmente-scremato-pastorizzato-ad-elevate-temperature-3/",
+    "title": "",
+    "noticeDate": "16 maggio 2025",
+    "campi": {
+      "data pubblicazione": "16 maggio 2025",
+      "marca": "Valle Stura 1L",
+      "denominazione": "latte parzialmente scremato pastorizzato ad elevate temperature",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Valle Stura 1L",
+    "product": "latte parzialmente scremato pastorizzato ad elevate temperature",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Valle Stura 1L - latte parzialmente scremato pastorizzato ad elevate temperature",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/04.%20richiamo%20VALLE%20STURA%20_%201%20LITRO_1761207430.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-parzialmente-scremato-pastorizzato-ad-elevate-temperature-3",
+    "published": "2025-05-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-parzialmente-scremato-pastorizzato-ad-elevate-temperature-4/",
+    "title": "",
+    "noticeDate": "16 maggio 2025",
+    "campi": {
+      "data pubblicazione": "16 maggio 2025",
+      "marca": "Valli Genovesi 0.5L",
+      "denominazione": "latte parzialmente scremato pastorizzato ad elevate temperature",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Valli Genovesi 0.5L",
+    "product": "latte parzialmente scremato pastorizzato ad elevate temperature",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Valli Genovesi 0.5L - latte parzialmente scremato pastorizzato ad elevate temperature",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/05.%20richiamo%20VALLI%20GENOVESI%20_%200.5%20LITRI_1761207432.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-parzialmente-scremato-pastorizzato-ad-elevate-temperature-4",
+    "published": "2025-05-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-parzialmente-scremato-pastorizzato-ad-elevate-temperature-5/",
+    "title": "",
+    "noticeDate": "16 maggio 2025",
+    "campi": {
+      "data pubblicazione": "16 maggio 2025",
+      "marca": "Valli Genovesi 0.75L",
+      "denominazione": "latte parzialmente scremato pastorizzato ad elevate temperature",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Valli Genovesi 0.75L",
+    "product": "latte parzialmente scremato pastorizzato ad elevate temperature",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Valli Genovesi 0.75L - latte parzialmente scremato pastorizzato ad elevate temperature",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/06.%20richiamo%20VALLI%20GENOVESI%20_%200.750%20LITRI_1761207435.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-parzialmente-scremato-pastorizzato-ad-elevate-temperature-5",
+    "published": "2025-05-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-parzialmente-scremato-pastorizzato-ad-elevate-temperature-6/",
+    "title": "",
+    "noticeDate": "16 maggio 2025",
+    "campi": {
+      "data pubblicazione": "16 maggio 2025",
+      "marca": "Valli Genovesi 1L",
+      "denominazione": "latte parzialmente scremato pastorizzato ad elevate temperature",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Valli Genovesi 1L",
+    "product": "latte parzialmente scremato pastorizzato ad elevate temperature",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Valli Genovesi 1L - latte parzialmente scremato pastorizzato ad elevate temperature",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/07.%20richiamo%20VALLI%20GENOVESI%20_%201%20LITRO_1761207439.PDF"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-parzialmente-scremato-pastorizzato-ad-elevate-temperature-6",
+    "published": "2025-05-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-parzialmente-scremato-pastorizzato-ad-elevate-temperature/",
+    "title": "",
+    "noticeDate": "15 maggio 2025",
+    "campi": {
+      "data pubblicazione": "15 maggio 2025",
+      "marca": "Basko",
+      "denominazione": "latte parzialmente scremato pastorizzato ad elevate temperature",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Basko",
+    "product": "latte parzialmente scremato pastorizzato ad elevate temperature",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Basko - latte parzialmente scremato pastorizzato ad elevate temperature",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20ministeriale_1761207419.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-parzialmente-scremato-pastorizzato-ad-elevate-temperature",
+    "published": "2025-05-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/torta-festa-della-mamma/",
+    "title": "",
+    "noticeDate": "14 maggio 2025",
+    "campi": {
+      "data pubblicazione": "14 maggio 2025",
+      "marca": "Senza Peccato",
+      "denominazione": "TORTA FESTA DELLA MAMMA",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Senza Peccato",
+    "product": "TORTA FESTA DELLA MAMMA",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Senza Peccato - TORTA FESTA DELLA MAMMA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo_Zero_4%20srl_1761207416.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "torta-festa-della-mamma",
+    "published": "2025-05-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/java-monster-vanilla-444-ml-java-monster-mocha-444-ml/",
+    "title": "",
+    "noticeDate": "13 maggio 2025",
+    "campi": {
+      "data pubblicazione": "13 maggio 2025",
+      "marca": "Monster",
+      "denominazione": "Java Monster Vanilla 444 ml, Java Monster Mocha 444 ml",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Monster",
+    "product": "Java Monster Vanilla 444 ml, Java Monster Mocha 444 ml",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Monster - Java Monster Vanilla 444 ml, Java Monster Mocha 444 ml",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761207414.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "java-monster-vanilla-444-ml-java-monster-mocha-444-ml",
+    "published": "2025-05-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/granella-di-pistacchi/",
+    "title": "",
+    "noticeDate": "8 maggio 2025",
+    "campi": {
+      "data pubblicazione": "8 maggio 2025",
+      "marca": "Amonatura",
+      "denominazione": "Granella di pistacchi",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Amonatura",
+    "product": "Granella di pistacchi",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Amonatura - Granella di pistacchi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761207411.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "granella-di-pistacchi",
+    "published": "2025-05-08",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ostrica-concava-la-delicata-di-sardegna-0/",
     "title": "",
     "noticeDate": "6 maggio 2025",
