@@ -519,6 +519,526 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/patatine-cheese-ring/",
+    "title": "",
+    "noticeDate": "4 aprile 2024",
+    "campi": {
+      "data pubblicazione": "4 aprile 2024",
+      "marca": "Regent cheese ring",
+      "denominazione": "Patatine cheese ring",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Regent cheese ring",
+    "product": "Patatine cheese ring",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Regent cheese ring - Patatine cheese ring",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20CHEESE%20RING_1761199750.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "patatine-cheese-ring",
+    "published": "2024-04-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/patatine-oishi-rinbee-al-formaggio/",
+    "title": "",
+    "noticeDate": "4 aprile 2024",
+    "campi": {
+      "data pubblicazione": "4 aprile 2024",
+      "marca": "Oishi",
+      "denominazione": "Patatine Oishi Rinbee al formaggio",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Oishi",
+    "product": "Patatine Oishi Rinbee al formaggio",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Oishi - Patatine Oishi Rinbee al formaggio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20RIN%20BEE_1761199756.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "patatine-oishi-rinbee-al-formaggio",
+    "published": "2024-04-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/patatine-cheese-ring-0/",
+    "title": "",
+    "noticeDate": "4 aprile 2024",
+    "campi": {
+      "data pubblicazione": "4 aprile 2024",
+      "marca": "Regent",
+      "denominazione": "Patatine Cheese ring",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Regent",
+    "product": "Patatine Cheese ring",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Regent - Patatine Cheese ring",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20CHEESE%20RING_1761199762.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "patatine-cheese-ring-0",
+    "published": "2024-04-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mascobini-saraceno-e-mirtilli-vegano/",
+    "title": "",
+    "noticeDate": "3 aprile 2024",
+    "campi": {
+      "data pubblicazione": "3 aprile 2024",
+      "marca": "KORA DULCIS",
+      "denominazione": "Mascobini saraceno e mirtilli vegano",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "KORA DULCIS",
+    "product": "Mascobini saraceno e mirtilli vegano",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo KORA DULCIS - Mascobini saraceno e mirtilli vegano",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MASCOBINI%20SARACENO%20E%20MIRTILLI%20VEGANO_1761199712.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mascobini-saraceno-e-mirtilli-vegano",
+    "published": "2024-04-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-cocco-e-carruba/",
+    "title": "",
+    "noticeDate": "3 aprile 2024",
+    "campi": {
+      "data pubblicazione": "3 aprile 2024",
+      "marca": "KORA DULCIS",
+      "denominazione": "Riso cocco e carruba",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "KORA DULCIS",
+    "product": "Riso cocco e carruba",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo KORA DULCIS - Riso cocco e carruba",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RISO%20COCCO%20E%20CARRUBA_1761199717.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "riso-cocco-e-carruba",
+    "published": "2024-04-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-mirtilli-e-bacche-di-goji/",
+    "title": "",
+    "noticeDate": "3 aprile 2024",
+    "campi": {
+      "data pubblicazione": "3 aprile 2024",
+      "marca": "KORA DULCIS",
+      "denominazione": "Riso mirtilli e bacche di goji",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "KORA DULCIS",
+    "product": "Riso mirtilli e bacche di goji",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo KORA DULCIS - Riso mirtilli e bacche di goji",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RISO%20MIRTILLI%20E%20BACCHE%20GOJI_1761199722.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "riso-mirtilli-e-bacche-di-goji",
+    "published": "2024-04-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mascobini-saraceno-e-mirtilli/",
+    "title": "",
+    "noticeDate": "3 aprile 2024",
+    "campi": {
+      "data pubblicazione": "3 aprile 2024",
+      "marca": "KORA DULCIS",
+      "denominazione": "Mascobini saraceno e mirtilli",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "KORA DULCIS",
+    "product": "Mascobini saraceno e mirtilli",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo KORA DULCIS - Mascobini saraceno e mirtilli",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MASCOBINI%20SARACENO%20E%20MIRTILLI_1761199728.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mascobini-saraceno-e-mirtilli",
+    "published": "2024-04-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mascobini-riso-e-cioccolato/",
+    "title": "",
+    "noticeDate": "3 aprile 2024",
+    "campi": {
+      "data pubblicazione": "3 aprile 2024",
+      "marca": "KORA DULCIS",
+      "denominazione": "Mascobini riso e cioccolato",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "KORA DULCIS",
+    "product": "Mascobini riso e cioccolato",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo KORA DULCIS - Mascobini riso e cioccolato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MASCOBINI%20RISO%20E%20CIOCCOLATO_1761199733.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mascobini-riso-e-cioccolato",
+    "published": "2024-04-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-vaniglia-e-limone/",
+    "title": "",
+    "noticeDate": "3 aprile 2024",
+    "campi": {
+      "data pubblicazione": "3 aprile 2024",
+      "marca": "KORA DULCIS",
+      "denominazione": "Riso vaniglia e limone",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "KORA DULCIS",
+    "product": "Riso vaniglia e limone",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo KORA DULCIS - Riso vaniglia e limone",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RISO%20VANIGLIA%20E%20LIMONE_1761199739.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "riso-vaniglia-e-limone",
+    "published": "2024-04-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cacao-polvere/",
+    "title": "",
+    "noticeDate": "3 aprile 2024",
+    "campi": {
+      "data pubblicazione": "3 aprile 2024",
+      "marca": "Penny",
+      "denominazione": "Cacao in Polvere",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Penny",
+    "product": "Cacao in Polvere",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Penny - Cacao in Polvere",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_richiamo_111792_CACAO%20IN%20POLVERE%20PENNY%20250g_1761199745.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cacao-polvere",
+    "published": "2024-04-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/noodles-istantanei-dalla-cina/",
+    "title": "",
+    "noticeDate": "2 aprile 2024",
+    "campi": {
+      "data pubblicazione": "2 aprile 2024",
+      "marca": "Maestro Kong",
+      "denominazione": "Noodles istantanei dalla Cina",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Maestro Kong",
+    "product": "Noodles istantanei dalla Cina",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Maestro Kong - Noodles istantanei dalla Cina",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_1761199707.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "noodles-istantanei-dalla-cina",
+    "published": "2024-04-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparazione-gastronomica-bio-bvase-di-anacardi-e-mandorle/",
+    "title": "",
+    "noticeDate": "29 marzo 2024",
+    "campi": {
+      "data pubblicazione": "29 marzo 2024",
+      "marca": "ALBY GREEN FARM",
+      "denominazione": "PREPARAZIONE GASTRONOMICA BIO A BVASE DI ANACARDI E MANDORLE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "ALBY GREEN FARM",
+    "product": "PREPARAZIONE GASTRONOMICA BIO A BVASE DI ANACARDI E MANDORLE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ALBY GREEN FARM - PREPARAZIONE GASTRONOMICA BIO A BVASE DI ANACARDI E MANDORLE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1_CARTELLI%20PRODOTTI%20CON%20FOTO_1761199692.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparazione-gastronomica-bio-bvase-di-anacardi-e-mandorle",
+    "published": "2024-03-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparazione-gastronomica-biologica-base-di-anacardi/",
+    "title": "",
+    "noticeDate": "29 marzo 2024",
+    "campi": {
+      "data pubblicazione": "29 marzo 2024",
+      "marca": "ALBY GREEN FARM",
+      "denominazione": "PREPARAZIONE GASTRONOMICA BIOLOGICA BASE DI ANACARDI",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "ALBY GREEN FARM",
+    "product": "PREPARAZIONE GASTRONOMICA BIOLOGICA BASE DI ANACARDI",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ALBY GREEN FARM - PREPARAZIONE GASTRONOMICA BIOLOGICA BASE DI ANACARDI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2_CARTELLI%20PRODOTTI%20CON%20FOTO_1761199697.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparazione-gastronomica-biologica-base-di-anacardi",
+    "published": "2024-03-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparazione-gastronomica-biologica-base-di-anacardi-0/",
+    "title": "",
+    "noticeDate": "29 marzo 2024",
+    "campi": {
+      "data pubblicazione": "29 marzo 2024",
+      "marca": "ALBY GREEN FARM",
+      "denominazione": "PREPARAZIONE GASTRONOMICA BIOLOGICA BASE DI ANACARDI",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "ALBY GREEN FARM",
+    "product": "PREPARAZIONE GASTRONOMICA BIOLOGICA BASE DI ANACARDI",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ALBY GREEN FARM - PREPARAZIONE GASTRONOMICA BIOLOGICA BASE DI ANACARDI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLI%20PRODOTTI%20CON%20FOTO_1761199702.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparazione-gastronomica-biologica-base-di-anacardi-0",
+    "published": "2024-03-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spaghetti-istantanei-naruto/",
+    "title": "",
+    "noticeDate": "28 marzo 2024",
+    "campi": {
+      "data pubblicazione": "28 marzo 2024",
+      "marca": "NARUTO",
+      "denominazione": "SPAGHETTI ISTANTANEI \"NARUTO\"",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "NARUTO",
+    "product": "SPAGHETTI ISTANTANEI \"NARUTO\"",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NARUTO - SPAGHETTI ISTANTANEI \"NARUTO\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PUBBLICAZIONE%20RICHIAMO%20ALLERTA%205487291%202024%20CON%20FOTO_1761199667.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "spaghetti-istantanei-naruto",
+    "published": "2024-03-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilacci-di-equino-100-grammi/",
+    "title": "",
+    "noticeDate": "28 marzo 2024",
+    "campi": {
+      "data pubblicazione": "28 marzo 2024",
+      "marca": "Masina Dal 1929",
+      "denominazione": "Sfilacci di equino 100 grammi",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Masina Dal 1929",
+    "product": "Sfilacci di equino 100 grammi",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Masina Dal 1929 - Sfilacci di equino 100 grammi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20ritiro_richiamo%20prodotto%20Sfilacci%20Masina_1761199671.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilacci-di-equino-100-grammi",
+    "published": "2024-03-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilacci-di-equino-80-grammi/",
+    "title": "",
+    "noticeDate": "28 marzo 2024",
+    "campi": {
+      "data pubblicazione": "28 marzo 2024",
+      "marca": "Casa ALI'",
+      "denominazione": "Sfilacci di equino 80 grammi",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Casa ALI'",
+    "product": "Sfilacci di equino 80 grammi",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Casa ALI' - Sfilacci di equino 80 grammi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20ritiro_richiamo%20prodotto%20Sfilacci%20Casa%20ALI_1_1761199675.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilacci-di-equino-80-grammi",
+    "published": "2024-03-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilacci-di-equino-80-grammi-0/",
+    "title": "",
+    "noticeDate": "28 marzo 2024",
+    "campi": {
+      "data pubblicazione": "28 marzo 2024",
+      "marca": "Casa ALI'",
+      "denominazione": "Sfilacci di equino 80 grammi",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Casa ALI'",
+    "product": "Sfilacci di equino 80 grammi",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Casa ALI' - Sfilacci di equino 80 grammi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20ritiro_richiamo%20prodotto%20Sfilacci%20Casa%20ALI_1761199679.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilacci-di-equino-80-grammi-0",
+    "published": "2024-03-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/transito-intestinale-functional-bars/",
+    "title": "",
+    "noticeDate": "28 marzo 2024",
+    "campi": {
+      "data pubblicazione": "28 marzo 2024",
+      "marca": "Apoteca Natura",
+      "denominazione": "Transito Intestinale Functional Bars",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Apoteca Natura",
+    "product": "Transito Intestinale Functional Bars",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Apoteca Natura - Transito Intestinale Functional Bars",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%203600_transito_intestinale_1761199683.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "transito-intestinale-functional-bars",
+    "published": "2024-03-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/transito-intestinale-functional-bars-0/",
+    "title": "",
+    "noticeDate": "28 marzo 2024",
+    "campi": {
+      "data pubblicazione": "28 marzo 2024",
+      "marca": "Apoteca Natura",
+      "denominazione": "Transito Intestinale Functional Bars",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Apoteca Natura",
+    "product": "Transito Intestinale Functional Bars",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Apoteca Natura - Transito Intestinale Functional Bars",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%203603_transito_intestinale_1761199687.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "transito-intestinale-functional-bars-0",
+    "published": "2024-03-28",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/affumicata/",
     "title": "",
     "noticeDate": "27 marzo 2024",
