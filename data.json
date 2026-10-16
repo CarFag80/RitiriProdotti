@@ -406,6 +406,474 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/dmbio-spalmabile-anacardi-lamponi-250g-dan-2477707/",
+    "title": "",
+    "noticeDate": "5 giugno 2025",
+    "campi": {
+      "data pubblicazione": "5 giugno 2025",
+      "marca": "dm drogerie markt srl",
+      "denominazione": "dmBio Spalmabile anacardi lamponi 250g (DAN 2477707)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "dm drogerie markt srl",
+    "product": "dmBio Spalmabile anacardi lamponi 250g (DAN 2477707)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo dm drogerie markt srl - dmBio Spalmabile anacardi lamponi 250g (DAN 2477707)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartellodirichiamoBioSpalmabileAnacardiLamponi_1761207526.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "dmbio-spalmabile-anacardi-lamponi-250g-dan-2477707",
+    "published": "2025-06-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-nostrano-montanaro/",
+    "title": "",
+    "noticeDate": "5 giugno 2025",
+    "campi": {
+      "data pubblicazione": "5 giugno 2025",
+      "marca": "Bertolino Srl",
+      "denominazione": "Formaggio nostrano montanaro",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Bertolino Srl",
+    "product": "Formaggio nostrano montanaro",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bertolino Srl - Formaggio nostrano montanaro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1761207529.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-nostrano-montanaro",
+    "published": "2025-06-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/calamari-indopacifici-puliti-if/",
+    "title": "",
+    "noticeDate": "5 giugno 2025",
+    "campi": {
+      "data pubblicazione": "5 giugno 2025",
+      "marca": "La Ciurma",
+      "denominazione": "Calamari indopacifici puliti IF",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "La Ciurma",
+    "product": "Calamari indopacifici puliti IF",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo La Ciurma - Calamari indopacifici puliti IF",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo_1761207533.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "calamari-indopacifici-puliti-if",
+    "published": "2025-06-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-intero-pastorizzato-temperatura-elevata-1/",
+    "title": "",
+    "noticeDate": "5 giugno 2025",
+    "campi": {
+      "data pubblicazione": "5 giugno 2025",
+      "marca": "Latte Verona",
+      "denominazione": "Latte intero pastorizzato a temperatura elevata",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Latte Verona",
+    "product": "Latte intero pastorizzato a temperatura elevata",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Latte Verona - Latte intero pastorizzato a temperatura elevata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20Latte%20Verona_1761207537.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-intero-pastorizzato-temperatura-elevata-1",
+    "published": "2025-06-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-intero-pastorizzato-temperatura-elevata-2/",
+    "title": "",
+    "noticeDate": "5 giugno 2025",
+    "campi": {
+      "data pubblicazione": "5 giugno 2025",
+      "marca": "Latte Giglio",
+      "denominazione": "Latte intero pastorizzato a temperatura elevata",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Latte Giglio",
+    "product": "Latte intero pastorizzato a temperatura elevata",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Latte Giglio - Latte intero pastorizzato a temperatura elevata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20Giglio_1761207541.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-intero-pastorizzato-temperatura-elevata-2",
+    "published": "2025-06-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongola-verace-ruditapes-decussatus/",
+    "title": "",
+    "noticeDate": "3 giugno 2025",
+    "campi": {
+      "data pubblicazione": "3 giugno 2025",
+      "marca": "Nieddittas",
+      "denominazione": "Vongola verace (Ruditapes decussatus)",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Nieddittas",
+    "product": "Vongola verace (Ruditapes decussatus)",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nieddittas - Vongola verace (Ruditapes decussatus)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Prodotti%20_%20VONGOLE%20Modello%20Ministero%20_1__1761207515.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "vongola-verace-ruditapes-decussatus",
+    "published": "2025-06-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuore-cerastoderma-spp/",
+    "title": "",
+    "noticeDate": "3 giugno 2025",
+    "campi": {
+      "data pubblicazione": "3 giugno 2025",
+      "marca": "Nieddittas",
+      "denominazione": "Cuore (Cerastoderma spp.)",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Nieddittas",
+    "product": "Cuore (Cerastoderma spp.)",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nieddittas - Cuore (Cerastoderma spp.)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Prodotti%20_%20CUORE%20Modello%20Ministero%20_1__1761207518.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cuore-cerastoderma-spp",
+    "published": "2025-06-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/liquirizia-polvere-bio-100g/",
+    "title": "",
+    "noticeDate": "3 giugno 2025",
+    "campi": {
+      "data pubblicazione": "3 giugno 2025",
+      "marca": "IOBOSCOVIVO",
+      "denominazione": "LIQUIRIZIA IN POLVERE BIO 100G",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "IOBOSCOVIVO",
+    "product": "LIQUIRIZIA IN POLVERE BIO 100G",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IOBOSCOVIVO - LIQUIRIZIA IN POLVERE BIO 100G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20Liquirizia%20in%20polvere%20BIO%20100g_1761207522.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "liquirizia-polvere-bio-100g",
+    "published": "2025-06-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fette-biscottate-con-farina-integrale-e-olio-di-girasole-altoleico/",
+    "title": "",
+    "noticeDate": "31 maggio 2025",
+    "campi": {
+      "data pubblicazione": "31 maggio 2025",
+      "marca": "Coop",
+      "denominazione": "Fette biscottate con farina integrale e olio di girasole altoleico",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Coop",
+    "product": "Fette biscottate con farina integrale e olio di girasole altoleico",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coop - Fette biscottate con farina integrale e olio di girasole altoleico",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20COOP%2016D25%20e%2017D25_1761207500.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fette-biscottate-con-farina-integrale-e-olio-di-girasole-altoleico",
+    "published": "2025-05-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fette-biscottate-con-farina-integrale-ritagli/",
+    "title": "",
+    "noticeDate": "31 maggio 2025",
+    "campi": {
+      "data pubblicazione": "31 maggio 2025",
+      "marca": "DPG Srl La Frumenteria",
+      "denominazione": "Fette biscottate con farina integrale - ritagli",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DPG Srl La Frumenteria",
+    "product": "Fette biscottate con farina integrale - ritagli",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DPG Srl La Frumenteria - Fette biscottate con farina integrale - ritagli",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20INT%20FRU%2012E25_1761207504.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fette-biscottate-con-farina-integrale-ritagli",
+    "published": "2025-05-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fette-biscottate-con-farina-integrale-ritagli-0/",
+    "title": "",
+    "noticeDate": "31 maggio 2025",
+    "campi": {
+      "data pubblicazione": "31 maggio 2025",
+      "marca": "DPG Srl La Frumentaria",
+      "denominazione": "Fette biscottate con farina integrale - ritagli",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DPG Srl La Frumentaria",
+    "product": "Fette biscottate con farina integrale - ritagli",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DPG Srl La Frumentaria - Fette biscottate con farina integrale - ritagli",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20INT%20FRU%2016D25%2017D25%2030D25_1761207507.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fette-biscottate-con-farina-integrale-ritagli-0",
+    "published": "2025-05-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fette-biscottate-ritagli-integrali-ricche-proteine/",
+    "title": "",
+    "noticeDate": "31 maggio 2025",
+    "campi": {
+      "data pubblicazione": "31 maggio 2025",
+      "marca": "DPG Srl La Frumentaria",
+      "denominazione": "Fette biscottate ritagli integrali ricche in proteine",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DPG Srl La Frumentaria",
+    "product": "Fette biscottate ritagli integrali ricche in proteine",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DPG Srl La Frumentaria - Fette biscottate ritagli integrali ricche in proteine",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20PRO%20RIT%2014E25_1761207511.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fette-biscottate-ritagli-integrali-ricche-proteine",
+    "published": "2025-05-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/saku-di-salmone-marinato-140-g/",
+    "title": "",
+    "noticeDate": "28 maggio 2025",
+    "campi": {
+      "data pubblicazione": "28 maggio 2025",
+      "marca": "Le Sopraffine",
+      "denominazione": "Saku di salmone marinato 140 g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Le Sopraffine",
+    "product": "Saku di salmone marinato 140 g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Le Sopraffine - Saku di salmone marinato 140 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoSaku_1761207496.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "saku-di-salmone-marinato-140-g",
+    "published": "2025-05-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tofu-vegano-biologico-al-naturale/",
+    "title": "",
+    "noticeDate": "26 maggio 2025",
+    "campi": {
+      "data pubblicazione": "26 maggio 2025",
+      "marca": "BIOLAB SRL",
+      "denominazione": "TOFU VEGANO BIOLOGICO AL NATURALE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "BIOLAB SRL",
+    "product": "TOFU VEGANO BIOLOGICO AL NATURALE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BIOLAB SRL - TOFU VEGANO BIOLOGICO AL NATURALE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModelloministerialerichiamoTofu22_05_2025_1761207489.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tofu-vegano-biologico-al-naturale",
+    "published": "2025-05-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fichi-secchi-di-turchia/",
+    "title": "",
+    "noticeDate": "26 maggio 2025",
+    "campi": {
+      "data pubblicazione": "26 maggio 2025",
+      "marca": "DE LUCIA",
+      "denominazione": "FICHI SECCHI DI TURCHIA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DE LUCIA",
+    "product": "FICHI SECCHI DI TURCHIA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DE LUCIA - FICHI SECCHI DI TURCHIA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20DAL%20MERCATO%20FICHI%20SECCHI%20DI%20TURCHIA%20_DOM.DE%20LUCIA__1761207492.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fichi-secchi-di-turchia",
+    "published": "2025-05-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/polpa-di-frutta-mela-e-banana-vaschetta-da-100-g/",
+    "title": "",
+    "noticeDate": "23 maggio 2025",
+    "campi": {
+      "data pubblicazione": "23 maggio 2025",
+      "marca": "Bianchi",
+      "denominazione": "Polpa di frutta Mela e Banana in vaschetta da 100 g.",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Bianchi",
+    "product": "Polpa di frutta Mela e Banana in vaschetta da 100 g.",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bianchi - Polpa di frutta Mela e Banana in vaschetta da 100 g.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_1761207485.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "polpa-di-frutta-mela-e-banana-vaschetta-da-100-g",
+    "published": "2025-05-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallina-quarti/",
+    "title": "",
+    "noticeDate": "22 maggio 2025",
+    "campi": {
+      "data pubblicazione": "22 maggio 2025",
+      "marca": "SOC. AGR. GUIDI DI RONCOFREDDO S.S",
+      "denominazione": "GALLINA IN QUARTI",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "SOC. AGR. GUIDI DI RONCOFREDDO S.S",
+    "product": "GALLINA IN QUARTI",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SOC. AGR. GUIDI DI RONCOFREDDO S.S - GALLINA IN QUARTI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Gallina%20quarti_Guidi_1761207478.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gallina-quarti",
+    "published": "2025-05-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-di-suino/",
+    "title": "",
+    "noticeDate": "22 maggio 2025",
+    "campi": {
+      "data pubblicazione": "22 maggio 2025",
+      "marca": "Salumificio Battisti Alviero e Figli Srl.",
+      "denominazione": "Salsiccia stagionata di suino",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio Battisti Alviero e Figli Srl.",
+    "product": "Salsiccia stagionata di suino",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio Battisti Alviero e Figli Srl. - Salsiccia stagionata di suino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20salumificio%20Battisti_1761207481.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-stagionata-di-suino",
+    "published": "2025-05-22",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-uht-del-giudice-ps-0/",
     "title": "",
     "noticeDate": "21 maggio 2025",
@@ -454,6 +922,58 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "mozzarella-carrozza-al-prosciutto",
+    "published": "2025-05-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-carrozza-al-prosciutto-0/",
+    "title": "",
+    "noticeDate": "21 maggio 2025",
+    "campi": {
+      "data pubblicazione": "21 maggio 2025",
+      "marca": "Cucina Nostrana srl unipersonale",
+      "denominazione": "Mozzarella in carrozza al prosciutto",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Cucina Nostrana srl unipersonale",
+    "product": "Mozzarella in carrozza al prosciutto",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cucina Nostrana srl unipersonale - Mozzarella in carrozza al prosciutto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Cucina%20_%20tutti%20i%20lotti_1765372596.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mozzarella-carrozza-al-prosciutto-0",
+    "published": "2025-05-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-carrozza-al-prosciutto-1/",
+    "title": "",
+    "noticeDate": "21 maggio 2025",
+    "campi": {
+      "data pubblicazione": "21 maggio 2025",
+      "marca": "Scelto da noi",
+      "denominazione": "Mozzarella in carrozza al prosciutto",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Scelto da noi",
+    "product": "Mozzarella in carrozza al prosciutto",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Scelto da noi - Mozzarella in carrozza al prosciutto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20CIA%20_%20entrambi%20i%20lotti%20_1_%20_1__1765372598.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mozzarella-carrozza-al-prosciutto-1",
     "published": "2025-05-21",
     "source": "operator"
   },
