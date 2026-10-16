@@ -406,6 +406,32 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tortellini-prosciutto-crudo-e-parmigiano-reggiano-250g/",
+    "title": "",
+    "noticeDate": "24 settembre 2025",
+    "campi": {
+      "data pubblicazione": "24 settembre 2025",
+      "marca": "ANTICA BOTTEGA - FINI MODENA 1912",
+      "denominazione": "TORTELLINI PROSCIUTTO CRUDO E PARMIGIANO REGGIANO 250g",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "ANTICA BOTTEGA - FINI MODENA 1912",
+    "product": "TORTELLINI PROSCIUTTO CRUDO E PARMIGIANO REGGIANO 250g",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ANTICA BOTTEGA - FINI MODENA 1912 - TORTELLINI PROSCIUTTO CRUDO E PARMIGIANO REGGIANO 250g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/comunicazione%20per%20richiamo_1761209163.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tortellini-prosciutto-crudo-e-parmigiano-reggiano-250g",
+    "published": "2025-09-24",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-semola-di-grano-duro-0/",
     "title": "",
     "noticeDate": "23 settembre 2025",
