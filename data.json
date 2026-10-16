@@ -230,6 +230,448 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/n-123-denominazioni-di-vendita-vedi-allegato/",
+    "title": "",
+    "noticeDate": "5 luglio 2024",
+    "campi": {
+      "data pubblicazione": "5 luglio 2024",
+      "marca": "Alba Tramezzini / Idea Fresco / Buono e Fresco ed altri",
+      "denominazione": "n. 123 denominazioni di vendita (vedi allegato)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Alba Tramezzini / Idea Fresco / Buono e Fresco ed altri",
+    "product": "n. 123 denominazioni di vendita (vedi allegato)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Alba Tramezzini / Idea Fresco / Buono e Fresco ed altri - n. 123 denominazioni di vendita (vedi allegato)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Alba%20con%20allegato%20corretto_1761204452.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "n-123-denominazioni-di-vendita-vedi-allegato",
+    "published": "2024-07-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-4/",
+    "title": "",
+    "noticeDate": "2 luglio 2024",
+    "campi": {
+      "data pubblicazione": "2 luglio 2024",
+      "marca": "Cattini",
+      "denominazione": "Salame",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Cattini",
+    "product": "Salame",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cattini - Salame",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salame%20lotto%20030524%20con%20etichette_1761204376.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-4",
+    "published": "2024-07-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-mantovano-sfuso-intero/",
+    "title": "",
+    "noticeDate": "2 luglio 2024",
+    "campi": {
+      "data pubblicazione": "2 luglio 2024",
+      "marca": "SALUMIFICIO CATTINI SRL",
+      "denominazione": "SALAME MANTOVANO SFUSO INTERO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO CATTINI SRL",
+    "product": "SALAME MANTOVANO SFUSO INTERO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO CATTINI SRL - SALAME MANTOVANO SFUSO INTERO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salame%20mantovano%20intero%20%20lotto%20030524%20con%20etichette_1761204381.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-mantovano-sfuso-intero",
+    "published": "2024-07-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-mantovano-sfuso-intero-0/",
+    "title": "",
+    "noticeDate": "2 luglio 2024",
+    "campi": {
+      "data pubblicazione": "2 luglio 2024",
+      "marca": "SALUMIFICIO CATTINI",
+      "denominazione": "SALAME MANTOVANO SFUSO INTERO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO CATTINI",
+    "product": "SALAME MANTOVANO SFUSO INTERO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO CATTINI - SALAME MANTOVANO SFUSO INTERO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salame%20mantovano%20intero%20%20lotto%20060624%20con%20etichetta_1761204386.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-mantovano-sfuso-intero-0",
+    "published": "2024-07-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-5/",
+    "title": "",
+    "noticeDate": "2 luglio 2024",
+    "campi": {
+      "data pubblicazione": "2 luglio 2024",
+      "marca": "SALUMIFICIO CATTINI",
+      "denominazione": "SALAME",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO CATTINI",
+    "product": "SALAME",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO CATTINI - SALAME",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salame%20lotto%20030524%20con%20etichette_1761204392.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-5",
+    "published": "2024-07-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-sfuso-intero/",
+    "title": "",
+    "noticeDate": "2 luglio 2024",
+    "campi": {
+      "data pubblicazione": "2 luglio 2024",
+      "marca": "SALUMIFICIO CATTINI",
+      "denominazione": "SALAME SFUSO INTERO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO CATTINI",
+    "product": "SALAME SFUSO INTERO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO CATTINI - SALAME SFUSO INTERO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salame%20lotto%20030524%20con%20etichette_1761204398.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-sfuso-intero",
+    "published": "2024-07-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-sfuso-intero-lotto-100524/",
+    "title": "",
+    "noticeDate": "2 luglio 2024",
+    "campi": {
+      "data pubblicazione": "2 luglio 2024",
+      "marca": "SALUMIFICIO CATTINI",
+      "denominazione": "SALAME SFUSO INTERO LOTTO 100524",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO CATTINI",
+    "product": "SALAME SFUSO INTERO LOTTO 100524",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO CATTINI - SALAME SFUSO INTERO LOTTO 100524",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salame%20lotto%20100524%20con%20etichette_1761204404.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-sfuso-intero-lotto-100524",
+    "published": "2024-07-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-sfuso-intero-lotto-030524/",
+    "title": "",
+    "noticeDate": "2 luglio 2024",
+    "campi": {
+      "data pubblicazione": "2 luglio 2024",
+      "marca": "SALUMIFICIO CATTINI",
+      "denominazione": "SALAME SFUSO INTERO LOTTO 030524",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO CATTINI",
+    "product": "SALAME SFUSO INTERO LOTTO 030524",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO CATTINI - SALAME SFUSO INTERO LOTTO 030524",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salame%20lotto%20030524%20con%20etichette_1761204409.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-sfuso-intero-lotto-030524",
+    "published": "2024-07-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-mantovano-sfuso-intero-lotto-030524/",
+    "title": "",
+    "noticeDate": "2 luglio 2024",
+    "campi": {
+      "data pubblicazione": "2 luglio 2024",
+      "marca": "SALUMIFICIO CATTINI",
+      "denominazione": "SALAME MANTOVANO SFUSO INTERO LOTTO 030524",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO CATTINI",
+    "product": "SALAME MANTOVANO SFUSO INTERO LOTTO 030524",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO CATTINI - SALAME MANTOVANO SFUSO INTERO LOTTO 030524",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salame%20mantovano%20intero%20%20lotto%20030524%20con%20etichette_1761204415.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-mantovano-sfuso-intero-lotto-030524",
+    "published": "2024-07-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-mantovano-sfuso-intero-lotto-060624/",
+    "title": "",
+    "noticeDate": "2 luglio 2024",
+    "campi": {
+      "data pubblicazione": "2 luglio 2024",
+      "marca": "SALUMIFICIO CATTINI",
+      "denominazione": "SALAME MANTOVANO SFUSO INTERO LOTTO 060624",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO CATTINI",
+    "product": "SALAME MANTOVANO SFUSO INTERO LOTTO 060624",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO CATTINI - SALAME MANTOVANO SFUSO INTERO LOTTO 060624",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salame%20mantovano%20intero%20%20lotto%20060624%20con%20etichetta_1761204421.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-mantovano-sfuso-intero-lotto-060624",
+    "published": "2024-07-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-mantovano-salame-lotti-0703274-190424/",
+    "title": "",
+    "noticeDate": "2 luglio 2024",
+    "campi": {
+      "data pubblicazione": "2 luglio 2024",
+      "marca": "SALUMIFICIO CATTINI",
+      "denominazione": "SALAME MANTOVANO - SALAME LOTTI 0703274 - 190424",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO CATTINI",
+    "product": "SALAME MANTOVANO - SALAME LOTTI 0703274 - 190424",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO CATTINI - SALAME MANTOVANO - SALAME LOTTI 0703274 - 190424",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salame%20e%20salame%20mantovano_%20lotto%20070324%20_%20190424_1761204427.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-mantovano-salame-lotti-0703274-190424",
+    "published": "2024-07-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-salame-mantovano-sottovuoto-lotti-diversi/",
+    "title": "",
+    "noticeDate": "2 luglio 2024",
+    "campi": {
+      "data pubblicazione": "2 luglio 2024",
+      "marca": "SALUMIFICIO CATTINI",
+      "denominazione": "SALAME - SALAME MANTOVANO SOTTOVUOTO LOTTI DIVERSI",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO CATTINI",
+    "product": "SALAME - SALAME MANTOVANO SOTTOVUOTO LOTTI DIVERSI",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO CATTINI - SALAME - SALAME MANTOVANO SOTTOVUOTO LOTTI DIVERSI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salame_salame%20mantovano_lotti%20produzione%20vari_sottovuoto_1761204433.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-salame-mantovano-sottovuoto-lotti-diversi",
+    "published": "2024-07-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tramezzino-pro-bresaola-rucola-e-grana-padano/",
+    "title": "",
+    "noticeDate": "2 luglio 2024",
+    "campi": {
+      "data pubblicazione": "2 luglio 2024",
+      "marca": "ALBA TRAMEZZINI s.p.a.",
+      "denominazione": "Tramezzino PRO BRESAOLA, RUCOLA E GRANA PADANO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ALBA TRAMEZZINI s.p.a.",
+    "product": "Tramezzino PRO BRESAOLA, RUCOLA E GRANA PADANO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ALBA TRAMEZZINI s.p.a. - Tramezzino PRO BRESAOLA, RUCOLA E GRANA PADANO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo_1761204439.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tramezzino-pro-bresaola-rucola-e-grana-padano",
+    "published": "2024-07-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spumante-brut-2017er-jahrgangssekt-millesimato/",
+    "title": "",
+    "noticeDate": "2 luglio 2024",
+    "campi": {
+      "data pubblicazione": "2 luglio 2024",
+      "marca": "Stocker",
+      "denominazione": "Spumante \"BRUT 2017er Jahrgangssekt - millesimato\"",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Stocker",
+    "product": "Spumante \"BRUT 2017er Jahrgangssekt - millesimato\"",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Stocker - Spumante \"BRUT 2017er Jahrgangssekt - millesimato\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartellodirichiamoBRUTStocker2017er_1761204446.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spumante-brut-2017er-jahrgangssekt-millesimato",
+    "published": "2024-07-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamino-dolce-0/",
+    "title": "",
+    "noticeDate": "28 giugno 2024",
+    "campi": {
+      "data pubblicazione": "28 giugno 2024",
+      "marca": "AZZOCCHI ROBERTO SRL",
+      "denominazione": "SALAMINO DOLCE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "AZZOCCHI ROBERTO SRL",
+    "product": "SALAMINO DOLCE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AZZOCCHI ROBERTO SRL - SALAMINO DOLCE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20LOTTO%20113SD%20_003__1761204360.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salamino-dolce-0",
+    "published": "2024-06-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-mantovano/",
+    "title": "",
+    "noticeDate": "28 giugno 2024",
+    "campi": {
+      "data pubblicazione": "28 giugno 2024",
+      "marca": "Cattini",
+      "denominazione": "salame mantovano",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Cattini",
+    "product": "salame mantovano",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cattini - salame mantovano",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamosalamemantovanointero%20_1__1761204365.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-mantovano",
+    "published": "2024-06-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-mantovano-sottovuoto-0/",
+    "title": "",
+    "noticeDate": "28 giugno 2024",
+    "campi": {
+      "data pubblicazione": "28 giugno 2024",
+      "marca": "Cattini",
+      "denominazione": "salame mantovano sottovuoto",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Cattini",
+    "product": "salame mantovano sottovuoto",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cattini - salame mantovano sottovuoto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamosalamemantovanosottovuoto%20_1__1761204370.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-mantovano-sottovuoto-0",
+    "published": "2024-06-28",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-mantovana-con-finocchio/",
     "title": "",
     "noticeDate": "27 giugno 2024",
@@ -252,6 +694,84 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "salsiccia-mantovana-con-finocchio",
+    "published": "2024-06-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-mantovana-con-finocchio-0/",
+    "title": "",
+    "noticeDate": "27 giugno 2024",
+    "campi": {
+      "data pubblicazione": "27 giugno 2024",
+      "marca": "Cucina express",
+      "denominazione": "Salsiccia mantovana con finocchio",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Cucina express",
+    "product": "Salsiccia mantovana con finocchio",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cucina express - Salsiccia mantovana con finocchio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/r%20Salsiccia%20mantovana%20con%20finocchio%20lotto%206142430508_%20Aspiag%20Service%20Srl.%20_1__1761204345.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-mantovana-con-finocchio-0",
+    "published": "2024-06-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/utensili-nylon/",
+    "title": "",
+    "noticeDate": "27 giugno 2024",
+    "campi": {
+      "data pubblicazione": "27 giugno 2024",
+      "marca": "EDCO Italia s.r.l.",
+      "denominazione": "utensili in nylon",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "EDCO Italia s.r.l.",
+    "product": "utensili in nylon",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo EDCO Italia s.r.l. - utensili in nylon",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20completo_1761204350.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "utensili-nylon",
+    "published": "2024-06-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/funghi-russula-delica-affettati-salamoia/",
+    "title": "",
+    "noticeDate": "27 giugno 2024",
+    "campi": {
+      "data pubblicazione": "27 giugno 2024",
+      "marca": "Lackmann Food Group",
+      "denominazione": "Funghi (Russula Delica) affettati in salamoia",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Lackmann Food Group",
+    "product": "Funghi (Russula Delica) affettati in salamoia",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Lackmann Food Group - Funghi (Russula Delica) affettati in salamoia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2027.06.2024_1761204355.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "funghi-russula-delica-affettati-salamoia",
     "published": "2024-06-27",
     "source": "operator"
   },
