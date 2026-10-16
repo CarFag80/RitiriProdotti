@@ -519,6 +519,344 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-da-125g/",
+    "title": "",
+    "noticeDate": "29 febbraio 2024",
+    "campi": {
+      "data pubblicazione": "29 febbraio 2024",
+      "marca": "Merivio",
+      "denominazione": "Mozzarella da 125g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Merivio",
+    "product": "Mozzarella da 125g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Merivio - Mozzarella da 125g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Mozzarella%20125g%20Merivio_1761198922.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mozzarella-da-125g",
+    "published": "2024-02-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spicy-seafood-flavor/",
+    "title": "",
+    "noticeDate": "29 febbraio 2024",
+    "campi": {
+      "data pubblicazione": "29 febbraio 2024",
+      "marca": "ITON S.R.L.",
+      "denominazione": "SPICY SEAFOOD FLAVOR",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "ITON S.R.L.",
+    "product": "SPICY SEAFOOD FLAVOR",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ITON S.R.L. - SPICY SEAFOOD FLAVOR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%2040038_1_1761198926.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "spicy-seafood-flavor",
+    "published": "2024-02-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/macedonia-stagionale-200-g/",
+    "title": "",
+    "noticeDate": "28 febbraio 2024",
+    "campi": {
+      "data pubblicazione": "28 febbraio 2024",
+      "marca": "Arandis",
+      "denominazione": "Macedonia Stagionale 200 g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Arandis",
+    "product": "Macedonia Stagionale 200 g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Arandis - Macedonia Stagionale 200 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761198918.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "macedonia-stagionale-200-g",
+    "published": "2024-02-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-strolghino-0/",
+    "title": "",
+    "noticeDate": "23 febbraio 2024",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2024",
+      "marca": "RIALTO S.P.A.",
+      "denominazione": "SALAME STROLGHINO",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "RIALTO S.P.A.",
+    "product": "SALAME STROLGHINO",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo RIALTO S.P.A. - SALAME STROLGHINO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiesta%20revoca%20richiamo%20Salame%20Strolghino%20_%20RIALTO_1761198910.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salame-strolghino-0",
+    "published": "2024-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caffe-macinato-arabica-arte-delle-specialita/",
+    "title": "",
+    "noticeDate": "23 febbraio 2024",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2024",
+      "marca": "Arte delle Specialità",
+      "denominazione": "Caffè macinato arabica \"Arte delle specialità\"",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Arte delle Specialità",
+    "product": "Caffè macinato arabica \"Arte delle specialità\"",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Arte delle Specialità - Caffè macinato arabica \"Arte delle specialità\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20_2__1761198914.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "caffe-macinato-arabica-arte-delle-specialita",
+    "published": "2024-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/chocolate-cookies/",
+    "title": "",
+    "noticeDate": "19 febbraio 2024",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2024",
+      "marca": "Merba B.V.",
+      "denominazione": "Chocolate Cookies",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Merba B.V.",
+    "product": "Chocolate Cookies",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Merba B.V. - Chocolate Cookies",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Chocolate%20Cookies_1761198907.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "chocolate-cookies",
+    "published": "2024-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vitel-tonne-fettine-di-carne-cotta-di-bovino-adulto-salsa-tonnata/",
+    "title": "",
+    "noticeDate": "16 febbraio 2024",
+    "campi": {
+      "data pubblicazione": "16 febbraio 2024",
+      "marca": "Gianni Negrini srl",
+      "denominazione": "VITEL TONNE - fettine di carne cotta di bovino adulto in salsa tonnata",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Gianni Negrini srl",
+    "product": "VITEL TONNE - fettine di carne cotta di bovino adulto in salsa tonnata",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gianni Negrini srl - VITEL TONNE - fettine di carne cotta di bovino adulto in salsa tonnata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20nsis%20_1761198903.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "vitel-tonne-fettine-di-carne-cotta-di-bovino-adulto-salsa-tonnata",
+    "published": "2024-02-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fichi-secchi-al-rum-fichi-mandorlati-infornati/",
+    "title": "",
+    "noticeDate": "15 febbraio 2024",
+    "campi": {
+      "data pubblicazione": "15 febbraio 2024",
+      "marca": "M. GRECO srl",
+      "denominazione": "Fichi Secchi al Rum - Fichi Mandorlati infornati",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "M. GRECO srl",
+    "product": "Fichi Secchi al Rum - Fichi Mandorlati infornati",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo M. GRECO srl - Fichi Secchi al Rum - Fichi Mandorlati infornati",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cart.%20Rich.%20M.%20GRECO%20srl_1761198895.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fichi-secchi-al-rum-fichi-mandorlati-infornati",
+    "published": "2024-02-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/castelmagno-dop-1/",
+    "title": "",
+    "noticeDate": "15 febbraio 2024",
+    "campi": {
+      "data pubblicazione": "15 febbraio 2024",
+      "marca": "TERRE D'ITALIA",
+      "denominazione": "CASTELMAGNO DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "TERRE D'ITALIA",
+    "product": "CASTELMAGNO DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TERRE D'ITALIA - CASTELMAGNO DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%202%20_%20Richiamo%20Castelmagno%20DOP%20Terre%20dItalia%20rev_1761198899.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "castelmagno-dop-1",
+    "published": "2024-02-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/castelmagno-dop/",
+    "title": "",
+    "noticeDate": "14 febbraio 2024",
+    "campi": {
+      "data pubblicazione": "14 febbraio 2024",
+      "marca": "BEPPINO OCCELLI",
+      "denominazione": "CASTELMAGNO DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "BEPPINO OCCELLI",
+    "product": "CASTELMAGNO DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BEPPINO OCCELLI - CASTELMAGNO DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Castelmagno_DOP_L.23151011_scad.09.03.24%20Occelli_1761198884.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "castelmagno-dop",
+    "published": "2024-02-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/castelmagno-dop-prodotto-della-montagna/",
+    "title": "",
+    "noticeDate": "14 febbraio 2024",
+    "campi": {
+      "data pubblicazione": "14 febbraio 2024",
+      "marca": "TINO PAIOLO",
+      "denominazione": "CASTELMAGNO DOP PRODOTTO DELLA MONTAGNA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "TINO PAIOLO",
+    "product": "CASTELMAGNO DOP PRODOTTO DELLA MONTAGNA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TINO PAIOLO - CASTELMAGNO DOP PRODOTTO DELLA MONTAGNA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Castelmagno_Societ%C3%A0%20La%20Bruna%20di%20Fiandino%20Davide_1761198888.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "castelmagno-dop-prodotto-della-montagna",
+    "published": "2024-02-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/castelmagno-dop-0/",
+    "title": "",
+    "noticeDate": "14 febbraio 2024",
+    "campi": {
+      "data pubblicazione": "14 febbraio 2024",
+      "marca": "BEPPINO OCCELLI",
+      "denominazione": "CASTELMAGNO DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "BEPPINO OCCELLI",
+    "product": "CASTELMAGNO DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BEPPINO OCCELLI - CASTELMAGNO DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Castelmagno%20DOP%20L.23151011%20scad.08%2C10%2C12.03.24_1761198892.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "castelmagno-dop-0",
+    "published": "2024-02-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/patate-fritte-surgelate-0/",
+    "title": "",
+    "noticeDate": "13 febbraio 2024",
+    "campi": {
+      "data pubblicazione": "13 febbraio 2024",
+      "marca": "Happy Dì",
+      "denominazione": "Patate fritte surgelate",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Happy Dì",
+    "product": "Patate fritte surgelate",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Happy Dì - Patate fritte surgelate",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiesta%20richiamo%20happy%20d%C3%AC%2012022024_1761198879.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "patate-fritte-surgelate-0",
+    "published": "2024-02-13",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/96deg-alcool-dal-1960-fiume-bottiglie-100-ml-contraffatte-marchio-fiume/",
     "title": "\"96° Alcool dal 1960-Fiume\" bottiglie 100 ml contraffatte",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-bottiglie-di-alcol-marchio-fiume-contraffatte/",
@@ -6918,6 +7256,188 @@
     "category": "risk",
     "id": "preparato-creme-caramel-0",
     "published": "2023-04-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-pasta-molle-tomino-piemontese/",
+    "title": "",
+    "noticeDate": "17 aprile 2023",
+    "campi": {
+      "data pubblicazione": "17 aprile 2023",
+      "marca": "Caseificio Longo Srl",
+      "denominazione": "Formaggio a pasta molle \"Tomino piemontese\"",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Caseificio Longo Srl",
+    "product": "Formaggio a pasta molle \"Tomino piemontese\"",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Caseificio Longo Srl - Formaggio a pasta molle \"Tomino piemontese\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/721408_Cartello%20Richiamo_1761194773.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-pasta-molle-tomino-piemontese",
+    "published": "2023-04-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/dmbio-mandorle-al-gusto-tamari-50-g/",
+    "title": "",
+    "noticeDate": "14 aprile 2023",
+    "campi": {
+      "data pubblicazione": "14 aprile 2023",
+      "marca": "dmBio",
+      "denominazione": "dmBio Mandorle al gusto Tamari 50 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "dmBio",
+    "product": "dmBio Mandorle al gusto Tamari 50 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo dmBio - dmBio Mandorle al gusto Tamari 50 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20ministeriale%20per%20dmBio%20Mandorle%20Tamari%20compilato_1761194761.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "dmbio-mandorle-al-gusto-tamari-50-g",
+    "published": "2023-04-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-budino-gusto-vaniglia/",
+    "title": "",
+    "noticeDate": "14 aprile 2023",
+    "campi": {
+      "data pubblicazione": "14 aprile 2023",
+      "marca": "Dolciando",
+      "denominazione": "Preparato per budino gusto vaniglia",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Dolciando",
+    "product": "Preparato per budino gusto vaniglia",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Dolciando - Preparato per budino gusto vaniglia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2023.04.13_preparatoperbudino130g_CLECA_1761194767.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-budino-gusto-vaniglia",
+    "published": "2023-04-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gamberetti-boreali-salamoia-0/",
+    "title": "",
+    "noticeDate": "14 aprile 2023",
+    "campi": {
+      "data pubblicazione": "14 aprile 2023",
+      "marca": "GIOIA DI MARE",
+      "denominazione": "GAMBERETTI BOREALI IN SALAMOIA",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "GIOIA DI MARE",
+    "product": "GAMBERETTI BOREALI IN SALAMOIA",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GIOIA DI MARE - GAMBERETTI BOREALI IN SALAMOIA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_1761194770.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gamberetti-boreali-salamoia-0",
+    "published": "2023-04-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-creme-caramel/",
+    "title": "",
+    "noticeDate": "13 aprile 2023",
+    "campi": {
+      "data pubblicazione": "13 aprile 2023",
+      "marca": "Belbake",
+      "denominazione": "Preparato per Crème Caramel",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Belbake",
+    "product": "Preparato per Crème Caramel",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Belbake - Preparato per Crème Caramel",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20_%20MODELLO_DI_RICHIAMO%20NI%20099_23%20_1__1761194758.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-creme-caramel",
+    "published": "2023-04-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/chupa-chups-tubes-mini-0/",
+    "title": "",
+    "noticeDate": "12 aprile 2023",
+    "campi": {
+      "data pubblicazione": "12 aprile 2023",
+      "marca": "Perfetti Van Melle sede di Castelnuovo ¿ Castellalto (TE)",
+      "denominazione": "Chupa Chups Tubes Mini",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Perfetti Van Melle sede di Castelnuovo ¿ Castellalto (TE)",
+    "product": "Chupa Chups Tubes Mini",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Perfetti Van Melle sede di Castelnuovo ¿ Castellalto (TE) - Chupa Chups Tubes Mini",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20_2__1761194753.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "chupa-chups-tubes-mini-0",
+    "published": "2023-04-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/chupa-chups-tubes-mini-1/",
+    "title": "",
+    "noticeDate": "12 aprile 2023",
+    "campi": {
+      "data pubblicazione": "12 aprile 2023",
+      "marca": "Perfetti Van Melle S.p.A.",
+      "denominazione": "Chupa Chups Tubes Mini",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Perfetti Van Melle S.p.A.",
+    "product": "Chupa Chups Tubes Mini",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Perfetti Van Melle S.p.A. - Chupa Chups Tubes Mini",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20Revoca%20di%20RICHIAMO_1761194756.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "chupa-chups-tubes-mini-1",
+    "published": "2023-04-12",
     "source": "operator"
   },
   {
