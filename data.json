@@ -406,6 +406,526 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ostrica-concava-la-delicata-di-sardegna-0/",
+    "title": "",
+    "noticeDate": "6 maggio 2025",
+    "campi": {
+      "data pubblicazione": "6 maggio 2025",
+      "marca": "I.WAI FOOD",
+      "denominazione": "Ostrica concava \"La delicata di Sardegna\"",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "I.WAI FOOD",
+    "product": "Ostrica concava \"La delicata di Sardegna\"",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo I.WAI FOOD - Ostrica concava \"La delicata di Sardegna\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/La%20delicata%200%2C5kg%20_%20I.wai%20Food%20srl_1761207404.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ostrica-concava-la-delicata-di-sardegna-0",
+    "published": "2025-05-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ostrica-concava-di-sardegna-sandalia-0/",
+    "title": "",
+    "noticeDate": "6 maggio 2025",
+    "campi": {
+      "data pubblicazione": "6 maggio 2025",
+      "marca": "I.WAI FOOD",
+      "denominazione": "Ostrica concava di Sardegna \"Sandalia\"",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "I.WAI FOOD",
+    "product": "Ostrica concava di Sardegna \"Sandalia\"",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo I.WAI FOOD - Ostrica concava di Sardegna \"Sandalia\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Sandalia%201%20e%202kg%20_%20I.wai%20Food%20srl_1761207406.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ostrica-concava-di-sardegna-sandalia-0",
+    "published": "2025-05-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ostrica-concava-di-sardegna-shardana-3/",
+    "title": "",
+    "noticeDate": "6 maggio 2025",
+    "campi": {
+      "data pubblicazione": "6 maggio 2025",
+      "marca": "I.WAI FOOD",
+      "denominazione": "Ostrica concava di Sardegna \"Shardana\"",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "I.WAI FOOD",
+    "product": "Ostrica concava di Sardegna \"Shardana\"",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo I.WAI FOOD - Ostrica concava di Sardegna \"Shardana\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Shardana%202kg%20_%20I.wai%20food%20srl_1761207408.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ostrica-concava-di-sardegna-shardana-3",
+    "published": "2025-05-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ostrica-concava-di-sardegna-shardana-1/",
+    "title": "",
+    "noticeDate": "2 maggio 2025",
+    "campi": {
+      "data pubblicazione": "2 maggio 2025",
+      "marca": "FINITTICA S.r.l.u. IT 513 CDM UE",
+      "denominazione": "Ostrica concava di Sardegna \"shardana\"",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FINITTICA S.r.l.u. IT 513 CDM UE",
+    "product": "Ostrica concava di Sardegna \"shardana\"",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FINITTICA S.r.l.u. IT 513 CDM UE - Ostrica concava di Sardegna \"shardana\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/DOC%20RIT%20modello%20ministeriale.pdf%20_%20shardana%200%2C5_1761207399.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ostrica-concava-di-sardegna-shardana-1",
+    "published": "2025-05-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ostrica-concava-di-sardegna-shardana-2/",
+    "title": "",
+    "noticeDate": "2 maggio 2025",
+    "campi": {
+      "data pubblicazione": "2 maggio 2025",
+      "marca": "FINITTICA S.r.l.u. IT 513 CDM UE",
+      "denominazione": "Ostrica concava di Sardegna \"shardana\"",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FINITTICA S.r.l.u. IT 513 CDM UE",
+    "product": "Ostrica concava di Sardegna \"shardana\"",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FINITTICA S.r.l.u. IT 513 CDM UE - Ostrica concava di Sardegna \"shardana\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/DOC%20RIT%20modello%20ministeriale.pdf%20_%20shardana%20bennet_1761207401.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ostrica-concava-di-sardegna-shardana-2",
+    "published": "2025-05-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-intero-omogenizzato-pastorizzato-temperatura-elevata/",
+    "title": "",
+    "noticeDate": "29 aprile 2025",
+    "campi": {
+      "data pubblicazione": "29 aprile 2025",
+      "marca": "latte verona",
+      "denominazione": "latte intero omogenizzato pastorizzato a temperatura elevata",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "latte verona",
+    "product": "latte intero omogenizzato pastorizzato a temperatura elevata",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo latte verona - latte intero omogenizzato pastorizzato a temperatura elevata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelloRichiamoESLLatteVerona22.04.25_1761207376.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-intero-omogenizzato-pastorizzato-temperatura-elevata",
+    "published": "2025-04-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-intero-omogenizzato-pastorizzato-temperatura-elevata-0/",
+    "title": "",
+    "noticeDate": "29 aprile 2025",
+    "campi": {
+      "data pubblicazione": "29 aprile 2025",
+      "marca": "Latteria Soresina",
+      "denominazione": "latte intero omogenizzato pastorizzato a temperatura elevata",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Latteria Soresina",
+    "product": "latte intero omogenizzato pastorizzato a temperatura elevata",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Latteria Soresina - latte intero omogenizzato pastorizzato a temperatura elevata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelloRichiamoESLLat.Soresina22.04.25_1761207378.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-intero-omogenizzato-pastorizzato-temperatura-elevata-0",
+    "published": "2025-04-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-intero-omogeneizzato-pastorizzato-temperatura-elevata/",
+    "title": "",
+    "noticeDate": "29 aprile 2025",
+    "campi": {
+      "data pubblicazione": "29 aprile 2025",
+      "marca": "Cappuccino Lovers",
+      "denominazione": "Latte intero omogeneizzato pastorizzato a temperatura elevata",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Cappuccino Lovers",
+    "product": "Latte intero omogeneizzato pastorizzato a temperatura elevata",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cappuccino Lovers - Latte intero omogeneizzato pastorizzato a temperatura elevata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelloRichiamoESLCap.lovers22.04.25%20_1__1761207379.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-intero-omogeneizzato-pastorizzato-temperatura-elevata",
+    "published": "2025-04-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-intero-pastorizzato-temperatura-elevata/",
+    "title": "",
+    "noticeDate": "29 aprile 2025",
+    "campi": {
+      "data pubblicazione": "29 aprile 2025",
+      "marca": "Polenghi lombardo",
+      "denominazione": "latte intero pastorizzato a temperatura elevata",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Polenghi lombardo",
+    "product": "latte intero pastorizzato a temperatura elevata",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Polenghi lombardo - latte intero pastorizzato a temperatura elevata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelloRichiamoESLpolenghi22.04.25_1761207381.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-intero-pastorizzato-temperatura-elevata",
+    "published": "2025-04-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-pastorizzato-temperatura-elevata/",
+    "title": "",
+    "noticeDate": "29 aprile 2025",
+    "campi": {
+      "data pubblicazione": "29 aprile 2025",
+      "marca": "Mukki",
+      "denominazione": "Latte pastorizzato a temperatura elevata",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Mukki",
+    "product": "Latte pastorizzato a temperatura elevata",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mukki - Latte pastorizzato a temperatura elevata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelloRichiamoESLMukki22.04.25%20_1__1761207384.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-pastorizzato-temperatura-elevata",
+    "published": "2025-04-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-intero-pastorizzato-temperatura-elevata-0/",
+    "title": "",
+    "noticeDate": "29 aprile 2025",
+    "campi": {
+      "data pubblicazione": "29 aprile 2025",
+      "marca": "Giglio",
+      "denominazione": "Latte intero pastorizzato a temperatura elevata",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Giglio",
+    "product": "Latte intero pastorizzato a temperatura elevata",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Giglio - Latte intero pastorizzato a temperatura elevata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelloRichiamoESLGiglio22.04.25%20_1__1761207386.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-intero-pastorizzato-temperatura-elevata-0",
+    "published": "2025-04-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-intero-omogenizzato-pastorizzato-temperatura-elevata-1/",
+    "title": "",
+    "noticeDate": "29 aprile 2025",
+    "campi": {
+      "data pubblicazione": "29 aprile 2025",
+      "marca": "Fior di Maso",
+      "denominazione": "latte intero omogenizzato pastorizzato a temperatura elevata",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Fior di Maso",
+    "product": "latte intero omogenizzato pastorizzato a temperatura elevata",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fior di Maso - latte intero omogenizzato pastorizzato a temperatura elevata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelloRichiamoESLFiordiMaso22.04.25_1761207388.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-intero-omogenizzato-pastorizzato-temperatura-elevata-1",
+    "published": "2025-04-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-intero-omogenizzato-pastorizzato-temperatura-elevata-2/",
+    "title": "",
+    "noticeDate": "29 aprile 2025",
+    "campi": {
+      "data pubblicazione": "29 aprile 2025",
+      "marca": "Latte Verona",
+      "denominazione": "latte intero omogenizzato pastorizzato a temperatura elevata",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Latte Verona",
+    "product": "latte intero omogenizzato pastorizzato a temperatura elevata",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Latte Verona - latte intero omogenizzato pastorizzato a temperatura elevata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelloRichiamoESLLatteVerona22.04.25_1761207390.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-intero-omogenizzato-pastorizzato-temperatura-elevata-2",
+    "published": "2025-04-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-intero-omogeneizzato-pastorizzato-temperatura-elevata-0/",
+    "title": "",
+    "noticeDate": "29 aprile 2025",
+    "campi": {
+      "data pubblicazione": "29 aprile 2025",
+      "marca": "Latteria Soresina",
+      "denominazione": "latte intero omogeneizzato pastorizzato a temperatura elevata",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Latteria Soresina",
+    "product": "latte intero omogeneizzato pastorizzato a temperatura elevata",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Latteria Soresina - latte intero omogeneizzato pastorizzato a temperatura elevata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelloRichiamoESLLat.Soresina22.04.25_1761207392.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-intero-omogeneizzato-pastorizzato-temperatura-elevata-0",
+    "published": "2025-04-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-intero-omogeneizzato-pastorizzato-temperatura-elevata-1/",
+    "title": "",
+    "noticeDate": "29 aprile 2025",
+    "campi": {
+      "data pubblicazione": "29 aprile 2025",
+      "marca": "Fior di Maso",
+      "denominazione": "latte intero omogeneizzato pastorizzato a temperatura elevata",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Fior di Maso",
+    "product": "latte intero omogeneizzato pastorizzato a temperatura elevata",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fior di Maso - latte intero omogeneizzato pastorizzato a temperatura elevata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelloRichiamoESLFiordiMaso22.04.25_1761207394.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-intero-omogeneizzato-pastorizzato-temperatura-elevata-1",
+    "published": "2025-04-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-intero-omogeneizzato-pastorizzato-temperatura-elevata-2/",
+    "title": "",
+    "noticeDate": "29 aprile 2025",
+    "campi": {
+      "data pubblicazione": "29 aprile 2025",
+      "marca": "Latte Verona",
+      "denominazione": "latte intero omogeneizzato pastorizzato a temperatura elevata",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Latte Verona",
+    "product": "latte intero omogeneizzato pastorizzato a temperatura elevata",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Latte Verona - latte intero omogeneizzato pastorizzato a temperatura elevata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelloRichiamoESLLatteVerona22.04.25_1761207396.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latte-intero-omogeneizzato-pastorizzato-temperatura-elevata-2",
+    "published": "2025-04-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-stagionato-1/",
+    "title": "",
+    "noticeDate": "28 aprile 2025",
+    "campi": {
+      "data pubblicazione": "28 aprile 2025",
+      "marca": "SALAME RAVANETTI",
+      "denominazione": "SALAME STAGIONATO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "SALAME RAVANETTI",
+    "product": "SALAME STAGIONATO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALAME RAVANETTI - SALAME STAGIONATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1761207374.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salame-stagionato-1",
+    "published": "2025-04-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-tonno-al-naturale-conad-vaso-vetro-200g/",
+    "title": "",
+    "noticeDate": "24 aprile 2025",
+    "campi": {
+      "data pubblicazione": "24 aprile 2025",
+      "marca": "CONAD",
+      "denominazione": "Filetti di tonno al naturale Conad vaso vetro 200g",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "CONAD",
+    "product": "Filetti di tonno al naturale Conad vaso vetro 200g",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONAD - Filetti di tonno al naturale Conad vaso vetro 200g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Filetti%20di%20Tonno%20al%20naturale%20CONAD%20gr%20200_1761207372.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filetti-di-tonno-al-naturale-conad-vaso-vetro-200g",
+    "published": "2025-04-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olive-nere-al-forno-dilecce/",
+    "title": "",
+    "noticeDate": "23 aprile 2025",
+    "campi": {
+      "data pubblicazione": "23 aprile 2025",
+      "marca": "DILECCE",
+      "denominazione": "OLIVE NERE AL FORNO DILECCE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "DILECCE",
+    "product": "OLIVE NERE AL FORNO DILECCE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DILECCE - OLIVE NERE AL FORNO DILECCE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/AVVISOALLACLIENTELADILECCEOLIVEALFORNO_1761207369.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "olive-nere-al-forno-dilecce",
+    "published": "2025-04-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uovo-di-cioccolato-extra-fondente-con-caramello-salato/",
+    "title": "",
+    "noticeDate": "23 aprile 2025",
+    "campi": {
+      "data pubblicazione": "23 aprile 2025",
+      "marca": "Dulcioliva Srl",
+      "denominazione": "Uovo di cioccolato extra fondente con caramello salato",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Dulcioliva Srl",
+    "product": "Uovo di cioccolato extra fondente con caramello salato",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Dulcioliva Srl - Uovo di cioccolato extra fondente con caramello salato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/uovo%20extra%20fondente_CartelloRichiamo_1761207370.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uovo-di-cioccolato-extra-fondente-con-caramello-salato",
+    "published": "2025-04-23",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/schiacciatella-gusto-pizza/",
     "title": "",
     "noticeDate": "20 aprile 2025",
