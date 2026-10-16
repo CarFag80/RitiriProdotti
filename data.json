@@ -201,6 +201,110 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-monte-veronese-dop/",
+    "title": "",
+    "noticeDate": "12 luglio 2024",
+    "campi": {
+      "data pubblicazione": "12 luglio 2024",
+      "marca": "ITALIAMO",
+      "denominazione": "FORMAGGIO MONTE VERONESE DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ITALIAMO",
+    "product": "FORMAGGIO MONTE VERONESE DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ITALIAMO - FORMAGGIO MONTE VERONESE DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Latterie%20venete_1761204486.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-monte-veronese-dop",
+    "published": "2024-07-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-monteveronese-latte-intero-dop-14-atm/",
+    "title": "",
+    "noticeDate": "12 luglio 2024",
+    "campi": {
+      "data pubblicazione": "12 luglio 2024",
+      "marca": "05 100",
+      "denominazione": "FORMAGGIO MONTEVERONESE LATTE INTERO DOP 1/4 ATM",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "05 100",
+    "product": "FORMAGGIO MONTEVERONESE LATTE INTERO DOP 1/4 ATM",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo 05 100 - FORMAGGIO MONTEVERONESE LATTE INTERO DOP 1/4 ATM",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20MONTE%20VERONESE%20QUARTI%20ATM_1761204493.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-monteveronese-latte-intero-dop-14-atm",
+    "published": "2024-07-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-monte-veronese-latte-intero-dop-12-atm/",
+    "title": "",
+    "noticeDate": "12 luglio 2024",
+    "campi": {
+      "data pubblicazione": "12 luglio 2024",
+      "marca": "05 100",
+      "denominazione": "FORMAGGIO MONTE VERONESE LATTE INTERO DOP 1/2 ATM",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "05 100",
+    "product": "FORMAGGIO MONTE VERONESE LATTE INTERO DOP 1/2 ATM",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo 05 100 - FORMAGGIO MONTE VERONESE LATTE INTERO DOP 1/2 ATM",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20MONTE%20VERONESE%20MEZZA%20FORMA%20ATM_1761204500.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-monte-veronese-latte-intero-dop-12-atm",
+    "published": "2024-07-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tartare-carne-di-scottona-bovino-adulto/",
+    "title": "",
+    "noticeDate": "11 luglio 2024",
+    "campi": {
+      "data pubblicazione": "11 luglio 2024",
+      "marca": "LIDL",
+      "denominazione": "TARTARE ¿ CARNE DI SCOTTONA ¿ BOVINO ADULTO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LIDL",
+    "product": "TARTARE ¿ CARNE DI SCOTTONA ¿ BOVINO ADULTO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LIDL - TARTARE ¿ CARNE DI SCOTTONA ¿ BOVINO ADULTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_1761204479.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tartare-carne-di-scottona-bovino-adulto",
+    "published": "2024-07-11",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/bustine-monodose-di-te-ala-green-tea-meridetox-tea-premium/",
     "title": "Bustine monodose di tè Ala green tea",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-presenza-di-sibutramina-bustine-di-te/",
@@ -230,6 +334,32 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hot-snack-bbq/",
+    "title": "",
+    "noticeDate": "8 luglio 2024",
+    "campi": {
+      "data pubblicazione": "8 luglio 2024",
+      "marca": "HOT SNACK BBQ",
+      "denominazione": "HOT SNACK BBQ",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "HOT SNACK BBQ",
+    "product": "HOT SNACK BBQ",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo HOT SNACK BBQ - HOT SNACK BBQ",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20A4_1761204472.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "hot-snack-bbq",
+    "published": "2024-07-08",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/n-123-denominazioni-di-vendita-vedi-allegato/",
     "title": "",
     "noticeDate": "5 luglio 2024",
@@ -252,6 +382,58 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "n-123-denominazioni-di-vendita-vedi-allegato",
+    "published": "2024-07-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamini-italiani-alla-cacciatora-dop/",
+    "title": "",
+    "noticeDate": "5 luglio 2024",
+    "campi": {
+      "data pubblicazione": "5 luglio 2024",
+      "marca": "Viaggio nel gusto",
+      "denominazione": "Salamini Italiani alla Cacciatora DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Viaggio nel gusto",
+    "product": "Salamini Italiani alla Cacciatora DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Viaggio nel gusto - Salamini Italiani alla Cacciatora DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20Beretta_1761204459.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salamini-italiani-alla-cacciatora-dop",
+    "published": "2024-07-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trance-di-pesce-spada-2/",
+    "title": "",
+    "noticeDate": "5 luglio 2024",
+    "campi": {
+      "data pubblicazione": "5 luglio 2024",
+      "marca": "DIMAR",
+      "denominazione": "trance di pesce spada",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DIMAR",
+    "product": "trance di pesce spada",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DIMAR - trance di pesce spada",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamo1_1761204465.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "trance-di-pesce-spada-2",
     "published": "2024-07-05",
     "source": "operator"
   },
@@ -1635,6 +1817,344 @@
     "id": "bustine-monodose-di-te-meridetox-tea-premium",
     "published": "2024-04-30",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuore-di-mandorla-e-arancia-lotto-f0401-f0219-1500g-naturalia/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "NATURALIA",
+      "denominazione": "CUORE DI MANDORLA E ARANCIA - LOTTO F0401, F0219 1500G NATURALIA",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "NATURALIA",
+    "product": "CUORE DI MANDORLA E ARANCIA - LOTTO F0401, F0219 1500G NATURALIA",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NATURALIA - CUORE DI MANDORLA E ARANCIA - LOTTO F0401, F0219 1500G NATURALIA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CUORI%20DI%20MANDORLA%20E%20ARANCIA%201500G%20F0401%20F0219%20NATURALIA_1761201378.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cuore-di-mandorla-e-arancia-lotto-f0401-f0219-1500g-naturalia",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuore-di-mandorla-e-cacao-lotto-f0401-1500g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "NATURALIA",
+      "denominazione": "CUORE DI MANDORLA E CACAO - LOTTO F0401 1500G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "NATURALIA",
+    "product": "CUORE DI MANDORLA E CACAO - LOTTO F0401 1500G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NATURALIA - CUORE DI MANDORLA E CACAO - LOTTO F0401 1500G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CUORI%20DI%20MANDORLA%20E%20CACAO%201500G%20F0401%20NATURALIA_1761201385.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cuore-di-mandorla-e-cacao-lotto-f0401-1500g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuore-di-mandorla-e-fico-lotto-f0401-1500g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "NATURALIA",
+      "denominazione": "CUORE DI MANDORLA E FICO - LOTTO F0401 1500G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "NATURALIA",
+    "product": "CUORE DI MANDORLA E FICO - LOTTO F0401 1500G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NATURALIA - CUORE DI MANDORLA E FICO - LOTTO F0401 1500G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CUORI%20DI%20MANDORLA%20E%20FICO%201500G%20F0401%20NATURALIA_1761201393.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cuore-di-mandorla-e-fico-lotto-f0401-1500g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuore-di-mandorla-e-limone-lotto-f0401-f0219-1500g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "NATURALIA",
+      "denominazione": "CUORE DI MANDORLA E LIMONE - LOTTO F0401, F0219 1500G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "NATURALIA",
+    "product": "CUORE DI MANDORLA E LIMONE - LOTTO F0401, F0219 1500G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NATURALIA - CUORE DI MANDORLA E LIMONE - LOTTO F0401, F0219 1500G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CUORI%20DI%20MANDORLA%20E%20LIMONE%201500G%20F0401%20F0219%20NATURALIA_1761201401.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cuore-di-mandorla-e-limone-lotto-f0401-f0219-1500g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuore-di-mandorla-e-mela-lotto-f0401-1500g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "NATURALIA",
+      "denominazione": "CUORE DI MANDORLA E MELA - LOTTO F0401 1500G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "NATURALIA",
+    "product": "CUORE DI MANDORLA E MELA - LOTTO F0401 1500G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NATURALIA - CUORE DI MANDORLA E MELA - LOTTO F0401 1500G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CUORI%20DI%20MANDORLA%20E%20MELA%201500G%20F0401%20NATURALIA_1761201408.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cuore-di-mandorla-e-mela-lotto-f0401-1500g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuore-di-mandorla-e-pistacchio-lotto-f0401-1500g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "NATURALIA",
+      "denominazione": "CUORE DI MANDORLA E PISTACCHIO - LOTTO F0401 1500G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "NATURALIA",
+    "product": "CUORE DI MANDORLA E PISTACCHIO - LOTTO F0401 1500G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NATURALIA - CUORE DI MANDORLA E PISTACCHIO - LOTTO F0401 1500G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CUORI%20DI%20MANDORLA%20E%20PISTACCHIO%201500G%20F0401%20NATURALIA_1761201415.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cuore-di-mandorla-e-pistacchio-lotto-f0401-1500g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/dessert-di-mandorlati-assortiti-lotto-a0311-200g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "FIMARDOLCI SRL",
+      "denominazione": "DESSERT DI MANDORLATI ASSORTITI - LOTTO A0311 200G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "FIMARDOLCI SRL",
+    "product": "DESSERT DI MANDORLATI ASSORTITI - LOTTO A0311 200G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIMARDOLCI SRL - DESSERT DI MANDORLATI ASSORTITI - LOTTO A0311 200G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/DESSERT%20DI%20MANDORLATI%20ASSORTITI%20200G%20A0311_1761201422.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "dessert-di-mandorlati-assortiti-lotto-a0311-200g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mandorlati-assortiti-lotto-j0226-500g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "JADORE",
+      "denominazione": "MANDORLATI ASSORTITI - LOTTO J0226 500G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "JADORE",
+    "product": "MANDORLATI ASSORTITI - LOTTO J0226 500G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo JADORE - MANDORLATI ASSORTITI - LOTTO J0226 500G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MANDORLATI%20ASSORTITI%20%20500G%20JADORE%20J0226_1761202715.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mandorlati-assortiti-lotto-j0226-500g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mini-cuore-di-mandorla-lotto-f0219-75g-naturalia/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "NATURALIA",
+      "denominazione": "MINI CUORE DI MANDORLA - LOTTO F0219 75G NATURALIA",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "NATURALIA",
+    "product": "MINI CUORE DI MANDORLA - LOTTO F0219 75G NATURALIA",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NATURALIA - MINI CUORE DI MANDORLA - LOTTO F0219 75G NATURALIA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MINI%20CUORE%20DI%20MANDORLA%2075G%20F0219%20NATURALIA_1761202721.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mini-cuore-di-mandorla-lotto-f0219-75g-naturalia",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/petit-fleur-lotto-a0311-a0318-200g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "FIMARDOLCI SRL",
+      "denominazione": "PETIT FLEUR - LOTTO A0311, A0318 200G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "FIMARDOLCI SRL",
+    "product": "PETIT FLEUR - LOTTO A0311, A0318 200G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIMARDOLCI SRL - PETIT FLEUR - LOTTO A0311, A0318 200G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PETIT%20FLEUR%20200G%20A0311%20A0318_1761202726.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "petit-fleur-lotto-a0311-a0318-200g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/petit-fleur-rossi-lotto-t0219-180g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "TREVISAN",
+      "denominazione": "PETIT FLEUR ROSSI - LOTTO T0219 180G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "TREVISAN",
+    "product": "PETIT FLEUR ROSSI - LOTTO T0219 180G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TREVISAN - PETIT FLEUR ROSSI - LOTTO T0219 180G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PETIT%20FLEUR%20ROSSI%20180G%20T0219_1761202731.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "petit-fleur-rossi-lotto-t0219-180g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pizzicotti-lotto-a0325-200g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "FIMARDOLCI SRL",
+      "denominazione": "PIZZICOTTI - LOTTO A0325 200G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "FIMARDOLCI SRL",
+    "product": "PIZZICOTTI - LOTTO A0325 200G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIMARDOLCI SRL - PIZZICOTTI - LOTTO A0325 200G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PIZZICOTTI%20200G%20A0325_1761202736.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pizzicotti-lotto-a0325-200g",
+    "published": "2024-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ricciarelli-lotto-a0325-a0408-200g/",
+    "title": "",
+    "noticeDate": "22 aprile 2024",
+    "campi": {
+      "data pubblicazione": "22 aprile 2024",
+      "marca": "FIMARDOLCI SRL",
+      "denominazione": "RICCIARELLI - LOTTO A0325, A0408 200G",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "FIMARDOLCI SRL",
+    "product": "RICCIARELLI - LOTTO A0325, A0408 200G",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIMARDOLCI SRL - RICCIARELLI - LOTTO A0325, A0408 200G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICCIARELLI%20200G%20A0325%20A0408_1761202742.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ricciarelli-lotto-a0325-a0408-200g",
+    "published": "2024-04-22",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cacao-polvere-250g/",
