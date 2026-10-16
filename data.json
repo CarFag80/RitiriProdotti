@@ -4532,6 +4532,84 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/canestrato-di-toto/",
+    "title": "",
+    "noticeDate": "30 giugno 2023",
+    "campi": {
+      "data pubblicazione": "30 giugno 2023",
+      "marca": "C.P.F. SOC. COOP. PRODUTTORI FORMAGGI",
+      "denominazione": "CANESTRATO DI TOTO'",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "C.P.F. SOC. COOP. PRODUTTORI FORMAGGI",
+    "product": "CANESTRATO DI TOTO'",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo C.P.F. SOC. COOP. PRODUTTORI FORMAGGI - CANESTRATO DI TOTO'",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20CANESTRATO%20DI%20TOTO_06042023_1761196730.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "canestrato-di-toto",
+    "published": "2023-06-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-bologna-igp/",
+    "title": "",
+    "noticeDate": "29 giugno 2023",
+    "campi": {
+      "data pubblicazione": "29 giugno 2023",
+      "marca": "CONAD",
+      "denominazione": "MORTADELLA BOLOGNA IGP",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "CONAD",
+    "product": "MORTADELLA BOLOGNA IGP",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONAD - MORTADELLA BOLOGNA IGP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20modello%20richiamo%20Mortadella%20Lotto%2026321049_1_1764239699.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mortadella-bologna-igp",
+    "published": "2023-06-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-mais-polenta-istantanea/",
+    "title": "",
+    "noticeDate": "28 giugno 2023",
+    "campi": {
+      "data pubblicazione": "28 giugno 2023",
+      "marca": "MOLINO RIVA",
+      "denominazione": "Farina di mais per polenta istantanea",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MOLINO RIVA",
+    "product": "Farina di mais per polenta istantanea",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MOLINO RIVA - Farina di mais per polenta istantanea",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo_Farina%20di%20Mais%20per%20polenta%20istantanea_%20Molino%20Riva_1761196725.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "farina-di-mais-polenta-istantanea",
+    "published": "2023-06-28",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fagioli-allocchio-nero-5-kg/",
     "title": "",
     "noticeDate": "23 giugno 2023",
@@ -4684,6 +4762,110 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "12-teapot-tehierecrome-royal-suiss",
+    "published": "2023-06-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-lino-scuri-biologici-1/",
+    "title": "",
+    "noticeDate": "23 giugno 2023",
+    "campi": {
+      "data pubblicazione": "23 giugno 2023",
+      "marca": "PENSA BIO",
+      "denominazione": "Semi di lino scuri biologici",
+      "motivo della segnalazione": "Revoca per analisi di revisione favorevole"
+    },
+    "brand": "PENSA BIO",
+    "product": "Semi di lino scuri biologici",
+    "reasonShort": "Revoca per analisi di revisione favorevole",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PENSA BIO - Semi di lino scuri biologici",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_REVOCA_di_richiamo_di_prodotto_commercializzato%20SEMI%20LINO%20SCURI%20BIO%20Purezza%20Bio_1761196717.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-lino-scuri-biologici-1",
+    "published": "2023-06-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-lino-scuri-biologici-2/",
+    "title": "",
+    "noticeDate": "23 giugno 2023",
+    "campi": {
+      "data pubblicazione": "23 giugno 2023",
+      "marca": "PENSA BIO",
+      "denominazione": "Semi di lino scuri biologici",
+      "motivo della segnalazione": "Revoca per analisi di revisione favorevole"
+    },
+    "brand": "PENSA BIO",
+    "product": "Semi di lino scuri biologici",
+    "reasonShort": "Revoca per analisi di revisione favorevole",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PENSA BIO - Semi di lino scuri biologici",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_REVOCA_di_richiamo_di_prodotto_commercializzato%20SEMI%20LINO%20SCURI%20BIO%20Pensa%20Bio_1761196719.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-lino-scuri-biologici-2",
+    "published": "2023-06-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-lino-scuri-biologici-3/",
+    "title": "",
+    "noticeDate": "23 giugno 2023",
+    "campi": {
+      "data pubblicazione": "23 giugno 2023",
+      "marca": "PUREZZA BIO",
+      "denominazione": "Semi di lino scuri biologici",
+      "motivo della segnalazione": "Revoca per analisi di revisione favorevole"
+    },
+    "brand": "PUREZZA BIO",
+    "product": "Semi di lino scuri biologici",
+    "reasonShort": "Revoca per analisi di revisione favorevole",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PUREZZA BIO - Semi di lino scuri biologici",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_REVOCA_di_richiamo_di_prodotto_commercializzato%20SEMI%20LINO%20SCURI%20BIO%20Purezza%20Bio_1761196721.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-lino-scuri-biologici-3",
+    "published": "2023-06-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-semi-tostati-biologici-3/",
+    "title": "",
+    "noticeDate": "23 giugno 2023",
+    "campi": {
+      "data pubblicazione": "23 giugno 2023",
+      "marca": "PUREZZA BIO",
+      "denominazione": "Mix semi tostati biologici",
+      "motivo della segnalazione": "Revoca per analisi di revisione favorevole"
+    },
+    "brand": "PUREZZA BIO",
+    "product": "Mix semi tostati biologici",
+    "reasonShort": "Revoca per analisi di revisione favorevole",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PUREZZA BIO - Mix semi tostati biologici",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_REVOCA_di_richiamo_di_prodotto_commercializzato%20MIX%20SEMI%20TOSTATI%20BIO%20Purezza%20Bio_1761196723.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mix-semi-tostati-biologici-3",
     "published": "2023-06-23",
     "source": "operator"
   },
@@ -5437,6 +5619,344 @@
     "id": "integratore-alimentare-epimen-plus",
     "published": "2023-05-24",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tomino-del-boscaiolo/",
+    "title": "",
+    "noticeDate": "24 aprile 2023",
+    "campi": {
+      "data pubblicazione": "24 aprile 2023",
+      "marca": "TERRE D'ITALIA",
+      "denominazione": "TOMINO DEL BOSCAIOLO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "TERRE D'ITALIA",
+    "product": "TOMINO DEL BOSCAIOLO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TERRE D'ITALIA - TOMINO DEL BOSCAIOLO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/44%20cartello%20RICHIAMO%20TOMINO%20DEL%20BOSCAIOLO%20TDI_1761194812.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tomino-del-boscaiolo",
+    "published": "2023-04-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-pasta-molle-con-crosta-edibile-leggermente-muffettata-0/",
+    "title": "",
+    "noticeDate": "24 aprile 2023",
+    "campi": {
+      "data pubblicazione": "24 aprile 2023",
+      "marca": "TOMINO DEL CANAVESE NONNO CASARO",
+      "denominazione": "FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "TOMINO DEL CANAVESE NONNO CASARO",
+    "product": "FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TOMINO DEL CANAVESE NONNO CASARO - FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Ministero%20PRIX%20nonno%20casaro_1761194816.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-pasta-molle-con-crosta-edibile-leggermente-muffettata-0",
+    "published": "2023-04-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-pasta-molle-con-crosta-edibile-leggermente-muffettata-1/",
+    "title": "",
+    "noticeDate": "24 aprile 2023",
+    "campi": {
+      "data pubblicazione": "24 aprile 2023",
+      "marca": "CASEIFICIO LONGO",
+      "denominazione": "FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CASEIFICIO LONGO",
+    "product": "FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASEIFICIO LONGO - FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20COMPILATO%20540%20g%20vaschetta%20e%20film%20anonimo_1761194819.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-pasta-molle-con-crosta-edibile-leggermente-muffettata-1",
+    "published": "2023-04-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-pasta-molle-con-crosta-edibile-leggermente-muffettata-2/",
+    "title": "",
+    "noticeDate": "24 aprile 2023",
+    "campi": {
+      "data pubblicazione": "24 aprile 2023",
+      "marca": "CASEIFICIO LONGO",
+      "denominazione": "FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CASEIFICIO LONGO",
+    "product": "FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASEIFICIO LONGO - FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20COMPILATO%201%20kg%20foglie%20marroni_1761194823.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-pasta-molle-con-crosta-edibile-leggermente-muffettata-2",
+    "published": "2023-04-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/integratore-vitadoron-lotto-j011/",
+    "title": "",
+    "noticeDate": "21 aprile 2023",
+    "campi": {
+      "data pubblicazione": "21 aprile 2023",
+      "marca": "Weleda",
+      "denominazione": "integratore Vitadoron - lotto J011",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Weleda",
+    "product": "integratore Vitadoron - lotto J011",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Weleda - integratore Vitadoron - lotto J011",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20VITADORON%20WELEDA_J011_1761194799.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "integratore-vitadoron-lotto-j011",
+    "published": "2023-04-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/integratore-vitadoron-lotto-j021/",
+    "title": "",
+    "noticeDate": "21 aprile 2023",
+    "campi": {
+      "data pubblicazione": "21 aprile 2023",
+      "marca": "Weleda",
+      "denominazione": "Integratore Vitadoron - lotto J021",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Weleda",
+    "product": "Integratore Vitadoron - lotto J021",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Weleda - Integratore Vitadoron - lotto J021",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20VITADORON%20WELEDA_J021_1761194803.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "integratore-vitadoron-lotto-j021",
+    "published": "2023-04-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/integratore-vitadoron-lotto-j061/",
+    "title": "",
+    "noticeDate": "21 aprile 2023",
+    "campi": {
+      "data pubblicazione": "21 aprile 2023",
+      "marca": "Weleda",
+      "denominazione": "Integratore Vitadoron - lotto J061",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Weleda",
+    "product": "Integratore Vitadoron - lotto J061",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Weleda - Integratore Vitadoron - lotto J061",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20VITADORON%20WELEDA_J061_1761194806.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "integratore-vitadoron-lotto-j061",
+    "published": "2023-04-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/integratore-vitadoron-lotto-j085/",
+    "title": "",
+    "noticeDate": "21 aprile 2023",
+    "campi": {
+      "data pubblicazione": "21 aprile 2023",
+      "marca": "Weleda",
+      "denominazione": "Integratore Vitadoron - lotto J085",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Weleda",
+    "product": "Integratore Vitadoron - lotto J085",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Weleda - Integratore Vitadoron - lotto J085",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20VITADORON%20WELEDA_J085_1761194809.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "integratore-vitadoron-lotto-j085",
+    "published": "2023-04-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-baguette/",
+    "title": "",
+    "noticeDate": "19 aprile 2023",
+    "campi": {
+      "data pubblicazione": "19 aprile 2023",
+      "marca": "SALUMIFICIO COLOMBO LUIGI SRL",
+      "denominazione": "SALAME BAGUETTE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO COLOMBO LUIGI SRL",
+    "product": "SALAME BAGUETTE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO COLOMBO LUIGI SRL - SALAME BAGUETTE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/721408_Cartello%20Richiamo_1761194785.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-baguette",
+    "published": "2023-04-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-baguette-0/",
+    "title": "",
+    "noticeDate": "19 aprile 2023",
+    "campi": {
+      "data pubblicazione": "19 aprile 2023",
+      "marca": "SALUMIFICIO COLOMBO LUIGI SRL",
+      "denominazione": "SALAME BAGUETTE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO COLOMBO LUIGI SRL",
+    "product": "SALAME BAGUETTE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO COLOMBO LUIGI SRL - SALAME BAGUETTE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20SALUMIFICIO%20COLOMBO%2017%2004%202023_1761194788.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-baguette-0",
+    "published": "2023-04-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/primia-acqua-naturale-primia-acqua-frizzante/",
+    "title": "",
+    "noticeDate": "19 aprile 2023",
+    "campi": {
+      "data pubblicazione": "19 aprile 2023",
+      "marca": "PRIMIA",
+      "denominazione": "PRIMIA Acqua Naturale - PRIMIA Acqua frizzante",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "PRIMIA",
+    "product": "PRIMIA Acqua Naturale - PRIMIA Acqua frizzante",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PRIMIA - PRIMIA Acqua Naturale - PRIMIA Acqua frizzante",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Piano%20della%20Mussa%201_1761194792.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "primia-acqua-naturale-primia-acqua-frizzante",
+    "published": "2023-04-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-pasta-molle-con-crosta-edibile-leggermente-muffettata/",
+    "title": "",
+    "noticeDate": "18 aprile 2023",
+    "campi": {
+      "data pubblicazione": "18 aprile 2023",
+      "marca": "TOMINO DEL CANAVESE NONNO CASARO",
+      "denominazione": "FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "TOMINO DEL CANAVESE NONNO CASARO",
+    "product": "FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TOMINO DEL CANAVESE NONNO CASARO - FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Tomino%20del%20Canavese%20nonno%20casaro_1761194782.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-pasta-molle-con-crosta-edibile-leggermente-muffettata",
+    "published": "2023-04-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-creme-caramel-0/",
+    "title": "",
+    "noticeDate": "17 aprile 2023",
+    "campi": {
+      "data pubblicazione": "17 aprile 2023",
+      "marca": "Belbake",
+      "denominazione": "Preparato per Creme Caramel",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Belbake",
+    "product": "Preparato per Creme Caramel",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Belbake - Preparato per Creme Caramel",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20_%20MODELLO_DI_RICHIAMO%20NI%20099_23_1%20_1_%20_002__1761194775.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-creme-caramel-0",
+    "published": "2023-04-17",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-di-equino-oro-100g/",
