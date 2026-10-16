@@ -6921,6 +6921,474 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-campagnolo-da-gr400/",
+    "title": "",
+    "noticeDate": "29 marzo 2023",
+    "campi": {
+      "data pubblicazione": "29 marzo 2023",
+      "marca": "GABBA SALUMI",
+      "denominazione": "SALAME CAMPAGNOLO DA GR.400",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "GABBA SALUMI",
+    "product": "SALAME CAMPAGNOLO DA GR.400",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GABBA SALUMI - SALAME CAMPAGNOLO DA GR.400",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_GABBA_1761194702.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-campagnolo-da-gr400",
+    "published": "2023-03-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/chrysanthellum-americanum/",
+    "title": "",
+    "noticeDate": "29 marzo 2023",
+    "campi": {
+      "data pubblicazione": "29 marzo 2023",
+      "marca": "PhytoItalia",
+      "denominazione": "Chrysanthellum americanum",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "PhytoItalia",
+    "product": "Chrysanthellum americanum",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PhytoItalia - Chrysanthellum americanum",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Chrysanthellum%20Amaricanum_1761194703.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "chrysanthellum-americanum",
+    "published": "2023-03-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-di-cavallo-100g/",
+    "title": "",
+    "noticeDate": "28 marzo 2023",
+    "campi": {
+      "data pubblicazione": "28 marzo 2023",
+      "marca": "Bernardini Gastone",
+      "denominazione": "Sfilaccio di cavallo 100g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Bernardini Gastone",
+    "product": "Sfilaccio di cavallo 100g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bernardini Gastone - Sfilaccio di cavallo 100g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20RICHIAMO%20SFILACCI%20CANCELLONI%20BERNARDINI%20100%20g%20%20_2__1761194698.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-di-cavallo-100g",
+    "published": "2023-03-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-equino-0/",
+    "title": "",
+    "noticeDate": "28 marzo 2023",
+    "campi": {
+      "data pubblicazione": "28 marzo 2023",
+      "marca": "anonimo solo dicitura di legge",
+      "denominazione": "Sfilaccio equino",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "anonimo solo dicitura di legge",
+    "product": "Sfilaccio equino",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo anonimo solo dicitura di legge - Sfilaccio equino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20sfilaccio%20400g%20anonimo%20no%20commerciale%20per%20Selecta%20spa%20_1__1761194699.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-equino-0",
+    "published": "2023-03-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-di-cavallo-100g-0/",
+    "title": "",
+    "noticeDate": "28 marzo 2023",
+    "campi": {
+      "data pubblicazione": "28 marzo 2023",
+      "marca": "Buoni sapori",
+      "denominazione": "Sfilaccio di cavallo 100g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Buoni sapori",
+    "product": "Sfilaccio di cavallo 100g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Buoni sapori - Sfilaccio di cavallo 100g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20RICHIAMO%20SFILACCI%20VALSANA%20BUONI%20SAPORI%20100g%20_1__1761194700.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-di-cavallo-100g-0",
+    "published": "2023-03-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-di-equino-100g-0/",
+    "title": "",
+    "noticeDate": "27 marzo 2023",
+    "campi": {
+      "data pubblicazione": "27 marzo 2023",
+      "marca": "Coppiello Giovanni Srl",
+      "denominazione": "Sfilaccio di equino 100g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Coppiello Giovanni Srl",
+    "product": "Sfilaccio di equino 100g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coppiello Giovanni Srl - Sfilaccio di equino 100g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Sfilacci%20di%20equino_Coppiello%20Giovanni%20Srl_1761194695.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-di-equino-100g-0",
+    "published": "2023-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/specialita-integrale-di-farro-da-agricoltura-biologica/",
+    "title": "",
+    "noticeDate": "27 marzo 2023",
+    "campi": {
+      "data pubblicazione": "27 marzo 2023",
+      "marca": "LUZI",
+      "denominazione": "SPECIALITA' INTEGRALE DI FARRO DA AGRICOLTURA BIOLOGICA",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "LUZI",
+    "product": "SPECIALITA' INTEGRALE DI FARRO DA AGRICOLTURA BIOLOGICA",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LUZI - SPECIALITA' INTEGRALE DI FARRO DA AGRICOLTURA BIOLOGICA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%202%20_%20modulo%20richiamo_1761194696.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "specialita-integrale-di-farro-da-agricoltura-biologica",
+    "published": "2023-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-equino/",
+    "title": "",
+    "noticeDate": "24 marzo 2023",
+    "campi": {
+      "data pubblicazione": "24 marzo 2023",
+      "marca": "Coppiello Giovanni srl",
+      "denominazione": "sfilaccio equino",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Coppiello Giovanni srl",
+    "product": "sfilaccio equino",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coppiello Giovanni srl - sfilaccio equino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cadoro%20sfilaccio%20equino%20100g_1761194693.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-equino",
+    "published": "2023-03-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-bovino/",
+    "title": "",
+    "noticeDate": "24 marzo 2023",
+    "campi": {
+      "data pubblicazione": "24 marzo 2023",
+      "marca": "Coppiello Giovanni srl",
+      "denominazione": "sfilaccio bovino",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Coppiello Giovanni srl",
+    "product": "sfilaccio bovino",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coppiello Giovanni srl - sfilaccio bovino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cadoro%20sfilaccio%20bovino%20100g_1761194694.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-bovino",
+    "published": "2023-03-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tramezzino-focazzino-texano-80g/",
+    "title": "",
+    "noticeDate": "23 marzo 2023",
+    "campi": {
+      "data pubblicazione": "23 marzo 2023",
+      "marca": "PANINOCHEF",
+      "denominazione": "Tramezzino FOCAZZINO \"TEXANO\" 80G",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "PANINOCHEF",
+    "product": "Tramezzino FOCAZZINO \"TEXANO\" 80G",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PANINOCHEF - Tramezzino FOCAZZINO \"TEXANO\" 80G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_RICHIAMO%20PRODOTTO%20FOCAZZ.%20TEXANO%20BERTOLINI%20GROUP%20_2__1761194690.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tramezzino-focazzino-texano-80g",
+    "published": "2023-03-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tramezzino-tramezzino-texano-80g-e-160g/",
+    "title": "",
+    "noticeDate": "23 marzo 2023",
+    "campi": {
+      "data pubblicazione": "23 marzo 2023",
+      "marca": "PANINOCHEF",
+      "denominazione": "Tramezzino TRAMEZZINO \"TEXANO\" 80G E 160G",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "PANINOCHEF",
+    "product": "Tramezzino TRAMEZZINO \"TEXANO\" 80G E 160G",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PANINOCHEF - Tramezzino TRAMEZZINO \"TEXANO\" 80G E 160G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_18_RICHIAMO%20PRODOTTO%20TRAMEZ.%20VENEZIANO%20TEXANO%20BERTOLINI%20GROUP%20_1__1761194691.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tramezzino-tramezzino-texano-80g-e-160g",
+    "published": "2023-03-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-di-manzo/",
+    "title": "",
+    "noticeDate": "22 marzo 2023",
+    "campi": {
+      "data pubblicazione": "22 marzo 2023",
+      "marca": "coppiello giovanni srl",
+      "denominazione": "sfilaccio di manzo",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "coppiello giovanni srl",
+    "product": "sfilaccio di manzo",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo coppiello giovanni srl - sfilaccio di manzo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20sfilacci%20di%20bovino%20100%20g%20marchio%20Rossato_1761194110.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-di-manzo",
+    "published": "2023-03-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-di-equino/",
+    "title": "",
+    "noticeDate": "22 marzo 2023",
+    "campi": {
+      "data pubblicazione": "22 marzo 2023",
+      "marca": "coppiello giovanni srl",
+      "denominazione": "sfilaccio di equino",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "coppiello giovanni srl",
+    "product": "sfilaccio di equino",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo coppiello giovanni srl - sfilaccio di equino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20sfilacci%20di%20equino%20100%20g%20marchio%20Brunello_1761194115.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-di-equino",
+    "published": "2023-03-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-equino-top-selection/",
+    "title": "",
+    "noticeDate": "22 marzo 2023",
+    "campi": {
+      "data pubblicazione": "22 marzo 2023",
+      "marca": "coppiello giovanni srl",
+      "denominazione": "sfilaccio equino top selection",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "coppiello giovanni srl",
+    "product": "sfilaccio equino top selection",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo coppiello giovanni srl - sfilaccio equino top selection",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20sfilacci%20di%20equino%20TOP%20100%20g%20marchio%20Brunello_1761194688.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-equino-top-selection",
+    "published": "2023-03-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-di-equino-0/",
+    "title": "",
+    "noticeDate": "22 marzo 2023",
+    "campi": {
+      "data pubblicazione": "22 marzo 2023",
+      "marca": "coppiello giovanni srl",
+      "denominazione": "sfilaccio di equino",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "coppiello giovanni srl",
+    "product": "sfilaccio di equino",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo coppiello giovanni srl - sfilaccio di equino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20sfilacci%20di%20equino%20100%20g%20marchio%20Rossato_1761194689.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-di-equino-0",
+    "published": "2023-03-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crisantello/",
+    "title": "",
+    "noticeDate": "21 marzo 2023",
+    "campi": {
+      "data pubblicazione": "21 marzo 2023",
+      "marca": "ARCANGEA",
+      "denominazione": "CRISANTELLO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ARCANGEA",
+    "product": "CRISANTELLO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ARCANGEA - CRISANTELLO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20Richiamo%20F016C%20Crisantello%2060%20OPR%20da%20500%20MG_1761194105.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crisantello",
+    "published": "2023-03-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-di-bovino-80g-atm/",
+    "title": "",
+    "noticeDate": "18 marzo 2023",
+    "campi": {
+      "data pubblicazione": "18 marzo 2023",
+      "marca": "freschissimi",
+      "denominazione": "sfilaccio di bovino 80g atm",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "freschissimi",
+    "product": "sfilaccio di bovino 80g atm",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo freschissimi - sfilaccio di bovino 80g atm",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20sfilacci%20di%20bovino%2080%20g%20i%20freschissimi_1761194095.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-di-bovino-80g-atm",
+    "published": "2023-03-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-di-manzo-100g-atm/",
+    "title": "",
+    "noticeDate": "18 marzo 2023",
+    "campi": {
+      "data pubblicazione": "18 marzo 2023",
+      "marca": "Coppiello Giovanni srl",
+      "denominazione": "sfilaccio di manzo 100g atm",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Coppiello Giovanni srl",
+    "product": "sfilaccio di manzo 100g atm",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coppiello Giovanni srl - sfilaccio di manzo 100g atm",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20sfilacci%20di%20bovino%20100%20g%20_1__1761194100.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-di-manzo-100g-atm",
+    "published": "2023-03-18",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-di-equino-oro-100g/",
     "title": "",
     "noticeDate": "17 marzo 2023",
@@ -7047,6 +7515,58 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "julienne-di-pollo-100g-atm",
+    "published": "2023-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-equino-oro-g-400-atm/",
+    "title": "",
+    "noticeDate": "17 marzo 2023",
+    "campi": {
+      "data pubblicazione": "17 marzo 2023",
+      "marca": "Coppiello Giovanni srl",
+      "denominazione": "sfilaccio equino oro g 400 atm",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Coppiello Giovanni srl",
+    "product": "sfilaccio equino oro g 400 atm",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coppiello Giovanni srl - sfilaccio equino oro g 400 atm",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiro%20sfilaccio%20equino%20oro%20400g_1761194086.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-equino-oro-g-400-atm",
+    "published": "2023-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-equino-g-500-atm/",
+    "title": "",
+    "noticeDate": "17 marzo 2023",
+    "campi": {
+      "data pubblicazione": "17 marzo 2023",
+      "marca": "Coppiello Giovanni srl",
+      "denominazione": "sfilaccio equino g 500 atm",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Coppiello Giovanni srl",
+    "product": "sfilaccio equino g 500 atm",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coppiello Giovanni srl - sfilaccio equino g 500 atm",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiro%20sfilaccio%20equino%20500g%20atm_1761194091.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-equino-g-500-atm",
     "published": "2023-03-17",
     "source": "operator"
   },
