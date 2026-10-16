@@ -4532,6 +4532,526 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fagioli-allocchio-nero-5-kg/",
+    "title": "",
+    "noticeDate": "23 giugno 2023",
+    "campi": {
+      "data pubblicazione": "23 giugno 2023",
+      "marca": "CASILLO PASQUALE SNC OTTAVIANO",
+      "denominazione": "FAGIOLI ALL'OCCHIO NERO 5 kg.",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CASILLO PASQUALE SNC OTTAVIANO",
+    "product": "FAGIOLI ALL'OCCHIO NERO 5 kg.",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASILLO PASQUALE SNC OTTAVIANO - FAGIOLI ALL'OCCHIO NERO 5 kg.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/5KG%20%20RICHIAMO%20_%20MOD_1761196706.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fagioli-allocchio-nero-5-kg",
+    "published": "2023-06-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fagioli-allocchio-nero-25-kg/",
+    "title": "",
+    "noticeDate": "23 giugno 2023",
+    "campi": {
+      "data pubblicazione": "23 giugno 2023",
+      "marca": "CASILLO PASQUALE SNC OTTAVIANO",
+      "denominazione": "FAGIOLI ALL'OCCHIO NERO 25 KG",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CASILLO PASQUALE SNC OTTAVIANO",
+    "product": "FAGIOLI ALL'OCCHIO NERO 25 KG",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASILLO PASQUALE SNC OTTAVIANO - FAGIOLI ALL'OCCHIO NERO 25 KG",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/25%20KG%20%20RICHIAMO%20_CASILLO_1761196707.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fagioli-allocchio-nero-25-kg",
+    "published": "2023-06-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fagioli-allocchio-nero-4kg/",
+    "title": "",
+    "noticeDate": "23 giugno 2023",
+    "campi": {
+      "data pubblicazione": "23 giugno 2023",
+      "marca": "CASILLO PASQUALE SNC OTTAVIANO",
+      "denominazione": "FAGIOLI ALL'OCCHIO NERO 4KG",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CASILLO PASQUALE SNC OTTAVIANO",
+    "product": "FAGIOLI ALL'OCCHIO NERO 4KG",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASILLO PASQUALE SNC OTTAVIANO - FAGIOLI ALL'OCCHIO NERO 4KG",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20_%204%20KG%20%20%20MOD_1761196709.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fagioli-allocchio-nero-4kg",
+    "published": "2023-06-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fagioli-allocchio-nero-0800-kg/",
+    "title": "",
+    "noticeDate": "23 giugno 2023",
+    "campi": {
+      "data pubblicazione": "23 giugno 2023",
+      "marca": "CASILLO PASQUALE SNC OTTAVIANO",
+      "denominazione": "FAGIOLI ALL'OCCHIO NERO 0,800 KG",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CASILLO PASQUALE SNC OTTAVIANO",
+    "product": "FAGIOLI ALL'OCCHIO NERO 0,800 KG",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASILLO PASQUALE SNC OTTAVIANO - FAGIOLI ALL'OCCHIO NERO 0,800 KG",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%200%2C800%20KG%20_%20MOD_1761196711.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fagioli-allocchio-nero-0800-kg",
+    "published": "2023-06-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-delicata/",
+    "title": "",
+    "noticeDate": "23 giugno 2023",
+    "campi": {
+      "data pubblicazione": "23 giugno 2023",
+      "marca": "FRESCHI PER TE",
+      "denominazione": "MORTADELLA DELICATA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FRESCHI PER TE",
+    "product": "MORTADELLA DELICATA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FRESCHI PER TE - MORTADELLA DELICATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Mortadella%20Delicata%20Ditta%20JOMI%20spa._1761196713.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mortadella-delicata",
+    "published": "2023-06-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/12-teapot-tehierecrome-royal-suiss/",
+    "title": "",
+    "noticeDate": "23 giugno 2023",
+    "campi": {
+      "data pubblicazione": "23 giugno 2023",
+      "marca": "ROYAL SUISSE",
+      "denominazione": "1.2 TEAPOT-TEHIERECROME-ROYAL SUISS",
+      "motivo della segnalazione": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti"
+    },
+    "brand": "ROYAL SUISSE",
+    "product": "1.2 TEAPOT-TEHIERECROME-ROYAL SUISS",
+    "reasonShort": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ROYAL SUISSE - 1.2 TEAPOT-TEHIERECROME-ROYAL SUISS",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20per%20teiera_1761196715.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "12-teapot-tehierecrome-royal-suiss",
+    "published": "2023-06-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/restax-effluvium/",
+    "title": "",
+    "noticeDate": "20 giugno 2023",
+    "campi": {
+      "data pubblicazione": "20 giugno 2023",
+      "marca": "Wikenfarma s.r.l.",
+      "denominazione": "Restax Effluvium",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Wikenfarma s.r.l.",
+    "product": "Restax Effluvium",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Wikenfarma s.r.l. - Restax Effluvium",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamolottoCC001_1761196697.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "restax-effluvium",
+    "published": "2023-06-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/restax-effluvium-0/",
+    "title": "",
+    "noticeDate": "20 giugno 2023",
+    "campi": {
+      "data pubblicazione": "20 giugno 2023",
+      "marca": "Wikenfarma s.r.l.",
+      "denominazione": "Restax Effluvium",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Wikenfarma s.r.l.",
+    "product": "Restax Effluvium",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Wikenfarma s.r.l. - Restax Effluvium",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamolottoBJ012_1761196699.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "restax-effluvium-0",
+    "published": "2023-06-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/restax-effluvium-1/",
+    "title": "",
+    "noticeDate": "20 giugno 2023",
+    "campi": {
+      "data pubblicazione": "20 giugno 2023",
+      "marca": "Wikenfarma s.r.l.",
+      "denominazione": "Restax Effluvium",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Wikenfarma s.r.l.",
+    "product": "Restax Effluvium",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Wikenfarma s.r.l. - Restax Effluvium",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamolottoCC001_1761196701.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "restax-effluvium-1",
+    "published": "2023-06-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/restax-effluvium-2/",
+    "title": "",
+    "noticeDate": "20 giugno 2023",
+    "campi": {
+      "data pubblicazione": "20 giugno 2023",
+      "marca": "Wikenfarma s.r.l.",
+      "denominazione": "Restax Effluvium",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Wikenfarma s.r.l.",
+    "product": "Restax Effluvium",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Wikenfarma s.r.l. - Restax Effluvium",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamolottoBJ012_1761196702.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "restax-effluvium-2",
+    "published": "2023-06-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/restax-effluvium-3/",
+    "title": "",
+    "noticeDate": "20 giugno 2023",
+    "campi": {
+      "data pubblicazione": "20 giugno 2023",
+      "marca": "Wikenfarma s.r.l.",
+      "denominazione": "Restax Effluvium",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Wikenfarma s.r.l.",
+    "product": "Restax Effluvium",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Wikenfarma s.r.l. - Restax Effluvium",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamolottoBD009_1761196704.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "restax-effluvium-3",
+    "published": "2023-06-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-novellino/",
+    "title": "",
+    "noticeDate": "15 giugno 2023",
+    "campi": {
+      "data pubblicazione": "15 giugno 2023",
+      "marca": "FATTORIE NOVELLA SENTIERI",
+      "denominazione": "SALAME NOVELLINO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FATTORIE NOVELLA SENTIERI",
+    "product": "SALAME NOVELLINO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FATTORIE NOVELLA SENTIERI - SALAME NOVELLINO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/FATTORIE%20NOVELLA%20SENTIERI_Modulo%20richiamo_1761196696.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-novellino",
+    "published": "2023-06-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/biscotti-frollini-alluvetta-e-misti/",
+    "title": "",
+    "noticeDate": "14 giugno 2023",
+    "campi": {
+      "data pubblicazione": "14 giugno 2023",
+      "marca": "I Fortini",
+      "denominazione": "Biscotti frollini all'uvetta e misti",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "I Fortini",
+    "product": "Biscotti frollini all'uvetta e misti",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo I Fortini - Biscotti frollini all'uvetta e misti",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1761196694.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "biscotti-frollini-alluvetta-e-misti",
+    "published": "2023-06-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-budino-al-cacao-bio/",
+    "title": "",
+    "noticeDate": "12 giugno 2023",
+    "campi": {
+      "data pubblicazione": "12 giugno 2023",
+      "marca": "BAULE VOLANTE",
+      "denominazione": "PREPARATO PER BUDINO AL CACAO BIO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BAULE VOLANTE",
+    "product": "PREPARATO PER BUDINO AL CACAO BIO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BAULE VOLANTE - PREPARATO PER BUDINO AL CACAO BIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20_3__1761196693.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "preparato-budino-al-cacao-bio",
+    "published": "2023-06-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/antipasto-parma-dop-igp100-grantipasto-prosciutto-di-parmadop-coppa/",
+    "title": "",
+    "noticeDate": "9 giugno 2023",
+    "campi": {
+      "data pubblicazione": "9 giugno 2023",
+      "marca": "Regione Che Vai",
+      "denominazione": "Antipasto Parma DOP IGP100 gr(Antipasto prosciutto di ParmaDOP-Coppa di Parma IGP-Salame Felino IGP)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Regione Che Vai",
+    "product": "Antipasto Parma DOP IGP100 gr(Antipasto prosciutto di ParmaDOP-Coppa di Parma IGP-Salame Felino IGP)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Regione Che Vai - Antipasto Parma DOP IGP100 gr(Antipasto prosciutto di ParmaDOP-Coppa di Parma IGP-Salame Felino IGP)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20812623%20_%20Antipasto%20Parma%20DOP%20IGP%20100g_1761196687.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "antipasto-parma-dop-igp100-grantipasto-prosciutto-di-parmadop-coppa",
+    "published": "2023-06-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-di-tonno-e-radicchio-0/",
+    "title": "",
+    "noticeDate": "9 giugno 2023",
+    "campi": {
+      "data pubblicazione": "9 giugno 2023",
+      "marca": "I Freschissimi",
+      "denominazione": "Salsa di tonno e radicchio",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "I Freschissimi",
+    "product": "Salsa di tonno e radicchio",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo I Freschissimi - Salsa di tonno e radicchio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModuloufficialeRichiamo_Al_Ifreschissimi%20_3__1761196689.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsa-di-tonno-e-radicchio-0",
+    "published": "2023-06-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-tonno-e-radicchio/",
+    "title": "",
+    "noticeDate": "9 giugno 2023",
+    "campi": {
+      "data pubblicazione": "9 giugno 2023",
+      "marca": "Fresche Bontà",
+      "denominazione": "Salsa tonno e radicchio",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Fresche Bontà",
+    "product": "Salsa tonno e radicchio",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fresche Bontà - Salsa tonno e radicchio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModuloufficialeRichiamo_lefrescheBonta_PAM_1761196690.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsa-tonno-e-radicchio",
+    "published": "2023-06-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-tonno-e-radicchio-0/",
+    "title": "",
+    "noticeDate": "9 giugno 2023",
+    "campi": {
+      "data pubblicazione": "9 giugno 2023",
+      "marca": "Cucina Nostrana",
+      "denominazione": "Salsa tonno e radicchio",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Cucina Nostrana",
+    "product": "Salsa tonno e radicchio",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cucina Nostrana - Salsa tonno e radicchio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModuloufficialeRichiamo_Cucina_Nostrana%20_1__1761196691.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsa-tonno-e-radicchio-0",
+    "published": "2023-06-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-di-tonno-e-radicchio/",
+    "title": "",
+    "noticeDate": "7 giugno 2023",
+    "campi": {
+      "data pubblicazione": "7 giugno 2023",
+      "marca": "Cucina Nostrana Srl",
+      "denominazione": "Salsa di tonno e radicchio",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Cucina Nostrana Srl",
+    "product": "Salsa di tonno e radicchio",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cucina Nostrana Srl - Salsa di tonno e radicchio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartellodirichiamoCucinaNostrana_COOP_23214e23215_1761196686.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsa-di-tonno-e-radicchio",
+    "published": "2023-06-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-oh-mycheesecake-bianco-e-crumble-cacao/",
+    "title": "",
+    "noticeDate": "6 giugno 2023",
+    "campi": {
+      "data pubblicazione": "6 giugno 2023",
+      "marca": "Granarolo",
+      "denominazione": "yogurt OH MYCHEESECAKE BIANCO E CRUMBLE CACAO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Granarolo",
+    "product": "yogurt OH MYCHEESECAKE BIANCO E CRUMBLE CACAO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Granarolo - yogurt OH MYCHEESECAKE BIANCO E CRUMBLE CACAO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20per%20richiamo%20ref.%2037051%20_%20CHEESECAKE%20BIANCO%20E%20CRUMBLE%20CACAO%20140G_1761196685.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "yogurt-oh-mycheesecake-bianco-e-crumble-cacao",
+    "published": "2023-06-06",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tofu-spinacia-200-gr/",
     "title": "",
     "noticeDate": "5 giugno 2023",
