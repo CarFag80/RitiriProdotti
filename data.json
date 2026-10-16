@@ -5572,6 +5572,84 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caffe-arabica-100-bipack-gr250x2/",
+    "title": "",
+    "noticeDate": "25 maggio 2023",
+    "campi": {
+      "data pubblicazione": "25 maggio 2023",
+      "marca": "FILICORI ZECCHINI",
+      "denominazione": "CAFFE' ARABICA 100% BIPACK GR.250X2",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "FILICORI ZECCHINI",
+    "product": "CAFFE' ARABICA 100% BIPACK GR.250X2",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FILICORI ZECCHINI - CAFFE' ARABICA 100% BIPACK GR.250X2",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/30564%20CAFFE_%20ARABICA%20100_%20BIPACK%20GR.250X2%20pdf_1761195616.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "caffe-arabica-100-bipack-gr250x2",
+    "published": "2023-05-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caffe-arabica-100-gr250-moka/",
+    "title": "",
+    "noticeDate": "25 maggio 2023",
+    "campi": {
+      "data pubblicazione": "25 maggio 2023",
+      "marca": "FILICORI ZECCHINI",
+      "denominazione": "CAFFE' ARABICA 100% GR.250 MOKA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "FILICORI ZECCHINI",
+    "product": "CAFFE' ARABICA 100% GR.250 MOKA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FILICORI ZECCHINI - CAFFE' ARABICA 100% GR.250 MOKA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/30575%20CAFFE_%20ARABICA%20100_%20GR.250%20MOKA%20pdf_1761195617.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "caffe-arabica-100-gr250-moka",
+    "published": "2023-05-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caffe-gr340-100arabica-grani/",
+    "title": "",
+    "noticeDate": "25 maggio 2023",
+    "campi": {
+      "data pubblicazione": "25 maggio 2023",
+      "marca": "FILICORI ZECCHINI",
+      "denominazione": "CAFFE' GR.340 100%ARABICA IN GRANI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "FILICORI ZECCHINI",
+    "product": "CAFFE' GR.340 100%ARABICA IN GRANI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FILICORI ZECCHINI - CAFFE' GR.340 100%ARABICA IN GRANI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/30868%20CAFFE_%20GR.340%20100_ARABICA%20IN%20GRANI%20pdf_1761195618.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "caffe-gr340-100arabica-grani",
+    "published": "2023-05-25",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratore-alimentare-epimen-plus/",
     "title": "Integratore alimentare",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-presenza-di-sildenafil-e-tadalafil-integratori/",
@@ -5619,6 +5697,370 @@
     "id": "integratore-alimentare-epimen-plus",
     "published": "2023-05-24",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dop-dolce-lettere-dallitalia/",
+    "title": "",
+    "noticeDate": "24 maggio 2023",
+    "campi": {
+      "data pubblicazione": "24 maggio 2023",
+      "marca": "LETTERE DALL'ITALIA",
+      "denominazione": "GORGONZOLA DOP DOLCE LETTERE DALL'ITALIA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LETTERE DALL'ITALIA",
+    "product": "GORGONZOLA DOP DOLCE LETTERE DALL'ITALIA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LETTERE DALL'ITALIA - GORGONZOLA DOP DOLCE LETTERE DALL'ITALIA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20_%20Gorgonzola%20DOP%20Dolce%20Lettere%20dall_Italia%20L10427001_1761195610.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gorgonzola-dop-dolce-lettere-dallitalia",
+    "published": "2023-05-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dop-dolce-lettere-dallitalia-0/",
+    "title": "",
+    "noticeDate": "24 maggio 2023",
+    "campi": {
+      "data pubblicazione": "24 maggio 2023",
+      "marca": "LETTERE DALL'ITALIA",
+      "denominazione": "GORGONZOLA DOP DOLCE LETTERE DALL'ITALIA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LETTERE DALL'ITALIA",
+    "product": "GORGONZOLA DOP DOLCE LETTERE DALL'ITALIA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LETTERE DALL'ITALIA - GORGONZOLA DOP DOLCE LETTERE DALL'ITALIA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20_%20Gorgonzola%20DOP%20Dolce%20Lettere%20dall_Italia_1761195612.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gorgonzola-dop-dolce-lettere-dallitalia-0",
+    "published": "2023-05-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dop-dolce-malga-paradiso/",
+    "title": "",
+    "noticeDate": "24 maggio 2023",
+    "campi": {
+      "data pubblicazione": "24 maggio 2023",
+      "marca": "MALGA PARADISO",
+      "denominazione": "GORGONZOLA DOP DOLCE MALGA PARADISO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "MALGA PARADISO",
+    "product": "GORGONZOLA DOP DOLCE MALGA PARADISO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MALGA PARADISO - GORGONZOLA DOP DOLCE MALGA PARADISO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20_%20Gorgonzola%20DOP%20Dolce%20MP_1761195613.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gorgonzola-dop-dolce-malga-paradiso",
+    "published": "2023-05-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pancetta-tesa-salata-p-arr-sc-la-panseta-de-la-bergamasca-p-allasse/",
+    "title": "",
+    "noticeDate": "24 maggio 2023",
+    "campi": {
+      "data pubblicazione": "24 maggio 2023",
+      "marca": "Salumificio Bonalumi s.r.l.",
+      "denominazione": "Pancetta tesa salata, p. arr. s/c, la panseta de la bergamasca, p. all'asse, p. c/c rustica",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio Bonalumi s.r.l.",
+    "product": "Pancetta tesa salata, p. arr. s/c, la panseta de la bergamasca, p. all'asse, p. c/c rustica",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio Bonalumi s.r.l. - Pancetta tesa salata, p. arr. s/c, la panseta de la bergamasca, p. all'asse, p. c/c rustica",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/avviso%20richiamo%20Bonalumi_1761195614.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pancetta-tesa-salata-p-arr-sc-la-panseta-de-la-bergamasca-p-allasse",
+    "published": "2023-05-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-della-val-trebbia/",
+    "title": "",
+    "noticeDate": "23 maggio 2023",
+    "campi": {
+      "data pubblicazione": "23 maggio 2023",
+      "marca": "Cascina Bosco Gerolo",
+      "denominazione": "Mozzarella della Val Trebbia",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Cascina Bosco Gerolo",
+    "product": "Mozzarella della Val Trebbia",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cascina Bosco Gerolo - Mozzarella della Val Trebbia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamopdf_1761195609.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mozzarella-della-val-trebbia",
+    "published": "2023-05-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella/",
+    "title": "",
+    "noticeDate": "22 maggio 2023",
+    "campi": {
+      "data pubblicazione": "22 maggio 2023",
+      "marca": "Salumificio F.lli Riva SpA - Bennet",
+      "denominazione": "Mortadella",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Salumificio F.lli Riva SpA - Bennet",
+    "product": "Mortadella",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio F.lli Riva SpA - Bennet - Mortadella",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1741%20all%204%20richiamo_Bennet%20Gli%20Aff_bassa%20_2__1761194945.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mortadella",
+    "published": "2023-05-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-0/",
+    "title": "",
+    "noticeDate": "22 maggio 2023",
+    "campi": {
+      "data pubblicazione": "22 maggio 2023",
+      "marca": "Salumificio F.lli Riva SpA - PAM",
+      "denominazione": "Mortadella",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Salumificio F.lli Riva SpA - PAM",
+    "product": "Mortadella",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio F.lli Riva SpA - PAM - Mortadella",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1741%20all%204%20richiamo_Pam_bassa_1761194959.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mortadella-0",
+    "published": "2023-05-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-1/",
+    "title": "",
+    "noticeDate": "22 maggio 2023",
+    "campi": {
+      "data pubblicazione": "22 maggio 2023",
+      "marca": "Salumificio F.lli Riva SpA - Unicom",
+      "denominazione": "Mortadella",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Salumificio F.lli Riva SpA - Unicom",
+    "product": "Mortadella",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio F.lli Riva SpA - Unicom - Mortadella",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1741%20all%204%20richiamo_Unicom_bassa_1761194964.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mortadella-1",
+    "published": "2023-05-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-2/",
+    "title": "",
+    "noticeDate": "22 maggio 2023",
+    "campi": {
+      "data pubblicazione": "22 maggio 2023",
+      "marca": "Salumificio F.lli Riva SpA - Strafette",
+      "denominazione": "Mortadella",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Salumificio F.lli Riva SpA - Strafette",
+    "product": "Mortadella",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio F.lli Riva SpA - Strafette - Mortadella",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1741%20all%204%20richiamo_Strafette_bassa%20_1__1761194969.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mortadella-2",
+    "published": "2023-05-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-gli-affettati/",
+    "title": "",
+    "noticeDate": "22 maggio 2023",
+    "campi": {
+      "data pubblicazione": "22 maggio 2023",
+      "marca": "Salumificio F.lli Riva SpA",
+      "denominazione": "Mortadella \"Gli affettati\"",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Salumificio F.lli Riva SpA",
+    "product": "Mortadella \"Gli affettati\"",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio F.lli Riva SpA - Mortadella \"Gli affettati\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1741%20all%204%20richiamo_Bennet%20Gli%20Aff_1761194974.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mortadella-gli-affettati",
+    "published": "2023-05-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-3/",
+    "title": "",
+    "noticeDate": "22 maggio 2023",
+    "campi": {
+      "data pubblicazione": "22 maggio 2023",
+      "marca": "Salumificio F.lli Riva SpA",
+      "denominazione": "Mortadella",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Salumificio F.lli Riva SpA",
+    "product": "Mortadella",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio F.lli Riva SpA - Mortadella",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1741%20all%204%20richiamo_Pam_1761194985.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mortadella-3",
+    "published": "2023-05-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-strafette/",
+    "title": "",
+    "noticeDate": "22 maggio 2023",
+    "campi": {
+      "data pubblicazione": "22 maggio 2023",
+      "marca": "Salumificio F.lli Riva SpA",
+      "denominazione": "Mortadella \"Strafette\"",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Salumificio F.lli Riva SpA",
+    "product": "Mortadella \"Strafette\"",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio F.lli Riva SpA - Mortadella \"Strafette\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1741%20all%204%20richiamo_Strafette_1761195606.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mortadella-strafette",
+    "published": "2023-05-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-4/",
+    "title": "",
+    "noticeDate": "22 maggio 2023",
+    "campi": {
+      "data pubblicazione": "22 maggio 2023",
+      "marca": "Salumificio F.lli Riva SpA",
+      "denominazione": "Mortadella",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Salumificio F.lli Riva SpA",
+    "product": "Mortadella",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio F.lli Riva SpA - Mortadella",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1741%20all%204%20richiamo_Unicom_1761195608.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mortadella-4",
+    "published": "2023-05-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/snack-vai-dischetti-di-mortadella-e-tarallini/",
+    "title": "",
+    "noticeDate": "18 maggio 2023",
+    "campi": {
+      "data pubblicazione": "18 maggio 2023",
+      "marca": "Casa Modena",
+      "denominazione": "Snack & Vai DISCHETTI DI MORTADELLA E TARALLINI",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Casa Modena",
+    "product": "Snack & Vai DISCHETTI DI MORTADELLA E TARALLINI",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Casa Modena - Snack & Vai DISCHETTI DI MORTADELLA E TARALLINI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Snack%20e%20Vai%20Dischetti%20di%20mortadella%20e%20tarallini_1761194940.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "snack-vai-dischetti-di-mortadella-e-tarallini",
+    "published": "2023-05-18",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-nostrano-dolce/",
@@ -6527,6 +6969,84 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "sfilaccio-di-equino-100g",
+    "published": "2023-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-di-equino-80g/",
+    "title": "",
+    "noticeDate": "17 marzo 2023",
+    "campi": {
+      "data pubblicazione": "17 marzo 2023",
+      "marca": "Coppiello Giovanni srl",
+      "denominazione": "Sfilaccio di equino 80g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Coppiello Giovanni srl",
+    "product": "Sfilaccio di equino 80g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coppiello Giovanni srl - Sfilaccio di equino 80g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiro%20precauzionale%2080g%20ali%20_1__1761194072.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-di-equino-80g",
+    "published": "2023-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-di-pollo-100g-atm/",
+    "title": "",
+    "noticeDate": "17 marzo 2023",
+    "campi": {
+      "data pubblicazione": "17 marzo 2023",
+      "marca": "Coppiello Giovanni srl",
+      "denominazione": "Sfilaccio di pollo 100g atm",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Coppiello Giovanni srl",
+    "product": "Sfilaccio di pollo 100g atm",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coppiello Giovanni srl - Sfilaccio di pollo 100g atm",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiro%20precauz%20sfilaccio%20pollo%20_3__1761194077.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sfilaccio-di-pollo-100g-atm",
+    "published": "2023-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/julienne-di-pollo-100g-atm/",
+    "title": "",
+    "noticeDate": "17 marzo 2023",
+    "campi": {
+      "data pubblicazione": "17 marzo 2023",
+      "marca": "Coppiello Giovanni srl",
+      "denominazione": "Julienne di pollo 100g atm",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Coppiello Giovanni srl",
+    "product": "Julienne di pollo 100g atm",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coppiello Giovanni srl - Julienne di pollo 100g atm",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiro%20precauz%20julienne%20pollo%20100g.%20_1__1761194082.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "julienne-di-pollo-100g-atm",
     "published": "2023-03-17",
     "source": "operator"
   },
