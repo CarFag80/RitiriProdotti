@@ -5621,6 +5621,396 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-nostrano-dolce/",
+    "title": "",
+    "noticeDate": "16 maggio 2023",
+    "campi": {
+      "data pubblicazione": "16 maggio 2023",
+      "marca": "MARIGA",
+      "denominazione": "SALAME NOSTRANO DOLCE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "MARIGA",
+    "product": "SALAME NOSTRANO DOLCE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MARIGA - SALAME NOSTRANO DOLCE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/mod%20richiamo%20salame%20mariga_1761194936.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-nostrano-dolce",
+    "published": "2023-05-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/chocolate-cookies-25-150g/",
+    "title": "",
+    "noticeDate": "15 maggio 2023",
+    "campi": {
+      "data pubblicazione": "15 maggio 2023",
+      "marca": "MERBA",
+      "denominazione": "CHOCOLATE COOKIES 25% - 150G",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "MERBA",
+    "product": "CHOCOLATE COOKIES 25% - 150G",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MERBA - CHOCOLATE COOKIES 25% - 150G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo_Merba%20Chocolate%20Cookies_1761194905.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "chocolate-cookies-25-150g",
+    "published": "2023-05-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-lino-biologici-doypack-200-g/",
+    "title": "",
+    "noticeDate": "15 maggio 2023",
+    "campi": {
+      "data pubblicazione": "15 maggio 2023",
+      "marca": "BIO",
+      "denominazione": "SEMI DI LINO BIOLOGICI IN DOYPACK 200 G",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "BIO",
+    "product": "SEMI DI LINO BIOLOGICI IN DOYPACK 200 G",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BIO - SEMI DI LINO BIOLOGICI IN DOYPACK 200 G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20SEMI%20DI%20LINO%20BIO_1761194909.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "semi-di-lino-biologici-doypack-200-g",
+    "published": "2023-05-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-mix-insalate-biologici-doypack-200-g/",
+    "title": "",
+    "noticeDate": "15 maggio 2023",
+    "campi": {
+      "data pubblicazione": "15 maggio 2023",
+      "marca": "BIO",
+      "denominazione": "SEMI MIX PER INSALATE BIOLOGICI IN DOYPACK 200 G",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "BIO",
+    "product": "SEMI MIX PER INSALATE BIOLOGICI IN DOYPACK 200 G",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BIO - SEMI MIX PER INSALATE BIOLOGICI IN DOYPACK 200 G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20SEMI%20MIX%20BIO_1761194913.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "semi-mix-insalate-biologici-doypack-200-g",
+    "published": "2023-05-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bastone-di-salame-dolce-l8591369/",
+    "title": "",
+    "noticeDate": "15 maggio 2023",
+    "campi": {
+      "data pubblicazione": "15 maggio 2023",
+      "marca": "SALUMFICIO COLOMBO LUIGI SRL",
+      "denominazione": "BASTONE DI SALAME DOLCE L859(1369)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMFICIO COLOMBO LUIGI SRL",
+    "product": "BASTONE DI SALAME DOLCE L859(1369)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMFICIO COLOMBO LUIGI SRL - BASTONE DI SALAME DOLCE L859(1369)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_LIDL_1761194917.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "bastone-di-salame-dolce-l8591369",
+    "published": "2023-05-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filone-di-salame-99l1369/",
+    "title": "",
+    "noticeDate": "15 maggio 2023",
+    "campi": {
+      "data pubblicazione": "15 maggio 2023",
+      "marca": "SALUMIFICIO COLOMBO LUIGI SRL",
+      "denominazione": "FILONE DI SALAME 99L1369",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMIFICIO COLOMBO LUIGI SRL",
+    "product": "FILONE DI SALAME 99L1369",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMIFICIO COLOMBO LUIGI SRL - FILONE DI SALAME 99L1369",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_MD_1761194931.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "filone-di-salame-99l1369",
+    "published": "2023-05-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/popcorn-forno-microonde/",
+    "title": "",
+    "noticeDate": "12 maggio 2023",
+    "campi": {
+      "data pubblicazione": "12 maggio 2023",
+      "marca": "NEZIN",
+      "denominazione": "POPCORN PER FORNO A MICROONDE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "NEZIN",
+    "product": "POPCORN PER FORNO A MICROONDE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NEZIN - POPCORN PER FORNO A MICROONDE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/POP_CORN_cartellorichiamo_1761194895.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "popcorn-forno-microonde",
+    "published": "2023-05-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ragu-con-carne-di-cinghiale/",
+    "title": "",
+    "noticeDate": "11 maggio 2023",
+    "campi": {
+      "data pubblicazione": "11 maggio 2023",
+      "marca": "TERRE D'ITALIA",
+      "denominazione": "RAGU' CON CARNE DI CINGHIALE",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "TERRE D'ITALIA",
+    "product": "RAGU' CON CARNE DI CINGHIALE",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TERRE D'ITALIA - RAGU' CON CARNE DI CINGHIALE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/48%20CARTELLO%20RICHIAMO%20RAGU_%20CINGHIALE%20_1761194891.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ragu-con-carne-di-cinghiale",
+    "published": "2023-05-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/muesli-con-more-di-gelso-biologico/",
+    "title": "",
+    "noticeDate": "4 maggio 2023",
+    "campi": {
+      "data pubblicazione": "4 maggio 2023",
+      "marca": "VERSO NATURA BIO CONAD",
+      "denominazione": "MUESLI CON MORE DI GELSO biologico",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "VERSO NATURA BIO CONAD",
+    "product": "MUESLI CON MORE DI GELSO biologico",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VERSO NATURA BIO CONAD - MUESLI CON MORE DI GELSO biologico",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Muesli%20VNB%20Conad%20260423%20con%20foto_1761194887.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "muesli-con-more-di-gelso-biologico",
+    "published": "2023-05-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-gialla-uova-da-allevamento-terra/",
+    "title": "",
+    "noticeDate": "2 maggio 2023",
+    "campi": {
+      "data pubblicazione": "2 maggio 2023",
+      "marca": "Pasta Gialla",
+      "denominazione": "Pasta Gialla Uova da allevamento a terra",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Pasta Gialla",
+    "product": "Pasta Gialla Uova da allevamento a terra",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pasta Gialla - Pasta Gialla Uova da allevamento a terra",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartelloRichiamoaggiornato_1761194883.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pasta-gialla-uova-da-allevamento-terra",
+    "published": "2023-05-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-lino-scuri-biologici/",
+    "title": "",
+    "noticeDate": "28 aprile 2023",
+    "campi": {
+      "data pubblicazione": "28 aprile 2023",
+      "marca": "PENSA BIO",
+      "denominazione": "SEMI DI LINO SCURI BIOLOGICI",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "PENSA BIO",
+    "product": "SEMI DI LINO SCURI BIOLOGICI",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PENSA BIO - SEMI DI LINO SCURI BIOLOGICI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%201_1761194852.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "semi-di-lino-scuri-biologici",
+    "published": "2023-04-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-semi-tostati-biologici-2/",
+    "title": "",
+    "noticeDate": "28 aprile 2023",
+    "campi": {
+      "data pubblicazione": "28 aprile 2023",
+      "marca": "PUREZZA BIO",
+      "denominazione": "MIX SEMI TOSTATI BIOLOGICI",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "PUREZZA BIO",
+    "product": "MIX SEMI TOSTATI BIOLOGICI",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PUREZZA BIO - MIX SEMI TOSTATI BIOLOGICI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%202_1761194861.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mix-semi-tostati-biologici-2",
+    "published": "2023-04-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-lino-scuri-biologici-0/",
+    "title": "",
+    "noticeDate": "28 aprile 2023",
+    "campi": {
+      "data pubblicazione": "28 aprile 2023",
+      "marca": "PUREZZA BIO",
+      "denominazione": "SEMI DI LINO SCURI BIOLOGICI",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "PUREZZA BIO",
+    "product": "SEMI DI LINO SCURI BIOLOGICI",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PUREZZA BIO - SEMI DI LINO SCURI BIOLOGICI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%203_1761194865.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "semi-di-lino-scuri-biologici-0",
+    "published": "2023-04-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pop-corn-salati-microonde/",
+    "title": "",
+    "noticeDate": "28 aprile 2023",
+    "campi": {
+      "data pubblicazione": "28 aprile 2023",
+      "marca": "SNACK DAY",
+      "denominazione": "POP CORN SALATI PER MICROONDE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SNACK DAY",
+    "product": "POP CORN SALATI PER MICROONDE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SNACK DAY - POP CORN SALATI PER MICROONDE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/pop%20corn%20salati%20per%20microonde_1761194869.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pop-corn-salati-microonde",
+    "published": "2023-04-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/passato-di-verdure-con-zucchine-e-patate/",
+    "title": "",
+    "noticeDate": "28 aprile 2023",
+    "campi": {
+      "data pubblicazione": "28 aprile 2023",
+      "marca": "Il Viaggiator Goloso",
+      "denominazione": "Passato di verdure con zucchine e patate",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Il Viaggiator Goloso",
+    "product": "Passato di verdure con zucchine e patate",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Il Viaggiator Goloso - Passato di verdure con zucchine e patate",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO_1761194873.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "passato-di-verdure-con-zucchine-e-patate",
+    "published": "2023-04-28",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tomino-del-boscaiolo/",
     "title": "",
     "noticeDate": "24 aprile 2023",
@@ -5721,6 +6111,136 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "formaggio-pasta-molle-con-crosta-edibile-leggermente-muffettata-2",
+    "published": "2023-04-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-pasta-molle-con-crosta-edibile-leggermente-muffettata-3/",
+    "title": "",
+    "noticeDate": "24 aprile 2023",
+    "campi": {
+      "data pubblicazione": "24 aprile 2023",
+      "marca": "PRIMIA PERCORSI DI GUSTO",
+      "denominazione": "FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "PRIMIA PERCORSI DI GUSTO",
+    "product": "FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PRIMIA PERCORSI DI GUSTO - FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_Primia_1761194826.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-pasta-molle-con-crosta-edibile-leggermente-muffettata-3",
+    "published": "2023-04-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-pasta-molle-con-crosta-edibile-leggermente-muffettata-4/",
+    "title": "",
+    "noticeDate": "24 aprile 2023",
+    "campi": {
+      "data pubblicazione": "24 aprile 2023",
+      "marca": "FIOR FIORE",
+      "denominazione": "FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FIOR FIORE",
+    "product": "FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIOR FIORE - FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_Modello_Coop%20fior%20fiore_1761194830.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-pasta-molle-con-crosta-edibile-leggermente-muffettata-4",
+    "published": "2023-04-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-pasta-molle-con-crosta-edibile-leggermente-muffettata-5/",
+    "title": "",
+    "noticeDate": "24 aprile 2023",
+    "campi": {
+      "data pubblicazione": "24 aprile 2023",
+      "marca": "CUOR DI TERRA",
+      "denominazione": "FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CUOR DI TERRA",
+    "product": "FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CUOR DI TERRA - FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20PENNY%20scad%2029_04_1761194840.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-pasta-molle-con-crosta-edibile-leggermente-muffettata-5",
+    "published": "2023-04-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuor-di-terra/",
+    "title": "",
+    "noticeDate": "24 aprile 2023",
+    "campi": {
+      "data pubblicazione": "24 aprile 2023",
+      "marca": "FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+      "denominazione": "CUOR DI TERRA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+    "product": "CUOR DI TERRA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA - CUOR DI TERRA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20PENNY%20scad%2027_04_1761194844.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cuor-di-terra",
+    "published": "2023-04-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tomino-del-boscaiolo-0/",
+    "title": "",
+    "noticeDate": "24 aprile 2023",
+    "campi": {
+      "data pubblicazione": "24 aprile 2023",
+      "marca": "CASEIFICIO LONGO",
+      "denominazione": "TOMINO DEL BOSCAIOLO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CASEIFICIO LONGO",
+    "product": "TOMINO DEL BOSCAIOLO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASEIFICIO LONGO - TOMINO DEL BOSCAIOLO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/43%20cartello%20RICHIAMO%20TOMINO%20DEL%20BOSCAIOLO%20LONGO_abipack%20nera%20180g%20SCAD%2027_28_1761194848.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tomino-del-boscaiolo-0",
     "published": "2023-04-24",
     "source": "operator"
   },
