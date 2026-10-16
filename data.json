@@ -172,6 +172,370 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aperitivo-salinaro/",
+    "title": "",
+    "noticeDate": "24 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "24 gennaio 2025",
+      "marca": "Mentuccia di Zavone Anita",
+      "denominazione": "Aperitivo Salinaro",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Mentuccia di Zavone Anita",
+    "product": "Aperitivo Salinaro",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mentuccia di Zavone Anita - Aperitivo Salinaro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_APERITIVO%20SALINARO_1761206285.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "aperitivo-salinaro",
+    "published": "2025-01-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caponata-di-melanzane-con-capperi-di-salina/",
+    "title": "",
+    "noticeDate": "24 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "24 gennaio 2025",
+      "marca": "Mentuccia di Zavone Anita",
+      "denominazione": "Caponata di melanzane con capperi di salina",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Mentuccia di Zavone Anita",
+    "product": "Caponata di melanzane con capperi di salina",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mentuccia di Zavone Anita - Caponata di melanzane con capperi di salina",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_CAPONATA%20DI%20MELANZANE%20CON%20CAPPERI%20DI%20SALINA_1761206289.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "caponata-di-melanzane-con-capperi-di-salina",
+    "published": "2025-01-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/composta-di-pomodoro-piccante/",
+    "title": "",
+    "noticeDate": "24 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "24 gennaio 2025",
+      "marca": "Mentuccia di Zavone Anita",
+      "denominazione": "Composta di pomodoro piccante",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Mentuccia di Zavone Anita",
+    "product": "Composta di pomodoro piccante",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mentuccia di Zavone Anita - Composta di pomodoro piccante",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_COMPOSTA%20DI%20POMODORO%20PICCANTE_1761206294.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "composta-di-pomodoro-piccante",
+    "published": "2025-01-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/composto-di-cipolle-agrodolce/",
+    "title": "",
+    "noticeDate": "24 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "24 gennaio 2025",
+      "marca": "Mentuccia di Zavone Anita",
+      "denominazione": "Composto di cipolle in agrodolce",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Mentuccia di Zavone Anita",
+    "product": "Composto di cipolle in agrodolce",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mentuccia di Zavone Anita - Composto di cipolle in agrodolce",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_COMPOSTO%20DI%20CIPOLLE%20IN%20AGRODOLCE_1761206299.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "composto-di-cipolle-agrodolce",
+    "published": "2025-01-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confetti-di-pomodoro/",
+    "title": "",
+    "noticeDate": "24 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "24 gennaio 2025",
+      "marca": "Mentuccia di Zavone Anita",
+      "denominazione": "Confetti di pomodoro",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Mentuccia di Zavone Anita",
+    "product": "Confetti di pomodoro",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mentuccia di Zavone Anita - Confetti di pomodoro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_CONFETTI%20DI%20POMODORO_1761206303.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "confetti-di-pomodoro",
+    "published": "2025-01-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confettura-extra-di-fichi-e-mandorle/",
+    "title": "",
+    "noticeDate": "24 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "24 gennaio 2025",
+      "marca": "Mentuccia di Zavone Anita",
+      "denominazione": "Confettura extra di fichi e mandorle",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Mentuccia di Zavone Anita",
+    "product": "Confettura extra di fichi e mandorle",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mentuccia di Zavone Anita - Confettura extra di fichi e mandorle",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_CONFETTURA%20EXTRA%20DI%20FICHI%20MCON%20MANDORLE_1761206308.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "confettura-extra-di-fichi-e-mandorle",
+    "published": "2025-01-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confettura-extra-di-fichi/",
+    "title": "",
+    "noticeDate": "24 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "24 gennaio 2025",
+      "marca": "Mentuccia di Zavone Anita",
+      "denominazione": "Confettura extra di fichi",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Mentuccia di Zavone Anita",
+    "product": "Confettura extra di fichi",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mentuccia di Zavone Anita - Confettura extra di fichi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_CONFETTURA%20EXTRA%20DI%20FICHI_1761206313.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "confettura-extra-di-fichi",
+    "published": "2025-01-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/marmellata-di-arance-amare/",
+    "title": "",
+    "noticeDate": "24 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "24 gennaio 2025",
+      "marca": "Mentuccia di Zavone Anita",
+      "denominazione": "Marmellata di arance amare",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Mentuccia di Zavone Anita",
+    "product": "Marmellata di arance amare",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mentuccia di Zavone Anita - Marmellata di arance amare",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_MARMELLATA%20DI%20ARANCE%20AMARE_1761206318.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "marmellata-di-arance-amare",
+    "published": "2025-01-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/marmellata-di-cedro-e-malvasia/",
+    "title": "",
+    "noticeDate": "24 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "24 gennaio 2025",
+      "marca": "Mentuccia di Zavone Anita",
+      "denominazione": "Marmellata di cedro e malvasia",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Mentuccia di Zavone Anita",
+    "product": "Marmellata di cedro e malvasia",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mentuccia di Zavone Anita - Marmellata di cedro e malvasia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_MARMELLATA%20DI%20CEDRO%20E%20MALVASIA_1761206322.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "marmellata-di-cedro-e-malvasia",
+    "published": "2025-01-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cremini-alle-nocciole-e-mandorle/",
+    "title": "",
+    "noticeDate": "23 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "23 gennaio 2025",
+      "marca": "Majani - sfuso con incarto anonimo",
+      "denominazione": "Cremini alle nocciole e mandorle",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Majani - sfuso con incarto anonimo",
+    "product": "Cremini alle nocciole e mandorle",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Majani - sfuso con incarto anonimo - Cremini alle nocciole e mandorle",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cremino%20Majani%20Sfuso%20_A_1761206263.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cremini-alle-nocciole-e-mandorle",
+    "published": "2025-01-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cremini-alle-nocciole-e-mandorle-0/",
+    "title": "",
+    "noticeDate": "23 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "23 gennaio 2025",
+      "marca": "Majani 1796 - sfuso",
+      "denominazione": "Cremini alle nocciole e mandorle",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Majani 1796 - sfuso",
+    "product": "Cremini alle nocciole e mandorle",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Majani 1796 - sfuso - Cremini alle nocciole e mandorle",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cremino%20Majani%201796%20Sfuso%20_B_1761206268.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cremini-alle-nocciole-e-mandorle-0",
+    "published": "2025-01-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cremini-assortiti/",
+    "title": "",
+    "noticeDate": "23 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "23 gennaio 2025",
+      "marca": "OSP CAMBIO DI ROTTA",
+      "denominazione": "Cremini assortiti",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "OSP CAMBIO DI ROTTA",
+    "product": "Cremini assortiti",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo OSP CAMBIO DI ROTTA - Cremini assortiti",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cremino_OPS%20Cambio%20di%20rotta%20_C_1761206272.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cremini-assortiti",
+    "published": "2025-01-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cremini-assortiti-0/",
+    "title": "",
+    "noticeDate": "23 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "23 gennaio 2025",
+      "marca": "ORI MARTIN",
+      "denominazione": "Cremini assortiti",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "ORI MARTIN",
+    "product": "Cremini assortiti",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ORI MARTIN - Cremini assortiti",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cremino_ORI%20Martin_D_1761206276.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cremini-assortiti-0",
+    "published": "2025-01-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mouth-freshner/",
+    "title": "",
+    "noticeDate": "23 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "23 gennaio 2025",
+      "marca": "ALI BABA",
+      "denominazione": "MOUTH FRESHNER",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ALI BABA",
+    "product": "MOUTH FRESHNER",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ALI BABA - MOUTH FRESHNER",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo_1761206280.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mouth-freshner",
+    "published": "2025-01-23",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/melus/",
     "title": "",
     "noticeDate": "21 gennaio 2025",
@@ -246,6 +610,162 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "cremini-sapori-idee-0",
+    "published": "2025-01-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mousse-yogurt-e-lampone/",
+    "title": "",
+    "noticeDate": "21 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "21 gennaio 2025",
+      "marca": "Iginio Massari Alta Pasticceria",
+      "denominazione": "Mousse yogurt e lampone",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Iginio Massari Alta Pasticceria",
+    "product": "Mousse yogurt e lampone",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Iginio Massari Alta Pasticceria - Mousse yogurt e lampone",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20yogurt%20lampone_1761206239.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mousse-yogurt-e-lampone",
+    "published": "2025-01-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mousse-yogurt-e-arancia-amara/",
+    "title": "",
+    "noticeDate": "21 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "21 gennaio 2025",
+      "marca": "Iginio Massari Alta Pasticceria",
+      "denominazione": "Mousse yogurt e arancia amara",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Iginio Massari Alta Pasticceria",
+    "product": "Mousse yogurt e arancia amara",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Iginio Massari Alta Pasticceria - Mousse yogurt e arancia amara",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20yogurt%20arancia%20amara_1761206243.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mousse-yogurt-e-arancia-amara",
+    "published": "2025-01-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mousse-tiramisu/",
+    "title": "",
+    "noticeDate": "21 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "21 gennaio 2025",
+      "marca": "Iginio Massari Alta Pasticceria",
+      "denominazione": "Mousse tiramisù",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Iginio Massari Alta Pasticceria",
+    "product": "Mousse tiramisù",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Iginio Massari Alta Pasticceria - Mousse tiramisù",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20tiramisu_1761206247.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mousse-tiramisu",
+    "published": "2025-01-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mousse-tarte-tatin/",
+    "title": "",
+    "noticeDate": "21 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "21 gennaio 2025",
+      "marca": "Iginio Massari Alta Pasticceria",
+      "denominazione": "Mousse tarte tatin",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Iginio Massari Alta Pasticceria",
+    "product": "Mousse tarte tatin",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Iginio Massari Alta Pasticceria - Mousse tarte tatin",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20tarte%20tatin_1761206251.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mousse-tarte-tatin",
+    "published": "2025-01-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mousse-cheesecake-al-lampone/",
+    "title": "",
+    "noticeDate": "21 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "21 gennaio 2025",
+      "marca": "Iginio Massari Alta Pasticceria",
+      "denominazione": "Mousse cheesecake al lampone",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Iginio Massari Alta Pasticceria",
+    "product": "Mousse cheesecake al lampone",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Iginio Massari Alta Pasticceria - Mousse cheesecake al lampone",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20cheesecake%20lampone_1761206255.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mousse-cheesecake-al-lampone",
+    "published": "2025-01-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mousse-baba-esotico-0/",
+    "title": "",
+    "noticeDate": "21 gennaio 2025",
+    "campi": {
+      "data pubblicazione": "21 gennaio 2025",
+      "marca": "Iginio Massari Alta Pasticceria",
+      "denominazione": "Mousse babà esotico",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Iginio Massari Alta Pasticceria",
+    "product": "Mousse babà esotico",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Iginio Massari Alta Pasticceria - Mousse babà esotico",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20baba%20esotico_1761206259.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mousse-baba-esotico-0",
     "published": "2025-01-21",
     "source": "operator"
   },
