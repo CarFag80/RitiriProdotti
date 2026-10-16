@@ -1,5 +1,109 @@
 [
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/valtellina-casera-dop/",
+    "title": "",
+    "noticeDate": "9 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "9 ottobre 2026",
+      "marca": "No Brand",
+      "denominazione": "Valtellina Casera DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "No Brand",
+    "product": "Valtellina Casera DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo No Brand - Valtellina Casera DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/326945c7c7368d2c508954a4d57d37cb20b5489785b10d684ac66130aaa2_1791547366.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "valtellina-casera-dop",
+    "published": "2026-10-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/valtellina-casera-dop-0/",
+    "title": "",
+    "noticeDate": "9 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "9 ottobre 2026",
+      "marca": "No Brand",
+      "denominazione": "Valtellina Casera DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "No Brand",
+    "product": "Valtellina Casera DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo No Brand - Valtellina Casera DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/e7eed14a8cf802aab5ea80e9cd820f10af9dd701233ada92873e29290433_1791547369.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "valtellina-casera-dop-0",
+    "published": "2026-10-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/valtellina-casera-dop-1/",
+    "title": "",
+    "noticeDate": "9 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "9 ottobre 2026",
+      "marca": "No brand",
+      "denominazione": "Valtellina Casera DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "No brand",
+    "product": "Valtellina Casera DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo No brand - Valtellina Casera DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/08e6106474969d066ff3019a0eebe4e2ff7b18b1400ef3ee7ee4f094d38e_1791547370.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "valtellina-casera-dop-1",
+    "published": "2026-10-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pezzente-della-montagna-materana/",
+    "title": "",
+    "noticeDate": "9 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "9 ottobre 2026",
+      "marca": "SALUMI TIPICI LUCANI",
+      "denominazione": "PEZZENTE DELLA MONTAGNA MATERANA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMI TIPICI LUCANI",
+    "product": "PEZZENTE DELLA MONTAGNA MATERANA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMI TIPICI LUCANI - PEZZENTE DELLA MONTAGNA MATERANA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20Pezzente%20della%20Motagna%20Materana%20_1__1791547372.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pezzente-della-montagna-materana",
+    "published": "2026-10-09",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratore-base-di-caffe/",
     "title": "Integratore alimentare Coffee 2.0 - Tasty dose",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-di-sicurezza-integratore-coffee-20-base-di-caffe/",
@@ -170,6 +274,422 @@
     "id": "latte-polvere",
     "published": "2025-11-19",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/apollini-micro/",
+    "title": "",
+    "noticeDate": "20 marzo 2025",
+    "campi": {
+      "data pubblicazione": "20 marzo 2025",
+      "marca": "SWEET CREAM SRLS",
+      "denominazione": "APOLLINI MICRO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SWEET CREAM SRLS",
+    "product": "APOLLINI MICRO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SWEET CREAM SRLS - APOLLINI MICRO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20prodotto%20apollino%20MICRO_1761206637.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "apollini-micro",
+    "published": "2025-03-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/apollini-mignon/",
+    "title": "",
+    "noticeDate": "20 marzo 2025",
+    "campi": {
+      "data pubblicazione": "20 marzo 2025",
+      "marca": "SWEET CREAM SRLS",
+      "denominazione": "APOLLINI MIGNON",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SWEET CREAM SRLS",
+    "product": "APOLLINI MIGNON",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SWEET CREAM SRLS - APOLLINI MIGNON",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20prodotto%20apollino%20MIGNON_1761206641.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "apollini-mignon",
+    "published": "2025-03-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamino-da-cinta-senese-dop/",
+    "title": "",
+    "noticeDate": "18 marzo 2025",
+    "campi": {
+      "data pubblicazione": "18 marzo 2025",
+      "marca": "DIGAR SRL",
+      "denominazione": "Salamino da Cinta Senese DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "DIGAR SRL",
+    "product": "Salamino da Cinta Senese DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DIGAR SRL - Salamino da Cinta Senese DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20salamino%20intero_1761206629.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salamino-da-cinta-senese-dop",
+    "published": "2025-03-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamino-da-cinta-senese-dop-trancio/",
+    "title": "",
+    "noticeDate": "18 marzo 2025",
+    "campi": {
+      "data pubblicazione": "18 marzo 2025",
+      "marca": "DIGAR SRL",
+      "denominazione": "Salamino da CInta Senese DOP trancio",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "DIGAR SRL",
+    "product": "Salamino da CInta Senese DOP trancio",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DIGAR SRL - Salamino da CInta Senese DOP trancio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20salamino%20trancio%20_1__1761206633.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salamino-da-cinta-senese-dop-trancio",
+    "published": "2025-03-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/briciolona/",
+    "title": "",
+    "noticeDate": "14 marzo 2025",
+    "campi": {
+      "data pubblicazione": "14 marzo 2025",
+      "marca": "G.A. Prodotti Toscani srl",
+      "denominazione": "BRICIOLONA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "G.A. Prodotti Toscani srl",
+    "product": "BRICIOLONA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo G.A. Prodotti Toscani srl - BRICIOLONA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BRICIOLONA_1761206617.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "briciolona",
+    "published": "2025-03-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-campagnolo-1/",
+    "title": "",
+    "noticeDate": "14 marzo 2025",
+    "campi": {
+      "data pubblicazione": "14 marzo 2025",
+      "marca": "G.A. Prodotti Toscani sr",
+      "denominazione": "SALAME CAMPAGNOLO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "G.A. Prodotti Toscani sr",
+    "product": "SALAME CAMPAGNOLO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo G.A. Prodotti Toscani sr - SALAME CAMPAGNOLO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Salame%20campagnolo_1761206621.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-campagnolo-1",
+    "published": "2025-03-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinaci-cotti-g-400/",
+    "title": "",
+    "noticeDate": "14 marzo 2025",
+    "campi": {
+      "data pubblicazione": "14 marzo 2025",
+      "marca": "La Verde Fattoria",
+      "denominazione": "Spinaci Cotti g 400",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "La Verde Fattoria",
+    "product": "Spinaci Cotti g 400",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo La Verde Fattoria - Spinaci Cotti g 400",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1761206625.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "spinaci-cotti-g-400",
+    "published": "2025-03-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cloves-whole-ali-baba-0/",
+    "title": "",
+    "noticeDate": "11 marzo 2025",
+    "campi": {
+      "data pubblicazione": "11 marzo 2025",
+      "marca": "ALI BABA",
+      "denominazione": "CLOVES WHOLE ALI BABA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ALI BABA",
+    "product": "CLOVES WHOLE ALI BABA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ALI BABA - CLOVES WHOLE ALI BABA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%201_1761206609.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cloves-whole-ali-baba-0",
+    "published": "2025-03-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ostrica-concava-francia-ndeg1/",
+    "title": "",
+    "noticeDate": "11 marzo 2025",
+    "campi": {
+      "data pubblicazione": "11 marzo 2025",
+      "marca": "Finittica",
+      "denominazione": "Ostrica concava Francia n°1",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Finittica",
+    "product": "Ostrica concava Francia n°1",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Finittica - Ostrica concava Francia n°1",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20L.%20250303IR1%20OSTRICA%20FRANCIA_1761206613.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ostrica-concava-francia-ndeg1",
+    "published": "2025-03-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lupini-chamelea-gallina/",
+    "title": "",
+    "noticeDate": "10 marzo 2025",
+    "campi": {
+      "data pubblicazione": "10 marzo 2025",
+      "marca": "IT J6Z6NUE",
+      "denominazione": "Lupini (Chamelea gallina )",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "IT J6Z6NUE",
+    "product": "Lupini (Chamelea gallina )",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IT J6Z6NUE - Lupini (Chamelea gallina )",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Blupesca%20s.r.l._1761206606.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "lupini-chamelea-gallina",
+    "published": "2025-03-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ostrica-concava-la-delicata-di-sardegna/",
+    "title": "",
+    "noticeDate": "7 marzo 2025",
+    "campi": {
+      "data pubblicazione": "7 marzo 2025",
+      "marca": "ostrica delicata di Sardegna",
+      "denominazione": "Ostrica concava \"la delicata di Sardegna\"",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ostrica delicata di Sardegna",
+    "product": "Ostrica concava \"la delicata di Sardegna\"",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ostrica delicata di Sardegna - Ostrica concava \"la delicata di Sardegna\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/delicata_1761206583.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ostrica-concava-la-delicata-di-sardegna",
+    "published": "2025-03-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ostrica-concava-di-sardegna-sandalia/",
+    "title": "",
+    "noticeDate": "7 marzo 2025",
+    "campi": {
+      "data pubblicazione": "7 marzo 2025",
+      "marca": "Ostrica sandalia top quality",
+      "denominazione": "Ostrica concava di Sardegna \"sandalia\"",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Ostrica sandalia top quality",
+    "product": "Ostrica concava di Sardegna \"sandalia\"",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ostrica sandalia top quality - Ostrica concava di Sardegna \"sandalia\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/sandalia_1761206587.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ostrica-concava-di-sardegna-sandalia",
+    "published": "2025-03-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ostrica-concava-di-sardegna-shardana/",
+    "title": "",
+    "noticeDate": "7 marzo 2025",
+    "campi": {
+      "data pubblicazione": "7 marzo 2025",
+      "marca": "shardana",
+      "denominazione": "ostrica concava di Sardegna \"shardana\"",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "shardana",
+    "product": "ostrica concava di Sardegna \"shardana\"",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo shardana - ostrica concava di Sardegna \"shardana\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/shardana%20bennet_1761206591.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ostrica-concava-di-sardegna-shardana",
+    "published": "2025-03-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ostrica-concava-di-sardegna-shardana-0/",
+    "title": "",
+    "noticeDate": "7 marzo 2025",
+    "campi": {
+      "data pubblicazione": "7 marzo 2025",
+      "marca": "shardana",
+      "denominazione": "ostrica concava di Sardegna \"shardana\"",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "shardana",
+    "product": "ostrica concava di Sardegna \"shardana\"",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo shardana - ostrica concava di Sardegna \"shardana\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/shardana_1761206595.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ostrica-concava-di-sardegna-shardana-0",
+    "published": "2025-03-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/biscotto-mini-mix-24-pz/",
+    "title": "",
+    "noticeDate": "7 marzo 2025",
+    "campi": {
+      "data pubblicazione": "7 marzo 2025",
+      "marca": "Bake IT srl",
+      "denominazione": "Biscotto Mini Mix 24 pz",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Bake IT srl",
+    "product": "Biscotto Mini Mix 24 pz",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bake IT srl - Biscotto Mini Mix 24 pz",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo_1761206598.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "biscotto-mini-mix-24-pz",
+    "published": "2025-03-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamino-ps-puro-suino/",
+    "title": "",
+    "noticeDate": "7 marzo 2025",
+    "campi": {
+      "data pubblicazione": "7 marzo 2025",
+      "marca": "G.A. Prodotti Toscani srl",
+      "denominazione": "SALAMINO P.S. (PURO SUINO)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "G.A. Prodotti Toscani srl",
+    "product": "SALAMINO P.S. (PURO SUINO)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo G.A. Prodotti Toscani srl - SALAMINO P.S. (PURO SUINO)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SALAMINOP.S._1761206602.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salamino-ps-puro-suino",
+    "published": "2025-03-07",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/baby-biscotto-mini-mix-pz-24/",
