@@ -2772,6 +2772,110 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coppa-di-testa/",
+    "title": "",
+    "noticeDate": "21 novembre 2024",
+    "campi": {
+      "data pubblicazione": "21 novembre 2024",
+      "marca": "RI. AL. Carni snc",
+      "denominazione": "Coppa di testa",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "RI. AL. Carni snc",
+    "product": "Coppa di testa",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo RI. AL. Carni snc - Coppa di testa",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulorichiamo_3_1761206066.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "coppa-di-testa",
+    "published": "2024-11-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-basmati-1-kg/",
+    "title": "",
+    "noticeDate": "20 novembre 2024",
+    "campi": {
+      "data pubblicazione": "20 novembre 2024",
+      "marca": "Gold Star",
+      "denominazione": "Riso basmati 1 Kg",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Gold Star",
+    "product": "Riso basmati 1 Kg",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gold Star - Riso basmati 1 Kg",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1761206063.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "riso-basmati-1-kg",
+    "published": "2024-11-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/chocola-calendario-avvento-75-g/",
+    "title": "",
+    "noticeDate": "20 novembre 2024",
+    "campi": {
+      "data pubblicazione": "20 novembre 2024",
+      "marca": "Chocola",
+      "denominazione": "Chocola Calendario Avvento 75 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Chocola",
+    "product": "Chocola Calendario Avvento 75 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Chocola - Chocola Calendario Avvento 75 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761206064.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "chocola-calendario-avvento-75-g",
+    "published": "2024-11-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/stracchino-lago-iseo/",
+    "title": "",
+    "noticeDate": "19 novembre 2024",
+    "campi": {
+      "data pubblicazione": "19 novembre 2024",
+      "marca": "FORMAGGERIA CAMUNA",
+      "denominazione": "STRACCHINO LAGO ISEO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FORMAGGERIA CAMUNA",
+    "product": "STRACCHINO LAGO ISEO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FORMAGGERIA CAMUNA - STRACCHINO LAGO ISEO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20STRACCHINO%20LAGO%20ISEO%20Formaggeria%20Camuna%20di%20Corte%20Franca%20BS_1761206061.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "stracchino-lago-iseo",
+    "published": "2024-11-19",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-frutta-secca-e-disidratata/",
     "title": "",
     "noticeDate": "18 novembre 2024",
@@ -2898,6 +3002,422 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "melange-esotico",
+    "published": "2024-11-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-dello-sportivo/",
+    "title": "",
+    "noticeDate": "18 novembre 2024",
+    "campi": {
+      "data pubblicazione": "18 novembre 2024",
+      "marca": "LA CONSERVIERA",
+      "denominazione": "MIX DELLO SPORTIVO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LA CONSERVIERA",
+    "product": "MIX DELLO SPORTIVO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA CONSERVIERA - MIX DELLO SPORTIVO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/17_la_conserviera_mix_dello_spertivo_5kg_1761205924.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mix-dello-sportivo",
+    "published": "2024-11-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/running-mix/",
+    "title": "",
+    "noticeDate": "18 novembre 2024",
+    "campi": {
+      "data pubblicazione": "18 novembre 2024",
+      "marca": "SPREAFICO",
+      "denominazione": "RUNNING MIX",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SPREAFICO",
+    "product": "RUNNING MIX",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SPREAFICO - RUNNING MIX",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/18_spreafico_runningmix_vaschetta_250_1761205928.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "running-mix",
+    "published": "2024-11-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-essenza/",
+    "title": "",
+    "noticeDate": "18 novembre 2024",
+    "campi": {
+      "data pubblicazione": "18 novembre 2024",
+      "marca": "VITALSI",
+      "denominazione": "MIX ESSENZA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "VITALSI",
+    "product": "MIX ESSENZA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VITALSI - MIX ESSENZA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/19_vital_Si_mix_essenza_vaschetta_150_1761205933.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mix-essenza",
+    "published": "2024-11-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-colazione/",
+    "title": "",
+    "noticeDate": "18 novembre 2024",
+    "campi": {
+      "data pubblicazione": "18 novembre 2024",
+      "marca": "VITAL SI",
+      "denominazione": "MIX COLAZIONE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "VITAL SI",
+    "product": "MIX COLAZIONE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VITAL SI - MIX COLAZIONE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/20_Vital_SI_mix_colazione_vaschetta_450_1761205938.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mix-colazione",
+    "published": "2024-11-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uva-jumbo-golden-disidratata/",
+    "title": "",
+    "noticeDate": "18 novembre 2024",
+    "campi": {
+      "data pubblicazione": "18 novembre 2024",
+      "marca": "SUNI",
+      "denominazione": "UVA JUMBO GOLDEN DISIDRATATA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SUNI",
+    "product": "UVA JUMBO GOLDEN DISIDRATATA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SUNI - UVA JUMBO GOLDEN DISIDRATATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2_suni_uva_jumbo_golden_disidratata_busta_250_1761205943.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uva-jumbo-golden-disidratata",
+    "published": "2024-11-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uva-cile-golden/",
+    "title": "",
+    "noticeDate": "18 novembre 2024",
+    "campi": {
+      "data pubblicazione": "18 novembre 2024",
+      "marca": "LA CONSERVIERA",
+      "denominazione": "UVA CILE GOLDEN",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LA CONSERVIERA",
+    "product": "UVA CILE GOLDEN",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA CONSERVIERA - UVA CILE GOLDEN",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3_la_conserviera_uva_cile_golden_busta_250_1761205948.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uva-cile-golden",
+    "published": "2024-11-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/misto-frutta-esotica/",
+    "title": "",
+    "noticeDate": "18 novembre 2024",
+    "campi": {
+      "data pubblicazione": "18 novembre 2024",
+      "marca": "LA CONSERVIERA",
+      "denominazione": "MISTO FRUTTA ESOTICA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LA CONSERVIERA",
+    "product": "MISTO FRUTTA ESOTICA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA CONSERVIERA - MISTO FRUTTA ESOTICA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/7_la_conserviera_misto_frutta_esotica_sacchetto_5kg_1761205953.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "misto-frutta-esotica",
+    "published": "2024-11-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/melange-esotico-0/",
+    "title": "",
+    "noticeDate": "18 novembre 2024",
+    "campi": {
+      "data pubblicazione": "18 novembre 2024",
+      "marca": "LA CONSERVIERA",
+      "denominazione": "MELANGE ESOTICO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LA CONSERVIERA",
+    "product": "MELANGE ESOTICO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA CONSERVIERA - MELANGE ESOTICO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/8_la%20conserviera_melange_esotico_busta_250_1761205958.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "melange-esotico-0",
+    "published": "2024-11-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/melange-esotico-1/",
+    "title": "",
+    "noticeDate": "18 novembre 2024",
+    "campi": {
+      "data pubblicazione": "18 novembre 2024",
+      "marca": "SUNI",
+      "denominazione": "MELANGE ESOTICO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SUNI",
+    "product": "MELANGE ESOTICO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SUNI - MELANGE ESOTICO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/9_suni_melange_esotico_busta_180_1761205963.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "melange-esotico-1",
+    "published": "2024-11-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mainardi-nicola-srl-0/",
+    "title": "",
+    "noticeDate": "18 novembre 2024",
+    "campi": {
+      "data pubblicazione": "18 novembre 2024",
+      "marca": "UVA JUMBOGOLDEN DISIDRATATA",
+      "denominazione": "Mainardi Nicola S.R.L",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "UVA JUMBOGOLDEN DISIDRATATA",
+    "product": "Mainardi Nicola S.R.L",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo UVA JUMBOGOLDEN DISIDRATATA - Mainardi Nicola S.R.L",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1_uva_Jumbo_golden%20disidratata_200g_1761206051.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mainardi-nicola-srl-0",
+    "published": "2024-11-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uva-jumbo-golden-disidratata-0/",
+    "title": "",
+    "noticeDate": "18 novembre 2024",
+    "campi": {
+      "data pubblicazione": "18 novembre 2024",
+      "marca": "Mainardi Nicola S.R.L",
+      "denominazione": "UVA JUMBO GOLDEN DISIDRATATA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Mainardi Nicola S.R.L",
+    "product": "UVA JUMBO GOLDEN DISIDRATATA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mainardi Nicola S.R.L - UVA JUMBO GOLDEN DISIDRATATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/4_uva_jumbo_golden_disidratata_vassoi_200_1761206052.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uva-jumbo-golden-disidratata-0",
+    "published": "2024-11-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uva-golden-jumbo/",
+    "title": "",
+    "noticeDate": "18 novembre 2024",
+    "campi": {
+      "data pubblicazione": "18 novembre 2024",
+      "marca": "Mainardi Nicola S.R.L",
+      "denominazione": "UVA GOLDEN JUMBO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Mainardi Nicola S.R.L",
+    "product": "UVA GOLDEN JUMBO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mainardi Nicola S.R.L - UVA GOLDEN JUMBO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/5_uva_golden_jumbo_busta_250_1761206054.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uva-golden-jumbo",
+    "published": "2024-11-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uva-jumbogolden-disidtata/",
+    "title": "",
+    "noticeDate": "18 novembre 2024",
+    "campi": {
+      "data pubblicazione": "18 novembre 2024",
+      "marca": "Mainardi Nicola S.R.L",
+      "denominazione": "UVA JUMBOGOLDEN DISIDTATA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Mainardi Nicola S.R.L",
+    "product": "UVA JUMBOGOLDEN DISIDTATA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mainardi Nicola S.R.L - UVA JUMBOGOLDEN DISIDTATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/6_uva_jumbo_golden_disidratata_vassoio_300_1761206055.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uva-jumbogolden-disidtata",
+    "published": "2024-11-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/melange-esotico-mix-frutta-secca-e-disidratata-0/",
+    "title": "",
+    "noticeDate": "18 novembre 2024",
+    "campi": {
+      "data pubblicazione": "18 novembre 2024",
+      "marca": "Mainardi Nicola S.R.L",
+      "denominazione": "MELANGE ESOTICO (MIX FRUTTA SECCA E DISIDRATATA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Mainardi Nicola S.R.L",
+    "product": "MELANGE ESOTICO (MIX FRUTTA SECCA E DISIDRATATA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mainardi Nicola S.R.L - MELANGE ESOTICO (MIX FRUTTA SECCA E DISIDRATATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/10_melange_esotico_mix_frutta_secca_disidratata_vassoio_180_1761206056.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "melange-esotico-mix-frutta-secca-e-disidratata-0",
+    "published": "2024-11-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-fruttasecca-e-disidratata/",
+    "title": "",
+    "noticeDate": "18 novembre 2024",
+    "campi": {
+      "data pubblicazione": "18 novembre 2024",
+      "marca": "Mainardi Nicola S.R.L",
+      "denominazione": "MIX FRUTTASECCA E DISIDRATATA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Mainardi Nicola S.R.L",
+    "product": "MIX FRUTTASECCA E DISIDRATATA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mainardi Nicola S.R.L - MIX FRUTTASECCA E DISIDRATATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/14_BIS_mix_frutta_secca_disidratata__vassoio_300_1761206058.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mix-fruttasecca-e-disidratata",
+    "published": "2024-11-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/melange-esoticomix-frutta-secca-e-disidratata/",
+    "title": "",
+    "noticeDate": "18 novembre 2024",
+    "campi": {
+      "data pubblicazione": "18 novembre 2024",
+      "marca": "Mainardi Nicola S.R.L",
+      "denominazione": "MELANGE ESOTICO(MIX FRUTTA SECCA E DISIDRATATA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Mainardi Nicola S.R.L",
+    "product": "MELANGE ESOTICO(MIX FRUTTA SECCA E DISIDRATATA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mainardi Nicola S.R.L - MELANGE ESOTICO(MIX FRUTTA SECCA E DISIDRATATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/15_melange_esotico__mix_frutta_secca_disidratata_vassoi_250_1761206059.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "melange-esoticomix-frutta-secca-e-disidratata",
     "published": "2024-11-18",
     "source": "operator"
   },
