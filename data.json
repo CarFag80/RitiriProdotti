@@ -172,6 +172,266 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coppa-affettata-stagionata/",
+    "title": "",
+    "noticeDate": "20 settembre 2024",
+    "campi": {
+      "data pubblicazione": "20 settembre 2024",
+      "marca": "LA BOTTEGA DEL GUSTO",
+      "denominazione": "COPPA AFFETTATA STAGIONATA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LA BOTTEGA DEL GUSTO",
+    "product": "COPPA AFFETTATA STAGIONATA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA BOTTEGA DEL GUSTO - COPPA AFFETTATA STAGIONATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20ministeriale%20coppa%20stagionata%20120g_1761205736.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "coppa-affettata-stagionata",
+    "published": "2024-09-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coppa-stagionata-100gr/",
+    "title": "",
+    "noticeDate": "19 settembre 2024",
+    "campi": {
+      "data pubblicazione": "19 settembre 2024",
+      "marca": "STELLA MONTIS",
+      "denominazione": "COPPA STAGIONATA 100GR",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "STELLA MONTIS",
+    "product": "COPPA STAGIONATA 100GR",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo STELLA MONTIS - COPPA STAGIONATA 100GR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20COPPA%20STAGIONATA%20Stella%20Montis_100g_1761205731.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "coppa-stagionata-100gr",
+    "published": "2024-09-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coppa-stagionata-90-gr/",
+    "title": "",
+    "noticeDate": "19 settembre 2024",
+    "campi": {
+      "data pubblicazione": "19 settembre 2024",
+      "marca": "STELLA MONTIS",
+      "denominazione": "COPPA STAGIONATA 90 GR",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "STELLA MONTIS",
+    "product": "COPPA STAGIONATA 90 GR",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo STELLA MONTIS - COPPA STAGIONATA 90 GR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20COPPA%20STAGIONATA%20Salumeria%20del%20corso_90g_1761205734.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "coppa-stagionata-90-gr",
+    "published": "2024-09-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuori-di-iceberg-bg-200g-e-250-g/",
+    "title": "",
+    "noticeDate": "16 settembre 2024",
+    "campi": {
+      "data pubblicazione": "16 settembre 2024",
+      "marca": "Coop",
+      "denominazione": "Cuori di Iceberg BG 200g e 250 g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Coop",
+    "product": "Cuori di Iceberg BG 200g e 250 g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Coop - Cuori di Iceberg BG 200g e 250 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoCOOP_12.09.2024_1761205715.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cuori-di-iceberg-bg-200g-e-250-g",
+    "published": "2024-09-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-200g/",
+    "title": "",
+    "noticeDate": "16 settembre 2024",
+    "campi": {
+      "data pubblicazione": "16 settembre 2024",
+      "marca": "Gustora",
+      "denominazione": "Iceberg 200g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Gustora",
+    "product": "Iceberg 200g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gustora - Iceberg 200g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoGUSTORA_1761205717.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "iceberg-200g",
+    "published": "2024-09-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-250g/",
+    "title": "",
+    "noticeDate": "16 settembre 2024",
+    "campi": {
+      "data pubblicazione": "16 settembre 2024",
+      "marca": "Matese",
+      "denominazione": "Iceberg 250g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Matese",
+    "product": "Iceberg 250g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Matese - Iceberg 250g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoMATESEOK_1761205719.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "iceberg-250g",
+    "published": "2024-09-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-150-gr-1/",
+    "title": "",
+    "noticeDate": "16 settembre 2024",
+    "campi": {
+      "data pubblicazione": "16 settembre 2024",
+      "marca": "Montanino",
+      "denominazione": "Iceberg 150 gr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Montanino",
+    "product": "Iceberg 150 gr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Montanino - Iceberg 150 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoMONTANINO150g_1761205722.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "iceberg-150-gr-1",
+    "published": "2024-09-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-200g-0/",
+    "title": "",
+    "noticeDate": "16 settembre 2024",
+    "campi": {
+      "data pubblicazione": "16 settembre 2024",
+      "marca": "Professione snack",
+      "denominazione": "Iceberg 200g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Professione snack",
+    "product": "Iceberg 200g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Professione snack - Iceberg 200g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoPROFESSIONESNACK_200g_1761205724.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "iceberg-200g-0",
+    "published": "2024-09-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-250g-0/",
+    "title": "",
+    "noticeDate": "16 settembre 2024",
+    "campi": {
+      "data pubblicazione": "16 settembre 2024",
+      "marca": "Sendero",
+      "denominazione": "Iceberg 250g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Sendero",
+    "product": "Iceberg 250g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sendero - Iceberg 250g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoSENDERO_1761205726.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "iceberg-250g-0",
+    "published": "2024-09-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-200-gr-3/",
+    "title": "",
+    "noticeDate": "16 settembre 2024",
+    "campi": {
+      "data pubblicazione": "16 settembre 2024",
+      "marca": "SISA",
+      "denominazione": "Iceberg 200 gr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SISA",
+    "product": "Iceberg 200 gr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SISA - Iceberg 200 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoSISA_200g_1761205729.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "iceberg-200-gr-3",
+    "published": "2024-09-16",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/pesto-lail-des-ours-o-ptits-oignons-cuisine-mobile-par-thierry-leloup/",
     "title": "Pesto a l'ail des ours",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-probabili-casi-di-botulino-legati-al-consumo-di-pesto-di/",
@@ -509,6 +769,266 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "iceberg-200-gr-2",
+    "published": "2024-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuori-di-iceberg-250-gr/",
+    "title": "",
+    "noticeDate": "12 settembre 2024",
+    "campi": {
+      "data pubblicazione": "12 settembre 2024",
+      "marca": "Ortoromi",
+      "denominazione": "Cuori di Iceberg 250 gr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Ortoromi",
+    "product": "Cuori di Iceberg 250 gr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ortoromi - Cuori di Iceberg 250 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_ORTOROMI%20250g_1761205694.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cuori-di-iceberg-250-gr",
+    "published": "2024-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-350-gr/",
+    "title": "",
+    "noticeDate": "12 settembre 2024",
+    "campi": {
+      "data pubblicazione": "12 settembre 2024",
+      "marca": "Ortoromi",
+      "denominazione": "Iceberg 350 gr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Ortoromi",
+    "product": "Iceberg 350 gr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ortoromi - Iceberg 350 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_ORTOROMI%20350g_1761205696.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "iceberg-350-gr",
+    "published": "2024-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-500-gr/",
+    "title": "",
+    "noticeDate": "12 settembre 2024",
+    "campi": {
+      "data pubblicazione": "12 settembre 2024",
+      "marca": "Ortoromi",
+      "denominazione": "Iceberg 500 gr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Ortoromi",
+    "product": "Iceberg 500 gr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ortoromi - Iceberg 500 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_ORTOROMI_500g_1761205698.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "iceberg-500-gr",
+    "published": "2024-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-250-gr-freschi-germogli/",
+    "title": "",
+    "noticeDate": "12 settembre 2024",
+    "campi": {
+      "data pubblicazione": "12 settembre 2024",
+      "marca": "Polenghi",
+      "denominazione": "Iceberg 250 gr Freschi Germogli",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Polenghi",
+    "product": "Iceberg 250 gr Freschi Germogli",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Polenghi - Iceberg 250 gr Freschi Germogli",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_POLENGHI%20250g_1761205700.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "iceberg-250-gr-freschi-germogli",
+    "published": "2024-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuori-di-iceberg-250-gr-0/",
+    "title": "",
+    "noticeDate": "12 settembre 2024",
+    "campi": {
+      "data pubblicazione": "12 settembre 2024",
+      "marca": "Selex",
+      "denominazione": "Cuori di iceberg 250 gr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Selex",
+    "product": "Cuori di iceberg 250 gr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Selex - Cuori di iceberg 250 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_SELEX%20250g_1761205702.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cuori-di-iceberg-250-gr-0",
+    "published": "2024-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-200-gr-vedure-fresche/",
+    "title": "",
+    "noticeDate": "12 settembre 2024",
+    "campi": {
+      "data pubblicazione": "12 settembre 2024",
+      "marca": "Sigma",
+      "denominazione": "Iceberg 200 gr Vedure fresche",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Sigma",
+    "product": "Iceberg 200 gr Vedure fresche",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sigma - Iceberg 200 gr Vedure fresche",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_SIGMA%20200g_1761205704.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "iceberg-200-gr-vedure-fresche",
+    "published": "2024-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-150-gr-0/",
+    "title": "",
+    "noticeDate": "12 settembre 2024",
+    "campi": {
+      "data pubblicazione": "12 settembre 2024",
+      "marca": "Tornese",
+      "denominazione": "Iceberg 150 gr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Tornese",
+    "product": "Iceberg 150 gr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Tornese - Iceberg 150 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_TORNESE%20150g_1761205706.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "iceberg-150-gr-0",
+    "published": "2024-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-250-gr-freschi-germogli-0/",
+    "title": "",
+    "noticeDate": "12 settembre 2024",
+    "campi": {
+      "data pubblicazione": "12 settembre 2024",
+      "marca": "Torre in Pietra",
+      "denominazione": "Iceberg 250 gr Freschi germogli",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Torre in Pietra",
+    "product": "Iceberg 250 gr Freschi germogli",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Torre in Pietra - Iceberg 250 gr Freschi germogli",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_TORRE%20IN%20PIETRA%20250g_1761205708.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "iceberg-250-gr-freschi-germogli-0",
+    "published": "2024-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-250-gr-0/",
+    "title": "",
+    "noticeDate": "12 settembre 2024",
+    "campi": {
+      "data pubblicazione": "12 settembre 2024",
+      "marca": "Très Bon",
+      "denominazione": "Iceberg 250 gr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Très Bon",
+    "product": "Iceberg 250 gr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Très Bon - Iceberg 250 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_TRES%20BON%20DOMA%20250g_1761205710.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "iceberg-250-gr-0",
+    "published": "2024-09-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-250-gr-1/",
+    "title": "",
+    "noticeDate": "12 settembre 2024",
+    "campi": {
+      "data pubblicazione": "12 settembre 2024",
+      "marca": "Vivinatura",
+      "denominazione": "Iceberg 250 gr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Vivinatura",
+    "product": "Iceberg 250 gr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Vivinatura - Iceberg 250 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_VIVINATURA%20250g_1761205712.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "iceberg-250-gr-1",
     "published": "2024-09-12",
     "source": "operator"
   },
