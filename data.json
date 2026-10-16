@@ -519,6 +519,318 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/affumicata/",
+    "title": "",
+    "noticeDate": "27 marzo 2024",
+    "campi": {
+      "data pubblicazione": "27 marzo 2024",
+      "marca": "Fermaggio®",
+      "denominazione": "Affumicata",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Fermaggio®",
+    "product": "Affumicata",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fermaggio® - Affumicata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1%20Richiamo%20Affumicata%2022%2003%202024_1761199623.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "affumicata",
+    "published": "2024-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mezzare/",
+    "title": "",
+    "noticeDate": "27 marzo 2024",
+    "campi": {
+      "data pubblicazione": "27 marzo 2024",
+      "marca": "Fermaggio®",
+      "denominazione": "Mezzarè",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Fermaggio®",
+    "product": "Mezzarè",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fermaggio® - Mezzarè",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2%20Richiamo%20mezzare%C2%BF%2022%2003%202024_1761199626.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mezzare",
+    "published": "2024-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuor-danacardo/",
+    "title": "",
+    "noticeDate": "27 marzo 2024",
+    "campi": {
+      "data pubblicazione": "27 marzo 2024",
+      "marca": "Fermaggio®",
+      "denominazione": "Cuor d¿anacardo",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Fermaggio®",
+    "product": "Cuor d¿anacardo",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fermaggio® - Cuor d¿anacardo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3%20Richiamo%20Cuor%20d_anacardo%2022%2003%202024_1761199630.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cuor-danacardo",
+    "published": "2024-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/straccella/",
+    "title": "",
+    "noticeDate": "27 marzo 2024",
+    "campi": {
+      "data pubblicazione": "27 marzo 2024",
+      "marca": "Fermaggio®",
+      "denominazione": "Straccella",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Fermaggio®",
+    "product": "Straccella",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fermaggio® - Straccella",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/4%20Richiamo%20straccella%2022%2003%202024_1761199633.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "straccella",
+    "published": "2024-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparazione-gastronomica-bio-base-di-anacardi-e-mandorle/",
+    "title": "",
+    "noticeDate": "27 marzo 2024",
+    "campi": {
+      "data pubblicazione": "27 marzo 2024",
+      "marca": "ALBY GREEN FARM",
+      "denominazione": "PREPARAZIONE GASTRONOMICA BIO A BASE DI ANACARDI E MANDORLE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "ALBY GREEN FARM",
+    "product": "PREPARAZIONE GASTRONOMICA BIO A BASE DI ANACARDI E MANDORLE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ALBY GREEN FARM - PREPARAZIONE GASTRONOMICA BIO A BASE DI ANACARDI E MANDORLE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BIANCANEVE%20BIO%20_1__1761199637.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparazione-gastronomica-bio-base-di-anacardi-e-mandorle",
+    "published": "2024-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/grissino-noce-moscata-e-miele-di-castagno-biologico-senza-glutine/",
+    "title": "",
+    "noticeDate": "27 marzo 2024",
+    "campi": {
+      "data pubblicazione": "27 marzo 2024",
+      "marca": "Grissino Biologico senza glutine Opus Apis",
+      "denominazione": "Grissino noce moscata e miele di castagno biologico senza glutine",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Grissino Biologico senza glutine Opus Apis",
+    "product": "Grissino noce moscata e miele di castagno biologico senza glutine",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Grissino Biologico senza glutine Opus Apis - Grissino noce moscata e miele di castagno biologico senza glutine",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_GR_NOCE%20MOSCATA_1761199640.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "grissino-noce-moscata-e-miele-di-castagno-biologico-senza-glutine",
+    "published": "2024-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/grissino-zafferano-e-papavero-bio-senza-glutine/",
+    "title": "",
+    "noticeDate": "27 marzo 2024",
+    "campi": {
+      "data pubblicazione": "27 marzo 2024",
+      "marca": "Opus apis grissino biologico senza glutine",
+      "denominazione": "Grissino zafferano e papavero bio senza glutine",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Opus apis grissino biologico senza glutine",
+    "product": "Grissino zafferano e papavero bio senza glutine",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Opus apis grissino biologico senza glutine - Grissino zafferano e papavero bio senza glutine",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_%20GR_ZAFFERANO_1761199644.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "grissino-zafferano-e-papavero-bio-senza-glutine",
+    "published": "2024-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/grissino-burro-fume-biologico-senza-glutine/",
+    "title": "",
+    "noticeDate": "27 marzo 2024",
+    "campi": {
+      "data pubblicazione": "27 marzo 2024",
+      "marca": "Grissino Biologico senza glutine Opus apis",
+      "denominazione": "Grissino burro fumé biologico senza glutine",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Grissino Biologico senza glutine Opus apis",
+    "product": "Grissino burro fumé biologico senza glutine",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Grissino Biologico senza glutine Opus apis - Grissino burro fumé biologico senza glutine",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_GR_BURRO_FUME_1761199647.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "grissino-burro-fume-biologico-senza-glutine",
+    "published": "2024-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/grissino-rosmarino-senza-glutine/",
+    "title": "",
+    "noticeDate": "27 marzo 2024",
+    "campi": {
+      "data pubblicazione": "27 marzo 2024",
+      "marca": "Grissino Opus Apis",
+      "denominazione": "Grissino rosmarino senza glutine",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Grissino Opus Apis",
+    "product": "Grissino rosmarino senza glutine",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Grissino Opus Apis - Grissino rosmarino senza glutine",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_GR_ROSMARINO_1761199651.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "grissino-rosmarino-senza-glutine",
+    "published": "2024-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/grissino-pomodoro-e-origano-biologico-senza-glutine/",
+    "title": "",
+    "noticeDate": "27 marzo 2024",
+    "campi": {
+      "data pubblicazione": "27 marzo 2024",
+      "marca": "grissino Biologico senza glutine Opus Apis",
+      "denominazione": "Grissino pomodoro e origano biologico senza glutine",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "grissino Biologico senza glutine Opus Apis",
+    "product": "Grissino pomodoro e origano biologico senza glutine",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo grissino Biologico senza glutine Opus Apis - Grissino pomodoro e origano biologico senza glutine",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_GR_POMODORO_1761199655.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "grissino-pomodoro-e-origano-biologico-senza-glutine",
+    "published": "2024-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/grissino-zenzero-e-curcuma-senza-glutine/",
+    "title": "",
+    "noticeDate": "27 marzo 2024",
+    "campi": {
+      "data pubblicazione": "27 marzo 2024",
+      "marca": "Grissino biologico senza glutine Opus Apis",
+      "denominazione": "Grissino zenzero e curcuma senza glutine",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Grissino biologico senza glutine Opus Apis",
+    "product": "Grissino zenzero e curcuma senza glutine",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Grissino biologico senza glutine Opus Apis - Grissino zenzero e curcuma senza glutine",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_GR_ZENZERO_CURCUMA_1761199659.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "grissino-zenzero-e-curcuma-senza-glutine",
+    "published": "2024-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/grissino-al-sesamo-senza-glutine/",
+    "title": "",
+    "noticeDate": "27 marzo 2024",
+    "campi": {
+      "data pubblicazione": "27 marzo 2024",
+      "marca": "Grissino biologico senza glutine Opus Apis",
+      "denominazione": "Grissino al sesamo senza glutine",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Grissino biologico senza glutine Opus Apis",
+    "product": "Grissino al sesamo senza glutine",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Grissino biologico senza glutine Opus Apis - Grissino al sesamo senza glutine",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_GR_SESAMO_1761199663.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "grissino-al-sesamo-senza-glutine",
+    "published": "2024-03-27",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-capricciosa/",
     "title": "",
     "noticeDate": "26 marzo 2024",
@@ -593,6 +905,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "filante-di-anacardi",
+    "published": "2024-03-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fresco-di-anacardi/",
+    "title": "",
+    "noticeDate": "26 marzo 2024",
+    "campi": {
+      "data pubblicazione": "26 marzo 2024",
+      "marca": "VEGELUNA",
+      "denominazione": "FRESCO DI ANACARDI",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "VEGELUNA",
+    "product": "FRESCO DI ANACARDI",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VEGELUNA - FRESCO DI ANACARDI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Richiamo_Frescodianacardi_1761199620.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "fresco-di-anacardi",
     "published": "2024-03-26",
     "source": "operator"
   },
@@ -1816,6 +2154,188 @@
     "category": "info",
     "id": "patate-fritte-surgelate-0",
     "published": "2024-02-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/patate-fritte-surgelate/",
+    "title": "",
+    "noticeDate": "13 febbraio 2024",
+    "campi": {
+      "data pubblicazione": "13 febbraio 2024",
+      "marca": "Buone e Croccanti",
+      "denominazione": "Patate fritte surgelate",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Buone e Croccanti",
+    "product": "Patate fritte surgelate",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Buone e Croccanti - Patate fritte surgelate",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiesta%20richiamo%20belli%20e%20croccanti%2012022024_1761198874.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "patate-fritte-surgelate",
+    "published": "2024-02-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zuppa-alla-toscana-620-gr/",
+    "title": "",
+    "noticeDate": "9 febbraio 2024",
+    "campi": {
+      "data pubblicazione": "9 febbraio 2024",
+      "marca": "GOOD CHOICE",
+      "denominazione": "Zuppa alla Toscana 620 gr",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "GOOD CHOICE",
+    "product": "Zuppa alla Toscana 620 gr",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GOOD CHOICE - Zuppa alla Toscana 620 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_Zuppaallatoscana_1761198863.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "zuppa-alla-toscana-620-gr",
+    "published": "2024-02-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-napoli/",
+    "title": "",
+    "noticeDate": "9 febbraio 2024",
+    "campi": {
+      "data pubblicazione": "9 febbraio 2024",
+      "marca": "/",
+      "denominazione": "SALAME NAPOLI",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "/",
+    "product": "SALAME NAPOLI",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo / - SALAME NAPOLI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20SALAME%20NAPOLI_SAL%20VOLPI_1761198868.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-napoli",
+    "published": "2024-02-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dolce-dop-palzolasovranorpdolcebluromanin/",
+    "title": "",
+    "noticeDate": "5 febbraio 2024",
+    "campi": {
+      "data pubblicazione": "5 febbraio 2024",
+      "marca": "GORGONZOLA DOLCE DOP",
+      "denominazione": "GORGONZOLA DOLCE DOP PALZOLA/SOVRANO/R.P./DOLCE&BLU/ROMANIN",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "GORGONZOLA DOLCE DOP",
+    "product": "GORGONZOLA DOLCE DOP PALZOLA/SOVRANO/R.P./DOLCE&BLU/ROMANIN",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GORGONZOLA DOLCE DOP - GORGONZOLA DOLCE DOP PALZOLA/SOVRANO/R.P./DOLCE&BLU/ROMANIN",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20L%20D16423A_1761198858.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gorgonzola-dolce-dop-palzolasovranorpdolcebluromanin",
+    "published": "2024-02-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mirtilli-giganti-americani-prodotto-surgelato/",
+    "title": "",
+    "noticeDate": "2 febbraio 2024",
+    "campi": {
+      "data pubblicazione": "2 febbraio 2024",
+      "marca": "Freshona",
+      "denominazione": "Mirtilli giganti americani - prodotto surgelato",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Freshona",
+    "product": "Mirtilli giganti americani - prodotto surgelato",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Freshona - Mirtilli giganti americani - prodotto surgelato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_mirtilli_giganti_americani_1761198853.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mirtilli-giganti-americani-prodotto-surgelato",
+    "published": "2024-02-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/glucerna-select/",
+    "title": "",
+    "noticeDate": "30 gennaio 2024",
+    "campi": {
+      "data pubblicazione": "30 gennaio 2024",
+      "marca": "Glucerna",
+      "denominazione": "Glucerna Select",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Glucerna",
+    "product": "Glucerna Select",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Glucerna - Glucerna Select",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Glucerna%20Select%20500%20ml%2054469NR_1761198844.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "glucerna-select",
+    "published": "2024-01-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/glucerna-select-15/",
+    "title": "",
+    "noticeDate": "30 gennaio 2024",
+    "campi": {
+      "data pubblicazione": "30 gennaio 2024",
+      "marca": "Glucerna",
+      "denominazione": "Glucerna Select 1,5",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Glucerna",
+    "product": "Glucerna Select 1,5",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Glucerna - Glucerna Select 1,5",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Glucerna%20Select%201.5%20500%20ml%2054427NR_1761198849.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "glucerna-select-15",
+    "published": "2024-01-30",
     "source": "operator"
   },
   {
