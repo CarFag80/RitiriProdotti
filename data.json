@@ -1,5 +1,83 @@
 [
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hummus-di-ceci-biologico/",
+    "title": "",
+    "noticeDate": "16 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "16 ottobre 2026",
+      "marca": "GERMINAL BIO",
+      "denominazione": "HUMMUS DI CECI BIOLOGICO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "GERMINAL BIO",
+    "product": "HUMMUS DI CECI BIOLOGICO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GERMINAL BIO - HUMMUS DI CECI BIOLOGICO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20_5__1792143552.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "hummus-di-ceci-biologico",
+    "published": "2026-10-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/albume-duovo-liquido-pastorizzato/",
+    "title": "",
+    "noticeDate": "16 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "16 ottobre 2026",
+      "marca": "Piacersi",
+      "denominazione": "Albume d'uovo liquido pastorizzato",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Piacersi",
+    "product": "Albume d'uovo liquido pastorizzato",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Piacersi - Albume d'uovo liquido pastorizzato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Albume_Piacersi_1792152147.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "albume-duovo-liquido-pastorizzato",
+    "published": "2026-10-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tahina-arkan/",
+    "title": "",
+    "noticeDate": "16 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "16 ottobre 2026",
+      "marca": "ARKANA for food industries",
+      "denominazione": "TAHINA ARKAN",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ARKANA for food industries",
+    "product": "TAHINA ARKAN",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ARKANA for food industries - TAHINA ARKAN",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20Tahina%20Arkan_1792170251.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tahina-arkan",
+    "published": "2026-10-16",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/veggarella-preparazione-gastronomica-vegetale-base-di-soia-e/",
     "title": "",
     "noticeDate": "14 ottobre 2026",
@@ -339,6 +417,396 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nidina-optipro-1/",
+    "title": "",
+    "noticeDate": "9 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "9 gennaio 2026",
+      "marca": "Nestlè Italiana SpA",
+      "denominazione": "NIDINA OPTIPRO 1",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Nestlè Italiana SpA",
+    "product": "NIDINA OPTIPRO 1",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nestlè Italiana SpA - NIDINA OPTIPRO 1",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1%20Modulo%20Richiamo%20NIDINA%20OPTIPRO%201%20NLNWPB261%206x800g%20_%20rev1_1767982017.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "nidina-optipro-1",
+    "published": "2026-01-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nidina-optipro-1-2x600g-1/",
+    "title": "",
+    "noticeDate": "9 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "9 gennaio 2026",
+      "marca": "Nestlè Italiana Spa",
+      "denominazione": "NIDINA OPTIPRO 1 (2x600g)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Nestlè Italiana Spa",
+    "product": "NIDINA OPTIPRO 1 (2x600g)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nestlè Italiana Spa - NIDINA OPTIPRO 1 (2x600g)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2%20Modulo%20Richiamo%20NIDINA%20OPTIPRO%201%20NLNWPB261%206_2x600g_%20IT_rev1_1767982019.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "nidina-optipro-1-2x600g-1",
+    "published": "2026-01-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nan-supremepro-2/",
+    "title": "",
+    "noticeDate": "9 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "9 gennaio 2026",
+      "marca": "Nestlè Italiana Spa",
+      "denominazione": "NAN SUPREMEPRO 2",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Nestlè Italiana Spa",
+    "product": "NAN SUPREMEPRO 2",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nestlè Italiana Spa - NAN SUPREMEPRO 2",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3%20Modulo%20Richiamo%20NAN%20SUPREMEPRO%202%20DELWHLP125%2012x300ml%20IT_rev1_1767982022.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "nan-supremepro-2",
+    "published": "2026-01-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nidina-1-12x500-ml/",
+    "title": "",
+    "noticeDate": "9 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "9 gennaio 2026",
+      "marca": "Nestlè Italiana SpA",
+      "denominazione": "NIDINA 1 12X500 ml",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Nestlè Italiana SpA",
+    "product": "NIDINA 1 12X500 ml",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nestlè Italiana SpA - NIDINA 1 12X500 ml",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/4%20Modulo%20Richiamo%20NIDINA%201%20ESNWLP209_1%2012x500ml%20IT_rev1_1767982025.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "nidina-1-12x500-ml",
+    "published": "2026-01-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nidina-1-4x500-ml/",
+    "title": "",
+    "noticeDate": "9 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "9 gennaio 2026",
+      "marca": "Nestlè Italiana SpA",
+      "denominazione": "Nidina 1 4x500 ml",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Nestlè Italiana SpA",
+    "product": "Nidina 1 4x500 ml",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nestlè Italiana SpA - Nidina 1 4x500 ml",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/5%20Modulo%20Richiamo%20NIDINA%201%20ESNWLP209_1%20MP%203_4x500ml_%20IT_rev1_1767982028.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "nidina-1-4x500-ml",
+    "published": "2026-01-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nidina-1-6x500-ml-0/",
+    "title": "",
+    "noticeDate": "9 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "9 gennaio 2026",
+      "marca": "Nestlè Italiana SpA",
+      "denominazione": "Nidina 1 6X500 ml",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Nestlè Italiana SpA",
+    "product": "Nidina 1 6X500 ml",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nestlè Italiana SpA - Nidina 1 6X500 ml",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/6%20Modulo%20Richiamo%20NIDINA%201%20ESNWLP209_1%20MP%203_6x500ml_%20IT_rev1_1767982031.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "nidina-1-6x500-ml-0",
+    "published": "2026-01-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nan-supreme-0/",
+    "title": "",
+    "noticeDate": "9 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "9 gennaio 2026",
+      "marca": "Neslè Italiana SpA",
+      "denominazione": "NAN SUPREME",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Neslè Italiana SpA",
+    "product": "NAN SUPREME",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Neslè Italiana SpA - NAN SUPREME",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/9%20Modulo%20Richiamo%20NAN%20SUPREMEPRO%203%20DELWHLP108%2012x300ml%20IT_rev1_1767982034.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "nan-supreme-0",
+    "published": "2026-01-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nan-expert/",
+    "title": "",
+    "noticeDate": "9 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "9 gennaio 2026",
+      "marca": "Nestlè Italiana SpA",
+      "denominazione": "NAN EXPERT",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Nestlè Italiana SpA",
+    "product": "NAN EXPERT",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nestlè Italiana SpA - NAN EXPERT",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/8%20Modulo%20Richiamo%20NAN%20EXPERT%20PRO%20SL%20NLNWB333%2012x400g%20IT_rev1_1767982037.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "nan-expert",
+    "published": "2026-01-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nan-supremepro-3/",
+    "title": "",
+    "noticeDate": "9 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "9 gennaio 2026",
+      "marca": "Nestlè Italiana SpA",
+      "denominazione": "NAN SUPREMEPRO 3",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Nestlè Italiana SpA",
+    "product": "NAN SUPREMEPRO 3",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nestlè Italiana SpA - NAN SUPREMEPRO 3",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/9%20Modulo%20Richiamo%20NAN%20SUPREMEPRO%203%20DELWHLP108%2012x300ml%20IT_rev1_1767982040.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "nan-supremepro-3",
+    "published": "2026-01-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nan-pre-0/",
+    "title": "",
+    "noticeDate": "9 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "9 gennaio 2026",
+      "marca": "Nestlè Italiana Spa",
+      "denominazione": "NAN PRE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Nestlè Italiana Spa",
+    "product": "NAN PRE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nestlè Italiana Spa - NAN PRE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/10%20Modulo%20Richiamo%20NAN%20PRE%20DEDWHLP026%2032x70ml%20IT_rev1_1767982043.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "nan-pre-0",
+    "published": "2026-01-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prenan-post/",
+    "title": "",
+    "noticeDate": "9 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "9 gennaio 2026",
+      "marca": "Nestlè Italiana SpA",
+      "denominazione": "PreNan Post",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Nestlè Italiana SpA",
+    "product": "PreNan Post",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nestlè Italiana SpA - PreNan Post",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/11%20Modulo%20Richiamo%20PRENAN%20POST%20DEDWHLP018_1%2012x200ml%20IT_rev1_1767982046.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "prenan-post",
+    "published": "2026-01-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/alfamino-acs041/",
+    "title": "",
+    "noticeDate": "8 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "8 gennaio 2026",
+      "marca": "Nestlè Italiana SpA",
+      "denominazione": "ALFAMINO ACS041",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Nestlè Italiana SpA",
+    "product": "ALFAMINO ACS041",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nestlè Italiana SpA - ALFAMINO ACS041",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/13%20Modulo%20Richiamo%20ALFAMINO%20ACS041%206x400g%20IT_1767982014.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "alfamino-acs041",
+    "published": "2026-01-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/passata-di-pomodoro-di-puglia-500g/",
+    "title": "",
+    "noticeDate": "8 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "8 gennaio 2026",
+      "marca": "Pastificio Attilio Mastromauro - Granoro srl",
+      "denominazione": "Passata di Pomodoro di Puglia 500g",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Pastificio Attilio Mastromauro - Granoro srl",
+    "product": "Passata di Pomodoro di Puglia 500g",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pastificio Attilio Mastromauro - Granoro srl - Passata di Pomodoro di Puglia 500g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20ministeriale%20Recall%20_%20Passata%20Dedicato%20500g%20_%20HP1LM283_1786017780.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "passata-di-pomodoro-di-puglia-500g",
+    "published": "2026-01-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pandoro-classico-senza-lattosio/",
+    "title": "",
+    "noticeDate": "8 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "8 gennaio 2026",
+      "marca": "SENZA PECCATO",
+      "denominazione": "PANDORO CLASSICO SENZA LATTOSIO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "SENZA PECCATO",
+    "product": "PANDORO CLASSICO SENZA LATTOSIO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SENZA PECCATO - PANDORO CLASSICO SENZA LATTOSIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/10%20richiamo%20CLASSICO%20SENZA%20LATTOSIO%20SENZA%20PECCATO_1767886867.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pandoro-classico-senza-lattosio",
+    "published": "2026-01-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pandoro-farcito-cioccolato/",
+    "title": "",
+    "noticeDate": "8 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "8 gennaio 2026",
+      "marca": "SENZA PECCATO",
+      "denominazione": "PANDORO FARCITO CIOCCOLATO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "SENZA PECCATO",
+    "product": "PANDORO FARCITO CIOCCOLATO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SENZA PECCATO - PANDORO FARCITO CIOCCOLATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20%20richiamo%20pandoro%20Farcito%20cioccolato_1767886913.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pandoro-farcito-cioccolato",
+    "published": "2026-01-08",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nidina-optipro-1-6x800g-0/",
     "title": "",
     "noticeDate": "7 gennaio 2026",
@@ -595,6 +1063,58 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "nan-pre",
+    "published": "2026-01-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prenan/",
+    "title": "",
+    "noticeDate": "7 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "7 gennaio 2026",
+      "marca": "Neslè Italia SpA",
+      "denominazione": "PreNAN",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Neslè Italia SpA",
+    "product": "PreNAN",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Neslè Italia SpA - PreNAN",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/11%20Modulo%20Richiamo%20PRENAN%20POST%20DEDWHLP018_1%2012x200ml%20IT_1767982010.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "prenan",
+    "published": "2026-01-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nan-supreme/",
+    "title": "",
+    "noticeDate": "7 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "7 gennaio 2026",
+      "marca": "Nestlè Italia SpA",
+      "denominazione": "NAN SUPREME",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Nestlè Italia SpA",
+    "product": "NAN SUPREME",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nestlè Italia SpA - NAN SUPREME",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/12%20Modulo%20Richiamo%20NAN%20SUPREME%20Pro1%20DENWHPB288%2012x400g%20IT_1767982012.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "nan-supreme",
     "published": "2026-01-07",
     "source": "operator"
   },
