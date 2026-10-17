@@ -381,6 +381,396 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filone-di-tonnoa-pinne-gialle-decongelato-senza-pelle-sottovuoto/",
+    "title": "",
+    "noticeDate": "28 marzo 2026",
+    "campi": {
+      "data pubblicazione": "28 marzo 2026",
+      "marca": "COROMEU SRL",
+      "denominazione": "FILONE DI TONNOA PINNE GIALLE DECONGELATO SENZA PELLE SOTTOVUOTO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "COROMEU SRL",
+    "product": "FILONE DI TONNOA PINNE GIALLE DECONGELATO SENZA PELLE SOTTOVUOTO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo COROMEU SRL - FILONE DI TONNOA PINNE GIALLE DECONGELATO SENZA PELLE SOTTOVUOTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20TONNO%20COROMEU_1789128142.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filone-di-tonnoa-pinne-gialle-decongelato-senza-pelle-sottovuoto",
+    "published": "2026-03-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-cernia-indopacifica-surgelati/",
+    "title": "",
+    "noticeDate": "27 marzo 2026",
+    "campi": {
+      "data pubblicazione": "27 marzo 2026",
+      "marca": "Blu Mares",
+      "denominazione": "Filetti di cernia indopacifica surgelati",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Blu Mares",
+    "product": "Filetti di cernia indopacifica surgelati",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Blu Mares - Filetti di cernia indopacifica surgelati",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cernia_cartello_1774608031.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filetti-di-cernia-indopacifica-surgelati",
+    "published": "2026-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamella-contadina-di-suino/",
+    "title": "",
+    "noticeDate": "27 marzo 2026",
+    "campi": {
+      "data pubblicazione": "27 marzo 2026",
+      "marca": "FIOR DI SCELTA",
+      "denominazione": "SALAMELLA CONTADINA DI SUINO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FIOR DI SCELTA",
+    "product": "SALAMELLA CONTADINA DI SUINO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIOR DI SCELTA - SALAMELLA CONTADINA DI SUINO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20salamella%20contadina%20di%20suino_1774616964.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salamella-contadina-di-suino",
+    "published": "2026-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sugo-alla-bolognese-veg/",
+    "title": "",
+    "noticeDate": "27 marzo 2026",
+    "campi": {
+      "data pubblicazione": "27 marzo 2026",
+      "marca": "ARRIGHI",
+      "denominazione": "sugo alla bolognese veg",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "ARRIGHI",
+    "product": "sugo alla bolognese veg",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ARRIGHI - sugo alla bolognese veg",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/NOTIFICA%20BERRUTO_1774616966.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sugo-alla-bolognese-veg",
+    "published": "2026-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sugo-bolognese-vegano-con-verdure/",
+    "title": "",
+    "noticeDate": "27 marzo 2026",
+    "campi": {
+      "data pubblicazione": "27 marzo 2026",
+      "marca": "BERTAGNI",
+      "denominazione": "Sugo bolognese vegano con verdure",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "BERTAGNI",
+    "product": "Sugo bolognese vegano con verdure",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BERTAGNI - Sugo bolognese vegano con verdure",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/NOTIFICA%20EURO%20BUYING_1774616969.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sugo-bolognese-vegano-con-verdure",
+    "published": "2026-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ragu-di-soia-bio-g190-vegan/",
+    "title": "",
+    "noticeDate": "27 marzo 2026",
+    "campi": {
+      "data pubblicazione": "27 marzo 2026",
+      "marca": "CEREAL TERRA",
+      "denominazione": "RAGU' DI SOIA *BIO G.190 vegan",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "CEREAL TERRA",
+    "product": "RAGU' DI SOIA *BIO G.190 vegan",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CEREAL TERRA - RAGU' DI SOIA *BIO G.190 vegan",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_RICHIAMO_Ragu%60_di_soia_TREVISAN_1774635092.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ragu-di-soia-bio-g190-vegan",
+    "published": "2026-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/foglie-di-fieno-greco-0/",
+    "title": "",
+    "noticeDate": "27 marzo 2026",
+    "campi": {
+      "data pubblicazione": "27 marzo 2026",
+      "marca": "MDH PEACOCK KASOORI METHI",
+      "denominazione": "Foglie di fieno greco",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MDH PEACOCK KASOORI METHI",
+    "product": "Foglie di fieno greco",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MDH PEACOCK KASOORI METHI - Foglie di fieno greco",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20SAVI%20ASIAN%20FOOD%20WHOLESALE%20SRL_1774641215.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "foglie-di-fieno-greco-0",
+    "published": "2026-03-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tonno-pinna-gialla-marinato/",
+    "title": "",
+    "noticeDate": "26 marzo 2026",
+    "campi": {
+      "data pubblicazione": "26 marzo 2026",
+      "marca": "SEA MASTER",
+      "denominazione": "Tonno pinna gialla marinato",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SEA MASTER",
+    "product": "Tonno pinna gialla marinato",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SEA MASTER - Tonno pinna gialla marinato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20TONNO%20SOTTOVUOTO_1774521624.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tonno-pinna-gialla-marinato",
+    "published": "2026-03-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sugo-vegetale-base-di-pomodoro-e-soia/",
+    "title": "",
+    "noticeDate": "26 marzo 2026",
+    "campi": {
+      "data pubblicazione": "26 marzo 2026",
+      "marca": "Cereal Terra srl",
+      "denominazione": "Sugo vegetale a base di pomodoro e soia",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Cereal Terra srl",
+    "product": "Sugo vegetale a base di pomodoro e soia",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cereal Terra srl - Sugo vegetale a base di pomodoro e soia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_prodotto_Cereal_Terra_1774530586.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sugo-vegetale-base-di-pomodoro-e-soia",
+    "published": "2026-03-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/la-magnocchetta-valchiavenna-formaggio-latte-crudo/",
+    "title": "",
+    "noticeDate": "26 marzo 2026",
+    "campi": {
+      "data pubblicazione": "26 marzo 2026",
+      "marca": "la Magnocchetta",
+      "denominazione": "la Magnocchetta - Valchiavenna - formaggio a latte crudo",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "la Magnocchetta",
+    "product": "la Magnocchetta - Valchiavenna - formaggio a latte crudo",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo la Magnocchetta - la Magnocchetta - Valchiavenna - formaggio a latte crudo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO_1774530588.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "la-magnocchetta-valchiavenna-formaggio-latte-crudo",
+    "published": "2026-03-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/foglie-di-fieno-greco/",
+    "title": "",
+    "noticeDate": "26 marzo 2026",
+    "campi": {
+      "data pubblicazione": "26 marzo 2026",
+      "marca": "MDH PEACOCK KASOORI METHI",
+      "denominazione": "Foglie di Fieno Greco",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MDH PEACOCK KASOORI METHI",
+    "product": "Foglie di Fieno Greco",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MDH PEACOCK KASOORI METHI - Foglie di Fieno Greco",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20raja%20wholesale_1774548665.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "foglie-di-fieno-greco",
+    "published": "2026-03-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetto-di-branzino-surgelato/",
+    "title": "",
+    "noticeDate": "25 marzo 2026",
+    "campi": {
+      "data pubblicazione": "25 marzo 2026",
+      "marca": "Primia",
+      "denominazione": "filetto di branzino surgelato",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Primia",
+    "product": "filetto di branzino surgelato",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Primia - filetto di branzino surgelato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO_1774453216.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filetto-di-branzino-surgelato",
+    "published": "2026-03-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/rolle-speck-rucola-gran-moravia/",
+    "title": "",
+    "noticeDate": "25 marzo 2026",
+    "campi": {
+      "data pubblicazione": "25 marzo 2026",
+      "marca": "L'Arte del Fresco",
+      "denominazione": "Rollé Speck Rucola Gran Moravia",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "L'Arte del Fresco",
+    "product": "Rollé Speck Rucola Gran Moravia",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo L'Arte del Fresco - Rollé Speck Rucola Gran Moravia",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_1774467959.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "rolle-speck-rucola-gran-moravia",
+    "published": "2026-03-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-categoria-0/",
+    "title": "",
+    "noticeDate": "24 marzo 2026",
+    "campi": {
+      "data pubblicazione": "24 marzo 2026",
+      "marca": "SAN PIETRO- SALIS ANTONELLA",
+      "denominazione": "UOVA FRESCHE- CATEGORIA A",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SAN PIETRO- SALIS ANTONELLA",
+    "product": "UOVA FRESCHE- CATEGORIA A",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SAN PIETRO- SALIS ANTONELLA - UOVA FRESCHE- CATEGORIA A",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo%20Salis%20Antonella_1774366928.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-categoria-0",
+    "published": "2026-03-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/idrae-gatto-acqua-gatto/",
+    "title": "",
+    "noticeDate": "24 marzo 2026",
+    "campi": {
+      "data pubblicazione": "24 marzo 2026",
+      "marca": "APALSOL",
+      "denominazione": "IDRAE GATTO-ACQUA PER GATTO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "APALSOL",
+    "product": "IDRAE GATTO-ACQUA PER GATTO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo APALSOL - IDRAE GATTO-ACQUA PER GATTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20IDRA%20GATTO%20_1__1785172204.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "idrae-gatto-acqua-gatto",
+    "published": "2026-03-24",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-chia-nera-origine-india-buste-da-500gr/",
     "title": "",
     "noticeDate": "23 marzo 2026",
@@ -455,6 +845,136 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "lupini",
+    "published": "2026-03-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lupini-kg-25-orig-cile-1315/",
+    "title": "",
+    "noticeDate": "23 marzo 2026",
+    "campi": {
+      "data pubblicazione": "23 marzo 2026",
+      "marca": "DEL PRETE SRL",
+      "denominazione": "LUPINI KG 25 ORIG. CILE 13/15",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DEL PRETE SRL",
+    "product": "LUPINI KG 25 ORIG. CILE 13/15",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DEL PRETE SRL - LUPINI KG 25 ORIG. CILE 13/15",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo_lupini%20secchi_DEL%20PRETE%20_sacchi%20da%2025%20kg_1774271360.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lupini-kg-25-orig-cile-1315",
+    "published": "2026-03-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lupini-kg-5-orig-cile/",
+    "title": "",
+    "noticeDate": "23 marzo 2026",
+    "campi": {
+      "data pubblicazione": "23 marzo 2026",
+      "marca": "DEL PRETE SRL",
+      "denominazione": "LUPINI KG. 5 ORIG. CILE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DEL PRETE SRL",
+    "product": "LUPINI KG. 5 ORIG. CILE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DEL PRETE SRL - LUPINI KG. 5 ORIG. CILE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo_lupini%20secchi_DEL%20PRETE%20_sacchi%20da%205%20kg_1774271363.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lupini-kg-5-orig-cile",
+    "published": "2026-03-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lupini-secchi-conf1-kg/",
+    "title": "",
+    "noticeDate": "23 marzo 2026",
+    "campi": {
+      "data pubblicazione": "23 marzo 2026",
+      "marca": "CIBON",
+      "denominazione": "LUPINI SECCHI conf.1 kg",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CIBON",
+    "product": "LUPINI SECCHI conf.1 kg",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CIBON - LUPINI SECCHI conf.1 kg",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LUPINI_009_26_1774289428.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lupini-secchi-conf1-kg",
+    "published": "2026-03-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lupini-secchi-conf500g/",
+    "title": "",
+    "noticeDate": "23 marzo 2026",
+    "campi": {
+      "data pubblicazione": "23 marzo 2026",
+      "marca": "CIBON",
+      "denominazione": "LUPINI SECCHI conf.500g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CIBON",
+    "product": "LUPINI SECCHI conf.500g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CIBON - LUPINI SECCHI conf.500g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LUPINI_217_25_1774289528.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lupini-secchi-conf500g",
+    "published": "2026-03-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lupini-secchi-conf5-kg/",
+    "title": "",
+    "noticeDate": "23 marzo 2026",
+    "campi": {
+      "data pubblicazione": "23 marzo 2026",
+      "marca": "CIBON",
+      "denominazione": "LUPINI SECCHI conf.5 kg",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CIBON",
+    "product": "LUPINI SECCHI conf.5 kg",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CIBON - LUPINI SECCHI conf.5 kg",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LUPINI_266_25_1774289628.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lupini-secchi-conf5-kg",
     "published": "2026-03-23",
     "source": "operator"
   },
