@@ -381,6 +381,526 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-chia-nera-origine-india-buste-da-500gr/",
+    "title": "",
+    "noticeDate": "23 marzo 2026",
+    "campi": {
+      "data pubblicazione": "23 marzo 2026",
+      "marca": "DEL PRETE SRL",
+      "denominazione": "SEMI DI CHIA NERA ORIGINE INDIA - Buste da 500gr",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DEL PRETE SRL",
+    "product": "SEMI DI CHIA NERA ORIGINE INDIA - Buste da 500gr",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DEL PRETE SRL - SEMI DI CHIA NERA ORIGINE INDIA - Buste da 500gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20Semi%20di%20chia_%20Del%20Prete%20srl_500%20g_1774271352.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-chia-nera-origine-india-buste-da-500gr",
+    "published": "2026-03-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-chia-nera-origine-india-sacchi-da-5-kg/",
+    "title": "",
+    "noticeDate": "23 marzo 2026",
+    "campi": {
+      "data pubblicazione": "23 marzo 2026",
+      "marca": "DEL PRETE SRL",
+      "denominazione": "SEMI DI CHIA NERA ORIGINE INDIA - Sacchi da 5 KG",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "DEL PRETE SRL",
+    "product": "SEMI DI CHIA NERA ORIGINE INDIA - Sacchi da 5 KG",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DEL PRETE SRL - SEMI DI CHIA NERA ORIGINE INDIA - Sacchi da 5 KG",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20Semi%20di%20chia_%20Del%20Prete%20srl_5%20kg_1774271355.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-chia-nera-origine-india-sacchi-da-5-kg",
+    "published": "2026-03-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lupini/",
+    "title": "",
+    "noticeDate": "23 marzo 2026",
+    "campi": {
+      "data pubblicazione": "23 marzo 2026",
+      "marca": "CALLERIS SNC",
+      "denominazione": "LUPINI",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CALLERIS SNC",
+    "product": "LUPINI",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CALLERIS SNC - LUPINI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20Lupini%20Secchi%20500%20gr_%20ZORZOLI_1774271357.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "lupini",
+    "published": "2026-03-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mousse-con-salmone-135-g/",
+    "title": "",
+    "noticeDate": "20 marzo 2026",
+    "campi": {
+      "data pubblicazione": "20 marzo 2026",
+      "marca": "LAND",
+      "denominazione": "MOUSSE CON SALMONE 135 g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LAND",
+    "product": "MOUSSE CON SALMONE 135 g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LAND - MOUSSE CON SALMONE 135 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2026.03.19%20_%20Mousse%20salmone%20135g%20land%20_%20EXQUISA_1774011782.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mousse-con-salmone-135-g",
+    "published": "2026-03-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-chia-500x10/",
+    "title": "",
+    "noticeDate": "20 marzo 2026",
+    "campi": {
+      "data pubblicazione": "20 marzo 2026",
+      "marca": "LA CONSERVIERA SRL",
+      "denominazione": "SEMI DI CHIA 500x10",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "LA CONSERVIERA SRL",
+    "product": "SEMI DI CHIA 500x10",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA CONSERVIERA SRL - SEMI DI CHIA 500x10",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20chia%20da%20spedire_1774021366.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-chia-500x10",
+    "published": "2026-03-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lupini-cotti-e-salati-1-kg/",
+    "title": "",
+    "noticeDate": "19 marzo 2026",
+    "campi": {
+      "data pubblicazione": "19 marzo 2026",
+      "marca": "Milani Remigio & C snc",
+      "denominazione": "Lupini Cotti e salati 1 kg",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Milani Remigio & C snc",
+    "product": "Lupini Cotti e salati 1 kg",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Milani Remigio & C snc - Lupini Cotti e salati 1 kg",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%201%20Kg_1773925713.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lupini-cotti-e-salati-1-kg",
+    "published": "2026-03-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lupini-cotti-e-salati-5-kg/",
+    "title": "",
+    "noticeDate": "19 marzo 2026",
+    "campi": {
+      "data pubblicazione": "19 marzo 2026",
+      "marca": "Milani Remigio & C snc",
+      "denominazione": "Lupini Cotti e salati 5 kg",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Milani Remigio & C snc",
+    "product": "Lupini Cotti e salati 5 kg",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Milani Remigio & C snc - Lupini Cotti e salati 5 kg",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%205%20KG_1773925718.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lupini-cotti-e-salati-5-kg",
+    "published": "2026-03-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lupini-cotti-e-salati-80-g/",
+    "title": "",
+    "noticeDate": "19 marzo 2026",
+    "campi": {
+      "data pubblicazione": "19 marzo 2026",
+      "marca": "Milani Remigio & C snc",
+      "denominazione": "Lupini Cotti e salati 80 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Milani Remigio & C snc",
+    "product": "Lupini Cotti e salati 80 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Milani Remigio & C snc - Lupini Cotti e salati 80 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%2080g%20_1__1773925720.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lupini-cotti-e-salati-80-g",
+    "published": "2026-03-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lupini-cotti-e-salati-200-g/",
+    "title": "",
+    "noticeDate": "19 marzo 2026",
+    "campi": {
+      "data pubblicazione": "19 marzo 2026",
+      "marca": "Milani Remigio & C snc",
+      "denominazione": "Lupini Cotti e salati 200 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Milani Remigio & C snc",
+    "product": "Lupini Cotti e salati 200 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Milani Remigio & C snc - Lupini Cotti e salati 200 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20200G_1773925722.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lupini-cotti-e-salati-200-g",
+    "published": "2026-03-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lupini-cotti-e-salati-250-g/",
+    "title": "",
+    "noticeDate": "19 marzo 2026",
+    "campi": {
+      "data pubblicazione": "19 marzo 2026",
+      "marca": "Milani Remigio & C snc",
+      "denominazione": "Lupini Cotti e salati 250 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Milani Remigio & C snc",
+    "product": "Lupini Cotti e salati 250 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Milani Remigio & C snc - Lupini Cotti e salati 250 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20250g_1773925725.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lupini-cotti-e-salati-250-g",
+    "published": "2026-03-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-milano-0/",
+    "title": "",
+    "noticeDate": "18 marzo 2026",
+    "campi": {
+      "data pubblicazione": "18 marzo 2026",
+      "marca": "SIGMA / D.IT - DISTRIBUZIONE ITALIANA SOC. COOP.",
+      "denominazione": "SALAME MILANO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SIGMA / D.IT - DISTRIBUZIONE ITALIANA SOC. COOP.",
+    "product": "SALAME MILANO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SIGMA / D.IT - DISTRIBUZIONE ITALIANA SOC. COOP. - SALAME MILANO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo_1773830387.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-milano-0",
+    "published": "2026-03-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fiocchi-di-soia-biologici-organic-soy-mince/",
+    "title": "",
+    "noticeDate": "18 marzo 2026",
+    "campi": {
+      "data pubblicazione": "18 marzo 2026",
+      "marca": "Bordoni Italia Srl",
+      "denominazione": "Fiocchi di soia biologici / Organic Soy Mince",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Bordoni Italia Srl",
+    "product": "Fiocchi di soia biologici / Organic Soy Mince",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Bordoni Italia Srl - Fiocchi di soia biologici / Organic Soy Mince",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_1773839325.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fiocchi-di-soia-biologici-organic-soy-mince",
+    "published": "2026-03-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-milano-affettato-100-gr/",
+    "title": "",
+    "noticeDate": "18 marzo 2026",
+    "campi": {
+      "data pubblicazione": "18 marzo 2026",
+      "marca": "Sigma - freschi da gustare",
+      "denominazione": "Salame Milano affettato 100 gr.",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Sigma - freschi da gustare",
+    "product": "Salame Milano affettato 100 gr.",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sigma - freschi da gustare - Salame Milano affettato 100 gr.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo_1773839327.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-milano-affettato-100-gr",
+    "published": "2026-03-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gambero-bianco-congelato-0/",
+    "title": "",
+    "noticeDate": "17 marzo 2026",
+    "campi": {
+      "data pubblicazione": "17 marzo 2026",
+      "marca": "Giacalone Luciano Group srl",
+      "denominazione": "Gambero Bianco Congelato",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Giacalone Luciano Group srl",
+    "product": "Gambero Bianco Congelato",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Giacalone Luciano Group srl - Gambero Bianco Congelato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20di%20richiamo_1773744190.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gambero-bianco-congelato-0",
+    "published": "2026-03-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-chia-3/",
+    "title": "",
+    "noticeDate": "16 marzo 2026",
+    "campi": {
+      "data pubblicazione": "16 marzo 2026",
+      "marca": "CALLERIS - LINEA PIU'",
+      "denominazione": "SEMI DI CHIA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CALLERIS - LINEA PIU'",
+    "product": "SEMI DI CHIA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CALLERIS - LINEA PIU' - SEMI DI CHIA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_semi_chia_Calleris_1773657609.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "semi-di-chia-3",
+    "published": "2026-03-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gambero-bianco-congelato/",
+    "title": "",
+    "noticeDate": "12 marzo 2026",
+    "campi": {
+      "data pubblicazione": "12 marzo 2026",
+      "marca": "GIACALONE LUCIANO GROUP SRL",
+      "denominazione": "GAMBERO BIANCO CONGELATO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "GIACALONE LUCIANO GROUP SRL",
+    "product": "GAMBERO BIANCO CONGELATO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GIACALONE LUCIANO GROUP SRL - GAMBERO BIANCO CONGELATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20ALLERTA_1773744074.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gambero-bianco-congelato",
+    "published": "2026-03-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lupini-secchi/",
+    "title": "",
+    "noticeDate": "11 marzo 2026",
+    "campi": {
+      "data pubblicazione": "11 marzo 2026",
+      "marca": "CIBON",
+      "denominazione": "LUPINI SECCHI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CIBON",
+    "product": "LUPINI SECCHI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CIBON - LUPINI SECCHI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartelloRichiamo_Lupini_Cibon_Lotto343_25_1773225624.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lupini-secchi",
+    "published": "2026-03-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-tonno-allolio-di-oliva/",
+    "title": "",
+    "noticeDate": "11 marzo 2026",
+    "campi": {
+      "data pubblicazione": "11 marzo 2026",
+      "marca": "CONAD",
+      "denominazione": "FILETTI DI TONNO ALL'OLIO DI OLIVA",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "CONAD",
+    "product": "FILETTI DI TONNO ALL'OLIO DI OLIVA",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONAD - FILETTI DI TONNO ALL'OLIO DI OLIVA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20RICHIAMO_1773234518.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filetti-di-tonno-allolio-di-oliva",
+    "published": "2026-03-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/provolone-leggermente-piccante-senza-lattosio-140-gr/",
+    "title": "",
+    "noticeDate": "9 marzo 2026",
+    "campi": {
+      "data pubblicazione": "9 marzo 2026",
+      "marca": "CONSILIA",
+      "denominazione": "PROVOLONE LEGGERMENTE PICCANTE SENZA LATTOSIO 140 gr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CONSILIA",
+    "product": "PROVOLONE LEGGERMENTE PICCANTE SENZA LATTOSIO 140 gr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONSILIA - PROVOLONE LEGGERMENTE PICCANTE SENZA LATTOSIO 140 gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulorichiamo_050326%20_2__1773052807.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "provolone-leggermente-piccante-senza-lattosio-140-gr",
+    "published": "2026-03-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-pasqua-al-cioccolato-fondente/",
+    "title": "",
+    "noticeDate": "6 marzo 2026",
+    "campi": {
+      "data pubblicazione": "6 marzo 2026",
+      "marca": "Marchesi 1824",
+      "denominazione": "UOVA di PASQUA al Cioccolato Fondente",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Marchesi 1824",
+    "product": "UOVA di PASQUA al Cioccolato Fondente",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Marchesi 1824 - UOVA di PASQUA al Cioccolato Fondente",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_1772826794.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-di-pasqua-al-cioccolato-fondente",
+    "published": "2026-03-06",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/moringa-capsule/",
     "title": "Moringa in capsule a marchio Rosabella",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-casi-di-salmonellosi-resistente-diversi-antibiotici/",
