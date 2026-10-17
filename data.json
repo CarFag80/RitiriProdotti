@@ -312,6 +312,370 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/amaretti-gallina-0/",
+    "title": "",
+    "noticeDate": "16 settembre 2026",
+    "campi": {
+      "data pubblicazione": "16 settembre 2026",
+      "marca": "Amaretti Gallina",
+      "denominazione": "Amaretti Gallina",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Amaretti Gallina",
+    "product": "Amaretti Gallina",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Amaretti Gallina - Amaretti Gallina",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20AMARETTI%20GALLINA%20310%20GR._1789569674.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "amaretti-gallina-0",
+    "published": "2026-09-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pancetta-affumicata-sottovuoto/",
+    "title": "",
+    "noticeDate": "15 settembre 2026",
+    "campi": {
+      "data pubblicazione": "15 settembre 2026",
+      "marca": "Salumificio Campidanese Su Sartizzu",
+      "denominazione": "Pancetta affumicata (sottovuoto)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio Campidanese Su Sartizzu",
+    "product": "Pancetta affumicata (sottovuoto)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio Campidanese Su Sartizzu - Pancetta affumicata (sottovuoto)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/mopdello%20richiamo%20pancetta%20affumicata%20su%20sartizzu_1789537202.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pancetta-affumicata-sottovuoto",
+    "published": "2026-09-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/brie-1-kg-60-neutre/",
+    "title": "",
+    "noticeDate": "15 settembre 2026",
+    "campi": {
+      "data pubblicazione": "15 settembre 2026",
+      "marca": "SASU Pâturages Comtois Rue de la Fromagerie FR - 70500 Aboncourt-Gesincourt - FRANCIA",
+      "denominazione": "Brie 1 kg 60% NEUTRE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SASU Pâturages Comtois Rue de la Fromagerie FR - 70500 Aboncourt-Gesincourt - FRANCIA",
+    "product": "Brie 1 kg 60% NEUTRE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SASU Pâturages Comtois Rue de la Fromagerie FR - 70500 Aboncourt-Gesincourt - FRANCIA - Brie 1 kg 60% NEUTRE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/avviso_richiamo_prodotto_consumatore_1789465229.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "brie-1-kg-60-neutre",
+    "published": "2026-09-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filone-di-tonno-pinne-gialle-decongelato-senza-pelle-sottovuoto/",
+    "title": "",
+    "noticeDate": "15 settembre 2026",
+    "campi": {
+      "data pubblicazione": "15 settembre 2026",
+      "marca": "CORMEU SRL",
+      "denominazione": "FILONE DI TONNO A PINNE GIALLE DECONGELATO SENZA PELLE SOTTOVUOTO",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "CORMEU SRL",
+    "product": "FILONE DI TONNO A PINNE GIALLE DECONGELATO SENZA PELLE SOTTOVUOTO",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CORMEU SRL - FILONE DI TONNO A PINNE GIALLE DECONGELATO SENZA PELLE SOTTOVUOTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/COROMEU%20SRL%20_REVOCA%20DEL%20RICHIAMO%20DEL%2028.02.2026_1789483149.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filone-di-tonno-pinne-gialle-decongelato-senza-pelle-sottovuoto",
+    "published": "2026-09-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/amaretti-gallini/",
+    "title": "",
+    "noticeDate": "15 settembre 2026",
+    "campi": {
+      "data pubblicazione": "15 settembre 2026",
+      "marca": "Amaretti Gallina",
+      "denominazione": "Amaretti Gallini",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Amaretti Gallina",
+    "product": "Amaretti Gallini",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Amaretti Gallina - Amaretti Gallini",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20750g_1789569572.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "amaretti-gallini",
+    "published": "2026-09-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/amaretti-gallina/",
+    "title": "",
+    "noticeDate": "15 settembre 2026",
+    "campi": {
+      "data pubblicazione": "15 settembre 2026",
+      "marca": "Amaretti Gallina",
+      "denominazione": "Amaretti Gallina",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Amaretti Gallina",
+    "product": "Amaretti Gallina",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Amaretti Gallina - Amaretti Gallina",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20confezioni%20da%20500g%20e%20310g_1789569624.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "amaretti-gallina",
+    "published": "2026-09-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pancetta-affumicata-sottovuoto-0/",
+    "title": "",
+    "noticeDate": "15 settembre 2026",
+    "campi": {
+      "data pubblicazione": "15 settembre 2026",
+      "marca": "Salumificio Campidanese Su Sartizzu",
+      "denominazione": "Pancetta affumicata (sottovuoto)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio Campidanese Su Sartizzu",
+    "product": "Pancetta affumicata (sottovuoto)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio Campidanese Su Sartizzu - Pancetta affumicata (sottovuoto)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20di%20richiamo%20pancetta%20affumicata%20sv%20su%20sartizzu_1789537248.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pancetta-affumicata-sottovuoto-0",
+    "published": "2026-09-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-medie-di-cat-da-allevamento-terra-abf-despar/",
+    "title": "",
+    "noticeDate": "14 settembre 2026",
+    "campi": {
+      "data pubblicazione": "14 settembre 2026",
+      "marca": "Despar",
+      "denominazione": "Uova medie di cat. A da allevamento a terra ABF Despar",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Despar",
+    "product": "Uova medie di cat. A da allevamento a terra ABF Despar",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Despar - Uova medie di cat. A da allevamento a terra ABF Despar",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3103_DESPAR_1790692818.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-medie-di-cat-da-allevamento-terra-abf-despar",
+    "published": "2026-09-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-cat-di-vario-calibro-da-allevamento-terra/",
+    "title": "",
+    "noticeDate": "14 settembre 2026",
+    "campi": {
+      "data pubblicazione": "14 settembre 2026",
+      "marca": "Fattorie Natura",
+      "denominazione": "Uova di cat. A di vario calibro da allevamento a terra",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Fattorie Natura",
+    "product": "Uova di cat. A di vario calibro da allevamento a terra",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fattorie Natura - Uova di cat. A di vario calibro da allevamento a terra",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/4770_COOP_1790692926.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-di-cat-di-vario-calibro-da-allevamento-terra",
+    "published": "2026-09-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-cat-medie-da-allevamento-terra-selex/",
+    "title": "",
+    "noticeDate": "14 settembre 2026",
+    "campi": {
+      "data pubblicazione": "14 settembre 2026",
+      "marca": "Selex",
+      "denominazione": "Uova di cat. A medie da allevamento a terra Selex",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Selex",
+    "product": "Uova di cat. A medie da allevamento a terra Selex",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Selex - Uova di cat. A medie da allevamento a terra Selex",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/5647_SELEX_1790693026.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-di-cat-medie-da-allevamento-terra-selex",
+    "published": "2026-09-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-cat-medie-da-allevamento-terra-selex-0/",
+    "title": "",
+    "noticeDate": "14 settembre 2026",
+    "campi": {
+      "data pubblicazione": "14 settembre 2026",
+      "marca": "Selex",
+      "denominazione": "Uova di cat. A medie da allevamento a terra Selex",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Selex",
+    "product": "Uova di cat. A medie da allevamento a terra Selex",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Selex - Uova di cat. A medie da allevamento a terra Selex",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/6536_SELEX_1790693179.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-di-cat-medie-da-allevamento-terra-selex-0",
+    "published": "2026-09-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/speck-e-brie/",
+    "title": "",
+    "noticeDate": "14 settembre 2026",
+    "campi": {
+      "data pubblicazione": "14 settembre 2026",
+      "marca": "Re dei Sapori",
+      "denominazione": "Speck e Brie",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Re dei Sapori",
+    "product": "Speck e Brie",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Re dei Sapori - Speck e Brie",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%206%20cartello%20richiamo%20prodotto%20F262190143%20mod10.09.26._1791279228.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "speck-e-brie",
+    "published": "2026-09-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/speck-e-brie-0/",
+    "title": "",
+    "noticeDate": "14 settembre 2026",
+    "campi": {
+      "data pubblicazione": "14 settembre 2026",
+      "marca": "Re dei Sapori",
+      "denominazione": "Speck e Brie",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Re dei Sapori",
+    "product": "Speck e Brie",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Re dei Sapori - Speck e Brie",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%206%20cartello%20richiamo%20prodotto%20F262190146%20mod10.09.26._1791279264.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "speck-e-brie-0",
+    "published": "2026-09-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/speck-e-brie-1/",
+    "title": "",
+    "noticeDate": "14 settembre 2026",
+    "campi": {
+      "data pubblicazione": "14 settembre 2026",
+      "marca": "Re dei Sapori",
+      "denominazione": "Speck e Brie",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Re dei Sapori",
+    "product": "Speck e Brie",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Re dei Sapori - Speck e Brie",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%206%20cartello%20richiamo%20prodotto%20F262260011%20mod10.09.26_1791279300.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "speck-e-brie-1",
+    "published": "2026-09-14",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratore-base-di-caffe/",
     "title": "Integratore alimentare Coffee 2.0 - Tasty dose",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-di-sicurezza-integratore-coffee-20-base-di-caffe/",
@@ -346,6 +710,162 @@
     "id": "integratore-base-di-caffe",
     "published": "2026-09-11",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cenestro/",
+    "title": "",
+    "noticeDate": "11 settembre 2026",
+    "campi": {
+      "data pubblicazione": "11 settembre 2026",
+      "marca": "IL FIENILE - DI CECCA LUIGI SRL",
+      "denominazione": "CENESTRO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "IL FIENILE - DI CECCA LUIGI SRL",
+    "product": "CENESTRO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IL FIENILE - DI CECCA LUIGI SRL - CENESTRO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/avviso%20di%20richiamo_1789128144.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cenestro",
+    "published": "2026-09-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/canestro/",
+    "title": "",
+    "noticeDate": "11 settembre 2026",
+    "campi": {
+      "data pubblicazione": "11 settembre 2026",
+      "marca": "IL FIENILE - DI CECCA LUIGI SRL",
+      "denominazione": "CANESTRO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "IL FIENILE - DI CECCA LUIGI SRL",
+    "product": "CANESTRO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IL FIENILE - DI CECCA LUIGI SRL - CANESTRO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/avviso%20di%20richiamo_1789128146.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "canestro",
+    "published": "2026-09-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caciotta-di-pecora-primo-sale/",
+    "title": "",
+    "noticeDate": "9 settembre 2026",
+    "campi": {
+      "data pubblicazione": "9 settembre 2026",
+      "marca": "Ditta Sabino Francesco - UE IT 17 4",
+      "denominazione": "Caciotta di Pecora primo sale",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Ditta Sabino Francesco - UE IT 17 4",
+    "product": "Caciotta di Pecora primo sale",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ditta Sabino Francesco - UE IT 17 4 - Caciotta di Pecora primo sale",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Sabino%20Francesco%20modello%20richiamo_alert_09set26_1788973411.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "caciotta-di-pecora-primo-sale",
+    "published": "2026-09-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/duble-5/",
+    "title": "",
+    "noticeDate": "8 settembre 2026",
+    "campi": {
+      "data pubblicazione": "8 settembre 2026",
+      "marca": "CAPRISS",
+      "denominazione": "Dublè",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "CAPRISS",
+    "product": "Dublè",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CAPRISS - Dublè",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20richiamo%20Dubl%C3%A8%20scad%202.08.26_1788887804.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "duble-5",
+    "published": "2026-09-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggella-4/",
+    "title": "",
+    "noticeDate": "8 settembre 2026",
+    "campi": {
+      "data pubblicazione": "8 settembre 2026",
+      "marca": "CAPRISS",
+      "denominazione": "Formaggella",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "CAPRISS",
+    "product": "Formaggella",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CAPRISS - Formaggella",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20richiamo%20formaggella%20scad%2001.08.26_1788887849.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "formaggella-4",
+    "published": "2026-09-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/robiola-0/",
+    "title": "",
+    "noticeDate": "8 settembre 2026",
+    "campi": {
+      "data pubblicazione": "8 settembre 2026",
+      "marca": "CAPRISS",
+      "denominazione": "Robiola",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "CAPRISS",
+    "product": "Robiola",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CAPRISS - Robiola",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20Robiola%20scad%203.8.26_1788887895.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "robiola-0",
+    "published": "2026-09-08",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/integratori-base-di-moringa/",
