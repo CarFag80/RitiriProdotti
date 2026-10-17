@@ -339,6 +339,448 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pandoro-classico/",
+    "title": "",
+    "noticeDate": "2 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "2 gennaio 2026",
+      "marca": "VERGANI SRL - MILANO",
+      "denominazione": "PANDORO CLASSICO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "VERGANI SRL - MILANO",
+    "product": "PANDORO CLASSICO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VERGANI SRL - MILANO - PANDORO CLASSICO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/10%20richiamo%20CLASSICO%20VERGANI_1767729461.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pandoro-classico",
+    "published": "2026-01-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pandoro-classico-0/",
+    "title": "",
+    "noticeDate": "2 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "2 gennaio 2026",
+      "marca": "VERGANI SRL - MILANO",
+      "denominazione": "PANDORO CLASSICO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "VERGANI SRL - MILANO",
+    "product": "PANDORO CLASSICO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VERGANI SRL - MILANO - PANDORO CLASSICO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/11%20richiamo%20CLASSICO%20PER%20ESSELUNGA%20VERGANI_1767729499.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pandoro-classico-0",
+    "published": "2026-01-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-acciughe/",
+    "title": "",
+    "noticeDate": "2 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "2 gennaio 2026",
+      "marca": "ZAROTTI",
+      "denominazione": "PASTA DI ACCIUGHE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ZAROTTI",
+    "product": "PASTA DI ACCIUGHE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ZAROTTI - PASTA DI ACCIUGHE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Pasta%20di%20Acciughe%20Zarotti_1767368017.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasta-di-acciughe",
+    "published": "2026-01-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/soffi-di-mais-bio-50gr/",
+    "title": "",
+    "noticeDate": "30 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2025",
+      "marca": "Azienda Agricola Podere Pereto",
+      "denominazione": "Soffi di mais bio 50gr",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Azienda Agricola Podere Pereto",
+    "product": "Soffi di mais bio 50gr",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Azienda Agricola Podere Pereto - Soffi di mais bio 50gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Soffi%20di%20mais%20bio%2050gr_1767108838.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "soffi-di-mais-bio-50gr",
+    "published": "2025-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-mais-rosso-biologico-monopozioni-120g/",
+    "title": "",
+    "noticeDate": "30 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2025",
+      "marca": "Azienda Agricola Podere Pereto",
+      "denominazione": "Gallette mais rosso biologico monopozioni 120g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Azienda Agricola Podere Pereto",
+    "product": "Gallette mais rosso biologico monopozioni 120g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Azienda Agricola Podere Pereto - Gallette mais rosso biologico monopozioni 120g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Gallette%20di%20mais%20rosso%20bio%20120g%20_1767108877.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gallette-mais-rosso-biologico-monopozioni-120g",
+    "published": "2025-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-mais-rosso-biologico-90g/",
+    "title": "",
+    "noticeDate": "30 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2025",
+      "marca": "Azienda Agricola Podere Pereto",
+      "denominazione": "Gallette mais rosso biologico 90g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Azienda Agricola Podere Pereto",
+    "product": "Gallette mais rosso biologico 90g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Azienda Agricola Podere Pereto - Gallette mais rosso biologico 90g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Gallette%20di%20mais%20rosso%20bio%2090g_1767108913.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gallette-mais-rosso-biologico-90g",
+    "published": "2025-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-mais-pignoletto-rosso-bio-500g/",
+    "title": "",
+    "noticeDate": "30 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2025",
+      "marca": "Azienda Agricola Podere Pereto",
+      "denominazione": "Farina di mais pignoletto rosso bio 500g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Azienda Agricola Podere Pereto",
+    "product": "Farina di mais pignoletto rosso bio 500g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Azienda Agricola Podere Pereto - Farina di mais pignoletto rosso bio 500g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Farina%20di%20mais%20pignoletto%20rosso%20bio%20500g_1767108948.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "farina-di-mais-pignoletto-rosso-bio-500g",
+    "published": "2025-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-mais-pignoletto-rosso-bio-5kg/",
+    "title": "",
+    "noticeDate": "30 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "30 dicembre 2025",
+      "marca": "Azienda Agricola Podere Pereto",
+      "denominazione": "Farina di mais pignoletto rosso bio 5kg",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Azienda Agricola Podere Pereto",
+    "product": "Farina di mais pignoletto rosso bio 5kg",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Azienda Agricola Podere Pereto - Farina di mais pignoletto rosso bio 5kg",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Farina%20di%20mais%20pignoletto%20rosso%20bio%205kg_1767108984.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "farina-di-mais-pignoletto-rosso-bio-5kg",
+    "published": "2025-12-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panfette-senza-glutine/",
+    "title": "",
+    "noticeDate": "24 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "24 dicembre 2025",
+      "marca": "NUTRIFREE",
+      "denominazione": "PANFETTE SENZA GLUTINE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "NUTRIFREE",
+    "product": "PANFETTE SENZA GLUTINE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NUTRIFREE - PANFETTE SENZA GLUTINE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20PAN163_02_05_26_DEF_def_1766591047.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "panfette-senza-glutine",
+    "published": "2025-12-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panfette-con-farina-integrale-senza-glutine/",
+    "title": "",
+    "noticeDate": "24 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "24 dicembre 2025",
+      "marca": "NUTRIFREE",
+      "denominazione": "PANFETTE CON FARINA INTEGRALE SENZA GLUTINE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "NUTRIFREE",
+    "product": "PANFETTE CON FARINA INTEGRALE SENZA GLUTINE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NUTRIFREE - PANFETTE CON FARINA INTEGRALE SENZA GLUTINE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PAN164_03_04_26_DEF_def_1766591087.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "panfette-con-farina-integrale-senza-glutine",
+    "published": "2025-12-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lenti-lode-prosciutto-cotto-alta-qualita/",
+    "title": "",
+    "noticeDate": "24 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "24 dicembre 2025",
+      "marca": "LENTI",
+      "denominazione": "LENTI & LODE - PROSCIUTTO COTTO ALTA QUALITA'",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LENTI",
+    "product": "LENTI & LODE - PROSCIUTTO COTTO ALTA QUALITA'",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LENTI - LENTI & LODE - PROSCIUTTO COTTO ALTA QUALITA'",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_richiamo_Lenti_e_Lode_L2541327_2541328_1766572770.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "lenti-lode-prosciutto-cotto-alta-qualita",
+    "published": "2025-12-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gran-fesa-di-tacchino-arrosto/",
+    "title": "",
+    "noticeDate": "24 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "24 dicembre 2025",
+      "marca": "LENTI",
+      "denominazione": "GRAN FESA DI TACCHINO ARROSTO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LENTI",
+    "product": "GRAN FESA DI TACCHINO ARROSTO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LENTI - GRAN FESA DI TACCHINO ARROSTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_richiamo_Gran_Fesa_L2541330_1766572771.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gran-fesa-di-tacchino-arrosto",
+    "published": "2025-12-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/arista-al-forno-0/",
+    "title": "",
+    "noticeDate": "23 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "23 dicembre 2025",
+      "marca": "FIOR FIORE - COOP",
+      "denominazione": "ARISTA AL FORNO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FIOR FIORE - COOP",
+    "product": "ARISTA AL FORNO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIOR FIORE - COOP - ARISTA AL FORNO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_aggiornato_Arista%20Fior%20Fiore%20L2541329_1766495338.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "arista-al-forno-0",
+    "published": "2025-12-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/soffi-di-mais-0/",
+    "title": "",
+    "noticeDate": "22 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "22 dicembre 2025",
+      "marca": "La Grande Ruota",
+      "denominazione": "Soffi Di Mais",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "La Grande Ruota",
+    "product": "Soffi Di Mais",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo La Grande Ruota - Soffi Di Mais",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_La_Grande_Ruota_1766399613.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "soffi-di-mais-0",
+    "published": "2025-12-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/soffi-di-mais-1/",
+    "title": "",
+    "noticeDate": "22 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "22 dicembre 2025",
+      "marca": "La Grande Ruota",
+      "denominazione": "Soffi Di Mais",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "La Grande Ruota",
+    "product": "Soffi Di Mais",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo La Grande Ruota - Soffi Di Mais",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20La%20Grande%20Ruota_1766408550.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "soffi-di-mais-1",
+    "published": "2025-12-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-piccante/",
+    "title": "",
+    "noticeDate": "22 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "22 dicembre 2025",
+      "marca": "Salsiccia piccante",
+      "denominazione": "Salsiccia piccante",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salsiccia piccante",
+    "product": "Salsiccia piccante",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salsiccia piccante - Salsiccia piccante",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20salsiccia_1766417971.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsiccia-piccante",
+    "published": "2025-12-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/arista-al-forno/",
+    "title": "",
+    "noticeDate": "20 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "20 dicembre 2025",
+      "marca": "FIOR FIORE - COOP",
+      "denominazione": "ARISTA AL FORNO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FIOR FIORE - COOP",
+    "product": "ARISTA AL FORNO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIOR FIORE - COOP - ARISTA AL FORNO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/_.._area_comune_allegati_allerta_2025_n3429_RICHIAMO_Arista_Fior_fiore_L2541329_1766259922.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "arista-al-forno",
+    "published": "2025-12-20",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ciccioli-sv/",
     "title": "",
     "noticeDate": "19 dicembre 2025",
@@ -2690,6 +3132,84 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "tisanapa-hemp-thyme-and-mallow",
+    "published": "2025-10-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tisanapa-natural-hemp/",
+    "title": "",
+    "noticeDate": "8 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "8 ottobre 2025",
+      "marca": "CBWEED SRL",
+      "denominazione": "TISANAPA NATURAL HEMP",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CBWEED SRL",
+    "product": "TISANAPA NATURAL HEMP",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CBWEED SRL - TISANAPA NATURAL HEMP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20ministero%20natural_1761209206.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tisanapa-natural-hemp",
+    "published": "2025-10-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tisanapa-hemp-orange-and-cinnamon/",
+    "title": "",
+    "noticeDate": "8 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "8 ottobre 2025",
+      "marca": "CBWEED SRL",
+      "denominazione": "TISANAPA HEMP ORANGE and CINNAMON",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CBWEED SRL",
+    "product": "TISANAPA HEMP ORANGE and CINNAMON",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CBWEED SRL - TISANAPA HEMP ORANGE and CINNAMON",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20ministero%20orange_1761209209.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tisanapa-hemp-orange-and-cinnamon",
+    "published": "2025-10-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tisana-alla-canapa-hemp-infusion-ribes-nero-blackcurrnt/",
+    "title": "",
+    "noticeDate": "8 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "8 ottobre 2025",
+      "marca": "CBWEED SRL",
+      "denominazione": "TISANA ALLA CANAPA HEMP INFUSION RIBES NERO BLACKCURRNT",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CBWEED SRL",
+    "product": "TISANA ALLA CANAPA HEMP INFUSION RIBES NERO BLACKCURRNT",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CBWEED SRL - TISANA ALLA CANAPA HEMP INFUSION RIBES NERO BLACKCURRNT",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20ministero%20ribes%20nero_1761209212.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tisana-alla-canapa-hemp-infusion-ribes-nero-blackcurrnt",
     "published": "2025-10-08",
     "source": "operator"
   },
