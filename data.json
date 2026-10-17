@@ -339,6 +339,474 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ciccioli-sv/",
+    "title": "",
+    "noticeDate": "19 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "19 dicembre 2025",
+      "marca": "Serafini",
+      "denominazione": "Ciccioli S/V",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Serafini",
+    "product": "Ciccioli S/V",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Serafini - Ciccioli S/V",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20SERAFINI_1766149471.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "ciccioli-sv",
+    "published": "2025-12-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/colatura-di-alici/",
+    "title": "",
+    "noticeDate": "19 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "19 dicembre 2025",
+      "marca": "Aragon",
+      "denominazione": "Colatura di Alici",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Aragon",
+    "product": "Colatura di Alici",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Aragon - Colatura di Alici",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Colatura%20Stella%20SRL%20_%20Lotto%20C259_25%20_1__1766167497.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "colatura-di-alici",
+    "published": "2025-12-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-7/",
+    "title": "",
+    "noticeDate": "15 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "15 dicembre 2025",
+      "marca": "Soc. Agricola Ortenzi Carlo",
+      "denominazione": "Salame",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Soc. Agricola Ortenzi Carlo",
+    "product": "Salame",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Soc. Agricola Ortenzi Carlo - Salame",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_Ortenzi_1765795935.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-7",
+    "published": "2025-12-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caciotta-campagnola/",
+    "title": "",
+    "noticeDate": "15 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "15 dicembre 2025",
+      "marca": "CACIOTTA CAMPAGNOLA",
+      "denominazione": "CACIOTTA CAMPAGNOLA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CACIOTTA CAMPAGNOLA",
+    "product": "CACIOTTA CAMPAGNOLA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CACIOTTA CAMPAGNOLA - CACIOTTA CAMPAGNOLA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20caciotta%20campagnola_1765822199.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "caciotta-campagnola",
+    "published": "2025-12-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caciotta-di-mucca-pompea/",
+    "title": "",
+    "noticeDate": "15 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "15 dicembre 2025",
+      "marca": "CACIOTTA POMPEA",
+      "denominazione": "CACIOTTA DI MUCCA POMPEA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CACIOTTA POMPEA",
+    "product": "CACIOTTA DI MUCCA POMPEA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CACIOTTA POMPEA - CACIOTTA DI MUCCA POMPEA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20caciotta%20pompea%20_002__1765822342.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "caciotta-di-mucca-pompea",
+    "published": "2025-12-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-salamella/",
+    "title": "",
+    "noticeDate": "11 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "11 dicembre 2025",
+      "marca": "NATURAMICA /HRL GOURMET",
+      "denominazione": "Salsiccia / salamella",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "NATURAMICA /HRL GOURMET",
+    "product": "Salsiccia / salamella",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NATURAMICA /HRL GOURMET - Salsiccia / salamella",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULORICHIAMO_1765468164.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salsiccia-salamella",
+    "published": "2025-12-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-genovese-fresco-senza-aglio/",
+    "title": "",
+    "noticeDate": "11 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "11 dicembre 2025",
+      "marca": "Fior Fiore COOP",
+      "denominazione": "PESTO GENOVESE FRESCO SENZA AGLIO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Fior Fiore COOP",
+    "product": "PESTO GENOVESE FRESCO SENZA AGLIO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Fior Fiore COOP - PESTO GENOVESE FRESCO SENZA AGLIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PESTO%20COOP%20modello%20richiamo%20FF_1765477218.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pesto-genovese-fresco-senza-aglio",
+    "published": "2025-12-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-genovese-fresco-senza-aglio-0/",
+    "title": "",
+    "noticeDate": "11 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "11 dicembre 2025",
+      "marca": "FIOR FIORE COOP",
+      "denominazione": "PESTO GENOVESE FRESCO SENZA AGLIO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FIOR FIORE COOP",
+    "product": "PESTO GENOVESE FRESCO SENZA AGLIO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIOR FIORE COOP - PESTO GENOVESE FRESCO SENZA AGLIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20pesto%20FF_1765482610.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pesto-genovese-fresco-senza-aglio-0",
+    "published": "2025-12-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-carrozza-al-prosciutto-2/",
+    "title": "",
+    "noticeDate": "10 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "10 dicembre 2025",
+      "marca": "I Freschissimi",
+      "denominazione": "Mozzarella in carrozza al prosciutto",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "I Freschissimi",
+    "product": "Mozzarella in carrozza al prosciutto",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo I Freschissimi - Mozzarella in carrozza al prosciutto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20ALI%20_%20entrambi%20i%20lotti%20pdf%20_2__1765372600.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mozzarella-carrozza-al-prosciutto-2",
+    "published": "2025-12-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarelle-carrozza-al-prosciutto/",
+    "title": "",
+    "noticeDate": "10 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "10 dicembre 2025",
+      "marca": "Scelto da Noi",
+      "denominazione": "Mozzarelle in carrozza al prosciutto",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "Scelto da Noi",
+    "product": "Mozzarelle in carrozza al prosciutto",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Scelto da Noi - Mozzarelle in carrozza al prosciutto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20CIA%20_%20entrambi%20i%20lotti%20_1_%20_3__1765372602.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mozzarelle-carrozza-al-prosciutto",
+    "published": "2025-12-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarelle-carrozza-al-prosciutto-0/",
+    "title": "",
+    "noticeDate": "10 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "10 dicembre 2025",
+      "marca": "Cucina Nostrana Srl Unipersonale",
+      "denominazione": "Mozzarelle in carrozza al prosciutto",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "Cucina Nostrana Srl Unipersonale",
+    "product": "Mozzarelle in carrozza al prosciutto",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cucina Nostrana Srl Unipersonale - Mozzarelle in carrozza al prosciutto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Cucina%20_%20tutti%20i%20lotti%20_3__1765372604.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mozzarelle-carrozza-al-prosciutto-0",
+    "published": "2025-12-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nidina-optipro-1-2x600g/",
+    "title": "",
+    "noticeDate": "10 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "10 dicembre 2025",
+      "marca": "NESTLE ITALIANA SPA",
+      "denominazione": "NIDINA OPTIPRO 1 (2X600G)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "NESTLE ITALIANA SPA",
+    "product": "NIDINA OPTIPRO 1 (2X600G)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NESTLE ITALIANA SPA - NIDINA OPTIPRO 1 (2X600G)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20NIDINA%20OPTIPTO%201%20NLNWPB261%206_2x600g_%20IT%20lotto%2052860346BB_1765381820.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "nidina-optipro-1-2x600g",
+    "published": "2025-12-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nidina-optipro-1-6x800g/",
+    "title": "",
+    "noticeDate": "10 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "10 dicembre 2025",
+      "marca": "NESTLE ITALIANA SPA",
+      "denominazione": "NIDINA OPTIPRO 1 (6X800G)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "NESTLE ITALIANA SPA",
+    "product": "NIDINA OPTIPRO 1 (6X800G)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NESTLE ITALIANA SPA - NIDINA OPTIPRO 1 (6X800G)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20NIDINA%20OPTIPRO%201%20NLNWPB261%206x800g_%20IT%20lotto%2052850346AD_1765381955.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "nidina-optipro-1-6x800g",
+    "published": "2025-12-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nidina-optipro-1-800g/",
+    "title": "",
+    "noticeDate": "10 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "10 dicembre 2025",
+      "marca": "NESTLE ITALIANA SPA",
+      "denominazione": "NIDINA OPTIPRO 1 (800G)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "NESTLE ITALIANA SPA",
+    "product": "NIDINA OPTIPRO 1 (800G)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NESTLE ITALIANA SPA - NIDINA OPTIPRO 1 (800G)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20NIDINA%20OPTIPRO%201%20NLNWPB261%206x800g_%20IT%20lotto%2052850346AD_1765382094.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "nidina-optipro-1-800g",
+    "published": "2025-12-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/colatura-di-alici-riserva-100ml/",
+    "title": "",
+    "noticeDate": "9 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "9 dicembre 2025",
+      "marca": "ARMATORE",
+      "denominazione": "COLATURA DI ALICI RISERVA 100ml",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ARMATORE",
+    "product": "COLATURA DI ALICI RISERVA 100ml",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ARMATORE - COLATURA DI ALICI RISERVA 100ml",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Colatura%20Alici%20Riserva%20_%20Consorzio%20Bluefish_Armatore%20srl_1765277291.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "colatura-di-alici-riserva-100ml",
+    "published": "2025-12-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-bio-0/",
+    "title": "",
+    "noticeDate": "9 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "9 dicembre 2025",
+      "marca": "San e Bun",
+      "denominazione": "Gallette Bio",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "San e Bun",
+    "product": "Gallette Bio",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo San e Bun - Gallette Bio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_San_e_Bun_A2541_1765295458.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gallette-bio-0",
+    "published": "2025-12-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-di-mais-integrale-pignoletto-4/",
+    "title": "",
+    "noticeDate": "9 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "9 dicembre 2025",
+      "marca": "Dietnatural",
+      "denominazione": "Gallette di mais integrale pignoletto",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Dietnatural",
+    "product": "Gallette di mais integrale pignoletto",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Dietnatural - Gallette di mais integrale pignoletto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Dietnatural_A2517_1765295580.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gallette-di-mais-integrale-pignoletto-4",
+    "published": "2025-12-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-di-fegato/",
+    "title": "",
+    "noticeDate": "4 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "4 dicembre 2025",
+      "marca": "C.I.R. sa.s. di Mecarelli Claudio & C.",
+      "denominazione": "SALSA DI FEGATO",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "C.I.R. sa.s. di Mecarelli Claudio & C.",
+    "product": "SALSA DI FEGATO",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo C.I.R. sa.s. di Mecarelli Claudio & C. - SALSA DI FEGATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1764845213.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsa-di-fegato",
+    "published": "2025-12-04",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-di-mais-pignoletto-integrale/",
     "title": "",
     "noticeDate": "3 dicembre 2025",
@@ -569,6 +1037,58 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "le-gallette-gustose-e-croccanti-mais-integrale",
+    "published": "2025-12-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-di-mais-integrale-pignoletto-3/",
+    "title": "",
+    "noticeDate": "3 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2025",
+      "marca": "Langalletta",
+      "denominazione": "Gallette di mais integrale pignoletto",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Langalletta",
+    "product": "Gallette di mais integrale pignoletto",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Langalletta - Gallette di mais integrale pignoletto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Langalletta_E2589_1764777882.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gallette-di-mais-integrale-pignoletto-3",
+    "published": "2025-12-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trippa-mista-cotta/",
+    "title": "",
+    "noticeDate": "3 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2025",
+      "marca": "LA VERA TRIPPA NAPOLETANA",
+      "denominazione": "TRIPPA MISTA COTTA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LA VERA TRIPPA NAPOLETANA",
+    "product": "TRIPPA MISTA COTTA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA VERA TRIPPA NAPOLETANA - TRIPPA MISTA COTTA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1764777911.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "trippa-mista-cotta",
     "published": "2025-12-03",
     "source": "operator"
   },
