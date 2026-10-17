@@ -1681,6 +1681,474 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/senape-300-ml/",
+    "title": "",
+    "noticeDate": "14 maggio 2026",
+    "campi": {
+      "data pubblicazione": "14 maggio 2026",
+      "marca": "Tuscè",
+      "denominazione": "Senape 300 ml",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Tuscè",
+    "product": "Senape 300 ml",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Tuscè - Senape 300 ml",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20senape%20squeezer%20300ml%20L44.1%20Tusc%C3%A8_1778760490.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "senape-300-ml",
+    "published": "2026-05-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gram-flour-farina-di-ceci/",
+    "title": "",
+    "noticeDate": "12 maggio 2026",
+    "campi": {
+      "data pubblicazione": "12 maggio 2026",
+      "marca": "SCHANI",
+      "denominazione": "Gram Flour - farina di ceci",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SCHANI",
+    "product": "Gram Flour - farina di ceci",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SCHANI - Gram Flour - farina di ceci",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20Schani%20Gram%20Flour_1778578799.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gram-flour-farina-di-ceci",
+    "published": "2026-05-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-maiale/",
+    "title": "",
+    "noticeDate": "12 maggio 2026",
+    "campi": {
+      "data pubblicazione": "12 maggio 2026",
+      "marca": "Colella",
+      "denominazione": "Riso-Maiale",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Colella",
+    "product": "Riso-Maiale",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Colella - Riso-Maiale",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_prodotto%20Colella%20TRADE%20SRL_1778605828.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "riso-maiale",
+    "published": "2026-05-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-nero-tostato/",
+    "title": "",
+    "noticeDate": "11 maggio 2026",
+    "campi": {
+      "data pubblicazione": "11 maggio 2026",
+      "marca": "NTC Wismettac Europe B.V.",
+      "denominazione": "SESAMO NERO TOSTATO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "NTC Wismettac Europe B.V.",
+    "product": "SESAMO NERO TOSTATO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NTC Wismettac Europe B.V. - SESAMO NERO TOSTATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo_1778492376.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sesamo-nero-tostato",
+    "published": "2026-05-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-nero-tostato-0/",
+    "title": "",
+    "noticeDate": "11 maggio 2026",
+    "campi": {
+      "data pubblicazione": "11 maggio 2026",
+      "marca": "Shirakiku",
+      "denominazione": "SESAMO NERO TOSTATO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Shirakiku",
+    "product": "SESAMO NERO TOSTATO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Shirakiku - SESAMO NERO TOSTATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo_1778492455.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sesamo-nero-tostato-0",
+    "published": "2026-05-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fegatello/",
+    "title": "",
+    "noticeDate": "11 maggio 2026",
+    "campi": {
+      "data pubblicazione": "11 maggio 2026",
+      "marca": "fegatello Nostrano",
+      "denominazione": "FEGATELLO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "fegatello Nostrano",
+    "product": "FEGATELLO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo fegatello Nostrano - FEGATELLO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo_1778519418.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "fegatello",
+    "published": "2026-05-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tramezzini-vicentiniradicchio-porchetta/",
+    "title": "",
+    "noticeDate": "5 maggio 2026",
+    "campi": {
+      "data pubblicazione": "5 maggio 2026",
+      "marca": "Intrapan S.r.l",
+      "denominazione": "TRAMEZZINI vicentiniradicchio porchetta",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Intrapan S.r.l",
+    "product": "TRAMEZZINI vicentiniradicchio porchetta",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Intrapan S.r.l - TRAMEZZINI vicentiniradicchio porchetta",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartellodirichiamoVicentiniradicchioporchetta%20_1__1777974015.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tramezzini-vicentiniradicchio-porchetta",
+    "published": "2026-05-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vistal-gea-60-opr-500-mg/",
+    "title": "",
+    "noticeDate": "29 aprile 2026",
+    "campi": {
+      "data pubblicazione": "29 aprile 2026",
+      "marca": "Arcangea Srl",
+      "denominazione": "VISTAL - GEA 60 OPR 500 mg",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Arcangea Srl",
+    "product": "VISTAL - GEA 60 OPR 500 mg",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Arcangea Srl - VISTAL - GEA 60 OPR 500 mg",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20prodotto%20Vistal_gea%20Lotto%2026019_1777464490.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "vistal-gea-60-opr-500-mg",
+    "published": "2026-04-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zinco-liposomiale-60-opr-400-mg/",
+    "title": "",
+    "noticeDate": "29 aprile 2026",
+    "campi": {
+      "data pubblicazione": "29 aprile 2026",
+      "marca": "Arcangea Srl",
+      "denominazione": "Zinco liposomiale 60 OPR 400 mg",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Arcangea Srl",
+    "product": "Zinco liposomiale 60 OPR 400 mg",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Arcangea Srl - Zinco liposomiale 60 OPR 400 mg",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20prodotto%20zinco%20liposomiale%20Lotto%2026036_1777464494.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "zinco-liposomiale-60-opr-400-mg",
+    "published": "2026-04-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zinco-liposomiale-60-opr-400-mg-0/",
+    "title": "",
+    "noticeDate": "29 aprile 2026",
+    "campi": {
+      "data pubblicazione": "29 aprile 2026",
+      "marca": "Arcangea Srl",
+      "denominazione": "Zinco liposomiale 60 OPR 400 mg",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Arcangea Srl",
+    "product": "Zinco liposomiale 60 OPR 400 mg",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Arcangea Srl - Zinco liposomiale 60 OPR 400 mg",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20prodotto%20zinco%20liposomiale%2025307_1777464496.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "zinco-liposomiale-60-opr-400-mg-0",
+    "published": "2026-04-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-di-mela-e-carota/",
+    "title": "",
+    "noticeDate": "29 aprile 2026",
+    "campi": {
+      "data pubblicazione": "29 aprile 2026",
+      "marca": "Carrefour BIO",
+      "denominazione": "Bevanda di mela e carota",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Carrefour BIO",
+    "product": "Bevanda di mela e carota",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Carrefour BIO - Bevanda di mela e carota",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_bevanda_mela_carota_CRF_BIO_3_10_2027_1777473694.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bevanda-di-mela-e-carota",
+    "published": "2026-04-29",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cioccolato-al-latte-di-riso-kosher/",
+    "title": "",
+    "noticeDate": "28 aprile 2026",
+    "campi": {
+      "data pubblicazione": "28 aprile 2026",
+      "marca": "\"Dolci per intolleranti\"",
+      "denominazione": "Cioccolato al latte di riso Kosher",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "\"Dolci per intolleranti\"",
+    "product": "Cioccolato al latte di riso Kosher",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo \"Dolci per intolleranti\" - Cioccolato al latte di riso Kosher",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello_compressed_1777387321.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cioccolato-al-latte-di-riso-kosher",
+    "published": "2026-04-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trs-whole-dhania-coriander-seeds-semi-di-coriondolo/",
+    "title": "",
+    "noticeDate": "27 aprile 2026",
+    "campi": {
+      "data pubblicazione": "27 aprile 2026",
+      "marca": "TRS Wholesale Co. Ltd",
+      "denominazione": "TRS Whole Dhania Coriander Seeds (Semi di Coriondolo)",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "TRS Wholesale Co. Ltd",
+    "product": "TRS Whole Dhania Coriander Seeds (Semi di Coriondolo)",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TRS Wholesale Co. Ltd - TRS Whole Dhania Coriander Seeds (Semi di Coriondolo)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Royal_1777309794.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "trs-whole-dhania-coriander-seeds-semi-di-coriondolo",
+    "published": "2026-04-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/polvere-di-moringa/",
+    "title": "",
+    "noticeDate": "27 aprile 2026",
+    "campi": {
+      "data pubblicazione": "27 aprile 2026",
+      "marca": "ERBAVOGLIO PRODUCTION SRL",
+      "denominazione": "POLVERE DI MORINGA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ERBAVOGLIO PRODUCTION SRL",
+    "product": "POLVERE DI MORINGA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ERBAVOGLIO PRODUCTION SRL - POLVERE DI MORINGA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Polvere%20di%20Moringa_1777309901.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "polvere-di-moringa",
+    "published": "2026-04-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sliming-tea-erb-thai-original-24x41g/",
+    "title": "",
+    "noticeDate": "23 aprile 2026",
+    "campi": {
+      "data pubblicazione": "23 aprile 2026",
+      "marca": "SLIMING TEA ERB THAI ORIGINAL 24X41g",
+      "denominazione": "SLIMING TEA ERB THAI ORIGINAL 24X41g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SLIMING TEA ERB THAI ORIGINAL 24X41g",
+    "product": "SLIMING TEA ERB THAI ORIGINAL 24X41g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SLIMING TEA ERB THAI ORIGINAL 24X41g - SLIMING TEA ERB THAI ORIGINAL 24X41g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20DI%20RICHIAMO_1776946113.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sliming-tea-erb-thai-original-24x41g",
+    "published": "2026-04-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-da-latte-del-mugello-bio/",
+    "title": "",
+    "noticeDate": "23 aprile 2026",
+    "campi": {
+      "data pubblicazione": "23 aprile 2026",
+      "marca": "Amù - amore bio",
+      "denominazione": "Mozzarella da latte del Mugello BIO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Amù - amore bio",
+    "product": "Mozzarella da latte del Mugello BIO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Amù - amore bio - Mozzarella da latte del Mugello BIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_Ministero_Mozz.Am_1776954908.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mozzarella-da-latte-del-mugello-bio",
+    "published": "2026-04-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sliming-tea-herb-thai-original-24x41g-0/",
+    "title": "",
+    "noticeDate": "22 aprile 2026",
+    "campi": {
+      "data pubblicazione": "22 aprile 2026",
+      "marca": "SLIMING TEA HERB THAI ORIGINAL",
+      "denominazione": "SLIMING TEA HERB THAI ORIGINAL 24X41G",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SLIMING TEA HERB THAI ORIGINAL",
+    "product": "SLIMING TEA HERB THAI ORIGINAL 24X41G",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SLIMING TEA HERB THAI ORIGINAL - SLIMING TEA HERB THAI ORIGINAL 24X41G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20DI%20RICHIAMO_1776451558_1776954832.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "sliming-tea-herb-thai-original-24x41g-0",
+    "published": "2026-04-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vassoio-rettangolare-argento-4pz-155x215cm/",
+    "title": "",
+    "noticeDate": "20 aprile 2026",
+    "campi": {
+      "data pubblicazione": "20 aprile 2026",
+      "marca": "SWEEPING PARTY",
+      "denominazione": "VASSOIO RETTANGOLARE ARGENTO 4pz. 15.5x21.5cm",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SWEEPING PARTY",
+    "product": "VASSOIO RETTANGOLARE ARGENTO 4pz. 15.5x21.5cm",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SWEEPING PARTY - VASSOIO RETTANGOLARE ARGENTO 4pz. 15.5x21.5cm",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20MV%20TECH%20SRL_1776749979.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "vassoio-rettangolare-argento-4pz-155x215cm",
+    "published": "2026-04-20",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salametto-tipo-milano-0/",
     "title": "",
     "noticeDate": "17 aprile 2026",
@@ -1833,6 +2301,58 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "tagliata-di-scottona-4",
+    "published": "2026-04-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fil-sardine-butterfly-4080-gr8006-iqf/",
+    "title": "",
+    "noticeDate": "17 aprile 2026",
+    "campi": {
+      "data pubblicazione": "17 aprile 2026",
+      "marca": "Wofco",
+      "denominazione": "FIL SARDINE BUTTERFLY 40/80 GR800(6) IQF",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Wofco",
+    "product": "FIL SARDINE BUTTERFLY 40/80 GR800(6) IQF",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Wofco - FIL SARDINE BUTTERFLY 40/80 GR800(6) IQF",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Pregis_1776445869.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fil-sardine-butterfly-4080-gr8006-iqf",
+    "published": "2026-04-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sliming-tea-herb-thai-original-24x41g/",
+    "title": "",
+    "noticeDate": "17 aprile 2026",
+    "campi": {
+      "data pubblicazione": "17 aprile 2026",
+      "marca": "SLIMING TEA HERB THAI ORIGINAL 24X41G",
+      "denominazione": "SLIMING TEA HERB THAI ORIGINAL 24X41G",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "SLIMING TEA HERB THAI ORIGINAL 24X41G",
+    "product": "SLIMING TEA HERB THAI ORIGINAL 24X41G",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SLIMING TEA HERB THAI ORIGINAL 24X41G - SLIMING TEA HERB THAI ORIGINAL 24X41G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20DI%20RICHIAMO_1776859764.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "sliming-tea-herb-thai-original-24x41g",
     "published": "2026-04-17",
     "source": "operator"
   },
