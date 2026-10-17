@@ -312,6 +312,474 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/roccaverano-dop/",
+    "title": "",
+    "noticeDate": "28 settembre 2026",
+    "campi": {
+      "data pubblicazione": "28 settembre 2026",
+      "marca": "AGRILANGA",
+      "denominazione": "ROCCAVERANO DOP",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "AGRILANGA",
+    "product": "ROCCAVERANO DOP",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AGRILANGA - ROCCAVERANO DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_prodotto_1790587992.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "roccaverano-dop",
+    "published": "2026-09-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-da-allevamento-terra-speciali-pasta-gialla/",
+    "title": "",
+    "noticeDate": "26 settembre 2026",
+    "campi": {
+      "data pubblicazione": "26 settembre 2026",
+      "marca": "AVICOLA ALBERTI TAMARA",
+      "denominazione": "UOVA DA ALLEVAMENTO A TERRA - SPECIALI PASTA GIALLA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "AVICOLA ALBERTI TAMARA",
+    "product": "UOVA DA ALLEVAMENTO A TERRA - SPECIALI PASTA GIALLA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AVICOLA ALBERTI TAMARA - UOVA DA ALLEVAMENTO A TERRA - SPECIALI PASTA GIALLA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/UOVA%20SPECIALI%20PASTA%20GIALLA_1790951945.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-da-allevamento-terra-speciali-pasta-gialla",
+    "published": "2026-09-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/calamaro-patagonico-pulito-aperto-vaschetta/",
+    "title": "",
+    "noticeDate": "25 settembre 2026",
+    "campi": {
+      "data pubblicazione": "25 settembre 2026",
+      "marca": "Maxi Fish s.r.l.",
+      "denominazione": "Calamaro patagonico pulito aperto vaschetta",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Maxi Fish s.r.l.",
+    "product": "Calamaro patagonico pulito aperto vaschetta",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Maxi Fish s.r.l. - Calamaro patagonico pulito aperto vaschetta",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1.%20CARTELLO%20RICHIAMO%20Calamaro%20pulito%20aperto%20vaschetta_1790337727.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "calamaro-patagonico-pulito-aperto-vaschetta",
+    "published": "2026-09-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/calamaro-patagonico-pulito-aperto/",
+    "title": "",
+    "noticeDate": "25 settembre 2026",
+    "campi": {
+      "data pubblicazione": "25 settembre 2026",
+      "marca": "Maxi Fish s.r.l.",
+      "denominazione": "Calamaro patagonico pulito aperto",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Maxi Fish s.r.l.",
+    "product": "Calamaro patagonico pulito aperto",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Maxi Fish s.r.l. - Calamaro patagonico pulito aperto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2.%20CARTELLO%20RICHIAMO%20Calamaro%20pulito%20aperto%20IQF_1790337730.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "calamaro-patagonico-pulito-aperto",
+    "published": "2026-09-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/calamaro-patagonico-pulito-butterfly-decongelato/",
+    "title": "",
+    "noticeDate": "25 settembre 2026",
+    "campi": {
+      "data pubblicazione": "25 settembre 2026",
+      "marca": "Maxi Fish s.r.l.",
+      "denominazione": "Calamaro patagonico pulito butterfly decongelato",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Maxi Fish s.r.l.",
+    "product": "Calamaro patagonico pulito butterfly decongelato",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Maxi Fish s.r.l. - Calamaro patagonico pulito butterfly decongelato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3.%20CARTELLO%20RICHIAMO%20Butterfly%20decongelato_1790337731.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "calamaro-patagonico-pulito-butterfly-decongelato",
+    "published": "2026-09-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spiedino-di-calamaro-patagonico-e-gambero-argentino/",
+    "title": "",
+    "noticeDate": "25 settembre 2026",
+    "campi": {
+      "data pubblicazione": "25 settembre 2026",
+      "marca": "Maxi Fish s.r.l.",
+      "denominazione": "Spiedino di calamaro patagonico e gambero argentino",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Maxi Fish s.r.l.",
+    "product": "Spiedino di calamaro patagonico e gambero argentino",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Maxi Fish s.r.l. - Spiedino di calamaro patagonico e gambero argentino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/4.%20CARTELLO%20RICHIAMO%20Spiedini_1790337733.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "spiedino-di-calamaro-patagonico-e-gambero-argentino",
+    "published": "2026-09-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hamburger-di-scottona-200g-100x2-skin/",
+    "title": "",
+    "noticeDate": "25 settembre 2026",
+    "campi": {
+      "data pubblicazione": "25 settembre 2026",
+      "marca": "HAMBURGER DI SCOTTONA - GRAN SELEZIONE",
+      "denominazione": "HAMBURGER DI SCOTTONA - 200g (100X2) skin",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "HAMBURGER DI SCOTTONA - GRAN SELEZIONE",
+    "product": "HAMBURGER DI SCOTTONA - 200g (100X2) skin",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo HAMBURGER DI SCOTTONA - GRAN SELEZIONE - HAMBURGER DI SCOTTONA - 200g (100X2) skin",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALLEGATO_RICHIAMO_HAMBURGER_SCOTTONA_200g_1790355807.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "hamburger-di-scottona-200g-100x2-skin",
+    "published": "2026-09-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-alici-olio/",
+    "title": "",
+    "noticeDate": "24 settembre 2026",
+    "campi": {
+      "data pubblicazione": "24 settembre 2026",
+      "marca": "COOP",
+      "denominazione": "FILETTI DI ALICI IN OLIO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "COOP",
+    "product": "FILETTI DI ALICI IN OLIO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo COOP - FILETTI DI ALICI IN OLIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%202_1790242398.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filetti-di-alici-olio",
+    "published": "2026-09-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hamburger-di-bufalo-170g-skin/",
+    "title": "",
+    "noticeDate": "24 settembre 2026",
+    "campi": {
+      "data pubblicazione": "24 settembre 2026",
+      "marca": "HAMBURGER DI BUFALO - GRAN SELEZIONE",
+      "denominazione": "HAMBURGER DI BUFALO - 170g skin",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "HAMBURGER DI BUFALO - GRAN SELEZIONE",
+    "product": "HAMBURGER DI BUFALO - 170g skin",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo HAMBURGER DI BUFALO - GRAN SELEZIONE - HAMBURGER DI BUFALO - 170g skin",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLODIRICHIAMO_HAMBURGERDIBUFALO170g1_1790260408.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "hamburger-di-bufalo-170g-skin",
+    "published": "2026-09-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pomodoro-ciliegino/",
+    "title": "",
+    "noticeDate": "23 settembre 2026",
+    "campi": {
+      "data pubblicazione": "23 settembre 2026",
+      "marca": "G. & V. Ortaggi",
+      "denominazione": "pomodoro ciliegino",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "G. & V. Ortaggi",
+    "product": "pomodoro ciliegino",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo G. & V. Ortaggi - pomodoro ciliegino",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CdR%20pomodoro%20ciliegino_1790174029.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pomodoro-ciliegino",
+    "published": "2026-09-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tortellini-alla-carne-2-confezioni-da-250-g/",
+    "title": "",
+    "noticeDate": "23 settembre 2026",
+    "campi": {
+      "data pubblicazione": "23 settembre 2026",
+      "marca": "Agripasta SRL - Oggi cucino BIO",
+      "denominazione": "Tortellini alla carne 2 confezioni da 250 g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Agripasta SRL - Oggi cucino BIO",
+    "product": "Tortellini alla carne 2 confezioni da 250 g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Agripasta SRL - Oggi cucino BIO - Tortellini alla carne 2 confezioni da 250 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO_1790183041.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tortellini-alla-carne-2-confezioni-da-250-g",
+    "published": "2026-09-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-stagionato-al-tartufo/",
+    "title": "",
+    "noticeDate": "22 settembre 2026",
+    "campi": {
+      "data pubblicazione": "22 settembre 2026",
+      "marca": "Salumificio F.lli Costantini",
+      "denominazione": "Salame stagionato al tartufo",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio F.lli Costantini",
+    "product": "Salame stagionato al tartufo",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio F.lli Costantini - Salame stagionato al tartufo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulorichiamo1_1790078556.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-stagionato-al-tartufo",
+    "published": "2026-09-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-stagionato-al-trtufo/",
+    "title": "",
+    "noticeDate": "22 settembre 2026",
+    "campi": {
+      "data pubblicazione": "22 settembre 2026",
+      "marca": "Salumificio F.lli Costantini",
+      "denominazione": "Salame stagionato al trtufo",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio F.lli Costantini",
+    "product": "Salame stagionato al trtufo",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio F.lli Costantini - Salame stagionato al trtufo",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20conforme_1790069655.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-stagionato-al-trtufo",
+    "published": "2026-09-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-pop-corn-2/",
+    "title": "",
+    "noticeDate": "21 settembre 2026",
+    "campi": {
+      "data pubblicazione": "21 settembre 2026",
+      "marca": "FIOR DI LOTO",
+      "denominazione": "MAIS PER POP CORN",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "FIOR DI LOTO",
+    "product": "MAIS PER POP CORN",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIOR DI LOTO - MAIS PER POP CORN",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULORICHIAMOMAISPERPOPCORN400grmarchioFIORDILOTOLotto60183TMC27_03_2028_1789992177.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mais-pop-corn-2",
+    "published": "2026-09-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-italiano-pop-corn/",
+    "title": "",
+    "noticeDate": "21 settembre 2026",
+    "campi": {
+      "data pubblicazione": "21 settembre 2026",
+      "marca": "PROBIOS",
+      "denominazione": "MAIS ITALIANO PER POP CORN",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "PROBIOS",
+    "product": "MAIS ITALIANO PER POP CORN",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PROBIOS - MAIS ITALIANO PER POP CORN",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULORICHIAMOMAISPERPOPCORN400grmarchioPROBIOSLotto60183TMC30_04_2028_1789992179.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mais-italiano-pop-corn",
+    "published": "2026-09-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-italiano-pop-corn-0/",
+    "title": "",
+    "noticeDate": "21 settembre 2026",
+    "campi": {
+      "data pubblicazione": "21 settembre 2026",
+      "marca": "PROBIOS",
+      "denominazione": "MAIS ITALIANO PER POP CORN",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "PROBIOS",
+    "product": "MAIS ITALIANO PER POP CORN",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PROBIOS - MAIS ITALIANO PER POP CORN",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULORICHIAMOMAISPERPOPCORN400grmarchioPROBIOSLotto60183TMC18_06_2028_1789992181.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mais-italiano-pop-corn-0",
+    "published": "2026-09-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-pop-corn-3/",
+    "title": "",
+    "noticeDate": "21 settembre 2026",
+    "campi": {
+      "data pubblicazione": "21 settembre 2026",
+      "marca": "FIOR DI LOTO",
+      "denominazione": "MAIS PER POP CORN",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "FIOR DI LOTO",
+    "product": "MAIS PER POP CORN",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIOR DI LOTO - MAIS PER POP CORN",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamoFiordiLoto2_1789992183.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mais-pop-corn-3",
+    "published": "2026-09-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/brie-tour-de-marze/",
+    "title": "",
+    "noticeDate": "17 settembre 2026",
+    "campi": {
+      "data pubblicazione": "17 settembre 2026",
+      "marca": "Paturages Comtois",
+      "denominazione": "Brie Tour De Marze",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Paturages Comtois",
+    "product": "Brie Tour De Marze",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Paturages Comtois - Brie Tour De Marze",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Formaggio%20Brie_1789655650.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "brie-tour-de-marze",
+    "published": "2026-09-17",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/amaretti-gallina-0/",
     "title": "",
     "noticeDate": "16 settembre 2026",
@@ -334,6 +802,58 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "amaretti-gallina-0",
+    "published": "2026-09-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/amaretti-gallina-1/",
+    "title": "",
+    "noticeDate": "16 settembre 2026",
+    "campi": {
+      "data pubblicazione": "16 settembre 2026",
+      "marca": "Amaretti Gallina",
+      "denominazione": "Amaretti Gallina",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Amaretti Gallina",
+    "product": "Amaretti Gallina",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Amaretti Gallina - Amaretti Gallina",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20AMARETTI%20GALLINA%20500%20GR._1789569723.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "amaretti-gallina-1",
+    "published": "2026-09-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/amaretti-gallina-2/",
+    "title": "",
+    "noticeDate": "16 settembre 2026",
+    "campi": {
+      "data pubblicazione": "16 settembre 2026",
+      "marca": "Amaretti Gallina",
+      "denominazione": "Amaretti Gallina",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Amaretti Gallina",
+    "product": "Amaretti Gallina",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Amaretti Gallina - Amaretti Gallina",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20AMARETTI%20GALLINA%20750%20GR._1789569770.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "amaretti-gallina-2",
     "published": "2026-09-16",
     "source": "operator"
   },
