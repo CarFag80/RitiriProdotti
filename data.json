@@ -381,6 +381,422 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carpaccio-di-salmone-100-g/",
+    "title": "",
+    "noticeDate": "26 giugno 2026",
+    "campi": {
+      "data pubblicazione": "26 giugno 2026",
+      "marca": "CARTHAGO SRL",
+      "denominazione": "CARPACCIO DI SALMONE 100 G",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CARTHAGO SRL",
+    "product": "CARPACCIO DI SALMONE 100 G",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CARTHAGO SRL - CARPACCIO DI SALMONE 100 G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartellodirichiamo_1782475363.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "carpaccio-di-salmone-100-g",
+    "published": "2026-06-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-di-pecora-della-val-camastra/",
+    "title": "",
+    "noticeDate": "26 giugno 2026",
+    "campi": {
+      "data pubblicazione": "26 giugno 2026",
+      "marca": "I SAPORI DEL PARCO",
+      "denominazione": "FORMAGGIO DI PECORA DELLA VAL CAMASTRA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "I SAPORI DEL PARCO",
+    "product": "FORMAGGIO DI PECORA DELLA VAL CAMASTRA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo I SAPORI DEL PARCO - FORMAGGIO DI PECORA DELLA VAL CAMASTRA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1782484423.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-di-pecora-della-val-camastra",
+    "published": "2026-06-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/3012-cornetto-curvo-extrafarcitura-crema-madre-deluxe-rspo-sg-54/",
+    "title": "",
+    "noticeDate": "26 giugno 2026",
+    "campi": {
+      "data pubblicazione": "26 giugno 2026",
+      "marca": "Cupiello",
+      "denominazione": "3012 CORNETTO CURVO EXTRAFARCITURA CREMA MADRE DELUXE RSPO SG 54",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Cupiello",
+    "product": "3012 CORNETTO CURVO EXTRAFARCITURA CREMA MADRE DELUXE RSPO SG 54",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cupiello - 3012 CORNETTO CURVO EXTRAFARCITURA CREMA MADRE DELUXE RSPO SG 54",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3012_1782484505.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "3012-cornetto-curvo-extrafarcitura-crema-madre-deluxe-rspo-sg-54",
+    "published": "2026-06-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/3013-cornetto-curvo-extrafarcitura-nocciola-madre-deluxe-rspo-sg/",
+    "title": "",
+    "noticeDate": "26 giugno 2026",
+    "campi": {
+      "data pubblicazione": "26 giugno 2026",
+      "marca": "Cupiello",
+      "denominazione": "3013 CORNETTO CURVO EXTRAFARCITURA NOCCIOLA MADRE DELUXE RSPO SG",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Cupiello",
+    "product": "3013 CORNETTO CURVO EXTRAFARCITURA NOCCIOLA MADRE DELUXE RSPO SG",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cupiello - 3013 CORNETTO CURVO EXTRAFARCITURA NOCCIOLA MADRE DELUXE RSPO SG",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3013_1782484584.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "3013-cornetto-curvo-extrafarcitura-nocciola-madre-deluxe-rspo-sg",
+    "published": "2026-06-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/3014-minicroissant-renocciola-con-lievito-madre-rspo-sg-ra-mb-160/",
+    "title": "",
+    "noticeDate": "26 giugno 2026",
+    "campi": {
+      "data pubblicazione": "26 giugno 2026",
+      "marca": "Cupiello",
+      "denominazione": "3014 MINICROISSANT RENOCCIOLA con LIEVITO MADRE RSPO SG RA MB - 160",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Cupiello",
+    "product": "3014 MINICROISSANT RENOCCIOLA con LIEVITO MADRE RSPO SG RA MB - 160",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cupiello - 3014 MINICROISSANT RENOCCIOLA con LIEVITO MADRE RSPO SG RA MB - 160",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3014_1782484660.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "3014-minicroissant-renocciola-con-lievito-madre-rspo-sg-ra-mb-160",
+    "published": "2026-06-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/30151094341-croissant-vegano-con-farina-integrale-rspo-sg-45-pz/",
+    "title": "",
+    "noticeDate": "26 giugno 2026",
+    "campi": {
+      "data pubblicazione": "26 giugno 2026",
+      "marca": "Cupiello",
+      "denominazione": "3015/1094341 CROISSANT VEGANO CON FARINA INTEGRALE RSPO SG. 45 pz",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Cupiello",
+    "product": "3015/1094341 CROISSANT VEGANO CON FARINA INTEGRALE RSPO SG. 45 pz",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cupiello - 3015/1094341 CROISSANT VEGANO CON FARINA INTEGRALE RSPO SG. 45 pz",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3015_1782484808.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "30151094341-croissant-vegano-con-farina-integrale-rspo-sg-45-pz",
+    "published": "2026-06-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/3141-primino-renocciola-cornetto-bicolore-nocciola-rspo-sg-ra-mb/",
+    "title": "",
+    "noticeDate": "26 giugno 2026",
+    "campi": {
+      "data pubblicazione": "26 giugno 2026",
+      "marca": "Cupiello",
+      "denominazione": "3141 PRIMINO RENOCCIOLA -CORNETTO BICOLORE NOCCIOLA RSPO SG RA MB",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Cupiello",
+    "product": "3141 PRIMINO RENOCCIOLA -CORNETTO BICOLORE NOCCIOLA RSPO SG RA MB",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cupiello - 3141 PRIMINO RENOCCIOLA -CORNETTO BICOLORE NOCCIOLA RSPO SG RA MB",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3141_1782484881.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "3141-primino-renocciola-cornetto-bicolore-nocciola-rspo-sg-ra-mb",
+    "published": "2026-06-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/3144-primini-cornetti-vuoti-rspo-sg-80-pz-madre-tbi/",
+    "title": "",
+    "noticeDate": "26 giugno 2026",
+    "campi": {
+      "data pubblicazione": "26 giugno 2026",
+      "marca": "Cupiello",
+      "denominazione": "3144 Primini CORNETTI VUOTI RSPO SG - 80 PZ MADRE TBI",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Cupiello",
+    "product": "3144 Primini CORNETTI VUOTI RSPO SG - 80 PZ MADRE TBI",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cupiello - 3144 Primini CORNETTI VUOTI RSPO SG - 80 PZ MADRE TBI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3144_1782484954.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "3144-primini-cornetti-vuoti-rspo-sg-80-pz-madre-tbi",
+    "published": "2026-06-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/3146-primini-cornetti-confettura-albicocca-rspo-sg-80-pz-madre-tb/",
+    "title": "",
+    "noticeDate": "26 giugno 2026",
+    "campi": {
+      "data pubblicazione": "26 giugno 2026",
+      "marca": "Cupiello",
+      "denominazione": "3146 Primini CORNETTI CONFETTURA ALBICOCCA RSPO SG - 80 PZ MADRE TB",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Cupiello",
+    "product": "3146 Primini CORNETTI CONFETTURA ALBICOCCA RSPO SG - 80 PZ MADRE TB",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cupiello - 3146 Primini CORNETTI CONFETTURA ALBICOCCA RSPO SG - 80 PZ MADRE TB",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3146_1782485026.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "3146-primini-cornetti-confettura-albicocca-rspo-sg-80-pz-madre-tb",
+    "published": "2026-06-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/3210-mini-croissant-paris-madre-tuttoburro-rso-sg-90pz/",
+    "title": "",
+    "noticeDate": "26 giugno 2026",
+    "campi": {
+      "data pubblicazione": "26 giugno 2026",
+      "marca": "Cupiello",
+      "denominazione": "3210 MINI CROISSANT PARIS MADRE TUTTOBURRO RSO SG 90pz",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Cupiello",
+    "product": "3210 MINI CROISSANT PARIS MADRE TUTTOBURRO RSO SG 90pz",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cupiello - 3210 MINI CROISSANT PARIS MADRE TUTTOBURRO RSO SG 90pz",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3210_1782485162.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "3210-mini-croissant-paris-madre-tuttoburro-rso-sg-90pz",
+    "published": "2026-06-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ragu-con-carne-di-cinghiale-1/",
+    "title": "",
+    "noticeDate": "25 giugno 2026",
+    "campi": {
+      "data pubblicazione": "25 giugno 2026",
+      "marca": "Terre d¿Italia",
+      "denominazione": "Ragù con carne di cinghiale",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Terre d¿Italia",
+    "product": "Ragù con carne di cinghiale",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Terre d¿Italia - Ragù con carne di cinghiale",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20DI%20RICHIAMO%20_2__1782398882.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ragu-con-carne-di-cinghiale-1",
+    "published": "2026-06-25",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ragu-con-carne-di-cinghiale-0/",
+    "title": "",
+    "noticeDate": "24 giugno 2026",
+    "campi": {
+      "data pubblicazione": "24 giugno 2026",
+      "marca": "Terre d'Italia",
+      "denominazione": "Ragù con carne di cinghiale",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Terre d'Italia",
+    "product": "Ragù con carne di cinghiale",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Terre d'Italia - Ragù con carne di cinghiale",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLODIRICHIAMO_1782321035.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ragu-con-carne-di-cinghiale-0",
+    "published": "2026-06-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/surimi-al-sapore-di-granchio/",
+    "title": "",
+    "noticeDate": "22 giugno 2026",
+    "campi": {
+      "data pubblicazione": "22 giugno 2026",
+      "marca": "PANAPESCA",
+      "denominazione": "SURIMI AL SAPORE DI GRANCHIO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "PANAPESCA",
+    "product": "SURIMI AL SAPORE DI GRANCHIO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PANAPESCA - SURIMI AL SAPORE DI GRANCHIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModelloRICHIAMO_REVOCA_22_06_2026_1782129763.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "surimi-al-sapore-di-granchio",
+    "published": "2026-06-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latterini-interi-congelati/",
+    "title": "",
+    "noticeDate": "19 giugno 2026",
+    "campi": {
+      "data pubblicazione": "19 giugno 2026",
+      "marca": "FINOFISH",
+      "denominazione": "LATTERINI INTERI CONGELATI",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "FINOFISH",
+    "product": "LATTERINI INTERI CONGELATI",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FINOFISH - LATTERINI INTERI CONGELATI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20PRODOTTO_1781847299.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "latterini-interi-congelati",
+    "published": "2026-06-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/polenta-grana-fine-fioretto/",
+    "title": "",
+    "noticeDate": "17 giugno 2026",
+    "campi": {
+      "data pubblicazione": "17 giugno 2026",
+      "marca": "MULINO MARELLO",
+      "denominazione": "POLENTA A GRANA FINE FIORETTO",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MULINO MARELLO",
+    "product": "POLENTA A GRANA FINE FIORETTO",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MULINO MARELLO - POLENTA A GRANA FINE FIORETTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20polenta%20fioretto%20mulino%20marello%20pf02126_1781706911.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "polenta-grana-fine-fioretto",
+    "published": "2026-06-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tentacoli-di-polpo-oceanico-tagliati-scottati-congelati/",
+    "title": "",
+    "noticeDate": "15 giugno 2026",
+    "campi": {
+      "data pubblicazione": "15 giugno 2026",
+      "marca": "INDONESIA 577.02.B",
+      "denominazione": "TENTACOLI DI POLPO OCEANICO TAGLIATI SCOTTATI CONGELATI",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "INDONESIA 577.02.B",
+    "product": "TENTACOLI DI POLPO OCEANICO TAGLIATI SCOTTATI CONGELATI",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo INDONESIA 577.02.B - TENTACOLI DI POLPO OCEANICO TAGLIATI SCOTTATI CONGELATI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20tentacoli_1781516388.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tentacoli-di-polpo-oceanico-tagliati-scottati-congelati",
+    "published": "2026-06-15",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cacio-sopravvissano-al-limone/",
     "title": "",
     "noticeDate": "12 giugno 2026",
@@ -507,6 +923,110 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "cacio-sopravvissano-al-peperoncino",
+    "published": "2026-06-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cacio-sopravvissano-allelicriso/",
+    "title": "",
+    "noticeDate": "12 giugno 2026",
+    "campi": {
+      "data pubblicazione": "12 giugno 2026",
+      "marca": "Scolastici Roberto",
+      "denominazione": "Cacio Sopravvissano all¿elicriso",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Scolastici Roberto",
+    "product": "Cacio Sopravvissano all¿elicriso",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Scolastici Roberto - Cacio Sopravvissano all¿elicriso",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/nuovocartellorichiamoelicriso_1781780181.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cacio-sopravvissano-allelicriso",
+    "published": "2026-06-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cacio-sopravvissano-affinato-grotta/",
+    "title": "",
+    "noticeDate": "12 giugno 2026",
+    "campi": {
+      "data pubblicazione": "12 giugno 2026",
+      "marca": "Scolastici Roberto",
+      "denominazione": "Cacio Sopravvissano affinato in grotta",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Scolastici Roberto",
+    "product": "Cacio Sopravvissano affinato in grotta",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Scolastici Roberto - Cacio Sopravvissano affinato in grotta",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/nuovocartellorichiamogrotta_1781780354.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "cacio-sopravvissano-affinato-grotta",
+    "published": "2026-06-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ricotta-sopravvissana-salata/",
+    "title": "",
+    "noticeDate": "12 giugno 2026",
+    "campi": {
+      "data pubblicazione": "12 giugno 2026",
+      "marca": "Scolastici Roberto",
+      "denominazione": "Ricotta Sopravvissana Salata",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Scolastici Roberto",
+    "product": "Ricotta Sopravvissana Salata",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Scolastici Roberto - Ricotta Sopravvissana Salata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/nuovocartellorichiamoricottasalata_1781780527.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "ricotta-sopravvissana-salata",
+    "published": "2026-06-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bastone-di-salame/",
+    "title": "",
+    "noticeDate": "12 giugno 2026",
+    "campi": {
+      "data pubblicazione": "12 giugno 2026",
+      "marca": "Il Tagliere del Re",
+      "denominazione": "Bastone di salame",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Il Tagliere del Re",
+    "product": "Bastone di salame",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Il Tagliere del Re - Bastone di salame",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_71110_Bastonedisalame250g_1781283857.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "bastone-di-salame",
     "published": "2026-06-12",
     "source": "operator"
   },
