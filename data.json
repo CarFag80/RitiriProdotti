@@ -339,6 +339,344 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-di-mais-pignoletto-integrale/",
+    "title": "",
+    "noticeDate": "3 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2025",
+      "marca": "Dietnatural",
+      "denominazione": "Gallette di mais pignoletto integrale",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Dietnatural",
+    "product": "Gallette di mais pignoletto integrale",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Dietnatural - Gallette di mais pignoletto integrale",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Dietnatural_1764776940.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gallette-di-mais-pignoletto-integrale",
+    "published": "2025-12-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-bio/",
+    "title": "",
+    "noticeDate": "3 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2025",
+      "marca": "San e Bun",
+      "denominazione": "Gallette bio",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "San e Bun",
+    "product": "Gallette bio",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo San e Bun - Gallette bio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_San_e_Bun_1764776982.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gallette-bio",
+    "published": "2025-12-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-di-mais-integrale-pignoletto/",
+    "title": "",
+    "noticeDate": "3 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2025",
+      "marca": "Langalletta",
+      "denominazione": "Gallette di mais integrale pignoletto",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Langalletta",
+    "product": "Gallette di mais integrale pignoletto",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Langalletta - Gallette di mais integrale pignoletto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Langalletta_1764777028.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gallette-di-mais-integrale-pignoletto",
+    "published": "2025-12-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-di-mais-integrale-pignoletto-0/",
+    "title": "",
+    "noticeDate": "3 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2025",
+      "marca": "Langalletta",
+      "denominazione": "Gallette di mais integrale pignoletto",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Langalletta",
+    "product": "Gallette di mais integrale pignoletto",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Langalletta - Gallette di mais integrale pignoletto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Langalletta_A2549_I2516_1764777069.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gallette-di-mais-integrale-pignoletto-0",
+    "published": "2025-12-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-di-mais-integrale/",
+    "title": "",
+    "noticeDate": "3 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2025",
+      "marca": "Terra Verde",
+      "denominazione": "Gallette di mais integrale",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Terra Verde",
+    "product": "Gallette di mais integrale",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Terra Verde - Gallette di mais integrale",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Terra_Verde_1764777105.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gallette-di-mais-integrale",
+    "published": "2025-12-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-di-mais-integrale-pignoletto-1/",
+    "title": "",
+    "noticeDate": "3 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2025",
+      "marca": "Langalletta",
+      "denominazione": "Gallette di mais integrale pignoletto",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Langalletta",
+    "product": "Gallette di mais integrale pignoletto",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Langalletta - Gallette di mais integrale pignoletto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Langalletta_B2568_1764777229.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gallette-di-mais-integrale-pignoletto-1",
+    "published": "2025-12-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/soffi-di-mais/",
+    "title": "",
+    "noticeDate": "3 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2025",
+      "marca": "La Grande Ruota",
+      "denominazione": "Soffi Di Mais",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "La Grande Ruota",
+    "product": "Soffi Di Mais",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo La Grande Ruota - Soffi Di Mais",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_La_Grande_Ruota_1765883384.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "soffi-di-mais",
+    "published": "2025-12-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-di-mais-integrale-pignoletto-2/",
+    "title": "",
+    "noticeDate": "3 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2025",
+      "marca": "Langalletta",
+      "denominazione": "Gallette di mais integrale pignoletto",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Langalletta",
+    "product": "Gallette di mais integrale pignoletto",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Langalletta - Gallette di mais integrale pignoletto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Langalletta_C2553_1764777825.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gallette-di-mais-integrale-pignoletto-2",
+    "published": "2025-12-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/le-gallette-gustose-e-croccanti-mais-integrale/",
+    "title": "",
+    "noticeDate": "3 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "3 dicembre 2025",
+      "marca": "Brezzo",
+      "denominazione": "Le Gallette Gustose e Croccanti Mais Integrale",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Brezzo",
+    "product": "Le Gallette Gustose e Croccanti Mais Integrale",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Brezzo - Le Gallette Gustose e Croccanti Mais Integrale",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Brezzo_1764777854.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "le-gallette-gustose-e-croccanti-mais-integrale",
+    "published": "2025-12-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panettone-demilan-dubai-chocolate-hw-800-g/",
+    "title": "",
+    "noticeDate": "2 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "2 dicembre 2025",
+      "marca": "PAOLO LAZZARONI & FIGLI S.p.A. DeMilan",
+      "denominazione": "PANETTONE DeMILAN DUBAI CHOCOLATE hw 800 g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "PAOLO LAZZARONI & FIGLI S.p.A. DeMilan",
+    "product": "PANETTONE DeMILAN DUBAI CHOCOLATE hw 800 g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PAOLO LAZZARONI & FIGLI S.p.A. DeMilan - PANETTONE DeMILAN DUBAI CHOCOLATE hw 800 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20notifica%20di%20richiamo_P001557_PNT%20DUBAI%20CHCOCO%20800g%20DeMILAN_1764681722.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "panettone-demilan-dubai-chocolate-hw-800-g",
+    "published": "2025-12-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-acciughe-vasetto-140g/",
+    "title": "",
+    "noticeDate": "2 dicembre 2025",
+    "campi": {
+      "data pubblicazione": "2 dicembre 2025",
+      "marca": "CAPRI",
+      "denominazione": "Filetti di acciughe vasetto 140g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CAPRI",
+    "product": "Filetti di acciughe vasetto 140g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CAPRI - Filetti di acciughe vasetto 140g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20RICHIAMO%20FILETTI%20ACCIUGHE_1764689890.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "filetti-di-acciughe-vasetto-140g",
+    "published": "2025-12-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gimoka-gusto-ricco-250g/",
+    "title": "",
+    "noticeDate": "27 novembre 2025",
+    "campi": {
+      "data pubblicazione": "27 novembre 2025",
+      "marca": "gruppo gimoka spa",
+      "denominazione": "GIMOKA GUSTO RICCO 250g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "gruppo gimoka spa",
+    "product": "GIMOKA GUSTO RICCO 250g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo gruppo gimoka spa - GIMOKA GUSTO RICCO 250g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3686_001_1764267449.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "gimoka-gusto-ricco-250g",
+    "published": "2025-11-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/raclette-lattfrancese-ta/",
+    "title": "",
+    "noticeDate": "26 novembre 2025",
+    "campi": {
+      "data pubblicazione": "26 novembre 2025",
+      "marca": "Supermercati Tosano",
+      "denominazione": "RACLETTE LATT.FRANCESE T.A.",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Supermercati Tosano",
+    "product": "RACLETTE LATT.FRANCESE T.A.",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Supermercati Tosano - RACLETTE LATT.FRANCESE T.A.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Tosano_Raclette_Latt_Francese_1764153982.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "raclette-lattfrancese-ta",
+    "published": "2025-11-26",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/bustine-monodose-di-te-meridetox-e-ozlex/",
     "title": "Bustine monodose di tè",
     "noticeUrl": "https://www.salute.gov.it/new/it/news-e-media/notizie/avviso-ai-consumatori-presenza-di-sibutramina-bustine-di-te-meridetox-e-ozlex/",
@@ -377,6 +715,84 @@
     "id": "bustine-monodose-di-te-meridetox-e-ozlex",
     "published": "2025-11-25",
     "source": "official"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-6/",
+    "title": "",
+    "noticeDate": "24 novembre 2025",
+    "campi": {
+      "data pubblicazione": "24 novembre 2025",
+      "marca": "Soc. Agricola Ortenzi Carlo",
+      "denominazione": "Salame",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Soc. Agricola Ortenzi Carlo",
+    "product": "Salame",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Soc. Agricola Ortenzi Carlo - Salame",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_Ortenzi_1765795782.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-6",
+    "published": "2025-11-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/jeera-pwd-ali-baba-cumino-polvere/",
+    "title": "",
+    "noticeDate": "21 novembre 2025",
+    "campi": {
+      "data pubblicazione": "21 novembre 2025",
+      "marca": "ALIBABA",
+      "denominazione": "JEERA PWD ALI BABA CUMINO IN POLVERE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "ALIBABA",
+    "product": "JEERA PWD ALI BABA CUMINO IN POLVERE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ALIBABA - JEERA PWD ALI BABA CUMINO IN POLVERE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO_1763731324.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "jeera-pwd-ali-baba-cumino-polvere",
+    "published": "2025-11-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-raclette/",
+    "title": "",
+    "noticeDate": "21 novembre 2025",
+    "campi": {
+      "data pubblicazione": "21 novembre 2025",
+      "marca": "Iperal",
+      "denominazione": "Formaggio Raclette",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Iperal",
+    "product": "Formaggio Raclette",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Iperal - Formaggio Raclette",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Raclette_1763740457.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-raclette",
+    "published": "2025-11-21",
+    "source": "operator"
   },
   {
     "sourceUrl": "https://www.salute.gov.it/new/it/avvisi-sicurezza-alimentare/latte-polvere/",
@@ -584,6 +1000,110 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "uova-fresche-confezione-da-6-uova-grandi",
+    "published": "2025-11-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-confezione-da-6-uova-medie/",
+    "title": "",
+    "noticeDate": "14 novembre 2025",
+    "campi": {
+      "data pubblicazione": "14 novembre 2025",
+      "marca": "SPINOVO",
+      "denominazione": "UOVA FRESCHE CONFEZIONE DA 6 UOVA MEDIE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SPINOVO",
+    "product": "UOVA FRESCHE CONFEZIONE DA 6 UOVA MEDIE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SPINOVO - UOVA FRESCHE CONFEZIONE DA 6 UOVA MEDIE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20CONFEZIONI%20DA%206%20%20%20MC_1763144665.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-confezione-da-6-uova-medie",
+    "published": "2025-11-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-confezione-da-6-uova-tuorlo-rosso/",
+    "title": "",
+    "noticeDate": "14 novembre 2025",
+    "campi": {
+      "data pubblicazione": "14 novembre 2025",
+      "marca": "SPINOVO",
+      "denominazione": "UOVA FRESCHE CONFEZIONE DA 6 UOVA TUORLO ROSSO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SPINOVO",
+    "product": "UOVA FRESCHE CONFEZIONE DA 6 UOVA TUORLO ROSSO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SPINOVO - UOVA FRESCHE CONFEZIONE DA 6 UOVA TUORLO ROSSO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20CONFEZIONI%20DA%206%20%20%20TRC_1763144692.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-confezione-da-6-uova-tuorlo-rosso",
+    "published": "2025-11-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-confezione-da-6-uova-tuorlo-rosso-0/",
+    "title": "",
+    "noticeDate": "14 novembre 2025",
+    "campi": {
+      "data pubblicazione": "14 novembre 2025",
+      "marca": "LE NOSTRANELLE",
+      "denominazione": "UOVA FRESCHE CONFEZIONE DA 6 UOVA TUORLO ROSSO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LE NOSTRANELLE",
+    "product": "UOVA FRESCHE CONFEZIONE DA 6 UOVA TUORLO ROSSO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LE NOSTRANELLE - UOVA FRESCHE CONFEZIONE DA 6 UOVA TUORLO ROSSO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20CONFEZIONI%20DA%206%20%20%20TRC_1763144719.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-confezione-da-6-uova-tuorlo-rosso-0",
+    "published": "2025-11-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-confezione-da-6-uova-grandissime/",
+    "title": "",
+    "noticeDate": "14 novembre 2025",
+    "campi": {
+      "data pubblicazione": "14 novembre 2025",
+      "marca": "SPINOVO",
+      "denominazione": "UOVA FRESCHE CONFEZIONE DA 6 UOVA GRANDISSIME",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SPINOVO",
+    "product": "UOVA FRESCHE CONFEZIONE DA 6 UOVA GRANDISSIME",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SPINOVO - UOVA FRESCHE CONFEZIONE DA 6 UOVA GRANDISSIME",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20CONFEZIONI%20DA%206%20%20XLC_1763144746.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-confezione-da-6-uova-grandissime",
     "published": "2025-11-14",
     "source": "operator"
   },
