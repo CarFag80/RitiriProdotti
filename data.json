@@ -381,6 +381,422 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-cresponetto/",
+    "title": "",
+    "noticeDate": "13 luglio 2026",
+    "campi": {
+      "data pubblicazione": "13 luglio 2026",
+      "marca": "Terre Verdi srl",
+      "denominazione": "Salame Cresponetto",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Terre Verdi srl",
+    "product": "Salame Cresponetto",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Terre Verdi srl - Salame Cresponetto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Ritiro%20richiamo%20Cresponetto%20L.%20280426A%20_2__1785949816.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-cresponetto",
+    "published": "2026-07-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-antico-spigaroli-senza-nitrati/",
+    "title": "",
+    "noticeDate": "13 luglio 2026",
+    "campi": {
+      "data pubblicazione": "13 luglio 2026",
+      "marca": "Terre Verdi srl",
+      "denominazione": "Salame Antico Spigaroli senza nitrati",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Terre Verdi srl",
+    "product": "Salame Antico Spigaroli senza nitrati",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Terre Verdi srl - Salame Antico Spigaroli senza nitrati",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Ritiro%20%20richiamo%20Antico%20Spigaroli%20L.%20280426A%20_1783953766.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-antico-spigaroli-senza-nitrati",
+    "published": "2026-07-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-nostrano-3/",
+    "title": "",
+    "noticeDate": "10 luglio 2026",
+    "campi": {
+      "data pubblicazione": "10 luglio 2026",
+      "marca": "I VENETI",
+      "denominazione": "SALAME NOSTRANO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "I VENETI",
+    "product": "SALAME NOSTRANO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo I VENETI - SALAME NOSTRANO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/20260710_Cartello%20di_richiamo_SALAME_1783694569.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-nostrano-3",
+    "published": "2026-07-10",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-di-riso/",
+    "title": "",
+    "noticeDate": "9 luglio 2026",
+    "campi": {
+      "data pubblicazione": "9 luglio 2026",
+      "marca": "IL CEPPO",
+      "denominazione": "INSALATA DI RISO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "IL CEPPO",
+    "product": "INSALATA DI RISO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IL CEPPO - INSALATA DI RISO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20INSALATA%20DI%20RISO%20250G%20SCADENZA%2023.07.26%20_CEPPO_%20_1__1783607645.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "insalata-di-riso",
+    "published": "2026-07-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-di-riso-0/",
+    "title": "",
+    "noticeDate": "9 luglio 2026",
+    "campi": {
+      "data pubblicazione": "9 luglio 2026",
+      "marca": "I PRONTISSIMI",
+      "denominazione": "INSALATA DI RISO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "I PRONTISSIMI",
+    "product": "INSALATA DI RISO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo I PRONTISSIMI - INSALATA DI RISO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20INSALATA%20DI%20RISO%20250G%20SCADENZA%2023.07.26%20_SAIT_%20_1__1783607741.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "insalata-di-riso-0",
+    "published": "2026-07-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-di-riso-1/",
+    "title": "",
+    "noticeDate": "9 luglio 2026",
+    "campi": {
+      "data pubblicazione": "9 luglio 2026",
+      "marca": "IL CEPPO",
+      "denominazione": "INSALATA DI RISO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "IL CEPPO",
+    "product": "INSALATA DI RISO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IL CEPPO - INSALATA DI RISO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20INSALATA%20DI%20RISO%20250G%20SCADENZA%2024.07.26%20_CEPPO_%20_1__1783607827.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "insalata-di-riso-1",
+    "published": "2026-07-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-di-riso-2/",
+    "title": "",
+    "noticeDate": "9 luglio 2026",
+    "campi": {
+      "data pubblicazione": "9 luglio 2026",
+      "marca": "IL CEPPO",
+      "denominazione": "INSALATA DI RISO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "IL CEPPO",
+    "product": "INSALATA DI RISO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IL CEPPO - INSALATA DI RISO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20INSALATA%20DI%20RISO%201000G%20SCADENZA%2027.07.26%20_CEPPO_%20_1__1783607918.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "insalata-di-riso-2",
+    "published": "2026-07-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-di-riso-con-tonno/",
+    "title": "",
+    "noticeDate": "9 luglio 2026",
+    "campi": {
+      "data pubblicazione": "9 luglio 2026",
+      "marca": "I FRESCHISSIMI",
+      "denominazione": "INSALATA DI RISO CON TONNO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "I FRESCHISSIMI",
+    "product": "INSALATA DI RISO CON TONNO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo I FRESCHISSIMI - INSALATA DI RISO CON TONNO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20INSALATA%20DI%20RISO%20CON%20TONNO%20250G%20SCADENZA%2023.07.26%20_ALI_%20_2__1783608020.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "insalata-di-riso-con-tonno",
+    "published": "2026-07-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kawaii-fruity-assorted-jelly-straws-200-g/",
+    "title": "",
+    "noticeDate": "8 luglio 2026",
+    "campi": {
+      "data pubblicazione": "8 luglio 2026",
+      "marca": "Jelly¿s Kawaii",
+      "denominazione": "Kawaii Fruity Assorted Jelly Straws 200 g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Jelly¿s Kawaii",
+    "product": "Kawaii Fruity Assorted Jelly Straws 200 g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Jelly¿s Kawaii - Kawaii Fruity Assorted Jelly Straws 200 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/8_7_26%20cartello%20richiamo_1783530619.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "kawaii-fruity-assorted-jelly-straws-200-g",
+    "published": "2026-07-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carciofi-rustici-della-puglia-olio-di-semi-di-girasole/",
+    "title": "",
+    "noticeDate": "7 luglio 2026",
+    "campi": {
+      "data pubblicazione": "7 luglio 2026",
+      "marca": "Consilia Optima",
+      "denominazione": "Carciofi rustici della Puglia in olio di semi di girasole",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Consilia Optima",
+    "product": "Carciofi rustici della Puglia in olio di semi di girasole",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Consilia Optima - Carciofi rustici della Puglia in olio di semi di girasole",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartellodiRichiamo_1783417221.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "carciofi-rustici-della-puglia-olio-di-semi-di-girasole",
+    "published": "2026-07-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-pepperino/",
+    "title": "",
+    "noticeDate": "6 luglio 2026",
+    "campi": {
+      "data pubblicazione": "6 luglio 2026",
+      "marca": "SALUMI BENVENUTI",
+      "denominazione": "SALAME PEPPERINO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SALUMI BENVENUTI",
+    "product": "SALAME PEPPERINO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALUMI BENVENUTI - SALAME PEPPERINO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellodiRICHIAMO%20_3__1783357791.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-pepperino",
+    "published": "2026-07-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cremoroso-al-tartufo-pistacchioprosecco-doc-rose-naturale/",
+    "title": "",
+    "noticeDate": "3 luglio 2026",
+    "campi": {
+      "data pubblicazione": "3 luglio 2026",
+      "marca": "LATTERIA MORO DI MORO SERGIO",
+      "denominazione": "CREMORO/SO AL TARTUFO, PISTACCHIO,PROSECCO DOC ROSE', NATURALE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LATTERIA MORO DI MORO SERGIO",
+    "product": "CREMORO/SO AL TARTUFO, PISTACCHIO,PROSECCO DOC ROSE', NATURALE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LATTERIA MORO DI MORO SERGIO - CREMORO/SO AL TARTUFO, PISTACCHIO,PROSECCO DOC ROSE', NATURALE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20CREMOSO%20CESTINO_1783089571.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cremoroso-al-tartufo-pistacchioprosecco-doc-rose-naturale",
+    "published": "2026-07-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cremoso-al-tartufo/",
+    "title": "",
+    "noticeDate": "3 luglio 2026",
+    "campi": {
+      "data pubblicazione": "3 luglio 2026",
+      "marca": "LATTERIA MORO DI MORO SERGIO",
+      "denominazione": "CREMOSO AL TARTUFO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LATTERIA MORO DI MORO SERGIO",
+    "product": "CREMOSO AL TARTUFO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LATTERIA MORO DI MORO SERGIO - CREMOSO AL TARTUFO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20CREMOSO%20VASCHETTA%20_1__1783089646.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cremoso-al-tartufo",
+    "published": "2026-07-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cremoso-al-tartufo-0/",
+    "title": "",
+    "noticeDate": "3 luglio 2026",
+    "campi": {
+      "data pubblicazione": "3 luglio 2026",
+      "marca": "LATTERIA MORO DI MORO SERGIO",
+      "denominazione": "CREMOSO AL TARTUFO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LATTERIA MORO DI MORO SERGIO",
+    "product": "CREMOSO AL TARTUFO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LATTERIA MORO DI MORO SERGIO - CREMOSO AL TARTUFO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20CREMOSO%20FORMA%20CON%20CROSTA%20_1__1783089721.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cremoso-al-tartufo-0",
+    "published": "2026-07-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-rosso/",
+    "title": "",
+    "noticeDate": "1 luglio 2026",
+    "campi": {
+      "data pubblicazione": "1 luglio 2026",
+      "marca": "F.lli De Cecco di Filippo Fara San Martino SpA",
+      "denominazione": "Pesto Rosso",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "F.lli De Cecco di Filippo Fara San Martino SpA",
+    "product": "Pesto Rosso",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo F.lli De Cecco di Filippo Fara San Martino SpA - Pesto Rosso",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo_PESTO%20ROSSO_07225288_1782907340.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pesto-rosso",
+    "published": "2026-07-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formae-val-di-fiemme-stagionato/",
+    "title": "",
+    "noticeDate": "1 luglio 2026",
+    "campi": {
+      "data pubblicazione": "1 luglio 2026",
+      "marca": "CASEIFICIO SOCIALE VAL DI FIEMME - CAVALESE S.C.A.",
+      "denominazione": "FORMAE VAL DI FIEMME STAGIONATO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CASEIFICIO SOCIALE VAL DI FIEMME - CAVALESE S.C.A.",
+    "product": "FORMAE VAL DI FIEMME STAGIONATO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASEIFICIO SOCIALE VAL DI FIEMME - CAVALESE S.C.A. - FORMAE VAL DI FIEMME STAGIONATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Richiamo_1782916448.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formae-val-di-fiemme-stagionato",
+    "published": "2026-07-01",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carpaccio-di-salmone-100-g/",
     "title": "",
     "noticeDate": "26 giugno 2026",
@@ -1937,6 +2353,110 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "4250-cornetto-curvo-extrafarcitura-crema-pistacchio-madre-deluxe",
+    "published": "2026-06-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nutella-muffin-t2-ean-8000500392935/",
+    "title": "",
+    "noticeDate": "26 giugno 2026",
+    "campi": {
+      "data pubblicazione": "26 giugno 2026",
+      "marca": "NUTELLA MUFFIN",
+      "denominazione": "NUTELLA MUFFIN T2 EAN: 8000500392935",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "NUTELLA MUFFIN",
+    "product": "NUTELLA MUFFIN T2 EAN: 8000500392935",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NUTELLA MUFFIN - NUTELLA MUFFIN T2 EAN: 8000500392935",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Nutella%20muffin%20T2_1782489050.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "nutella-muffin-t2-ean-8000500392935",
+    "published": "2026-06-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nutella-muffin-t4-ean8000500431269/",
+    "title": "",
+    "noticeDate": "26 giugno 2026",
+    "campi": {
+      "data pubblicazione": "26 giugno 2026",
+      "marca": "NUTELLA MUFFIN",
+      "denominazione": "NUTELLA MUFFIN T4 EAN:8000500431269",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "NUTELLA MUFFIN",
+    "product": "NUTELLA MUFFIN T4 EAN:8000500431269",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NUTELLA MUFFIN - NUTELLA MUFFIN T4 EAN:8000500431269",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Nutella%20muffin%20T4_1782489131.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "nutella-muffin-t4-ean8000500431269",
+    "published": "2026-06-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nutella-croissant-t4-ean8000500413654/",
+    "title": "",
+    "noticeDate": "26 giugno 2026",
+    "campi": {
+      "data pubblicazione": "26 giugno 2026",
+      "marca": "NUTELLA CROISSANT",
+      "denominazione": "NUTELLA CROISSANT T4 EAN:8000500413654",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "NUTELLA CROISSANT",
+    "product": "NUTELLA CROISSANT T4 EAN:8000500413654",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo NUTELLA CROISSANT - NUTELLA CROISSANT T4 EAN:8000500413654",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Nutella%20croissant%20T4_1782489200.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "nutella-croissant-t4-ean8000500413654",
+    "published": "2026-06-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nutella-muffin-t1x8-ean-8000500366899/",
+    "title": "",
+    "noticeDate": "26 giugno 2026",
+    "campi": {
+      "data pubblicazione": "26 giugno 2026",
+      "marca": "Nutella muffin",
+      "denominazione": "Nutella Muffin T1x8 EAN: 8000500366899",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Nutella muffin",
+    "product": "Nutella Muffin T1x8 EAN: 8000500366899",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nutella muffin - Nutella Muffin T1x8 EAN: 8000500366899",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Nutella%20muffin%20T1_1782489269.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "nutella-muffin-t1x8-ean-8000500366899",
     "published": "2026-06-26",
     "source": "operator"
   },
