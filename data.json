@@ -406,6 +406,344 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/noci-sgusciate-mezze/",
+    "title": "",
+    "noticeDate": "3 novembre 2025",
+    "campi": {
+      "data pubblicazione": "3 novembre 2025",
+      "marca": "DREAM FRUITS SRL",
+      "denominazione": "NOCI SGUSCIATE MEZZE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "DREAM FRUITS SRL",
+    "product": "NOCI SGUSCIATE MEZZE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DREAM FRUITS SRL - NOCI SGUSCIATE MEZZE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLORICHIAMOCONADNOCISGUSCIATE_1762185377.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "noci-sgusciate-mezze",
+    "published": "2025-11-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/le-nostranelle-2-uova-fresche/",
+    "title": "",
+    "noticeDate": "3 novembre 2025",
+    "campi": {
+      "data pubblicazione": "3 novembre 2025",
+      "marca": "SPINOVO",
+      "denominazione": "LE NOSTRANELLE - 2 UOVA FRESCHE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SPINOVO",
+    "product": "LE NOSTRANELLE - 2 UOVA FRESCHE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SPINOVO - LE NOSTRANELLE - 2 UOVA FRESCHE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_2_uova_1762185475.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "le-nostranelle-2-uova-fresche",
+    "published": "2025-11-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/6-uova-fresche/",
+    "title": "",
+    "noticeDate": "3 novembre 2025",
+    "campi": {
+      "data pubblicazione": "3 novembre 2025",
+      "marca": "SPINOVO",
+      "denominazione": "6 UOVA FRESCHE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SPINOVO",
+    "product": "6 UOVA FRESCHE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SPINOVO - 6 UOVA FRESCHE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_6_uova_LC_1762185571.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "6-uova-fresche",
+    "published": "2025-11-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/6-uova-fresche-lc/",
+    "title": "",
+    "noticeDate": "3 novembre 2025",
+    "campi": {
+      "data pubblicazione": "3 novembre 2025",
+      "marca": "SPINOVOV",
+      "denominazione": "6 UOVA FRESCHE LC",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SPINOVOV",
+    "product": "6 UOVA FRESCHE LC",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SPINOVOV - 6 UOVA FRESCHE LC",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_6_uova_LC_1762186237.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "6-uova-fresche-lc",
+    "published": "2025-11-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/6-uova-fresche-mc/",
+    "title": "",
+    "noticeDate": "3 novembre 2025",
+    "campi": {
+      "data pubblicazione": "3 novembre 2025",
+      "marca": "SPINOVO",
+      "denominazione": "6 UOVA FRESCHE MC",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SPINOVO",
+    "product": "6 UOVA FRESCHE MC",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SPINOVO - 6 UOVA FRESCHE MC",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_6_uova_MC_1762186333.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "6-uova-fresche-mc",
+    "published": "2025-11-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/6-uova-fresche-xlc/",
+    "title": "",
+    "noticeDate": "3 novembre 2025",
+    "campi": {
+      "data pubblicazione": "3 novembre 2025",
+      "marca": "SPINOVO",
+      "denominazione": "6 UOVA FRESCHE XLC",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SPINOVO",
+    "product": "6 UOVA FRESCHE XLC",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SPINOVO - 6 UOVA FRESCHE XLC",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_6_uova_XLC_1762186420.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "6-uova-fresche-xlc",
+    "published": "2025-11-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/10-uova-fresche-medie/",
+    "title": "",
+    "noticeDate": "3 novembre 2025",
+    "campi": {
+      "data pubblicazione": "3 novembre 2025",
+      "marca": "SPINOVO",
+      "denominazione": "10 UOVA FRESCHE MEDIE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SPINOVO",
+    "product": "10 UOVA FRESCHE MEDIE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SPINOVO - 10 UOVA FRESCHE MEDIE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_10_uova_MC_1762186511.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "10-uova-fresche-medie",
+    "published": "2025-11-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/6-uova-fresche-grandissime/",
+    "title": "",
+    "noticeDate": "3 novembre 2025",
+    "campi": {
+      "data pubblicazione": "3 novembre 2025",
+      "marca": "SPINOVO",
+      "denominazione": "6 UOVA FRESCHE GRANDISSIME",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SPINOVO",
+    "product": "6 UOVA FRESCHE GRANDISSIME",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SPINOVO - 6 UOVA FRESCHE GRANDISSIME",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_6_uova_XLC_1762187221.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "6-uova-fresche-grandissime",
+    "published": "2025-11-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/6-uova-fresche-medie/",
+    "title": "",
+    "noticeDate": "3 novembre 2025",
+    "campi": {
+      "data pubblicazione": "3 novembre 2025",
+      "marca": "SPINOVO",
+      "denominazione": "6 UOVA FRESCHE MEDIE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SPINOVO",
+    "product": "6 UOVA FRESCHE MEDIE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SPINOVO - 6 UOVA FRESCHE MEDIE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_6_uova_MC_1762187311.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "6-uova-fresche-medie",
+    "published": "2025-11-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/6-uova-fresche-0/",
+    "title": "",
+    "noticeDate": "3 novembre 2025",
+    "campi": {
+      "data pubblicazione": "3 novembre 2025",
+      "marca": "SPINOVO",
+      "denominazione": "6 UOVA FRESCHE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SPINOVO",
+    "product": "6 UOVA FRESCHE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SPINOVO - 6 UOVA FRESCHE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_6_uova_LC_1762187403.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "6-uova-fresche-0",
+    "published": "2025-11-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-sfuse-spinovo-m-l-xl/",
+    "title": "",
+    "noticeDate": "3 novembre 2025",
+    "campi": {
+      "data pubblicazione": "3 novembre 2025",
+      "marca": "SPINOVO",
+      "denominazione": "UOVA FRESCHE SFUSE SPINOVO M - L -XL",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SPINOVO",
+    "product": "UOVA FRESCHE SFUSE SPINOVO M - L -XL",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SPINOVO - UOVA FRESCHE SFUSE SPINOVO M - L -XL",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_uova_sfuse_1762187496.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-sfuse-spinovo-m-l-xl",
+    "published": "2025-11-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confezione-da-2-uova-fresche-biologiche-cat/",
+    "title": "",
+    "noticeDate": "1 novembre 2025",
+    "campi": {
+      "data pubblicazione": "1 novembre 2025",
+      "marca": "L'UOVO D'ORO",
+      "denominazione": "CONFEZIONE DA 2 UOVA FRESCHE BIOLOGICHE - CAT. A",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "L'UOVO D'ORO",
+    "product": "CONFEZIONE DA 2 UOVA FRESCHE BIOLOGICHE - CAT. A",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo L'UOVO D'ORO - CONFEZIONE DA 2 UOVA FRESCHE BIOLOGICHE - CAT. A",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/COMUNICAZIONE%20RICHIAMO%20_%20CONF%20%202%20UOVA%20FRESCHE%20BIO%20_%20L_UOVO%20D_ORO_1762028616.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "confezione-da-2-uova-fresche-biologiche-cat",
+    "published": "2025-11-01",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confezione-da-6-uova-fresche-biologiche-cat/",
+    "title": "",
+    "noticeDate": "1 novembre 2025",
+    "campi": {
+      "data pubblicazione": "1 novembre 2025",
+      "marca": "L'UOVO D'ORO",
+      "denominazione": "CONFEZIONE DA 6 UOVA FRESCHE BIOLOGICHE - CAT. A",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "L'UOVO D'ORO",
+    "product": "CONFEZIONE DA 6 UOVA FRESCHE BIOLOGICHE - CAT. A",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo L'UOVO D'ORO - CONFEZIONE DA 6 UOVA FRESCHE BIOLOGICHE - CAT. A",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/COMUNICAZIONE%20RICHIAMO%20_%20CONF%20%206%20UOVA%20FRESCHE%20BIO%20_%20L_UOVO%20D_ORO_1762028618.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "confezione-da-6-uova-fresche-biologiche-cat",
+    "published": "2025-11-01",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/stracciatella-250-gr-stracciatella-500-gr/",
     "title": "",
     "noticeDate": "31 ottobre 2025",
@@ -454,6 +792,188 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "burrata-di-aviano-affumicata",
+    "published": "2025-10-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/stracciatella-250-gr-stracciatella-500-gr-0/",
+    "title": "",
+    "noticeDate": "31 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "31 ottobre 2025",
+      "marca": "CASEARIA DEL BEN SRL",
+      "denominazione": "STRACCIATELLA 250 GR STRACCIATELLA 500 GR",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CASEARIA DEL BEN SRL",
+    "product": "STRACCIATELLA 250 GR STRACCIATELLA 500 GR",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASEARIA DEL BEN SRL - STRACCIATELLA 250 GR STRACCIATELLA 500 GR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelli%20di%20richiamo_2_1761908183.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "stracciatella-250-gr-stracciatella-500-gr-0",
+    "published": "2025-10-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burrata-di-aviano-125-gr/",
+    "title": "",
+    "noticeDate": "31 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "31 ottobre 2025",
+      "marca": "CASEARIA DEL BEN SRL",
+      "denominazione": "BURRATA DI AVIANO 125 GR",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CASEARIA DEL BEN SRL",
+    "product": "BURRATA DI AVIANO 125 GR",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASEARIA DEL BEN SRL - BURRATA DI AVIANO 125 GR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelli%20di%20richiamo_4_1761908272.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burrata-di-aviano-125-gr",
+    "published": "2025-10-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burrata-di-aviano-300-gr-burrata-di-aviano-125-gr/",
+    "title": "",
+    "noticeDate": "31 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "31 ottobre 2025",
+      "marca": "CASEARIA DEL BEN SRL",
+      "denominazione": "BURRATA DI AVIANO 300 GR BURRATA DI AVIANO 125 GR",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CASEARIA DEL BEN SRL",
+    "product": "BURRATA DI AVIANO 300 GR BURRATA DI AVIANO 125 GR",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASEARIA DEL BEN SRL - BURRATA DI AVIANO 300 GR BURRATA DI AVIANO 125 GR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelli%20di%20richiamo_5_1761908983.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burrata-di-aviano-300-gr-burrata-di-aviano-125-gr",
+    "published": "2025-10-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burrata-di-aviano-300-gr-burrata-di-aviano-125-gr-0/",
+    "title": "",
+    "noticeDate": "31 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "31 ottobre 2025",
+      "marca": "CASEARIA DEL BEN SRL",
+      "denominazione": "BURRATA DI AVIANO 300 GR BURRATA DI AVIANO 125 GR",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CASEARIA DEL BEN SRL",
+    "product": "BURRATA DI AVIANO 300 GR BURRATA DI AVIANO 125 GR",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASEARIA DEL BEN SRL - BURRATA DI AVIANO 300 GR BURRATA DI AVIANO 125 GR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelli%20di%20richiamo_6_1761909067.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burrata-di-aviano-300-gr-burrata-di-aviano-125-gr-0",
+    "published": "2025-10-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-norvegese-con-sesamo-affumicato/",
+    "title": "",
+    "noticeDate": "31 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "31 ottobre 2025",
+      "marca": "Compagnia Del Mare",
+      "denominazione": "Salmone Norvegese con sesamo affumicato",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Compagnia Del Mare",
+    "product": "Salmone Norvegese con sesamo affumicato",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Compagnia Del Mare - Salmone Norvegese con sesamo affumicato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Salmone%20LC22521904%20sc%2003%2011%202025_1761916969.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salmone-norvegese-con-sesamo-affumicato",
+    "published": "2025-10-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-integrale-rosa-marchetti/",
+    "title": "",
+    "noticeDate": "31 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "31 ottobre 2025",
+      "marca": "Cascine Orsine",
+      "denominazione": "Riso integrale Rosa Marchetti",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Cascine Orsine",
+    "product": "Riso integrale Rosa Marchetti",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cascine Orsine - Riso integrale Rosa Marchetti",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_richiamo_risoCascineOrsine_1761916971.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "riso-integrale-rosa-marchetti",
+    "published": "2025-10-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-di-salmone/",
+    "title": "",
+    "noticeDate": "31 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "31 ottobre 2025",
+      "marca": "TuttoGusto",
+      "denominazione": "Crema di Salmone",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "TuttoGusto",
+    "product": "Crema di Salmone",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TuttoGusto - Crema di Salmone",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/251030_Richiamo%20_CREMA%20DI%20SALMONE_Ali_Big_1762531471.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "crema-di-salmone",
     "published": "2025-10-31",
     "source": "operator"
   },
