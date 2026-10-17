@@ -312,6 +312,266 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zuppa-toscana-500-g/",
+    "title": "",
+    "noticeDate": "8 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "8 ottobre 2026",
+      "marca": "Ortonatura S.A.C.A.R.L.",
+      "denominazione": "Zuppa Toscana 500 g.",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Ortonatura S.A.C.A.R.L.",
+    "product": "Zuppa Toscana 500 g.",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ortonatura S.A.C.A.R.L. - Zuppa Toscana 500 g.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20MINESTRONE%20TAGLIATO_1791470358.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "zuppa-toscana-500-g",
+    "published": "2026-10-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zuppa-toscana-500-g-0/",
+    "title": "",
+    "noticeDate": "8 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "8 ottobre 2026",
+      "marca": "Ortonatura S.A.C.A.R.L.",
+      "denominazione": "Zuppa Toscana 500 g.",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Ortonatura S.A.C.A.R.L.",
+    "product": "Zuppa Toscana 500 g.",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Ortonatura S.A.C.A.R.L. - Zuppa Toscana 500 g.",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20Zuppa%20Toscana%20Ortonatura_1791470402.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "zuppa-toscana-500-g-0",
+    "published": "2026-10-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/speck-e-brie-2/",
+    "title": "",
+    "noticeDate": "6 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "6 ottobre 2026",
+      "marca": "MIGROSS SPA",
+      "denominazione": "Speck e Brie",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "MIGROSS SPA",
+    "product": "Speck e Brie",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MIGROSS SPA - Speck e Brie",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato_6_cartello_richiamo_prodotto_F262190143_mod10.09.26.%20_1__1791279334.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "speck-e-brie-2",
+    "published": "2026-10-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trancio-di-pesce-spada/",
+    "title": "",
+    "noticeDate": "6 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "6 ottobre 2026",
+      "marca": "Cedimar S.r.l.",
+      "denominazione": "Trancio di pesce spada",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Cedimar S.r.l.",
+    "product": "Trancio di pesce spada",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cedimar S.r.l. - Trancio di pesce spada",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20trancio%20pesce%20spada%20280926_1791288145.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "trancio-di-pesce-spada",
+    "published": "2026-10-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trancio-pesce-spada/",
+    "title": "",
+    "noticeDate": "6 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "6 ottobre 2026",
+      "marca": "Cedimar S.r.l.",
+      "denominazione": "Trancio pesce spada",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Cedimar S.r.l.",
+    "product": "Trancio pesce spada",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Cedimar S.r.l. - Trancio pesce spada",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20trancio%20pesce%20spada%20300926_1791288147.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "trancio-pesce-spada",
+    "published": "2026-10-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trofie-2x500g/",
+    "title": "",
+    "noticeDate": "5 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "5 ottobre 2026",
+      "marca": "Tre Mulini",
+      "denominazione": "Trofie 2x500g",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Tre Mulini",
+    "product": "Trofie 2x500g",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Tre Mulini - Trofie 2x500g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelloministerialeeurospintrofie_1791202096.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "trofie-2x500g",
+    "published": "2026-10-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamella-dolce-sottovuoto/",
+    "title": "",
+    "noticeDate": "2 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "2 ottobre 2026",
+      "marca": "FRANCHI SALUMI",
+      "denominazione": "SALAMELLA DOLCE SOTTOVUOTO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "FRANCHI SALUMI",
+    "product": "SALAMELLA DOLCE SOTTOVUOTO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FRANCHI SALUMI - SALAMELLA DOLCE SOTTOVUOTO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20modello%20ministero%20SALAMELLA%20DOLCE%20META_%20SOTTOVUOTO_1790933605.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salamella-dolce-sottovuoto",
+    "published": "2026-10-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamella-dolce-sottovuoto-intera/",
+    "title": "",
+    "noticeDate": "2 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "2 ottobre 2026",
+      "marca": "FRANCHI SALUMI",
+      "denominazione": "SALAMELLA DOLCE SOTTOVUOTO INTERA",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "FRANCHI SALUMI",
+    "product": "SALAMELLA DOLCE SOTTOVUOTO INTERA",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FRANCHI SALUMI - SALAMELLA DOLCE SOTTOVUOTO INTERA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20modello%20ministero%20SALAMELLA%20DOLCE%20INTERA_1790933640.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "salamella-dolce-sottovuoto-intera",
+    "published": "2026-10-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-da-allevamento-terra-speciali-pasta-gialla-0/",
+    "title": "",
+    "noticeDate": "2 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "2 ottobre 2026",
+      "marca": "AVICOLA ALBERTI TAMARA",
+      "denominazione": "UOVA DA ALLEVAMENTO A TERRA - SPECIALI PASTA GIALLA",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "AVICOLA ALBERTI TAMARA",
+    "product": "UOVA DA ALLEVAMENTO A TERRA - SPECIALI PASTA GIALLA",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AVICOLA ALBERTI TAMARA - UOVA DA ALLEVAMENTO A TERRA - SPECIALI PASTA GIALLA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/AVICOLA%20ALBERTI%20TAMARA%20_%20UOVA%20SPECIALI%20PASTA%20GIALLA_1790960639.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-da-allevamento-terra-speciali-pasta-gialla-0",
+    "published": "2026-10-02",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/snack-sticks-fuetchorizo-80g/",
+    "title": "",
+    "noticeDate": "30 settembre 2026",
+    "campi": {
+      "data pubblicazione": "30 settembre 2026",
+      "marca": "Sol&Mar",
+      "denominazione": "Snack Sticks (Fuet/Chorizo), 80g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Sol&Mar",
+    "product": "Snack Sticks (Fuet/Chorizo), 80g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sol&Mar - Snack Sticks (Fuet/Chorizo), 80g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20_4__1790779219.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "snack-sticks-fuetchorizo-80g",
+    "published": "2026-09-30",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/roccaverano-dop/",
     "title": "",
     "noticeDate": "28 settembre 2026",
@@ -1385,6 +1645,266 @@
     "category": "info",
     "id": "robiola-0",
     "published": "2026-09-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hamburger-con-marchigiana/",
+    "title": "",
+    "noticeDate": "6 agosto 2026",
+    "campi": {
+      "data pubblicazione": "6 agosto 2026",
+      "marca": "Terre d'Italia",
+      "denominazione": "Hamburger con Marchigiana",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Terre d'Italia",
+    "product": "Hamburger con Marchigiana",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Terre d'Italia - Hamburger con Marchigiana",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Ministero%20_%20Terre%20d_Italia_1786017783.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "hamburger-con-marchigiana",
+    "published": "2026-08-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salumificio-pignone-mortadella-nostrale/",
+    "title": "",
+    "noticeDate": "5 agosto 2026",
+    "campi": {
+      "data pubblicazione": "5 agosto 2026",
+      "marca": "Salumificio Pignone",
+      "denominazione": "Salumificio Pignone mortadella nostrale",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio Pignone",
+    "product": "Salumificio Pignone mortadella nostrale",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio Pignone - Salumificio Pignone mortadella nostrale",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20mortadella%20Pignone_1785940893.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salumificio-pignone-mortadella-nostrale",
+    "published": "2026-08-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-nostrale/",
+    "title": "",
+    "noticeDate": "5 agosto 2026",
+    "campi": {
+      "data pubblicazione": "5 agosto 2026",
+      "marca": "Salumificio Pignone Mortadella Nostrale",
+      "denominazione": "Mortadella Nostrale",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio Pignone Mortadella Nostrale",
+    "product": "Mortadella Nostrale",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio Pignone Mortadella Nostrale - Mortadella Nostrale",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20MORTADELLA%20NOSTRALE%20PIGNONE_1785941128.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "mortadella-nostrale",
+    "published": "2026-08-05",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/shinzui-ramen-miso-ramen/",
+    "title": "",
+    "noticeDate": "4 agosto 2026",
+    "campi": {
+      "data pubblicazione": "4 agosto 2026",
+      "marca": "Shinzui Ramen",
+      "denominazione": "Shinzui Ramen - Miso Ramen",
+      "motivo della segnalazione": "Altro motivo di richiamo"
+    },
+    "brand": "Shinzui Ramen",
+    "product": "Shinzui Ramen - Miso Ramen",
+    "reasonShort": "Altro motivo di richiamo",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Shinzui Ramen - Shinzui Ramen - Miso Ramen",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Shinzui%20Ramen%20_%20Miso%20Ramen_1785845303.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "shinzui-ramen-miso-ramen",
+    "published": "2026-08-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/shinzui-ramen-miso-ramen-piccante/",
+    "title": "",
+    "noticeDate": "4 agosto 2026",
+    "campi": {
+      "data pubblicazione": "4 agosto 2026",
+      "marca": "Shinzui Ramen",
+      "denominazione": "Shinzui Ramen - Miso Ramen piccante",
+      "motivo della segnalazione": "Altro motivo di richiamo"
+    },
+    "brand": "Shinzui Ramen",
+    "product": "Shinzui Ramen - Miso Ramen piccante",
+    "reasonShort": "Altro motivo di richiamo",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Shinzui Ramen - Shinzui Ramen - Miso Ramen piccante",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Shinzui%20Ramen%20_%20Miso%20Ramen%20piccante_1785845306.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "shinzui-ramen-miso-ramen-piccante",
+    "published": "2026-08-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/shinzui-ramen-shoyu-ramen/",
+    "title": "",
+    "noticeDate": "4 agosto 2026",
+    "campi": {
+      "data pubblicazione": "4 agosto 2026",
+      "marca": "Shinzui Ramen",
+      "denominazione": "Shinzui Ramen - Shoyu Ramen",
+      "motivo della segnalazione": "Altro motivo di richiamo"
+    },
+    "brand": "Shinzui Ramen",
+    "product": "Shinzui Ramen - Shoyu Ramen",
+    "reasonShort": "Altro motivo di richiamo",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Shinzui Ramen - Shinzui Ramen - Shoyu Ramen",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Shinzui%20Ramen%20_%20Shoyu%20Ramen_1785845308.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "shinzui-ramen-shoyu-ramen",
+    "published": "2026-08-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/shinzui-ramen-tantan-ramen/",
+    "title": "",
+    "noticeDate": "4 agosto 2026",
+    "campi": {
+      "data pubblicazione": "4 agosto 2026",
+      "marca": "Shinzui Ramen",
+      "denominazione": "Shinzui Ramen - Tantan Ramen",
+      "motivo della segnalazione": "Altro motivo di richiamo"
+    },
+    "brand": "Shinzui Ramen",
+    "product": "Shinzui Ramen - Tantan Ramen",
+    "reasonShort": "Altro motivo di richiamo",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Shinzui Ramen - Shinzui Ramen - Tantan Ramen",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Shinzui%20Ramen%20_%20Tantan%20Ramen_1785845309.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "shinzui-ramen-tantan-ramen",
+    "published": "2026-08-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/shinzui-ramen-tonkotsu-ramen/",
+    "title": "",
+    "noticeDate": "4 agosto 2026",
+    "campi": {
+      "data pubblicazione": "4 agosto 2026",
+      "marca": "Shinzui Ramen",
+      "denominazione": "Shinzui Ramen - Tonkotsu Ramen",
+      "motivo della segnalazione": "Altro motivo di richiamo"
+    },
+    "brand": "Shinzui Ramen",
+    "product": "Shinzui Ramen - Tonkotsu Ramen",
+    "reasonShort": "Altro motivo di richiamo",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Shinzui Ramen - Shinzui Ramen - Tonkotsu Ramen",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Shinzui%20Ramen%20_%20Tonkotsu%20Ramen_1785845311.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "shinzui-ramen-tonkotsu-ramen",
+    "published": "2026-08-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-allaperto-m-delizie-dsole-16cfx6/",
+    "title": "",
+    "noticeDate": "3 agosto 2026",
+    "campi": {
+      "data pubblicazione": "3 agosto 2026",
+      "marca": "Delizie del Sole",
+      "denominazione": "UOVA ALL.APERTO M DELIZIE D/SOLE 16CFX6",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Delizie del Sole",
+    "product": "UOVA ALL.APERTO M DELIZIE D/SOLE 16CFX6",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Delizie del Sole - UOVA ALL.APERTO M DELIZIE D/SOLE 16CFX6",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1%20_%20cartello%20ministeriale%20Eurospin%20Italia%20S.p.A._1785750020.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-allaperto-m-delizie-dsole-16cfx6",
+    "published": "2026-08-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggella-3/",
+    "title": "",
+    "noticeDate": "31 luglio 2026",
+    "campi": {
+      "data pubblicazione": "31 luglio 2026",
+      "marca": "CAPRISS",
+      "denominazione": "Formaggella",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "CAPRISS",
+    "product": "Formaggella",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CAPRISS - Formaggella",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20formaggella%20per%20scad%2019.07.26_1785518161.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "formaggella-3",
+    "published": "2026-07-31",
     "source": "operator"
   },
   {
