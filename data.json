@@ -406,6 +406,500 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/stracciatella-250-gr-stracciatella-500-gr/",
+    "title": "",
+    "noticeDate": "31 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "31 ottobre 2025",
+      "marca": "CASEARIA DEL BEN SRL",
+      "denominazione": "STRACCIATELLA 250 GR STRACCIATELLA 500 GR",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CASEARIA DEL BEN SRL",
+    "product": "STRACCIATELLA 250 GR STRACCIATELLA 500 GR",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASEARIA DEL BEN SRL - STRACCIATELLA 250 GR STRACCIATELLA 500 GR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelli%20di%20richiamo_1_1761908013.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "stracciatella-250-gr-stracciatella-500-gr",
+    "published": "2025-10-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burrata-di-aviano-affumicata/",
+    "title": "",
+    "noticeDate": "31 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "31 ottobre 2025",
+      "marca": "CASEARIA DEL BEN SRL",
+      "denominazione": "BURRATA DI AVIANO AFFUMICATA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CASEARIA DEL BEN SRL",
+    "product": "BURRATA DI AVIANO AFFUMICATA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASEARIA DEL BEN SRL - BURRATA DI AVIANO AFFUMICATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelli%20di%20richiamo_3_1761908096.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burrata-di-aviano-affumicata",
+    "published": "2025-10-31",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/borragine-cubetti-surgelata-25-kg/",
+    "title": "",
+    "noticeDate": "30 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "30 ottobre 2025",
+      "marca": "Industrie ROLLI alimentari S.p.a.",
+      "denominazione": "Borragine a cubetti surgelata 2,5 Kg",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Industrie ROLLI alimentari S.p.a.",
+    "product": "Borragine a cubetti surgelata 2,5 Kg",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Industrie ROLLI alimentari S.p.a. - Borragine a cubetti surgelata 2,5 Kg",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20borragine%20795463_1761848363.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "borragine-cubetti-surgelata-25-kg",
+    "published": "2025-10-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-alici-di-sicilia-allolio-di-oliva-vaso-vetro-da-156g/",
+    "title": "",
+    "noticeDate": "8 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "8 ottobre 2025",
+      "marca": "Sapori & Dintorni Conad",
+      "denominazione": "Filetti di alici di Sicilia all'olio di oliva vaso vetro da 156g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Sapori & Dintorni Conad",
+    "product": "Filetti di alici di Sicilia all'olio di oliva vaso vetro da 156g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sapori & Dintorni Conad - Filetti di alici di Sicilia all'olio di oliva vaso vetro da 156g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/m_1761209193.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filetti-di-alici-di-sicilia-allolio-di-oliva-vaso-vetro-da-156g",
+    "published": "2025-10-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/soul-rebel-bionda-hemp-beerd-da-50-cl-e-da-33-cl/",
+    "title": "",
+    "noticeDate": "8 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "8 ottobre 2025",
+      "marca": "CBWEED SRL",
+      "denominazione": "SOUL REBEL BIONDA ¿ HEMP BEERD DA 50 CL E DA 33 CL",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CBWEED SRL",
+    "product": "SOUL REBEL BIONDA ¿ HEMP BEERD DA 50 CL E DA 33 CL",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CBWEED SRL - SOUL REBEL BIONDA ¿ HEMP BEERD DA 50 CL E DA 33 CL",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20ministero%20BIRRA_1761209195.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "soul-rebel-bionda-hemp-beerd-da-50-cl-e-da-33-cl",
+    "published": "2025-10-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tisana-alla-canapa-hemp-infusion-alchemilla-ladys-mantle/",
+    "title": "",
+    "noticeDate": "8 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "8 ottobre 2025",
+      "marca": "CBWEED SRL",
+      "denominazione": "TISANA ALLA CANAPA HEMP INFUSION ALCHEMILLA- LADY¿S MANTLE",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CBWEED SRL",
+    "product": "TISANA ALLA CANAPA HEMP INFUSION ALCHEMILLA- LADY¿S MANTLE",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CBWEED SRL - TISANA ALLA CANAPA HEMP INFUSION ALCHEMILLA- LADY¿S MANTLE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20ministero%20LADY_1761209198.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tisana-alla-canapa-hemp-infusion-alchemilla-ladys-mantle",
+    "published": "2025-10-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tisanapa-hemp-liquorice-fennel/",
+    "title": "",
+    "noticeDate": "8 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "8 ottobre 2025",
+      "marca": "CBWEED SRL",
+      "denominazione": "TISANAPA HEMP LIQUORICE & FENNEL",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CBWEED SRL",
+    "product": "TISANAPA HEMP LIQUORICE & FENNEL",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CBWEED SRL - TISANAPA HEMP LIQUORICE & FENNEL",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20ministero%20liquorice_1761209200.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tisanapa-hemp-liquorice-fennel",
+    "published": "2025-10-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tisanapa-hemp-thyme-and-mallow/",
+    "title": "",
+    "noticeDate": "8 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "8 ottobre 2025",
+      "marca": "CBWEED SRL",
+      "denominazione": "TISANAPA HEMP THYME AND MALLOW",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CBWEED SRL",
+    "product": "TISANAPA HEMP THYME AND MALLOW",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CBWEED SRL - TISANAPA HEMP THYME AND MALLOW",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20ministero%20mallow_1761209203.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tisanapa-hemp-thyme-and-mallow",
+    "published": "2025-10-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hamburger/",
+    "title": "",
+    "noticeDate": "7 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "7 ottobre 2025",
+      "marca": "COPROCAR S. NICOLO'",
+      "denominazione": "Hamburger",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "COPROCAR S. NICOLO'",
+    "product": "Hamburger",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo COPROCAR S. NICOLO' - Hamburger",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_1761209187.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "hamburger",
+    "published": "2025-10-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-il-gallico/",
+    "title": "",
+    "noticeDate": "7 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "7 ottobre 2025",
+      "marca": "Corte Marchigiana",
+      "denominazione": "Salame il Gallico",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Corte Marchigiana",
+    "product": "Salame il Gallico",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Corte Marchigiana - Salame il Gallico",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_il%20gallico%20_1__1761209190.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-il-gallico",
+    "published": "2025-10-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/grifburger-di-cinghiale/",
+    "title": "",
+    "noticeDate": "4 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "4 ottobre 2025",
+      "marca": "IL GRIFONE SRL",
+      "denominazione": "GRIFBURGER DI CINGHIALE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "IL GRIFONE SRL",
+    "product": "GRIFBURGER DI CINGHIALE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IL GRIFONE SRL - GRIFBURGER DI CINGHIALE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_richiamo%20hamburger_1761209185.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "grifburger-di-cinghiale",
+    "published": "2025-10-04",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/curcuma-polvere-gr-60/",
+    "title": "",
+    "noticeDate": "3 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "3 ottobre 2025",
+      "marca": "FERTITECNICA COLFIORITO SRL",
+      "denominazione": "CURCUMA POLVERE GR. 60",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "FERTITECNICA COLFIORITO SRL",
+    "product": "CURCUMA POLVERE GR. 60",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FERTITECNICA COLFIORITO SRL - CURCUMA POLVERE GR. 60",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_1761209182.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "curcuma-polvere-gr-60",
+    "published": "2025-10-03",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/il-morbido-trancio-sottovuoto-senza-glutine/",
+    "title": "",
+    "noticeDate": "30 settembre 2025",
+    "campi": {
+      "data pubblicazione": "30 settembre 2025",
+      "marca": "Salumificio di Genga srl",
+      "denominazione": "IL MORBIDO TRANCIO SOTTOVUOTO SENZA GLUTINE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Salumificio di Genga srl",
+    "product": "IL MORBIDO TRANCIO SOTTOVUOTO SENZA GLUTINE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Salumificio di Genga srl - IL MORBIDO TRANCIO SOTTOVUOTO SENZA GLUTINE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMOMORBIDOTRANCIO26.09.2025_1761209178.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "il-morbido-trancio-sottovuoto-senza-glutine",
+    "published": "2025-09-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/le-coccoline/",
+    "title": "",
+    "noticeDate": "30 settembre 2025",
+    "campi": {
+      "data pubblicazione": "30 settembre 2025",
+      "marca": "Uova la Montanari",
+      "denominazione": "Le Coccoline",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Uova la Montanari",
+    "product": "Le Coccoline",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Uova la Montanari - Le Coccoline",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiroerichiamo_uova%20salmonella_1761209180.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "le-coccoline",
+    "published": "2025-09-30",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-semola-di-grano-duro-1/",
+    "title": "",
+    "noticeDate": "28 settembre 2025",
+    "campi": {
+      "data pubblicazione": "28 settembre 2025",
+      "marca": "FIOR FIORE COOP -L'ARTE ANTICA DI GRAGNANO",
+      "denominazione": "Pasta di semola di grano duro",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "FIOR FIORE COOP -L'ARTE ANTICA DI GRAGNANO",
+    "product": "Pasta di semola di grano duro",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo FIOR FIORE COOP -L'ARTE ANTICA DI GRAGNANO - Pasta di semola di grano duro",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20CALAMARI%2025%20148%202%207_1761209176.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasta-di-semola-di-grano-duro-1",
+    "published": "2025-09-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tortellini-prosciutto-crudo-e-parmigiano-reggiano-250-g/",
+    "title": "",
+    "noticeDate": "26 settembre 2025",
+    "campi": {
+      "data pubblicazione": "26 settembre 2025",
+      "marca": "Gruppo Fini spa a socio unico",
+      "denominazione": "tortellini prosciutto crudo e parmigiano reggiano 250 g",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "Gruppo Fini spa a socio unico",
+    "product": "tortellini prosciutto crudo e parmigiano reggiano 250 g",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Gruppo Fini spa a socio unico - tortellini prosciutto crudo e parmigiano reggiano 250 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/comunicazione%20richiamo%20Gruppo%20Fini_1761209168.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tortellini-prosciutto-crudo-e-parmigiano-reggiano-250-g",
+    "published": "2025-09-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tortellini-prosciutto-crudo-e-parmigiano-reggiano-250g-1/",
+    "title": "",
+    "noticeDate": "26 settembre 2025",
+    "campi": {
+      "data pubblicazione": "26 settembre 2025",
+      "marca": "GRUPPO FINI SPA A SOCIO UNICO",
+      "denominazione": "TORTELLINI PROSCIUTTO CRUDO E PARMIGIANO REGGIANO 250G",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "GRUPPO FINI SPA A SOCIO UNICO",
+    "product": "TORTELLINI PROSCIUTTO CRUDO E PARMIGIANO REGGIANO 250G",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GRUPPO FINI SPA A SOCIO UNICO - TORTELLINI PROSCIUTTO CRUDO E PARMIGIANO REGGIANO 250G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/comunicazione%20richiamo%20Gruppo%20Fini_1761209171.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tortellini-prosciutto-crudo-e-parmigiano-reggiano-250g-1",
+    "published": "2025-09-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-gragnano-igp-o-calamaro/",
+    "title": "",
+    "noticeDate": "26 settembre 2025",
+    "campi": {
+      "data pubblicazione": "26 settembre 2025",
+      "marca": "COOP",
+      "denominazione": "Pasta di Gragnano IGP \"O Calamaro\"",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "COOP",
+    "product": "Pasta di Gragnano IGP \"O Calamaro\"",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo COOP - Pasta di Gragnano IGP \"O Calamaro\"",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Coop%20PASTA%20GRAGNANO%20Ausl%20BO%20def_1761209173.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pasta-di-gragnano-igp-o-calamaro",
+    "published": "2025-09-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tortellini-prosciutto-crudo-e-parmigiano-reggiano-250g-0/",
+    "title": "",
+    "noticeDate": "25 settembre 2025",
+    "campi": {
+      "data pubblicazione": "25 settembre 2025",
+      "marca": "GRUPPO FINI SPA A SOCIO UNICO",
+      "denominazione": "TORTELLINI PROSCIUTTO CRUDO E PARMIGIANO REGGIANO 250G",
+      "motivo della segnalazione": "Altro motivo di revoca"
+    },
+    "brand": "GRUPPO FINI SPA A SOCIO UNICO",
+    "product": "TORTELLINI PROSCIUTTO CRUDO E PARMIGIANO REGGIANO 250G",
+    "reasonShort": "Altro motivo di revoca",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo GRUPPO FINI SPA A SOCIO UNICO - TORTELLINI PROSCIUTTO CRUDO E PARMIGIANO REGGIANO 250G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/comunicazione%20richiamo%20Gruppo%20Fini_1761209166.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "tortellini-prosciutto-crudo-e-parmigiano-reggiano-250g-0",
+    "published": "2025-09-25",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tortellini-prosciutto-crudo-e-parmigiano-reggiano-250g/",
     "title": "",
     "noticeDate": "24 settembre 2025",
@@ -428,6 +922,32 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "tortellini-prosciutto-crudo-e-parmigiano-reggiano-250g",
+    "published": "2025-09-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/peperone-corno-rossopaprika-spits-rot-peperone-corno-rosso/",
+    "title": "",
+    "noticeDate": "24 settembre 2025",
+    "campi": {
+      "data pubblicazione": "24 settembre 2025",
+      "marca": "Jolife/generico",
+      "denominazione": "Peperone corno rosso/Paprika Spits Rot- Peperone corno rosso",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Jolife/generico",
+    "product": "Peperone corno rosso/Paprika Spits Rot- Peperone corno rosso",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Jolife/generico - Peperone corno rosso/Paprika Spits Rot- Peperone corno rosso",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modellocartellodirichiamopeperonecornorosso1_1761209161.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "peperone-corno-rossopaprika-spits-rot-peperone-corno-rosso",
     "published": "2025-09-24",
     "source": "operator"
   },
