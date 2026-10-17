@@ -417,6 +417,422 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bastoncini-di-grana-padano-dop/",
+    "title": "",
+    "noticeDate": "28 febbraio 2026",
+    "campi": {
+      "data pubblicazione": "28 febbraio 2026",
+      "marca": "Maestri Formaggiai",
+      "denominazione": "Bastoncini di Grana Padano DOP",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "Maestri Formaggiai",
+    "product": "Bastoncini di Grana Padano DOP",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Maestri Formaggiai - Bastoncini di Grana Padano DOP",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/7.%20Modulo%20di%20Richiamo_27.02.2026_1772301903.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bastoncini-di-grana-padano-dop",
+    "published": "2026-02-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dop-dolce-7/",
+    "title": "",
+    "noticeDate": "27 febbraio 2026",
+    "campi": {
+      "data pubblicazione": "27 febbraio 2026",
+      "marca": "Nuova Castelli",
+      "denominazione": "Gorgonzola DOP dolce",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Nuova Castelli",
+    "product": "Gorgonzola DOP dolce",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nuova Castelli - Gorgonzola DOP dolce",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20gorgonzola%20Dop%20Nuova%20castelli_1772206496.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gorgonzola-dop-dolce-7",
+    "published": "2026-02-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bovino-tartare-speziata-marchi-gr120x2/",
+    "title": "",
+    "noticeDate": "27 febbraio 2026",
+    "campi": {
+      "data pubblicazione": "27 febbraio 2026",
+      "marca": "MARCHI",
+      "denominazione": "BOVINO TARTARE SPEZIATA MARCHI GR.120X2",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "MARCHI",
+    "product": "BOVINO TARTARE SPEZIATA MARCHI GR.120X2",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MARCHI - BOVINO TARTARE SPEZIATA MARCHI GR.120X2",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_Richiamo_Tartare_Marchi_1772215843.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "bovino-tartare-speziata-marchi-gr120x2",
+    "published": "2026-02-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mazzancolle-tropicali-sgusciate-deven-congelate-3640-4150-5160-1/",
+    "title": "",
+    "noticeDate": "26 febbraio 2026",
+    "campi": {
+      "data pubblicazione": "26 febbraio 2026",
+      "marca": "LOS MARINEROS",
+      "denominazione": "MAZZANCOLLE TROPICALI SGUSCIATE DEVEN. CONGELATE- 36/40-41/50-51/60",
+      "motivo della segnalazione": "Revoca per analisi di revisione favorevole"
+    },
+    "brand": "LOS MARINEROS",
+    "product": "MAZZANCOLLE TROPICALI SGUSCIATE DEVEN. CONGELATE- 36/40-41/50-51/60",
+    "reasonShort": "Revoca per analisi di revisione favorevole",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LOS MARINEROS - MAZZANCOLLE TROPICALI SGUSCIATE DEVEN. CONGELATE- 36/40-41/50-51/60",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20REVOCA%20di%20Richiamo%20_%20Gelpiave%20srl_1772111318.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mazzancolle-tropicali-sgusciate-deven-congelate-3640-4150-5160-1",
+    "published": "2026-02-26",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/valpolicella-ripasso-dop-superiore-2023/",
+    "title": "",
+    "noticeDate": "24 febbraio 2026",
+    "campi": {
+      "data pubblicazione": "24 febbraio 2026",
+      "marca": "Corte della Pieve",
+      "denominazione": "VALPOLICELLA RIPASSO- DOP SUPERIORE 2023",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Corte della Pieve",
+    "product": "VALPOLICELLA RIPASSO- DOP SUPERIORE 2023",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Corte della Pieve - VALPOLICELLA RIPASSO- DOP SUPERIORE 2023",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RECALLVALPOLICELLARIPASSODOCSUPERIORECORTEDELLAPIEVE20260220%20_1__1771947642.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "valpolicella-ripasso-dop-superiore-2023",
+    "published": "2026-02-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelatina-fogli-3/",
+    "title": "",
+    "noticeDate": "23 febbraio 2026",
+    "campi": {
+      "data pubblicazione": "23 febbraio 2026",
+      "marca": "DISPENSA & CUCINA",
+      "denominazione": "GELATINA IN FOGLI",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "DISPENSA & CUCINA",
+    "product": "GELATINA IN FOGLI",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DISPENSA & CUCINA - GELATINA IN FOGLI",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/DITTA%20CLECA_Cartello_richiamo_1771869870.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gelatina-fogli-3",
+    "published": "2026-02-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filone-di-tonno-pinna-gialla-decongelato/",
+    "title": "",
+    "noticeDate": "20 febbraio 2026",
+    "campi": {
+      "data pubblicazione": "20 febbraio 2026",
+      "marca": "COPROMAR Srl",
+      "denominazione": "Filone di Tonno a pinna gialla decongelato",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "COPROMAR Srl",
+    "product": "Filone di Tonno a pinna gialla decongelato",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo COPROMAR Srl - Filone di Tonno a pinna gialla decongelato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20PRODOTTO_1771592905.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filone-di-tonno-pinna-gialla-decongelato",
+    "published": "2026-02-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tartare-scottona-200gr/",
+    "title": "",
+    "noticeDate": "20 febbraio 2026",
+    "campi": {
+      "data pubblicazione": "20 febbraio 2026",
+      "marca": "INDAL Srl - Montichiari",
+      "denominazione": "Tartare scottona 200gr",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "INDAL Srl - Montichiari",
+    "product": "Tartare scottona 200gr",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo INDAL Srl - Montichiari - Tartare scottona 200gr",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20_%20tartare%20scottona_1771602079.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "tartare-scottona-200gr",
+    "published": "2026-02-20",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-5/",
+    "title": "",
+    "noticeDate": "19 febbraio 2026",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2026",
+      "marca": "LA CASETTA DELLE UOVA",
+      "denominazione": "UOVA FRESCHE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LA CASETTA DELLE UOVA",
+    "product": "UOVA FRESCHE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA CASETTA DELLE UOVA - UOVA FRESCHE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO_1771497791.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-5",
+    "published": "2026-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-6/",
+    "title": "",
+    "noticeDate": "19 febbraio 2026",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2026",
+      "marca": "LA CASETTA DELLE UOVA",
+      "denominazione": "UOVA FRESCHE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LA CASETTA DELLE UOVA",
+    "product": "UOVA FRESCHE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA CASETTA DELLE UOVA - UOVA FRESCHE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20FACCIOLI_1771506164.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-fresche-6",
+    "published": "2026-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/straccitellla-250-gr-e-500-gr/",
+    "title": "",
+    "noticeDate": "19 febbraio 2026",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2026",
+      "marca": "LATTERIA DI AVIANO",
+      "denominazione": "STRACCITELLLA 250 GR E 500 GR",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LATTERIA DI AVIANO",
+    "product": "STRACCITELLLA 250 GR E 500 GR",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LATTERIA DI AVIANO - STRACCITELLLA 250 GR E 500 GR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiro_1_1771506167.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "straccitellla-250-gr-e-500-gr",
+    "published": "2026-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/stracciatella-250-gr-e-500-gr/",
+    "title": "",
+    "noticeDate": "19 febbraio 2026",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2026",
+      "marca": "LATTERIA DI AVIANO",
+      "denominazione": "STRACCIATELLA 250 GR E 500 GR",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LATTERIA DI AVIANO",
+    "product": "STRACCIATELLA 250 GR E 500 GR",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LATTERIA DI AVIANO - STRACCIATELLA 250 GR E 500 GR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiro_2_1771506169.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "stracciatella-250-gr-e-500-gr",
+    "published": "2026-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burrata-300-gr-e-125-gr/",
+    "title": "",
+    "noticeDate": "19 febbraio 2026",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2026",
+      "marca": "LATTERIA DI AVIANO",
+      "denominazione": "BURRATA 300 GR E 125 GR",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LATTERIA DI AVIANO",
+    "product": "BURRATA 300 GR E 125 GR",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LATTERIA DI AVIANO - BURRATA 300 GR E 125 GR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiro_3_1771506171.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burrata-300-gr-e-125-gr",
+    "published": "2026-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burrata-300-gr-e-125-gr-0/",
+    "title": "",
+    "noticeDate": "19 febbraio 2026",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2026",
+      "marca": "LATTERIA DI AVIANO",
+      "denominazione": "BURRATA 300 GR E 125 GR",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LATTERIA DI AVIANO",
+    "product": "BURRATA 300 GR E 125 GR",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LATTERIA DI AVIANO - BURRATA 300 GR E 125 GR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiro_3_1771506173.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burrata-300-gr-e-125-gr-0",
+    "published": "2026-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burrata-affumicata-125-gr/",
+    "title": "",
+    "noticeDate": "19 febbraio 2026",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2026",
+      "marca": "LATTERIA DI AVIANO",
+      "denominazione": "BURRATA AFFUMICATA 125 GR",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LATTERIA DI AVIANO",
+    "product": "BURRATA AFFUMICATA 125 GR",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LATTERIA DI AVIANO - BURRATA AFFUMICATA 125 GR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiro_5_1771506175.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burrata-affumicata-125-gr",
+    "published": "2026-02-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burrata-affumicata-125-gr-0/",
+    "title": "",
+    "noticeDate": "19 febbraio 2026",
+    "campi": {
+      "data pubblicazione": "19 febbraio 2026",
+      "marca": "LATTERIA DI AVIANO",
+      "denominazione": "BURRATA AFFUMICATA 125 GR",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LATTERIA DI AVIANO",
+    "product": "BURRATA AFFUMICATA 125 GR",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LATTERIA DI AVIANO - BURRATA AFFUMICATA 125 GR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiro_6_1771506177.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "burrata-affumicata-125-gr-0",
+    "published": "2026-02-19",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/focaccina-con-mortadella/",
     "title": "",
     "noticeDate": "13 febbraio 2026",
@@ -751,6 +1167,110 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "focaccina-con-salame-milano-e-scamorza-0",
+    "published": "2026-02-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/focaccina-con-speck-e-scamorza-affumicata-0/",
+    "title": "",
+    "noticeDate": "13 febbraio 2026",
+    "campi": {
+      "data pubblicazione": "13 febbraio 2026",
+      "marca": "CONAD",
+      "denominazione": "Focaccina con speck e scamorza affumicata",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "CONAD",
+    "product": "Focaccina con speck e scamorza affumicata",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONAD - Focaccina con speck e scamorza affumicata",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Focaccina%20con%20speck%20e%20scamorza%20affumicata_1770979940.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "focaccina-con-speck-e-scamorza-affumicata-0",
+    "published": "2026-02-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/miglio-decorticato-biologico-italiano-500g-lotto-29325/",
+    "title": "",
+    "noticeDate": "13 febbraio 2026",
+    "campi": {
+      "data pubblicazione": "13 febbraio 2026",
+      "marca": "BIOBON",
+      "denominazione": "MIGLIO DECORTICATO BIOLOGICO ITALIANO 500g Lotto 293/25",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BIOBON",
+    "product": "MIGLIO DECORTICATO BIOLOGICO ITALIANO 500g Lotto 293/25",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BIOBON - MIGLIO DECORTICATO BIOLOGICO ITALIANO 500g Lotto 293/25",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Biobon%20293%2025_1770987755.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "miglio-decorticato-biologico-italiano-500g-lotto-29325",
+    "published": "2026-02-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/miglio-decorticato-biologico-italiano-500g-lotto-30725/",
+    "title": "",
+    "noticeDate": "13 febbraio 2026",
+    "campi": {
+      "data pubblicazione": "13 febbraio 2026",
+      "marca": "BIOBON",
+      "denominazione": "MIGLIO DECORTICATO BIOLOGICO ITALIANO 500g Lotto 307/25",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "BIOBON",
+    "product": "MIGLIO DECORTICATO BIOLOGICO ITALIANO 500g Lotto 307/25",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BIOBON - MIGLIO DECORTICATO BIOLOGICO ITALIANO 500g Lotto 307/25",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Biobon%20307%2025_1770987758.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "miglio-decorticato-biologico-italiano-500g-lotto-30725",
+    "published": "2026-02-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-pistacchio/",
+    "title": "",
+    "noticeDate": "13 febbraio 2026",
+    "campi": {
+      "data pubblicazione": "13 febbraio 2026",
+      "marca": "Belbake",
+      "denominazione": "Farina di Pistacchio",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Belbake",
+    "product": "Farina di Pistacchio",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Belbake - Farina di Pistacchio",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20_%20MODELLO_DI_RICHIAMO%20mod%20v2%20_3_%20_2__1770996859.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "farina-di-pistacchio",
     "published": "2026-02-13",
     "source": "operator"
   },
