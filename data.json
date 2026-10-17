@@ -417,6 +417,474 @@
     "source": "official"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cartellate-al-vincotto/",
+    "title": "",
+    "noticeDate": "28 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "28 gennaio 2026",
+      "marca": "Reale",
+      "denominazione": "Cartellate al vincotto",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Reale",
+    "product": "Cartellate al vincotto",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Reale - Cartellate al vincotto",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1769614373.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cartellate-al-vincotto",
+    "published": "2026-01-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/energy-2814/",
+    "title": "",
+    "noticeDate": "28 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "28 gennaio 2026",
+      "marca": "Colella",
+      "denominazione": "ENERGY 28/14",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Colella",
+    "product": "ENERGY 28/14",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Colella - ENERGY 28/14",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/energy_1769668385.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "energy-2814",
+    "published": "2026-01-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-pesce/",
+    "title": "",
+    "noticeDate": "28 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "28 gennaio 2026",
+      "marca": "Colella",
+      "denominazione": "RISO-PESCE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Colella",
+    "product": "RISO-PESCE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Colella - RISO-PESCE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/pesce%20e%20riso_1769668413.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "riso-pesce",
+    "published": "2026-01-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/2410-pollo-riso/",
+    "title": "",
+    "noticeDate": "28 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "28 gennaio 2026",
+      "marca": "Colella",
+      "denominazione": "24/10 POLLO-RISO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Colella",
+    "product": "24/10 POLLO-RISO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Colella - 24/10 POLLO-RISO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/pollo%20e%20riso_1769668440.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "2410-pollo-riso",
+    "published": "2026-01-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/2611-riso-maiale/",
+    "title": "",
+    "noticeDate": "28 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "28 gennaio 2026",
+      "marca": "Colella",
+      "denominazione": "26/11 RISO-MAIALE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Colella",
+    "product": "26/11 RISO-MAIALE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Colella - 26/11 RISO-MAIALE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/maiale%20e%20riso_1769668467.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "2611-riso-maiale",
+    "published": "2026-01-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/puppy-3015/",
+    "title": "",
+    "noticeDate": "28 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "28 gennaio 2026",
+      "marca": "Colella",
+      "denominazione": "PUPPY 30/15",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Colella",
+    "product": "PUPPY 30/15",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Colella - PUPPY 30/15",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/puppy_1769668493.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "puppy-3015",
+    "published": "2026-01-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/adult-con-pesce-20-kg/",
+    "title": "",
+    "noticeDate": "28 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "28 gennaio 2026",
+      "marca": "Colella",
+      "denominazione": "ADULT CON PESCE 20 KG",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Colella",
+    "product": "ADULT CON PESCE 20 KG",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Colella - ADULT CON PESCE 20 KG",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/adult%20con%20pesce_1769668517.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "adult-con-pesce-20-kg",
+    "published": "2026-01-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/249-adult/",
+    "title": "",
+    "noticeDate": "28 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "28 gennaio 2026",
+      "marca": "Colella",
+      "denominazione": "24/9 ADULT",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Colella",
+    "product": "24/9 ADULT",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Colella - 24/9 ADULT",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/adult_1769668526.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "249-adult",
+    "published": "2026-01-28",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/miglio-decorticato-biologico/",
+    "title": "",
+    "noticeDate": "27 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "27 gennaio 2026",
+      "marca": "Naturasì",
+      "denominazione": "Miglio decorticato biologico",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Naturasì",
+    "product": "Miglio decorticato biologico",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Naturasì - Miglio decorticato biologico",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%20MIGLIO_1769528353.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "miglio-decorticato-biologico",
+    "published": "2026-01-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-nasello-atlantico-surgelati-800g-ean-8001300674610/",
+    "title": "",
+    "noticeDate": "23 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "23 gennaio 2026",
+      "marca": "DESPAR",
+      "denominazione": "FILETTI DI NASELLO ATLANTICO surgelati 800g - EAN 8001300674610",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "DESPAR",
+    "product": "FILETTI DI NASELLO ATLANTICO surgelati 800g - EAN 8001300674610",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo DESPAR - FILETTI DI NASELLO ATLANTICO surgelati 800g - EAN 8001300674610",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Filetti%20Nasello%20800g%20DESPAR_1769182427.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filetti-di-nasello-atlantico-surgelati-800g-ean-8001300674610",
+    "published": "2026-01-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-nostrano-con-aglio-1/",
+    "title": "",
+    "noticeDate": "23 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "23 gennaio 2026",
+      "marca": "LA SALUMERIA DI EUSTACCHIO SRL",
+      "denominazione": "SALAME NOSTRANO CON AGLIO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LA SALUMERIA DI EUSTACCHIO SRL",
+    "product": "SALAME NOSTRANO CON AGLIO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LA SALUMERIA DI EUSTACCHIO SRL - SALAME NOSTRANO CON AGLIO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20salame_1769182455.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-nostrano-con-aglio-1",
+    "published": "2026-01-23",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crocchette-cani-10-kg/",
+    "title": "",
+    "noticeDate": "16 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "16 gennaio 2026",
+      "marca": "Radames",
+      "denominazione": "Crocchette cani 10 kg",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Radames",
+    "product": "Crocchette cani 10 kg",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Radames - Crocchette cani 10 kg",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2026.01.09%20_%20Crocchette%20cani%2010kg%20Radames%20_%20GHEDA%20MANGIMI_1768578505.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "crocchette-cani-10-kg",
+    "published": "2026-01-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wilky-dog-con-maiale/",
+    "title": "",
+    "noticeDate": "16 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "16 gennaio 2026",
+      "marca": "WILKY DOG",
+      "denominazione": "WILKY DOG CON MAIALE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "WILKY DOG",
+    "product": "WILKY DOG CON MAIALE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo WILKY DOG - WILKY DOG CON MAIALE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20COLELLA%20TRADE_1768592920.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "wilky-dog-con-maiale",
+    "published": "2026-01-16",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-14-verdure-surgelate/",
+    "title": "",
+    "noticeDate": "15 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "15 gennaio 2026",
+      "marca": "Selex Gruppo Commerciale S.p.A.",
+      "denominazione": "Minestrone 14 Verdure Surgelate",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Selex Gruppo Commerciale S.p.A.",
+    "product": "Minestrone 14 Verdure Surgelate",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Selex Gruppo Commerciale S.p.A. - Minestrone 14 Verdure Surgelate",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20_1__1768482323.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "minestrone-14-verdure-surgelate",
+    "published": "2026-01-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-bf-2-uht-500mlx2-stelo-latte-di-proseguimento-2-granarolo/",
+    "title": "",
+    "noticeDate": "15 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "15 gennaio 2026",
+      "marca": "Granarolo",
+      "denominazione": "LATTE BF 2 UHT 500MLX2 STELO - latte di proseguimento 2 Granarolo Bimbi",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Granarolo",
+    "product": "LATTE BF 2 UHT 500MLX2 STELO - latte di proseguimento 2 Granarolo Bimbi",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Granarolo - LATTE BF 2 UHT 500MLX2 STELO - latte di proseguimento 2 Granarolo Bimbi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%20Latte%20BF%202%20UHT%20500MLx2_1768491967.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "latte-bf-2-uht-500mlx2-stelo-latte-di-proseguimento-2-granarolo",
+    "published": "2026-01-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wilky-dog-adult-con-maiale/",
+    "title": "",
+    "noticeDate": "15 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "15 gennaio 2026",
+      "marca": "WILKY DOG",
+      "denominazione": "WILKY DOG ADULT CON MAIALE",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "WILKY DOG",
+    "product": "WILKY DOG ADULT CON MAIALE",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo WILKY DOG - WILKY DOG ADULT CON MAIALE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20RICHIAMO%20Colella%20Trade%20SRL_000100_1768568917.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "wilky-dog-adult-con-maiale",
+    "published": "2026-01-15",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-di-bufala-campana-dop-termo-125g/",
+    "title": "",
+    "noticeDate": "12 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "12 gennaio 2026",
+      "marca": "CONTADINA",
+      "denominazione": "MOZZARELLA DI BUFALA CAMPANA DOP - TERMO 125G",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "CONTADINA",
+    "product": "MOZZARELLA DI BUFALA CAMPANA DOP - TERMO 125G",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CONTADINA - MOZZARELLA DI BUFALA CAMPANA DOP - TERMO 125G",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Abbasciano%20mozzarella%20di%20bufala%20campana%20DOP%20termo%20g%20125%20La%20Contadina%20lotto%2025349%20_1768222991.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mozzarella-di-bufala-campana-dop-termo-125g",
+    "published": "2026-01-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pandoro-cioccolato/",
+    "title": "",
+    "noticeDate": "12 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "12 gennaio 2026",
+      "marca": "SENZA PECCATO",
+      "denominazione": "PANDORO CIOCCOLATO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "SENZA PECCATO",
+    "product": "PANDORO CIOCCOLATO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SENZA PECCATO - PANDORO CIOCCOLATO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20PANDORO%20CIOCCOLATO%20SENZA%20PECCATO_1768222993.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pandoro-cioccolato",
+    "published": "2026-01-12",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nidina-optipro-1/",
     "title": "",
     "noticeDate": "9 gennaio 2026",
@@ -699,6 +1167,58 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "prenan-post",
+    "published": "2026-01-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nan-supreme-pro-0/",
+    "title": "",
+    "noticeDate": "9 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "9 gennaio 2026",
+      "marca": "Nestlè Italiana SpA",
+      "denominazione": "NAN SUPREME PRO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Nestlè Italiana SpA",
+    "product": "NAN SUPREME PRO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nestlè Italiana SpA - NAN SUPREME PRO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/12%20Modulo%20Richiamo%20NAN%20SUPREME%20Pro1%20DENWHPB288%2012x400g%20IT_rev1_1767982049.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "nan-supreme-pro-0",
+    "published": "2026-01-09",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/alfamino/",
+    "title": "",
+    "noticeDate": "9 gennaio 2026",
+    "campi": {
+      "data pubblicazione": "9 gennaio 2026",
+      "marca": "Nestlè Italiana SpA",
+      "denominazione": "ALFAMINO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Nestlè Italiana SpA",
+    "product": "ALFAMINO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Nestlè Italiana SpA - ALFAMINO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/13%20Modulo%20Richiamo%20ALFAMINO%20ACS041%206x400g%20IT_rev1_1767982052.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "alfamino",
     "published": "2026-01-09",
     "source": "operator"
   },
