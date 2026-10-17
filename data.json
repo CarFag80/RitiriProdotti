@@ -1648,6 +1648,422 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dolce-200g/",
+    "title": "",
+    "noticeDate": "27 agosto 2026",
+    "campi": {
+      "data pubblicazione": "27 agosto 2026",
+      "marca": "IDAL",
+      "denominazione": "Gorgonzola Dolce 200g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "IDAL",
+    "product": "Gorgonzola Dolce 200g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IDAL - Gorgonzola Dolce 200g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_Gorgonzola_200g_IDAL_1787832490.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gorgonzola-dolce-200g",
+    "published": "2026-08-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dop-200g/",
+    "title": "",
+    "noticeDate": "27 agosto 2026",
+    "campi": {
+      "data pubblicazione": "27 agosto 2026",
+      "marca": "TAPPOROSSO - Centrale del Latte di Torino",
+      "denominazione": "Gorgonzola DOP 200g",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "TAPPOROSSO - Centrale del Latte di Torino",
+    "product": "Gorgonzola DOP 200g",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TAPPOROSSO - Centrale del Latte di Torino - Gorgonzola DOP 200g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_Gorgonzola_TAPPOROSSO%20_%20Centrale%20del%20Latte%20di%20Torino_1787832494.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "gorgonzola-dop-200g",
+    "published": "2026-08-27",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-torte-senza-glutine-400-g/",
+    "title": "",
+    "noticeDate": "21 agosto 2026",
+    "campi": {
+      "data pubblicazione": "21 agosto 2026",
+      "marca": "Amo Essere Senza Glutine",
+      "denominazione": "Preparato per torte senza glutine 400 g",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "Amo Essere Senza Glutine",
+    "product": "Preparato per torte senza glutine 400 g",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Amo Essere Senza Glutine - Preparato per torte senza glutine 400 g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2026.08.19%20_%20Preparato%20per%20torte%20400g%20_%20MOLINO%20ROSSETTO_1787314100.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "preparato-torte-senza-glutine-400-g",
+    "published": "2026-08-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/budino-proteico-gusto-cioccolato/",
+    "title": "",
+    "noticeDate": "21 agosto 2026",
+    "campi": {
+      "data pubblicazione": "21 agosto 2026",
+      "marca": "Milbona",
+      "denominazione": "Budino proteico gusto cioccolato",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Milbona",
+    "product": "Budino proteico gusto cioccolato",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Milbona - Budino proteico gusto cioccolato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/budino_Allegato3_ModellodiRichiamo_1787332213.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "budino-proteico-gusto-cioccolato",
+    "published": "2026-08-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-di-riso-3/",
+    "title": "",
+    "noticeDate": "18 agosto 2026",
+    "campi": {
+      "data pubblicazione": "18 agosto 2026",
+      "marca": "Insalate già pronte",
+      "denominazione": "Insalata di riso",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Insalate già pronte",
+    "product": "Insalata di riso",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Insalate già pronte - Insalata di riso",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo_1787073042.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "insalata-di-riso-3",
+    "published": "2026-08-18",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/brie-mon-sir-60-1kg/",
+    "title": "",
+    "noticeDate": "17 agosto 2026",
+    "campi": {
+      "data pubblicazione": "17 agosto 2026",
+      "marca": "MON SIR",
+      "denominazione": "BRIE MON SIR 60% 1KG",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "MON SIR",
+    "product": "BRIE MON SIR 60% 1KG",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MON SIR - BRIE MON SIR 60% 1KG",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20Brie%20Mon%20Sir%20_%20lotto%20ZUAD2_1786968497.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "brie-mon-sir-60-1kg",
+    "published": "2026-08-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mdh-funugreek-leaves-kasuri-methi/",
+    "title": "",
+    "noticeDate": "14 agosto 2026",
+    "campi": {
+      "data pubblicazione": "14 agosto 2026",
+      "marca": "MDH",
+      "denominazione": "MDH FUNUGREEK LEAVES (KASURI METHI)",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "MDH",
+    "product": "MDH FUNUGREEK LEAVES (KASURI METHI)",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MDH - MDH FUNUGREEK LEAVES (KASURI METHI)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO_1786700413.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mdh-funugreek-leaves-kasuri-methi",
+    "published": "2026-08-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/flying-power-250ml-sugarfree/",
+    "title": "",
+    "noticeDate": "14 agosto 2026",
+    "campi": {
+      "data pubblicazione": "14 agosto 2026",
+      "marca": "Flying Power",
+      "denominazione": "Flying Power 250ml Sugarfree",
+      "motivo della segnalazione": "Altro motivo di richiamo"
+    },
+    "brand": "Flying Power",
+    "product": "Flying Power 250ml Sugarfree",
+    "reasonShort": "Altro motivo di richiamo",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Flying Power - Flying Power 250ml Sugarfree",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20_%20847770%20_%20Flying%20Power%20250ml%20Sugarfree_1786709301.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "flying-power-250ml-sugarfree",
+    "published": "2026-08-14",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lingue-di-pane/",
+    "title": "",
+    "noticeDate": "13 agosto 2026",
+    "campi": {
+      "data pubblicazione": "13 agosto 2026",
+      "marca": "PAN DEI MASSI",
+      "denominazione": "LINGUE DI PANE",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "PAN DEI MASSI",
+    "product": "LINGUE DI PANE",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo PAN DEI MASSI - LINGUE DI PANE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_LINGUE_DI_PANE_1786622905.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "lingue-di-pane",
+    "published": "2026-08-13",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fichi-secchi-bianchi/",
+    "title": "",
+    "noticeDate": "12 agosto 2026",
+    "campi": {
+      "data pubblicazione": "12 agosto 2026",
+      "marca": "Manuzzi",
+      "denominazione": "Fichi secchi bianchi",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Manuzzi",
+    "product": "Fichi secchi bianchi",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Manuzzi - Fichi secchi bianchi",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo_1786545615.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "fichi-secchi-bianchi",
+    "published": "2026-08-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-pesce-spada-allolio-doliva-200g-0/",
+    "title": "",
+    "noticeDate": "12 agosto 2026",
+    "campi": {
+      "data pubblicazione": "12 agosto 2026",
+      "marca": "Sebastiano Drago",
+      "denominazione": "FILETTI DI PESCE SPADA ALL¿OLIO D¿OLIVA 200g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Sebastiano Drago",
+    "product": "FILETTI DI PESCE SPADA ALL¿OLIO D¿OLIVA 200g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Sebastiano Drago - FILETTI DI PESCE SPADA ALL¿OLIO D¿OLIVA 200g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo_Drago__1786554624.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filetti-di-pesce-spada-allolio-doliva-200g-0",
+    "published": "2026-08-12",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pop-corn-1/",
+    "title": "",
+    "noticeDate": "11 agosto 2026",
+    "campi": {
+      "data pubblicazione": "11 agosto 2026",
+      "marca": "Mambo Kids",
+      "denominazione": "Pop corn",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Mambo Kids",
+    "product": "Pop corn",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Mambo Kids - Pop corn",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello_2026.08.10_PopCorn120g_PREZIOSIFOOD1_1786441200.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pop-corn-1",
+    "published": "2026-08-11",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pop-corn-0/",
+    "title": "",
+    "noticeDate": "8 agosto 2026",
+    "campi": {
+      "data pubblicazione": "8 agosto 2026",
+      "marca": "SALATI PREZIOSI",
+      "denominazione": "POP CORN",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SALATI PREZIOSI",
+    "product": "POP CORN",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SALATI PREZIOSI - POP CORN",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Pop%20Corn_1786215096.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pop-corn-0",
+    "published": "2026-08-08",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kalanit-forte/",
+    "title": "",
+    "noticeDate": "7 agosto 2026",
+    "campi": {
+      "data pubblicazione": "7 agosto 2026",
+      "marca": "KALANIT",
+      "denominazione": "KALANIT FORTE",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "KALANIT",
+    "product": "KALANIT FORTE",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo KALANIT - KALANIT FORTE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PG0060602_2026_Modulo%20richiamo%20KALANIT%20FORTE%20BUSTE_05.08.26_1786095215.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "kalanit-forte",
+    "published": "2026-08-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-pakino/",
+    "title": "",
+    "noticeDate": "7 agosto 2026",
+    "campi": {
+      "data pubblicazione": "7 agosto 2026",
+      "marca": "MUSEUM",
+      "denominazione": "PESTO PAKINO",
+      "motivo della segnalazione": "Richiamo per rischio fisico"
+    },
+    "brand": "MUSEUM",
+    "product": "PESTO PAKINO",
+    "reasonShort": "Richiamo per rischio fisico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo MUSEUM - PESTO PAKINO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO2_1786113242.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pesto-pakino",
+    "published": "2026-08-07",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pop-corn/",
+    "title": "",
+    "noticeDate": "7 agosto 2026",
+    "campi": {
+      "data pubblicazione": "7 agosto 2026",
+      "marca": "Snack Day",
+      "denominazione": "Pop corn",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "Snack Day",
+    "product": "Pop corn",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Snack Day - Pop corn",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20LIDL_1786128315.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "pop-corn",
+    "published": "2026-08-07",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hamburger-con-marchigiana/",
     "title": "",
     "noticeDate": "6 agosto 2026",
@@ -1670,6 +2086,110 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "risk",
     "id": "hamburger-con-marchigiana",
+    "published": "2026-08-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hamburger-bovino-adulto-razza-marchigiana/",
+    "title": "",
+    "noticeDate": "6 agosto 2026",
+    "campi": {
+      "data pubblicazione": "6 agosto 2026",
+      "marca": "JUBATTI BBQ",
+      "denominazione": "Hamburger bovino adulto razza Marchigiana",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "JUBATTI BBQ",
+    "product": "Hamburger bovino adulto razza Marchigiana",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo JUBATTI BBQ - Hamburger bovino adulto razza Marchigiana",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Ministero%20_%20Jubatti_1786017785.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "hamburger-bovino-adulto-razza-marchigiana",
+    "published": "2026-08-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-pesce-spada-allolio-doliva-200g/",
+    "title": "",
+    "noticeDate": "6 agosto 2026",
+    "campi": {
+      "data pubblicazione": "6 agosto 2026",
+      "marca": "TOSI&RAGGINI SAS",
+      "denominazione": "FILETTI DI PESCE SPADA ALL¿OLIO D¿OLIVA 200g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "TOSI&RAGGINI SAS",
+    "product": "FILETTI DI PESCE SPADA ALL¿OLIO D¿OLIVA 200g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo TOSI&RAGGINI SAS - FILETTI DI PESCE SPADA ALL¿OLIO D¿OLIVA 200g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3%20Cartello%20di%20richiamo_1786029578.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filetti-di-pesce-spada-allolio-doliva-200g",
+    "published": "2026-08-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-aia-aperto-330g-16cf-x6-0/",
+    "title": "",
+    "noticeDate": "6 agosto 2026",
+    "campi": {
+      "data pubblicazione": "6 agosto 2026",
+      "marca": "AIA",
+      "denominazione": "UOVA AIA APERTO 330G 16CF X6",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "AIA",
+    "product": "UOVA AIA APERTO 330G 16CF X6",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AIA - UOVA AIA APERTO 330G 16CF X6",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20_%20%20UOVA%20AIA%20APERTO%20330G%2016CF%20X6%20_1__1786029664.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-aia-aperto-330g-16cf-x6-0",
+    "published": "2026-08-06",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-aia-aperto-220g-24cf-x4-0/",
+    "title": "",
+    "noticeDate": "6 agosto 2026",
+    "campi": {
+      "data pubblicazione": "6 agosto 2026",
+      "marca": "AIA",
+      "denominazione": "UOVA AIA APERTO 220G 24CF X4",
+      "motivo della segnalazione": "Revoca per scadenza prodotto"
+    },
+    "brand": "AIA",
+    "product": "UOVA AIA APERTO 220G 24CF X4",
+    "reasonShort": "Revoca per scadenza prodotto",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo AIA - UOVA AIA APERTO 220G 24CF X4",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20_%20UOVA%20AIA%20APERTO%20220G%2024CF%20X4%20_1__1786029761.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "uova-aia-aperto-220g-24cf-x4-0",
     "published": "2026-08-06",
     "source": "operator"
   },
