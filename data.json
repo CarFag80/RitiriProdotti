@@ -3006,6 +3006,344 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-dolce-di-pecora-prodotto-con-latte-crudo-lavorazione/",
+    "title": "",
+    "noticeDate": "24 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "24 ottobre 2025",
+      "marca": "Orgolesu",
+      "denominazione": "Formaggio dolce di pecora prodotto con latte crudo a lavorazione artigianale",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Orgolesu",
+    "product": "Formaggio dolce di pecora prodotto con latte crudo a lavorazione artigianale",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Orgolesu - Formaggio dolce di pecora prodotto con latte crudo a lavorazione artigianale",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO_1761317877.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggio-dolce-di-pecora-prodotto-con-latte-crudo-lavorazione",
+    "published": "2025-10-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/miele-confezione-pack-sport-gr-100/",
+    "title": "",
+    "noticeDate": "24 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "24 ottobre 2025",
+      "marca": "G.B. AMBROSOLI SpA",
+      "denominazione": "MIELE CONFEZIONE PACK SPORT GR 100",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "G.B. AMBROSOLI SpA",
+    "product": "MIELE CONFEZIONE PACK SPORT GR 100",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo G.B. AMBROSOLI SpA - MIELE CONFEZIONE PACK SPORT GR 100",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/COMUNICAZIONE%20RICHIAMO%20MIELE%20DI%20FIORI%20GR%20%20100_1761317961.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "miele-confezione-pack-sport-gr-100",
+    "published": "2025-10-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bicchiere-miele-di-fiori-gr-175/",
+    "title": "",
+    "noticeDate": "24 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "24 ottobre 2025",
+      "marca": "G.B. AMBROSOLI SpA",
+      "denominazione": "BICCHIERE MIELE DI FIORI GR 175",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "G.B. AMBROSOLI SpA",
+    "product": "BICCHIERE MIELE DI FIORI GR 175",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo G.B. AMBROSOLI SpA - BICCHIERE MIELE DI FIORI GR 175",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/COMUNICAZIONE%20RICHIAMO%20MIELE%20DI%20FIORI%20GR%20%20175_1761318046.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "bicchiere-miele-di-fiori-gr-175",
+    "published": "2025-10-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/miele-confezione-easy-360gr/",
+    "title": "",
+    "noticeDate": "24 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "24 ottobre 2025",
+      "marca": "G.B. AMBROSOLI SPA",
+      "denominazione": "MIELE CONFEZIONE EASY 360GR",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "G.B. AMBROSOLI SPA",
+    "product": "MIELE CONFEZIONE EASY 360GR",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo G.B. AMBROSOLI SPA - MIELE CONFEZIONE EASY 360GR",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/COMUNICAZIONE%20RICHIAMO%20MIELE%20DI%20FIORI%20GR%20%20360_1761318131.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "miele-confezione-easy-360gr",
+    "published": "2025-10-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/miele-di-fiori-vaso-gr500/",
+    "title": "",
+    "noticeDate": "24 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "24 ottobre 2025",
+      "marca": "G.B. AMBROSOLI SpA",
+      "denominazione": "MIELE DI FIORI VASO GR.500",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "G.B. AMBROSOLI SpA",
+    "product": "MIELE DI FIORI VASO GR.500",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo G.B. AMBROSOLI SpA - MIELE DI FIORI VASO GR.500",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/COMUNICAZIONE%20RICHIAMO%20MIELE%20DI%20FIORI%20GR%20%20500_1761318694.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "miele-di-fiori-vaso-gr500",
+    "published": "2025-10-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/miele-di-fiori-vaso-gr-600/",
+    "title": "",
+    "noticeDate": "24 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "24 ottobre 2025",
+      "marca": "G.B. AMBROSOLI SPA",
+      "denominazione": "MIELE DI FIORI VASO GR 600",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "G.B. AMBROSOLI SPA",
+    "product": "MIELE DI FIORI VASO GR 600",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo G.B. AMBROSOLI SPA - MIELE DI FIORI VASO GR 600",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/COMUNICAZIONE%20RICHIAMO%20MIELE%20DI%20FIORI%20GR%20%20600_1761318772.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "miele-di-fiori-vaso-gr-600",
+    "published": "2025-10-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/miele-di-fiori-gr-220/",
+    "title": "",
+    "noticeDate": "24 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "24 ottobre 2025",
+      "marca": "G.B. AMBROSOLI SPA",
+      "denominazione": "MIELE DI FIORI GR 220",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "G.B. AMBROSOLI SPA",
+    "product": "MIELE DI FIORI GR 220",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo G.B. AMBROSOLI SPA - MIELE DI FIORI GR 220",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/COMUNICAZIONE%20RICHIAMO%20MIELE%20DI%20FIORI%20GR%20220_1761318852.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "miele-di-fiori-gr-220",
+    "published": "2025-10-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/miele-di-fiori-vaso-gr-250/",
+    "title": "",
+    "noticeDate": "24 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "24 ottobre 2025",
+      "marca": "G.B. AMBROSOLI SPA",
+      "denominazione": "MIELE DI FIORI VASO GR 250",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "G.B. AMBROSOLI SPA",
+    "product": "MIELE DI FIORI VASO GR 250",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo G.B. AMBROSOLI SPA - MIELE DI FIORI VASO GR 250",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/COMUNICAZIONE%20RICHIAMO%20MIELE%20DI%20FIORI%20GR%20250_1761318936.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "miele-di-fiori-vaso-gr-250",
+    "published": "2025-10-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mielness-mielprotein-al-cioccolato-gr-200/",
+    "title": "",
+    "noticeDate": "24 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "24 ottobre 2025",
+      "marca": "G.B. AMBROSOLI SPA",
+      "denominazione": "MIELNESS MIELPROTEIN AL CIOCCOLATO GR 200",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "G.B. AMBROSOLI SPA",
+    "product": "MIELNESS MIELPROTEIN AL CIOCCOLATO GR 200",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo G.B. AMBROSOLI SPA - MIELNESS MIELPROTEIN AL CIOCCOLATO GR 200",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/COMUNICAZIONE%20RICHIAMO%20MIELPROTEIN_1761333833.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mielness-mielprotein-al-cioccolato-gr-200",
+    "published": "2025-10-24",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggella-latte-crudo/",
+    "title": "",
+    "noticeDate": "22 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "22 ottobre 2025",
+      "marca": "CASEIFICIO SOCIALE VALSABBINO",
+      "denominazione": "FORMAGGELLA LATTE CRUDO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CASEIFICIO SOCIALE VALSABBINO",
+    "product": "FORMAGGELLA LATTE CRUDO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASEIFICIO SOCIALE VALSABBINO - FORMAGGELLA LATTE CRUDO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20Formaggella%20lotto%201445%20Caseificio%20Valsabbino%20di%20Sabbio%20Chiese%20BS_1761209318.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggella-latte-crudo",
+    "published": "2025-10-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggella-latte-crudo-0/",
+    "title": "",
+    "noticeDate": "22 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "22 ottobre 2025",
+      "marca": "CASEIFICIO SOCIALE VALSABBINO",
+      "denominazione": "FORMAGGELLA LATTE CRUDO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "CASEIFICIO SOCIALE VALSABBINO",
+    "product": "FORMAGGELLA LATTE CRUDO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo CASEIFICIO SOCIALE VALSABBINO - FORMAGGELLA LATTE CRUDO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20Formaggella%20lotto%201462%20Caseificio%20Valsabbino%20di%20Sabbio%20Chiese%20BS_1761209322.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "formaggella-latte-crudo-0",
+    "published": "2025-10-22",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/haldi-pwd-ali-baba-curcuma-polvere/",
+    "title": "",
+    "noticeDate": "21 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "21 ottobre 2025",
+      "marca": "ALI BABA",
+      "denominazione": "HALDI PWD ALI BABA (CURCUMA IN POLVERE)",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "ALI BABA",
+    "product": "HALDI PWD ALI BABA (CURCUMA IN POLVERE)",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo ALI BABA - HALDI PWD ALI BABA (CURCUMA IN POLVERE)",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo_1761209314.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "haldi-pwd-ali-baba-curcuma-polvere",
+    "published": "2025-10-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-stagionato-2/",
+    "title": "",
+    "noticeDate": "20 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "20 ottobre 2025",
+      "marca": "Penserini Macelleria",
+      "denominazione": "Salame stagionato",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Penserini Macelleria",
+    "product": "Salame stagionato",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Penserini Macelleria - Salame stagionato",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartellodirichiamocorretto_1761209311.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salame-stagionato-2",
+    "published": "2025-10-20",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/jojole-jujube-0/",
     "title": "",
     "noticeDate": "17 ottobre 2025",
@@ -3184,6 +3522,188 @@
     "topic": "Avvisi e richiami di prodotti alimentari",
     "category": "info",
     "id": "mais-pop-corn-5-kg-1",
+    "published": "2025-10-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-pop-corn-500g/",
+    "title": "",
+    "noticeDate": "17 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "17 ottobre 2025",
+      "marca": "COAL",
+      "denominazione": "MAIS PER POP CORN 500g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "COAL",
+    "product": "MAIS PER POP CORN 500g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo COAL - MAIS PER POP CORN 500g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20Coal%20L.170%2025_1761209284.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mais-pop-corn-500g",
+    "published": "2025-10-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-pop-corn-500g-0/",
+    "title": "",
+    "noticeDate": "17 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "17 ottobre 2025",
+      "marca": "SIGMA",
+      "denominazione": "MAIS PER POP CORN 500g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SIGMA",
+    "product": "MAIS PER POP CORN 500g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SIGMA - MAIS PER POP CORN 500g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20Sigma%20L.168%2025_1761209288.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mais-pop-corn-500g-0",
+    "published": "2025-10-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-pop-corn-popping-corn-500g/",
+    "title": "",
+    "noticeDate": "17 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "17 ottobre 2025",
+      "marca": "THE ITALIAN FOOD SHOP",
+      "denominazione": "MAIS PER POP CORN (POPPING CORN) 500g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "THE ITALIAN FOOD SHOP",
+    "product": "MAIS PER POP CORN (POPPING CORN) 500g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo THE ITALIAN FOOD SHOP - MAIS PER POP CORN (POPPING CORN) 500g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20The%20italian%20food%20shop%20500%20g%20L.171%2025_1761209291.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mais-pop-corn-popping-corn-500g",
+    "published": "2025-10-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-pop-corn-popping-corn-900g/",
+    "title": "",
+    "noticeDate": "17 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "17 ottobre 2025",
+      "marca": "EASY VIBES",
+      "denominazione": "MAIS PER POP CORN (POPPING CORN) 900g",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "EASY VIBES",
+    "product": "MAIS PER POP CORN (POPPING CORN) 900g",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo EASY VIBES - MAIS PER POP CORN (POPPING CORN) 900g",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20Easy%20Vibes%20900%20g%20L.155%2025_162%2025_171%2025_183%2025_190%2025_1761209295.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mais-pop-corn-popping-corn-900g",
+    "published": "2025-10-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-pop-corn-1-kg/",
+    "title": "",
+    "noticeDate": "17 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "17 ottobre 2025",
+      "marca": "VEGGY DUCK",
+      "denominazione": "MAIS PER POP CORN 1 Kg",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "VEGGY DUCK",
+    "product": "MAIS PER POP CORN 1 Kg",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo VEGGY DUCK - MAIS PER POP CORN 1 Kg",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20Veggy%20Duck%201%20kg%20L.162%2025_190%2025_1761209299.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "mais-pop-corn-1-kg",
+    "published": "2025-10-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuneesi-al-rum-finissimo-cioccolato-fondente/",
+    "title": "",
+    "noticeDate": "17 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "17 ottobre 2025",
+      "marca": "IL VIAGGIATOR GOLOSO",
+      "denominazione": "CUNEESI AL RUM - FINISSIMO CIOCCOLATO FONDENTE",
+      "motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+    },
+    "brand": "IL VIAGGIATOR GOLOSO",
+    "product": "CUNEESI AL RUM - FINISSIMO CIOCCOLATO FONDENTE",
+    "reasonShort": "Richiamo per rischio presenza di allergeni",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IL VIAGGIATOR GOLOSO - CUNEESI AL RUM - FINISSIMO CIOCCOLATO FONDENTE",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_Richiamo_1761209303.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "cuneesi-al-rum-finissimo-cioccolato-fondente",
+    "published": "2025-10-17",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lovosan-az-agr-battisti-sabatino/",
+    "title": "",
+    "noticeDate": "17 ottobre 2025",
+    "campi": {
+      "data pubblicazione": "17 ottobre 2025",
+      "marca": "LOVOSAN",
+      "denominazione": "LOVOSAN - AZ. AGR. BATTISTI SABATINO",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "LOVOSAN",
+    "product": "LOVOSAN - AZ. AGR. BATTISTI SABATINO",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo LOVOSAN - LOVOSAN - AZ. AGR. BATTISTI SABATINO",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RETTIFICA%20CARTELLO%20RICHIAMO%20_1__1761209307.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "lovosan-az-agr-battisti-sabatino",
     "published": "2025-10-17",
     "source": "operator"
   },
