@@ -182,6 +182,58 @@
     "source": "operator"
   },
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pediavit-complesso-b/",
+    "title": "",
+    "noticeDate": "19 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "19 ottobre 2026",
+      "marca": "Pediatrica S.r.l.",
+      "denominazione": "PEDIAVIT COMPLESSO B",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Pediatrica S.r.l.",
+    "product": "PEDIAVIT COMPLESSO B",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Pediatrica S.r.l. - PEDIAVIT COMPLESSO B",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_PediaVit_Complesso_B_Sciroppo_Lotto_26040043_1792411699.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "pediavit-complesso-b",
+    "published": "2026-10-19",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/veggarella-preparazione-gastronomica-vegetale-base-di-soia-e-0/",
+    "title": "",
+    "noticeDate": "19 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "19 ottobre 2026",
+      "marca": "IO VEF",
+      "denominazione": "VEGGARELLA - Preparazione gastronomica vegetale a base di soia e mandorle",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "IO VEF",
+    "product": "VEGGARELLA - Preparazione gastronomica vegetale a base di soia e mandorle",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo IO VEF - VEGGARELLA - Preparazione gastronomica vegetale a base di soia e mandorle",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/07102026_Modello_richiamo_Veggarella_compilato%20_1__1792411700.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "veggarella-preparazione-gastronomica-vegetale-base-di-soia-e-0",
+    "published": "2026-10-19",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hummus-di-ceci-biologico/",
     "title": "",
     "noticeDate": "16 ottobre 2026",
