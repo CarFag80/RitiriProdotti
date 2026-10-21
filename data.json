@@ -1,5 +1,135 @@
 [
   {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-tonno-surgelat/",
+    "title": "",
+    "noticeDate": "21 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "21 ottobre 2026",
+      "marca": "SELEZIONE PIÙ",
+      "denominazione": "FILETTI DI TONNO SURGELAT¿",
+      "motivo della segnalazione": "Richiamo per rischio chimico"
+    },
+    "brand": "SELEZIONE PIÙ",
+    "product": "FILETTI DI TONNO SURGELAT¿",
+    "reasonShort": "Richiamo per rischio chimico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SELEZIONE PIÙ - FILETTI DI TONNO SURGELAT¿",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Filetti%20di%20Tonno%20Surgelato_1792575197.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "info",
+    "id": "filetti-di-tonno-surgelat",
+    "published": "2026-10-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-biologiche-6/",
+    "title": "",
+    "noticeDate": "21 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "21 ottobre 2026",
+      "marca": "Olivero Claudio",
+      "denominazione": "Uova Biologiche",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "Olivero Claudio",
+    "product": "Uova Biologiche",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo Olivero Claudio - Uova Biologiche",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Uova_BIO_1792584193.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "uova-biologiche-6",
+    "published": "2026-10-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-tartufata/",
+    "title": "",
+    "noticeDate": "21 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "21 ottobre 2026",
+      "marca": "BREZZI OLIVIERO TARTUFI",
+      "denominazione": "SALSA TARTUFATA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "BREZZI OLIVIERO TARTUFI",
+    "product": "SALSA TARTUFATA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BREZZI OLIVIERO TARTUFI - SALSA TARTUFATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20modello%20ministero%20LOTTO%20596_1792593268.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsa-tartufata",
+    "published": "2026-10-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-tartufata-0/",
+    "title": "",
+    "noticeDate": "21 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "21 ottobre 2026",
+      "marca": "BREZZI OLIVIERO TARTUFI",
+      "denominazione": "SALSA TARTUFATA",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "BREZZI OLIVIERO TARTUFI",
+    "product": "SALSA TARTUFATA",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo BREZZI OLIVIERO TARTUFI - SALSA TARTUFATA",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Rchiamo%20lotto%202586_1792593312.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "salsa-tartufata-0",
+    "published": "2026-10-21",
+    "source": "operator"
+  },
+  {
+    "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/10-uova-fresche-italiane/",
+    "title": "",
+    "noticeDate": "21 ottobre 2026",
+    "campi": {
+      "data pubblicazione": "21 ottobre 2026",
+      "marca": "SìEssenziali (EcorNaturaSì)",
+      "denominazione": "10 Uova fresche italiane",
+      "motivo della segnalazione": "Richiamo per rischio microbiologico"
+    },
+    "brand": "SìEssenziali (EcorNaturaSì)",
+    "product": "10 Uova fresche italiane",
+    "reasonShort": "Richiamo per rischio microbiologico",
+    "lots": [],
+    "attachments": [
+      {
+        "name": "Modello di richiamo SìEssenziali (EcorNaturaSì) - 10 Uova fresche italiane",
+        "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_S%C3%ACEssenziali_1792593356.pdf"
+      }
+    ],
+    "topic": "Avvisi e richiami di prodotti alimentari",
+    "category": "risk",
+    "id": "10-uova-fresche-italiane",
+    "published": "2026-10-21",
+    "source": "operator"
+  },
+  {
     "sourceUrl": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vitello-tonnato-gr-180-0/",
     "title": "",
     "noticeDate": "19 ottobre 2026",
