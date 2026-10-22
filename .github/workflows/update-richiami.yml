@@ -2,16 +2,14 @@ name: Aggiorna richiami
 
 on:
   schedule:
-    - cron: "0 */3 * * *"   # ogni 3 ore (repository pubblico: minuti Actions illimitati; a regime ogni run dura pochi minuti grazie alla cache)
-  workflow_dispatch:          # avvio manuale dal tab "Actions" su GitHub
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
     inputs:
       limit:
         description: "Numero massimo di schede per fonte (vuoto = tutte). Utile per una prova veloce, es. 5."
         required: false
         default: ""
 
-# Una sola run alla volta: se ne parte una a mano mentre ce n'è un'altra in
-# corso, si mette in coda invece di sovrapporsi (e pestarsi i commit).
 concurrency:
   group: aggiorna-richiami
   cancel-in-progress: false
@@ -19,7 +17,7 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 45  # tetto di sicurezza; lo scraper si ferma da solo prima (budget di 35 minuti) e pubblica quanto fatto
+    timeout-minutes: 45
     permissions:
       contents: write
     steps:
@@ -35,7 +33,9 @@ jobs:
           playwright install --with-deps chromium
 
       - name: Esegui lo scraper
-        run: python scraper.py ${{ github.event.inputs.limit }}
+        env:
+          SCRAPER_LIMIT: ${{ github.event.inputs.limit }}
+        run: python scraper.py "$SCRAPER_LIMIT"
 
       - name: Incolla i dati dentro index.html
         run: python inject_data.py
@@ -46,10 +46,6 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data.json index.html
           git diff --quiet --cached || git commit -m "Aggiorna richiami"
-          # Se nel frattempo è arrivato un altro commit su main (es. una
-          # modifica fatta a mano da web mentre questa run era in corso),
-          # il push verrebbe rifiutato ("fetch first"). Ci riallineiamo e
-          # riproviamo, invece di far fallire tutta la run per questo.
           for i in 1 2 3; do
             git pull --rebase origin main && git push && break
             echo "Push rifiutato (tentativo $i/3): riallineo con il remoto e riprovo..."

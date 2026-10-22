@@ -1,31 +1,18 @@
 """
-scraper.py — Richiami alimentari (Ministero della Salute) -> data.json
+scraper.py - Richiami alimentari (Ministero della Salute) -> data.json
 
-AGGIORNATO sul sorgente HTML reale di una scheda di richiamo, che Carmine
-ha recuperato dal browser. La struttura dei campi è ora quella effettiva:
+Due fonti, una sola pagina elenco ("Avvisi e richiami di prodotti alimentari"):
+  ufficiali  -> /new/it/avvisi-sicurezza-alimentare/<slug>
+  operatori  -> /new/it/ext-avviso-sicurezza-alimentare/<slug>
+                (si raggiungono cliccando la scheda "Richiami degli Operatori")
 
-  <h1>…</h1>
-  <div class="pb-2"><span class="fw-bold">Prodotto: </span>VALORE</div>
-  <div class="pb-2"><span class="fw-bold">Marca: </span>VALORE</div>
-  <div class="pb-2"><span class="fw-bold">Sostanza/Rischio: </span>VALORE</div>
-  <div class="pb-2"><span class="fw-bold">Paese di origine: </span>VALORE</div>
-  <div class="pb-2"><span class="fw-bold">Numero lotto: </span>VALORE</div>
-  <div class="pb-2"><span class="fw-bold">News/Avviso: </span><a href=…>DATA</a></div>
-  … <a download href=…>allegato</a> …
-  … <button class="chip">Area tematica</button>
+Struttura di una scheda: <h1> + blocchi ".pb-2" con <span class="fw-bold">Etichetta:</span> valore.
+Il parsing e' generico: ogni coppia etichetta/valore finisce in record["campi"].
 
-Il parsing delle etichette è generico: ogni <div class="pb-2"> con uno
-<span class="fw-bold">Etichetta:</span> finisce in record["campi"], anche se
-il Ministero aggiunge o rinomina un campo. Quelli noti vengono mappati sui
-nomi usati dal sito; gli altri restano comunque disponibili.
-
-COSA È VERIFICATO E COSA NO
-- parse_detail(): TESTATO sul sorgente reale, estrae tutti i campi.
-- fetch(): NON testato dal vivo — questo ambiente non raggiunge
-  salute.gov.it (protezione Gcore). Playwright dovrebbe passare perché il
-  controllo è automatico e non è un captcha, ma va provato in locale.
-- discover_urls(): scritta su due strade alternative, entrambe da verificare
-  in locale (vedi la funzione).
+STATO DELLA VERIFICA
+- parse_detail(), to_iso(), split_lots(), classificazione rischio: testati offline.
+- Browser/discover_urls/paginazione: NON testati dal vivo (salute.gov.it e' protetto
+  da Gcore). Provare in locale con: python scraper.py 5
 """
 
 import json
@@ -34,54 +21,48 @@ import re
 import subprocess
 import sys
 import time
+from datetime import datetime, timedelta, timezone
+from urllib.parse import urljoin, urldefrag
 
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 
 BASE = "https://www.salute.gov.it"
-# Due fonti, MA UNA SOLA PAGINA ELENCO: Carmine ha confermato che "Richiami
-# degli Operatori" non è un URL separato, è una scheda/tab dentro la stessa
-# pagina "Avvisi e richiami di prodotti alimentari". Le schede di dettaglio
-# però vivono su URL diversi e distinguibili:
-#   ufficiali  -> /new/it/avvisi-sicurezza-alimentare/<slug>
-#   operatori  -> /new/it/ext-avviso-sicurezza-alimentare/<slug>  (confermato
-#                 sul sorgente reale della scheda "Brie Tour De Marze")
 OFFICIAL_URL = f"{BASE}/new/it/avvisi/avvisi-e-richiami-di-prodotti-alimentari/"
-OPERATOR_URL = OFFICIAL_URL  # stessa pagina, si clicca la scheda "Richiami degli Operatori"
+OPERATOR_URL = OFFICIAL_URL
 OPERATOR_TAB_LABEL = "Richiami degli Operatori"
 SITEMAP_URL = f"{BASE}/new/sitemap-index.xml"
 OUTPUT_PATH = "data.json"
-# Ogni quante schede scaricate davvero (non quelle già in cache) si salva e
-# si pubblica un checkpoint parziale. Serve perché il recupero di tutto lo
-# storico può superare il tetto di tempo del workflow: così, se la run
-# viene interrotta, il lavoro fatto fin lì non va perso — la run successiva
-# riparte da dove si era fermata grazie alla cache, invece che da zero.
+
 CHECKPOINT_EVERY = 20
-CHECKPOINT_MAX_SECONDS = 300  # checkpoint anche a tempo: almeno ogni 5 minuti
-# Budget di tempo dello scraping (in secondi). Scaduto, lo scraper smette di
-# scaricare schede NUOVE ma tiene quelle già in cache, salva e termina
-# regolarmente: la run finisce "verde", pubblica quanto fatto e la prossima
-# riparte da lì. Deve stare sotto il timeout-minutes del workflow (45 min,
-# di cui qualche minuto serve per installare le dipendenze).
+CHECKPOINT_MAX_SECONDS = 300
+CHECKPOINT_TAG = " [skip ci]"
 MAX_RUNTIME_SECONDS = 35 * 60
 
-# Il sito del Ministero blocca chi fa troppe richieste ravvicinate (pagina
-# "Sorry, you have been blocked"): nella run di prova, dopo ~200 schede a
-# 2 secondi l'una, tutte le successive sono arrivate come pagine di blocco.
-# Quindi: ritmo più lento e irregolare, e se ci blocca ci fermiamo invece di
-# insistere (la prossima run parte con un altro indirizzo e riprende).
-DELAY_RANGE = (3.0, 6.0)        # pausa casuale tra una scheda e l'altra (secondi)
-BLOCK_BACKOFF_SECONDS = 120     # attesa dopo il primo blocco, prima di riprovare
-MAX_CONSECUTIVE_BLOCKS = 2      # dopo questi blocchi di fila, ci fermiamo per questa run
+DELAY_RANGE = (3.0, 6.0)
+SITEMAP_DELAY_RANGE = (1.0, 2.5)
+BLOCK_BACKOFF_SECONDS = 120
+MAX_CONSECUTIVE_BLOCKS = 2
 BLOCK_MARKERS = (
-    "sorry, you have been blocked",
-    "attention required",
-    "just a moment",
-    "please enable cookies",
-    "browser validation",
-    "verifying you are human",
+    "sorry, you have been blocked", "attention required", "just a moment",
+    "please enable cookies", "browser validation", "verifying you are human",
     "access denied",
 )
+
+REFRESH_WINDOW_DAYS = 30
+REFRESH_EVERY_HOURS = 24
+
+MAX_LIST_PAGES = 40
+NEXT_PAGE_SELECTOR = ", ".join([
+    "a[rel=next]",
+    "button:has-text('Carica altri')",
+    "button:has-text('Mostra altri')",
+    "a:has-text('Successiva')",
+    "a:has-text('Avanti')",
+    "button:has-text('Successiva')",
+    "li.next a",
+    "[aria-label*='successiv' i]",
+])
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -89,7 +70,6 @@ USER_AGENT = (
 )
 
 LABEL_MAP = {
-    # etichette delle schede ufficiali
     "prodotto": "product",
     "marca": "brand",
     "sostanza/rischio": "reasonShort",
@@ -102,39 +82,41 @@ LABEL_MAP = {
     "termine minimo di conservazione": "expiry",
     "peso": "packaging",
     "quantita": "packaging",
-    "quantità": "packaging",
-    # etichette delle schede operatori (es. "Brie Tour De Marze"): stessi
-    # concetti, nomi diversi
+    "quantit\u00e0": "packaging",
     "denominazione": "product",
     "motivo della segnalazione": "reasonShort",
 }
 
-# Nomi dei mesi italiani, per le date scritte per esteso nelle schede
-# operatori (es. "17 settembre 2026"), diverse dal "D/M/YYYY" delle ufficiali.
 IT_MONTHS = {
     "gennaio": 1, "febbraio": 2, "marzo": 3, "aprile": 4, "maggio": 5,
     "giugno": 6, "luglio": 7, "agosto": 8, "settembre": 9, "ottobre": 10,
     "novembre": 11, "dicembre": 12,
 }
 
-RISK_KEYWORDS = [
-    "listeria", "salmonella", "escherichia", "coli", "botulin",
-    "allergen", "allerg", "corpo estraneo", "corpi estranei",
-    "plastica", "vetro", "metallo", "microbiolog", "tossina",
-    "istamina", "micotossin", "aflatossin", "ossido di etilene",
-]
+RISK_RE = re.compile(
+    r"\b(?:listeri\w*|salmonell\w*|escherichia|e\.?\s?coli|coli|stec|botulin\w*|"
+    r"allergen\w*|allerg\w*|corp[oi]\s+estran\w*|plastic[ahe]\w*|vetro|vetri|"
+    r"metall[oi]|microbiolog\w*|tossin\w*|istamin\w*|micotossin\w*|"
+    r"aflatossin\w*|ossido\s+di\s+etilene)\b",
+    re.I,
+)
+LOT_NOT_CODE = re.compile(r"scad|tmc|entro|data|\d{1,2}/\d{1,2}/\d{2,4}", re.I)
 
 
 def clean(text):
     return re.sub(r"\s+", " ", (text or "")).strip()
 
 
-# ---------------------------------------------------------------- browser --
-class Browser:
-    """Wrapper minimale su Playwright: apre un browser vero una volta sola
-    e lo riusa per tutte le pagine, così il controllo Gcore si risolve una
-    volta e i cookie restano validi per le richieste successive."""
+class Blocked(Exception):
+    pass
 
+
+def looks_blocked(html):
+    low = (html or "").lower()
+    return any(m in low for m in BLOCK_MARKERS)
+
+
+class Browser:
     def __init__(self, headless=True):
         self.headless = headless
 
@@ -149,88 +131,115 @@ class Browser:
         self._browser.close()
         self._pw.stop()
 
+    def _settle(self, timeout_ms):
+        try:
+            self.page.wait_for_load_state("networkidle", timeout=min(timeout_ms, 10000))
+        except Exception:
+            pass
+
     def get(self, url, wait_ms=2000, timeout_ms=45000):
-        self.page.goto(url, wait_until="networkidle", timeout=timeout_ms)
-        self.page.wait_for_timeout(wait_ms)  # margine per il controllo Gcore
+        self.page.goto(url, wait_until="domcontentloaded", timeout=timeout_ms)
+        self._settle(timeout_ms)
+        self.page.wait_for_timeout(wait_ms)
         return self.page.content()
+
+    def get_locs(self, url, wait_ms=800):
+        html = self.get(url, wait_ms=wait_ms)
+        if looks_blocked(html):
+            raise Blocked("sitemap bloccata")
+        locs = re.findall(r"<loc>\s*([^<]+?)\s*</loc>", html)
+        if not locs:
+            text = self.page.evaluate("() => document.documentElement.textContent || ''")
+            locs = re.findall(r"https?://.+?(?=https?://|\s|$)", text)
+        return locs
 
     def click_tab(self, text, wait_ms=2500, timeout_ms=15000):
-        """Clicca il primo elemento cliccabile il cui testo contiene `text`
-        (case-insensitive) nella pagina correntemente caricata (va chiamato
-        dopo .get()) e restituisce l'HTML aggiornato. Serve per le schede
-        della pagina elenco, es. la scheda 'Richiami degli Operatori', che
-        non ha un URL proprio."""
-        locator = self.page.get_by_text(text, exact=False)
-        locator.first.click(timeout=timeout_ms)
+        self.page.get_by_text(text, exact=False).first.click(timeout=timeout_ms)
         self.page.wait_for_timeout(wait_ms)
+        self._settle(timeout_ms)
+        return self.page.content()
+
+    def next_page(self, wait_ms=2000, timeout_ms=15000):
         try:
-            self.page.wait_for_load_state("networkidle", timeout=timeout_ms)
+            self.page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+            loc = self.page.locator(NEXT_PAGE_SELECTOR)
+            if loc.count() == 0:
+                return None
+            el = loc.first
+            if not el.is_visible() or not el.is_enabled():
+                return None
+            el.click(timeout=5000)
         except Exception:
-            pass  # se non scatta una richiesta di rete, va bene lo stesso
+            return None
+        self.page.wait_for_timeout(wait_ms)
+        self._settle(timeout_ms)
         return self.page.content()
 
 
-# -------------------------------------------------------------- discovery --
-def discover_urls(browser, list_url, pattern, limit=None, click_label=None):
-    """Trova gli URL delle schede di richiamo.
-
-    Args:
-        browser: istanza Browser
-        list_url: URL della pagina elenco
-        pattern: pattern regex per filtrare gli URL trovati
-        limit: numero massimo di URL da restituire
-        click_label: se dato, dopo aver caricato list_url clicca il primo
-            elemento con questo testo (es. la scheda "Richiami degli
-            Operatori") prima di leggere i link — serve quando il contenuto
-            non è già nell'HTML iniziale ma compare solo dopo il click.
-    """
+def fetch_sitemap_urls(browser):
     urls = []
-
-    # --- strada 1: sitemap (ogni sotto-mappa isolata: se una fallisce non
-    # blocca le altre, altrimenti un solo errore di rete tronca l'elenco a
-    # metà e si perdono interi anni senza che nessuno se ne accorga) ---
     try:
-        xml = browser.get(SITEMAP_URL, wait_ms=1500)
-        sub_sitemaps = [u for u in re.findall(r"<loc>\s*([^<]+?)\s*</loc>", xml) if u.endswith(".xml")]
-        ok, failed = 0, 0
-        for sm in sub_sitemaps:
-            try:
-                body = browser.get(sm, wait_ms=800)
-            except Exception:
-                failed += 1
-                continue
-            ok += 1
-            urls += [u for u in re.findall(r"<loc>\s*([^<]+?)\s*</loc>", body) if pattern in u]
-        if failed:
-            print(f"Sitemap: {failed}/{len(sub_sitemaps)} sotto-mappe non raggiungibili, saltate.")
-        if urls:
-            print(f"Sitemap: trovate {len(urls)} schede da {ok} sotto-mappe.")
+        locs = browser.get_locs(SITEMAP_URL, wait_ms=1500)
     except Exception as e:
-        print(f"Sitemap non utilizzabile ({e}); provo con la pagina elenco.")
+        print(f"Sitemap non utilizzabile ({e}); user\u00f2 solo la pagina elenco.")
+        return urls
+    subs = [u for u in locs if u.endswith(".xml")]
+    urls += [u for u in locs if not u.endswith(".xml")]
+    ok = failed = 0
+    for sm in subs:
+        try:
+            urls += browser.get_locs(sm)
+            ok += 1
+        except Blocked:
+            print("Sitemap: bloccati, mi fermo qui con le sotto-mappe.")
+            break
+        except Exception:
+            failed += 1
+        time.sleep(random.uniform(*SITEMAP_DELAY_RANGE))
+    if failed:
+        print(f"Sitemap: {failed}/{len(subs)} sotto-mappe non raggiungibili, saltate.")
+    print(f"Sitemap: {len(urls)} URL totali da {ok} sotto-mappe.")
+    return urls
 
-    # --- strada 2: pagina elenco — eseguita SEMPRE, non solo come ripiego,
-    # e i risultati si sommano a quelli della sitemap (deduplicati sotto).
-    # Così, se la sitemap ne perde qualcuno per un errore isolato, la pagina
-    # elenco può comunque recuperarlo, invece di sparire senza avviso. ---
+
+def extract_links(html, pattern):
+    soup = BeautifulSoup(html, "html.parser")
+    out = []
+    for a in soup.select("a[href]"):
+        if pattern in a["href"]:
+            out.append(urldefrag(urljoin(BASE, a["href"]))[0])
+    return out
+
+
+def discover_urls(browser, list_url, pattern, sitemap_urls, limit=None, click_label=None):
+    urls = [u for u in sitemap_urls if pattern in u]
+    if urls:
+        print(f"Sitemap: {len(urls)} schede per '{pattern}'.")
+
     try:
         html = browser.get(list_url)
         if click_label:
             try:
                 html = browser.click_tab(click_label)
             except Exception as e:
-                print(f"Click su '{click_label}' non riuscito ({e}); leggo comunque la pagina così com'è.")
-        soup = BeautifulSoup(html, "html.parser")
-        found = [
-            (a["href"] if a["href"].startswith("http") else BASE + a["href"])
-            for a in soup.select("a[href]") if pattern in a["href"]
-        ]
+                print(f"Click su '{click_label}' non riuscito ({e}); leggo la pagina cos\u00ec com'\u00e8.")
+        found, seen = [], set()
+        page_no = 0
+        for page_no in range(MAX_LIST_PAGES):
+            new = [l for l in extract_links(html, pattern) if l not in seen]
+            if page_no > 0 and not new:
+                break
+            seen.update(new)
+            found += new
+            html = browser.next_page()
+            if html is None:
+                break
         if found:
-            print(f"Pagina elenco: trovati {len(found)} link.")
+            print(f"Pagina elenco: {len(found)} link in {page_no + 1} pagina/e.")
         urls += found
     except Exception as e:
         print(f"Pagina elenco non raggiungibile ({e}).")
 
-    # dedup preservando l'ordine
     seen, out = set(), []
     for u in urls:
         if u not in seen:
@@ -239,9 +248,38 @@ def discover_urls(browser, list_url, pattern, limit=None, click_label=None):
     return out[:limit] if limit else out
 
 
-# ----------------------------------------------------------------- parser --
+def split_lots(raw):
+    raw = clean(raw)
+    if not raw:
+        return []
+    out = []
+    for part in (clean(p) for p in re.split(r"\s*;\s*", raw)):
+        if not part:
+            continue
+        sub = [clean(x) for x in re.split(r",\s+(?=[A-Za-z0-9])", part) if clean(x)]
+        if len(sub) > 1 and all(len(s.split()) <= 2 and not LOT_NOT_CODE.search(s) for s in sub):
+            out += sub
+        else:
+            out.append(part)
+    return out
+
+
+def to_iso(it_date):
+    it_date = clean(it_date)
+    m = re.match(r"^(\d{1,2})/(\d{1,2})/(\d{4})$", it_date)
+    if m:
+        d, mth, y = m.groups()
+        return f"{y}-{int(mth):02d}-{int(d):02d}"
+    m = re.match(r"^(\d{1,2})\s*/?\s*([A-Za-z\u00e0\u00e8\u00e9\u00ec\u00f2\u00f9]+)\s*/?\s*(\d{4})$", it_date)
+    if m:
+        d, month_name, y = m.groups()
+        mth = IT_MONTHS.get(month_name.lower())
+        if mth:
+            return f"{y}-{mth:02d}-{int(d):02d}"
+    return ""
+
+
 def parse_detail(html, url="", source="official"):
-    """TESTATA sul sorgente reale di una scheda."""
     soup = BeautifulSoup(html, "html.parser")
     record = {"sourceUrl": url}
 
@@ -249,9 +287,6 @@ def parse_detail(html, url="", source="official"):
     record["title"] = clean(h1.get_text()) if h1 else ""
 
     campi = {}
-    # ".pb-2" e non "div.pb-2": le schede operatori (es. "Brie Tour De
-    # Marze") usano <p class="pb-2"> invece di <div class="pb-2"> per gli
-    # stessi campi etichetta/valore.
     for div in soup.select(".pb-2"):
         span = div.find("span", class_="fw-bold")
         if not span:
@@ -261,14 +296,13 @@ def parse_detail(html, url="", source="official"):
             continue
         value = clean(clean(div.get_text()).replace(clean(span.get_text()), "", 1))
         campi[label] = value
-        if "news" in label:
+        if "news" in label or "data pubblicazione" in label:
             a = div.find("a", href=True)
-            if a:
-                record["noticeUrl"] = BASE + a["href"] if a["href"].startswith("/") else a["href"]
+            if a and "news" in label:
+                record["noticeUrl"] = urljoin(BASE, a["href"])
                 record["noticeDate"] = clean(a.get_text())
-        elif "data pubblicazione" in label and not record.get("noticeDate"):
-            # schede operatori: data scritta per esteso, niente link
-            record["noticeDate"] = value
+            if not record.get("noticeDate"):
+                record["noticeDate"] = value
 
     record["campi"] = campi
     for label, value in campi.items():
@@ -277,92 +311,79 @@ def parse_detail(html, url="", source="official"):
             record[key] = value
 
     lot_raw = record.pop("lot", "")
-    record["lots"] = [clean(x) for x in re.split(r"[;,]| e ", lot_raw) if clean(x)]
+    record["lotsRaw"] = lot_raw
+    record["lots"] = split_lots(lot_raw)
 
     def attachment_name(a):
         text = clean(a.get_text())
         if text:
             return text
-        # schede operatori: il link con download="" è solo un'icona senza
-        # testo; il nome vero è in un link vicino con lo stesso href.
         href = a["href"]
         for other in soup.select("a[href]"):
-            if other is a or other.get("href") != href:
-                continue
-            t = clean(other.get_text())
-            if t:
-                return t
+            if other is not a and other.get("href") == href and clean(other.get_text()):
+                return clean(other.get_text())
         return href.rsplit("/", 1)[-1].split("?")[0].replace("%20", " ")
 
     record["attachments"] = [
-        {
-            "name": attachment_name(a),
-            "url": BASE + a["href"] if a["href"].startswith("/") else a["href"],
-        }
+        {"name": attachment_name(a), "url": urljoin(BASE, a["href"])}
         for a in soup.select("a[download][href]")
     ]
 
     chip = soup.select_one("button.chip")
     record["topic"] = clean(chip.get_text()) if chip else ""
 
-    # Euristica grezza. NOTA: il campo "Sostanza/Rischio" non sempre nomina
-    # un rischio — nella scheda di esempio conteneva solo la descrizione del
-    # prodotto. Quindi questa classificazione va presa con le pinze; se
-    # serve precisione, meglio leggere anche la notizia collegata.
-    blob = " ".join([record.get("reasonShort", ""), record.get("title", "")]).lower()
-    record["category"] = "risk" if any(k in blob for k in RISK_KEYWORDS) else "info"
+    blob = " ".join([record.get("reasonShort", ""), record.get("title", "")])
+    record["category"] = "risk" if RISK_RE.search(blob) else "info"
 
     if not record.get("product"):
         record["product"] = record["title"]
-    record["id"] = url.rstrip("/").rsplit("/", 1)[-1] or record["title"][:50]
+    record["id"] = make_slug(url, record["title"])
     record["published"] = to_iso(record.get("noticeDate", ""))
-    record["source"] = source  # "official" o "operator"
-
+    record["source"] = source
     return record
 
 
-def to_iso(it_date):
-    """Converte una data testuale in ISO 'YYYY-MM-DD'. Riconosce sia
-    'D/M/YYYY' (schede ufficiali, es. '11/9/2026') sia 'D mese YYYY' per
-    esteso (schede operatori, es. '17 settembre 2026'). Stringa vuota se
-    non riconosciuta."""
-    it_date = clean(it_date)
-    m = re.match(r"^(\d{1,2})/(\d{1,2})/(\d{4})$", it_date)
-    if m:
-        d, mth, y = m.groups()
-        return f"{y}-{int(mth):02d}-{int(d):02d}"
-    # "17 settembre 2026" (operatori) e "3 /agosto/2026" (ufficiali recenti)
-    m = re.match(r"^(\d{1,2})\s*/?\s*([A-Za-zàèéìòù]+)\s*/?\s*(\d{4})$", it_date)
-    if m:
-        d, month_name, y = m.groups()
-        mth = IT_MONTHS.get(month_name.lower())
-        if mth:
-            return f"{y}-{mth:02d}-{int(d):02d}"
-    return ""
+def make_slug(url, title=""):
+    return url.rstrip("/").rsplit("/", 1)[-1] or title[:50]
 
 
-# ------------------------------------------------------------------- main --
-class Blocked(Exception):
-    pass
+def infer_source(url):
+    return "operator" if "ext-avviso-sicurezza-alimentare" in url else "official"
 
 
-def looks_blocked(html):
-    low = (html or "").lower()
-    return any(m in low for m in BLOCK_MARKERS)
+def normalize_records(records):
+    for r in records:
+        r["source"] = r.get("source") or infer_source(r.get("sourceUrl", ""))
+        r["id"] = make_slug(r.get("sourceUrl", ""), r.get("title", ""))
+    counts = {}
+    for r in records:
+        counts[r["id"]] = counts.get(r["id"], 0) + 1
+    for r in records:
+        if counts[r["id"]] > 1:
+            r["id"] = f"{r['source']}-{r['id']}"
+    return records
 
 
 def is_valid_record(rec):
-    """Una scheda vera ha sempre almeno un campo etichetta/valore. Il solo
-    titolo NON basta: la pagina di blocco anti-bot ha un titolo
-    ("Sorry, you have been blocked") ma nessun campo."""
     return bool(rec.get("campi")) and not looks_blocked(rec.get("title", ""))
 
 
+def needs_refresh(rec):
+    now = datetime.now(timezone.utc)
+    try:
+        pub = datetime.strptime(rec.get("published", ""), "%Y-%m-%d").replace(tzinfo=timezone.utc)
+    except ValueError:
+        return False
+    if now - pub > timedelta(days=REFRESH_WINDOW_DAYS):
+        return False
+    try:
+        fetched = datetime.fromisoformat(rec.get("fetchedAt", ""))
+    except ValueError:
+        return True
+    return now - fetched > timedelta(hours=REFRESH_EVERY_HOURS)
+
+
 def load_cache():
-    """Rilegge il data.json della run precedente e tiene SOLO le schede
-    valide (vedi is_valid_record): così quelle "fantasma" salvate per
-    errore (pagine di blocco) vengono scartate e riscaricate. Le schede già
-    valide non si riscaricano, e le run successive diventano veloci."""
     try:
         with open(OUTPUT_PATH, encoding="utf-8") as f:
             data = json.load(f)
@@ -374,25 +395,31 @@ def load_cache():
         return {}
     cache = {r["sourceUrl"]: r for r in data if r.get("sourceUrl") and is_valid_record(r)}
     scartate = len(data) - len(cache)
-    print(f"Cache: {len(cache)} schede valide riusate senza riscaricarle"
-          + (f"; {scartate} schede non valide (es. pagine di blocco) scartate e da riscaricare." if scartate else "."))
+    print(f"Cache: {len(cache)} schede valide"
+          + (f"; {scartate} non valide scartate e da riscaricare." if scartate else "."))
     return cache
 
 
-def fetch_detail(browser, url, source, timeout_ms=20000, retries=1):
-    """Scarica e interpreta una scheda. Restituisce (record, errore).
-    Se la pagina è un blocco anti-bot, errore = Blocked (nessun ritentativo
-    qui: insistere peggiora il blocco, se ne occupa il chiamante)."""
+def save_records(records):
+    normalize_records(records)
+    records_sorted = sorted(records, key=lambda r: r.get("published", ""), reverse=True)
+    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
+        json.dump(records_sorted, f, ensure_ascii=False, separators=(",", ":"))
+    return records_sorted
+
+
+def fetch_detail(browser, url, source, timeout_ms=25000, retries=2):
     last_err = None
     for attempt in range(retries + 1):
         try:
             html = browser.get(url, wait_ms=1200, timeout_ms=timeout_ms)
             rec = parse_detail(html, url, source=source)
             if is_valid_record(rec):
+                rec["fetchedAt"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
                 return rec, None
             if looks_blocked(html):
                 return None, Blocked("il sito ha risposto con una pagina di blocco")
-            last_err = "pagina senza i campi attesi (struttura diversa o contenuto non più disponibile)"
+            last_err = "pagina senza i campi attesi"
         except Exception as e:
             last_err = str(e)
         if attempt < retries:
@@ -400,31 +427,16 @@ def fetch_detail(browser, url, source, timeout_ms=20000, retries=1):
     return None, last_err
 
 
-def save_records(records):
-    """Ordina e scrive data.json. Usata sia per il salvataggio finale sia
-    per i checkpoint parziali durante lo scraping."""
-    records_sorted = sorted(records, key=lambda r: r.get("published", ""), reverse=True)
-    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-        json.dump(records_sorted, f, ensure_ascii=False, indent=2)
-    return records_sorted
-
-
 def git_checkpoint(records, message):
-    """Salva lo stato corrente e lo pubblica subito su GitHub. Se la run
-    viene interrotta a metà (es. supera il tetto di tempo del workflow),
-    il lavoro fatto fin qui resta comunque pubblicato: la prossima run lo
-    userà dalla cache invece di riscaricarlo da capo. Qualunque problema
-    qui (rete, permessi) viene solo segnalato: non deve mai interrompere
-    lo scraping, che è la parte che conta di più."""
     try:
         save_records(records)
         subprocess.run(["git", "config", "user.name", "github-actions[bot]"], check=False)
         subprocess.run(["git", "config", "user.email",
-                         "github-actions[bot]@users.noreply.github.com"], check=False)
+                        "github-actions[bot]@users.noreply.github.com"], check=False)
         subprocess.run(["git", "add", OUTPUT_PATH], check=False)
         if subprocess.run(["git", "diff", "--quiet", "--cached"]).returncode == 0:
-            return  # niente di nuovo dall'ultimo checkpoint
-        subprocess.run(["git", "commit", "-m", message], check=False)
+            return
+        subprocess.run(["git", "commit", "-m", message + CHECKPOINT_TAG], check=False)
         for attempt in range(3):
             if subprocess.run(["git", "pull", "--rebase", "origin", "main"]).returncode == 0:
                 if subprocess.run(["git", "push"]).returncode == 0:
@@ -432,36 +444,35 @@ def git_checkpoint(records, message):
                     return
             print(f"Checkpoint: push rifiutato (tentativo {attempt + 1}/3), riprovo...")
             time.sleep(5)
-        print("Checkpoint: non sono riuscito a pubblicarlo; proseguo comunque lo scraping.")
+        print("Checkpoint non pubblicato; proseguo comunque.")
     except Exception as e:
-        print(f"Checkpoint fallito ({e}); proseguo comunque lo scraping.")
+        print(f"Checkpoint fallito ({e}); proseguo comunque.")
 
 
-def scrape_source(browser, store, label, source, list_url, pattern, limit, deadline, state, click_label=None):
-    """`store` è un dizionario sourceUrl -> scheda, già riempito con la
-    cache: ciò che c'è già non si riscarica e non si perde mai, nemmeno se
-    questa run non riesce a ricontattare il sito."""
+def scrape_source(browser, store, label, source, list_url, pattern, limit, deadline,
+                  state, sitemap_urls, click_label=None):
     print(f"\n=== {label} ===")
     try:
-        urls = discover_urls(browser, list_url, pattern, limit=limit, click_label=click_label)
-        since_checkpoint = 0
-        last_cp = time.time()
-        rimaste = 0
-        for i, url in enumerate(urls, 1):
-            if url in store:
-                print(f"[{i}/{len(urls)}] cache {url}")
-                continue
+        urls = discover_urls(browser, list_url, pattern, sitemap_urls, limit=limit,
+                             click_label=click_label)
+        queue = [u for u in urls if u not in store]
+        n_new = len(queue)
+        queue += [u for u in urls if u in store and needs_refresh(store[u])]
+        print(f"{len(urls)} schede trovate: {n_new} nuove, {len(queue) - n_new} da aggiornare, "
+              f"{len(urls) - len(queue)} in cache.")
+
+        since_checkpoint, last_cp, rimaste = 0, time.time(), 0
+        for i, url in enumerate(queue, 1):
             if state["blocked"] or time.time() > deadline:
                 rimaste += 1
                 continue
             rec, err = fetch_detail(browser, url, source)
             if isinstance(err, Blocked):
                 state["blocks"] += 1
-                print(f"[{i}/{len(urls)}] BLOCCATO dal sito ({state['blocks']}/{MAX_CONSECUTIVE_BLOCKS}) {url}")
+                print(f"[{i}/{len(queue)}] BLOCCATO ({state['blocks']}/{MAX_CONSECUTIVE_BLOCKS}) {url}")
                 if state["blocks"] >= MAX_CONSECUTIVE_BLOCKS:
                     state["blocked"] = True
-                    print("Il sito ci sta bloccando: mi fermo qui per questa run, "
-                          "la prossima ripartirà da dove siamo arrivati.")
+                    print("Il sito ci blocca: mi fermo per questa fonte.")
                 else:
                     print(f"Attendo {BLOCK_BACKOFF_SECONDS}s prima di riprovare...")
                     time.sleep(BLOCK_BACKOFF_SECONDS)
@@ -471,48 +482,53 @@ def scrape_source(browser, store, label, source, list_url, pattern, limit, deadl
             if rec:
                 store[url] = rec
                 flag = " (senza data!)" if not rec.get("published") else ""
-                print(f"[{i}/{len(urls)}] ok  {url}{flag}")
+                print(f"[{i}/{len(queue)}] ok  {url}{flag}")
                 since_checkpoint += 1
             else:
-                print(f"[{i}/{len(urls)}] SALTATO {url}: {err}")
+                print(f"[{i}/{len(queue)}] SALTATO {url}: {err}")
             if since_checkpoint and (since_checkpoint >= CHECKPOINT_EVERY
                                      or time.time() - last_cp > CHECKPOINT_MAX_SECONDS):
                 git_checkpoint(list(store.values()), f"Checkpoint parziale richiami ({label.lower()})")
-                since_checkpoint = 0
-                last_cp = time.time()
+                since_checkpoint, last_cp = 0, time.time()
             time.sleep(random.uniform(*DELAY_RANGE))
         if rimaste:
-            print(f"{rimaste} schede di '{label}' restano da scaricare: ci penserà la prossima run.")
+            print(f"{rimaste} schede di '{label}' restano per la prossima run.")
     except Exception as e:
         print(f"FONTE '{label}' SALTATA per errore imprevisto: {e}")
 
 
+def parse_limit(argv):
+    arg = argv[1].strip() if len(argv) > 1 else ""
+    return int(arg) if arg.isdigit() and int(arg) > 0 else None
+
+
 def main():
-    limit = int(sys.argv[1]) if len(sys.argv) > 1 else None
-    cache = load_cache()
+    limit = parse_limit(sys.argv)
+    store = dict(load_cache())
     start = time.time()
-    store = dict(cache)                      # parte da tutto ciò che è già valido
-    state = {"blocked": False, "blocks": 0}  # condiviso fra le due fonti
+    end = start + MAX_RUNTIME_SECONDS
+    state = {"blocked": False, "blocks": 0}
 
     with Browser() as b:
-        scrape_source(b, store, "RICHIAMI UFFICIALI", "official",
-                      OFFICIAL_URL, "avvisi-sicurezza-alimentare", limit,
-                      deadline=start + MAX_RUNTIME_SECONDS / 2, state=state)
-        scrape_source(b, store, "RICHIAMI DEGLI OPERATORI", "operator",
-                      OPERATOR_URL, "ext-avviso-sicurezza-alimentare", limit,
-                      deadline=start + MAX_RUNTIME_SECONDS, state=state,
+        sitemap_urls = fetch_sitemap_urls(b)
+        scrape_source(b, store, "RICHIAMI UFFICIALI", "official", OFFICIAL_URL,
+                      "avvisi-sicurezza-alimentare", limit, start + MAX_RUNTIME_SECONDS / 2,
+                      state, sitemap_urls)
+        if state["blocked"] and time.time() + BLOCK_BACKOFF_SECONDS < end:
+            print(f"\nAttendo {BLOCK_BACKOFF_SECONDS}s e riprovo con la fonte successiva...")
+            time.sleep(BLOCK_BACKOFF_SECONDS)
+            state.update(blocked=False, blocks=MAX_CONSECUTIVE_BLOCKS - 1)
+        scrape_source(b, store, "RICHIAMI DEGLI OPERATORI", "operator", OPERATOR_URL,
+                      "ext-avviso-sicurezza-alimentare", limit, end, state, sitemap_urls,
                       click_label=OPERATOR_TAB_LABEL)
 
     if not store:
-        raise SystemExit(
-            "Nessuna scheda valida da nessuna delle due fonti. "
-            "Controlla il log qui sopra per capire dove si è fermato."
-        )
+        raise SystemExit("Nessuna scheda valida da nessuna delle due fonti. Controlla il log.")
 
     records = save_records(list(store.values()))
-    official_count = sum(1 for r in records if r.get("source") == "official")
-    operator_count = sum(1 for r in records if r.get("source") == "operator")
-    print(f"\nSalvati {len(records)} richiami ({official_count} ufficiali, {operator_count} operatori) in {OUTPUT_PATH}")
+    off = sum(1 for r in records if r.get("source") == "official")
+    ope = sum(1 for r in records if r.get("source") == "operator")
+    print(f"\nSalvati {len(records)} richiami ({off} ufficiali, {ope} operatori) in {OUTPUT_PATH}")
 
 
 if __name__ == "__main__":

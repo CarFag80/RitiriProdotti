@@ -1,92 +1,61 @@
-# Richiami â€” feed dei ritiri prodotto
+# Richiami — feed dei ritiri prodotto
 
 Sito mobile-first (`index.html`, un solo file, nessuna build) + scraper Python
-che genera `data.json` da due fonti del Ministero della Salute.
+che genera `data.json` da due elenchi del Ministero della Salute.
 
 ## Due fonti di dati
 
-Lo scraper raccoglie i richiami da **due elenchi ufficiali diversi**:
-
-1. **Avvisi e richiami di prodotti alimentari** 
-   (https://www.salute.gov.it/new/it/avvisi/avvisi-e-richiami-di-prodotti-alimentari/)
-   â€” Richiami **obbligatori**: il Ministero ordina il ritiro e la comunicazione al pubblico.
-   Badge: "Richiamo ufficiale" (rosso).
-
-2. **Avvisi di sicurezza**
-   (https://www.salute.gov.it/new/it/avvisi/avvisi-di-sicurezza/)
-   â€” Richiami **volontari**: l'azienda (OSA â€” Operatore del Settore Alimentare) decide di ritirare di propria iniziativa.
-   Badge: "Richiamo volontario" (blu).
-
-Entrambi sono importanti per il consumatore: i volontari spesso vengono comunicati prima, gli obbligatori hanno il peso della legge.
+1. **Avvisi e richiami di prodotti alimentari** — richiami obbligatori; badge rosso "Richiamo ufficiale".
+2. **Avvisi di sicurezza** (scheda "Richiami degli Operatori") — richiami volontari degli OSA; badge blu "Richiamo volontario".
 
 ## Come appare nel sito
 
-### Home / Feed
-- Ogni voce mostra **data**, **prodotto**, **marca**, **motivo** e una **riga di tag**: 
-  - "Rischio salute" o "Avviso" (categoria del problema)
-  - Fonte (non ancora mostrata nel feed per non appesantire, ma Ã¨ nei dati)
-- **Filtro per fonte**: menu a tendina "Tutte le fonti / Richiami ufficiali / Richiami operatori" accanto a quello per anno.
+- **Home / Feed:** data, prodotto, marca, motivo e tag categoria; filtri per anno e fonte.
+- **Scheda dettaglio:** badge categoria e tipo di richiamo, lotto, produttore e allegati.
 
-### Scheda dettaglio
-- Due badge in alto a destra della sezione hero:
-  - "Rischio salute" / "Avviso" (come prima)
-  - **"Richiamo ufficiale"** (rosso) o **"Richiamo volontario"** (blu) â€” chiarisce subito la differenza al consumatore.
-- Tutti gli altri campi (lotto, produttore, allegati) rimangono uguali.
+## Campi prodotti dallo scraper
 
-## I campi reali da scheda ministeriale
+| Campo | Significato |
+|---|---|
+| `product`, `brand`, `reasonShort`, `country` | Dati principali della scheda |
+| `lots`, `lotsRaw` | Lotti separati e testo originale |
+| `source` | `official` oppure `operator` |
+| `published` | Data in formato ISO |
+| `attachments` | Allegati con nome e URL |
+| `producer`, `plant`, `expiry`, `packaging` | Campi aggiuntivi quando presenti |
+| `topic`, `category` | Area tematica e classificazione euristica (`risk`/`info`) |
+| `noticeUrl` | Link alla notizia collegata, se presente |
 
-| Campo | Label sito | Fonte |
-|---|---|---|
-| product | Prodotto | Entrambe |
-| brand | Marca | Entrambe |
-| reasonShort | Sostanza/Rischio | Entrambe |
-| country | Paese di origine | Entrambe |
-| lots | Numero lotto | Entrambe |
-| source | â† NEW | Entrambe (`official` o `operator`) |
-| published | News/Avviso (data) | Entrambe |
-| attachments | Allegati (immagini) | Entrambe |
+## Lo scraper
 
-## Lo scraper (`scraper.py`) â€” AGGIORNATO
+- Sitemap scaricata una sola volta per run, con pause tra le sotto-mappe.
+- Pagina elenco letta con paginazione/caricamento progressivo (fino a 40 pagine).
+- Cache: le schede valide non si riscaricano; quelle recenti (ultimi 30 giorni) vengono riscaricate al massimo una volta ogni 24 ore.
+- Pausa casuale 3–6 s tra le schede; dopo 2 blocchi consecutivi la fonte si ferma per la run.
+- Checkpoint ogni 20 schede nuove o 5 minuti, con commit `[skip ci]` per non innescare deploy Netlify.
+- `data.json` salvato in JSON compatto per ridurre il peso del repository.
 
-- **Due discovery**: una per ufficiali, una per operatori.
-- **Parsing identico**: usa lo stesso `parse_detail()` per entrambe; riceve `source` come parametro.
-- **Output unificato**: un solo `data.json` con tutti i richiami, ordinati per data, etichettati con source.
-
-Il log dell'esecuzione ora dice:
-
-```
-=== RICHIAMI UFFICIALI ===
-[1/N] ok â€¦
-â€¦
-=== RICHIAMI DEGLI OPERATORI ===
-[1/M] ok â€¦
-â€¦
-Salvati X richiami (Y ufficiali, Z operatori) in data.json
-```
-
-### Provarlo
+## Provarlo
 
 ```bash
 pip install -r requirements.txt
 playwright install chromium
-python scraper.py 5      # limita a 5 per tipo per il primo giro
+python scraper.py 5      # limita a 5 schede per fonte
 python inject_data.py    # incolla i dati dentro index.html
 ```
 
-## Come provarlo (senza installare niente)
+## Web app
 
-**Doppio clic su `index.html`.** I dati sono incorporati nel file stesso, quindi funziona offline.
-
-Se sul server accanto c'Ã¨ un `data.json` piÃ¹ fresco, quello ha la precedenza. Ma Ã¨ un di piÃ¹.
+Doppio clic su `index.html`: i dati sono incorporati e il sito funziona offline.
+Se accanto esiste un `data.json` più recente, il sito lo usa.
 
 ## Pubblicazione su Netlify
 
 1. Carica la cartella su GitHub.
-2. Collegala a Netlify: **Add new site â†’ Import an existing project â†’ Deploy with GitHub**.
-3. Il workflow GitHub Actions aggiornerÃ  i dati ogni 3 ore, Netlify ripubblicherÃ  automaticamente. Il sito del Ministero blocca chi fa troppe richieste ravvicinate, quindi lo scraper va piano (pausa casuale tra le schede), si ferma da solo se viene bloccato e riprende alla run successiva: lo storico completo si scarica in piÃ¹ run, poi a regime ogni run dura pochi minuti.
+2. Netlify → **Add new site → Import an existing project → Deploy with GitHub**.
+3. Il workflow GitHub Actions aggiorna i dati ogni 3 ore; Netlify ripubblica automaticamente.
 
-## Prossimi passi suggeriti
+## Prossimi passi
 
-- Integrare **RASFF** (sistema di allerta europeo) come terza fonte â€” allargherebbe la visibilitÃ  ai richiami che interessano l'Italia da altri Paesi UE.
-- Integrare **RAPEX** (prodotti non alimentari) in una scheda separata â€” avrebbe senso per un centro allerte completo.
-
+- Integrare RASFF come terza fonte.
+- Integrare RAPEX per i prodotti non alimentari.
