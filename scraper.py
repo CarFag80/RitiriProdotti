@@ -272,11 +272,11 @@ def split_lots(raw):
 
 def to_iso(it_date):
     it_date = clean(it_date)
-    m = re.match(r"^(\d{1,2})/(\d{1,2})/(\d{4})$", it_date)
+    m = re.match(r"^(\d{1,2})\s*/\s*(\d{1,2})\s*/\s*(\d{4})$", it_date)
     if m:
         d, mth, y = m.groups()
         return f"{y}-{int(mth):02d}-{int(d):02d}"
-    m = re.match(r"^(\d{1,2})\s*/?\s*([A-Za-z\u00e0\u00e8\u00e9\u00ec\u00f2\u00f9]+)\s*/?\s*(\d{4})$", it_date)
+    m = re.match(r"^(\d{1,2})\s*/\s*([A-Za-z\u00e0\u00e8\u00e9\u00ec\u00f2\u00f9]+)\s*/\s*(\d{4})$", it_date)
     if m:
         d, month_name, y = m.groups()
         mth = IT_MONTHS.get(month_name.lower())
