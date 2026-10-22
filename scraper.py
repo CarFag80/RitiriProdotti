@@ -10,9 +10,11 @@ STRATEGIA (Variante B)
 - Prima esecuzione (nessuno storico precedente): scarica TUTTO lo storico,
   con checkpoint git+push ogni 20 schede nuove o 5 minuti.
 - Esecuzioni successive: solo schede NUOVE non ancora in cache; se la loro
-  data non e' nel YEAR_FILTER (2026), vengono scartate. Nessun refresh delle
-  schede gia' presenti. Checkpoint solo locale (nessun commit) per ridurre i
-  deploy Netlify: il push avviene una sola volta, a fine run, se data.json e'
+  data e' precedente al YEAR_FILTER (2026), vengono scartate. Le schede senza
+  data riconoscibile vengono comunque salvate (con avviso), per evitare
+  perdita di dati e ritentativi infiniti. Nessun refresh delle schede gia'
+  presenti. Checkpoint solo locale (nessun commit) per ridurre i deploy
+  Netlify: il push avviene una sola volta, a fine run, se data.json e'
   cambiato.
 
 STATO DELLA VERIFICA
@@ -376,7 +378,7 @@ def load_cache():
     """Restituisce (cache, full_done). full_done=True se nello storico gia'
     scaricato esiste almeno una scheda precedente al YEAR_FILTER: significa
     che il recupero completo e' gia' stato fatto e le run successive sono
-    incrementali (solo nuove schede del YEAR_FILTER)."""
+    incrementali (solo nuove schede del YEAR_FILTER o successive)."""
     try:
         with open(OUTPUT_PATH, encoding="utf-8") as f:
             data = json.load(f)
@@ -483,8 +485,8 @@ def scrape_source(browser, store, label, source, list_url, pattern, limit, deadl
             state["blocks"] = 0
             if rec:
                 year = (rec.get("published") or "")[:4]
-                if full_done and year != str(YEAR_FILTER):
-                    print(f"[{i}/{len(queue)}] FUORI {YEAR_FILTER} (anno: {year or 'sconosciuto'}), non salvato: {url}")
+                if full_done and year and year.isdigit() and int(year) < YEAR_FILTER:
+                    print(f"[{i}/{len(queue)}] FUORI {YEAR_FILTER} (anno: {year}), non salvato: {url}")
                 else:
                     store[url] = rec
                     flag = " (senza data!)" if not rec.get("published") else ""
