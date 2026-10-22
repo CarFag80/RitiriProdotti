@@ -6,8 +6,14 @@ Due fonti, una sola pagina elenco ("Avvisi e richiami di prodotti alimentari"):
   operatori  -> /new/it/ext-avviso-sicurezza-alimentare/<slug>
                 (si raggiungono cliccando la scheda "Richiami degli Operatori")
 
-Struttura di una scheda: <h1> + blocchi ".pb-2" con <span class="fw-bold">Etichetta:</span> valore.
-Il parsing e' generico: ogni coppia etichetta/valore finisce in record["campi"].
+STRATEGIA (Variante B)
+- Prima esecuzione (nessuno storico precedente): scarica TUTTO lo storico,
+  con checkpoint git+push ogni 20 schede nuove o 5 minuti.
+- Esecuzioni successive: solo schede NUOVE non ancora in cache; se la loro
+  data non e' nel YEAR_FILTER (2026), vengono scartate. Nessun refresh delle
+  schede gia' presenti. Checkpoint solo locale (nessun commit) per ridurre i
+  deploy Netlify: il push avviene una sola volta, a fine run, se data.json e'
+  cambiato.
 
 STATO DELLA VERIFICA
 - parse_detail(), to_iso(), split_lots(), classificazione rischio: testati offline.
@@ -21,7 +27,7 @@ import re
 import subprocess
 import sys
 import time
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 from urllib.parse import urljoin, urldefrag
 
 from bs4 import BeautifulSoup
@@ -33,6 +39,7 @@ OPERATOR_URL = OFFICIAL_URL
 OPERATOR_TAB_LABEL = "Richiami degli Operatori"
 SITEMAP_URL = f"{BASE}/new/sitemap-index.xml"
 OUTPUT_PATH = "data.json"
+YEAR_FILTER = 2026
 
 CHECKPOINT_EVERY = 20
 CHECKPOINT_MAX_SECONDS = 300
@@ -48,9 +55,6 @@ BLOCK_MARKERS = (
     "please enable cookies", "browser validation", "verifying you are human",
     "access denied",
 )
-
-REFRESH_WINDOW_DAYS = 30
-REFRESH_EVERY_HOURS = 24
 
 MAX_LIST_PAGES = 40
 NEXT_PAGE_SELECTOR = ", ".join([
@@ -368,36 +372,30 @@ def is_valid_record(rec):
     return bool(rec.get("campi")) and not looks_blocked(rec.get("title", ""))
 
 
-def needs_refresh(rec):
-    now = datetime.now(timezone.utc)
-    try:
-        pub = datetime.strptime(rec.get("published", ""), "%Y-%m-%d").replace(tzinfo=timezone.utc)
-    except ValueError:
-        return False
-    if now - pub > timedelta(days=REFRESH_WINDOW_DAYS):
-        return False
-    try:
-        fetched = datetime.fromisoformat(rec.get("fetchedAt", ""))
-    except ValueError:
-        return True
-    return now - fetched > timedelta(hours=REFRESH_EVERY_HOURS)
-
-
 def load_cache():
+    """Restituisce (cache, full_done). full_done=True se nello storico gia'
+    scaricato esiste almeno una scheda precedente al YEAR_FILTER: significa
+    che il recupero completo e' gia' stato fatto e le run successive sono
+    incrementali (solo nuove schede del YEAR_FILTER)."""
     try:
         with open(OUTPUT_PATH, encoding="utf-8") as f:
             data = json.load(f)
     except FileNotFoundError:
-        print("Nessun data.json precedente: prima esecuzione, scarico tutto.")
-        return {}
+        print("Nessun data.json precedente: prima esecuzione, scarico tutto lo storico.")
+        return {}, False
     except Exception as e:
         print(f"data.json precedente non leggibile ({e}): riparto da zero.")
-        return {}
+        return {}, False
     cache = {r["sourceUrl"]: r for r in data if r.get("sourceUrl") and is_valid_record(r)}
+    full_done = any(
+        (r.get("published") or "")[:4].isdigit()
+        and int(r["published"][:4]) < YEAR_FILTER
+        for r in cache.values()
+    )
     scartate = len(data) - len(cache)
-    print(f"Cache: {len(cache)} schede valide"
+    print(f"Cache: {len(cache)} schede valide; storico completo: {'SI' if full_done else 'NO'}"
           + (f"; {scartate} non valide scartate e da riscaricare." if scartate else "."))
-    return cache
+    return cache, full_done
 
 
 def save_records(records):
@@ -427,9 +425,15 @@ def fetch_detail(browser, url, source, timeout_ms=25000, retries=2):
     return None, last_err
 
 
-def git_checkpoint(records, message):
+def git_checkpoint(records, message, publish=True):
+    """publish=True (solo primo scaricamento completo): commit+push.
+    publish=False (run incrementali): salva solo in locale, nessun commit,
+    per non generare deploy Netlify a ogni checkpoint."""
     try:
         save_records(records)
+        if not publish:
+            print("Checkpoint salvato solo in locale (nessun commit, per risparmiare deploy Netlify).")
+            return
         subprocess.run(["git", "config", "user.name", "github-actions[bot]"], check=False)
         subprocess.run(["git", "config", "user.email",
                         "github-actions[bot]@users.noreply.github.com"], check=False)
@@ -450,16 +454,14 @@ def git_checkpoint(records, message):
 
 
 def scrape_source(browser, store, label, source, list_url, pattern, limit, deadline,
-                  state, sitemap_urls, click_label=None):
+                  state, sitemap_urls, full_done, click_label=None):
     print(f"\n=== {label} ===")
     try:
         urls = discover_urls(browser, list_url, pattern, sitemap_urls, limit=limit,
                              click_label=click_label)
         queue = [u for u in urls if u not in store]
-        n_new = len(queue)
-        queue += [u for u in urls if u in store and needs_refresh(store[u])]
-        print(f"{len(urls)} schede trovate: {n_new} nuove, {len(queue) - n_new} da aggiornare, "
-              f"{len(urls) - len(queue)} in cache.")
+        print(f"{len(urls)} schede trovate: {len(queue)} nuove da scaricare, "
+              f"{len(urls) - len(queue)} gia' in cache.")
 
         since_checkpoint, last_cp, rimaste = 0, time.time(), 0
         for i, url in enumerate(queue, 1):
@@ -480,15 +482,21 @@ def scrape_source(browser, store, label, source, list_url, pattern, limit, deadl
                 continue
             state["blocks"] = 0
             if rec:
-                store[url] = rec
-                flag = " (senza data!)" if not rec.get("published") else ""
-                print(f"[{i}/{len(queue)}] ok  {url}{flag}")
-                since_checkpoint += 1
+                year = (rec.get("published") or "")[:4]
+                if full_done and year != str(YEAR_FILTER):
+                    print(f"[{i}/{len(queue)}] FUORI {YEAR_FILTER} (anno: {year or 'sconosciuto'}), non salvato: {url}")
+                else:
+                    store[url] = rec
+                    flag = " (senza data!)" if not rec.get("published") else ""
+                    print(f"[{i}/{len(queue)}] ok  {url}{flag}")
+                    since_checkpoint += 1
             else:
                 print(f"[{i}/{len(queue)}] SALTATO {url}: {err}")
             if since_checkpoint and (since_checkpoint >= CHECKPOINT_EVERY
                                      or time.time() - last_cp > CHECKPOINT_MAX_SECONDS):
-                git_checkpoint(list(store.values()), f"Checkpoint parziale richiami ({label.lower()})")
+                git_checkpoint(list(store.values()),
+                               f"Checkpoint parziale richiami ({label.lower()})",
+                               publish=not full_done)
                 since_checkpoint, last_cp = 0, time.time()
             time.sleep(random.uniform(*DELAY_RANGE))
         if rimaste:
@@ -504,7 +512,8 @@ def parse_limit(argv):
 
 def main():
     limit = parse_limit(sys.argv)
-    store = dict(load_cache())
+    cache, full_done = load_cache()
+    store = dict(cache)
     start = time.time()
     end = start + MAX_RUNTIME_SECONDS
     state = {"blocked": False, "blocks": 0}
@@ -513,14 +522,14 @@ def main():
         sitemap_urls = fetch_sitemap_urls(b)
         scrape_source(b, store, "RICHIAMI UFFICIALI", "official", OFFICIAL_URL,
                       "avvisi-sicurezza-alimentare", limit, start + MAX_RUNTIME_SECONDS / 2,
-                      state, sitemap_urls)
+                      state, sitemap_urls, full_done)
         if state["blocked"] and time.time() + BLOCK_BACKOFF_SECONDS < end:
             print(f"\nAttendo {BLOCK_BACKOFF_SECONDS}s e riprovo con la fonte successiva...")
             time.sleep(BLOCK_BACKOFF_SECONDS)
             state.update(blocked=False, blocks=MAX_CONSECUTIVE_BLOCKS - 1)
         scrape_source(b, store, "RICHIAMI DEGLI OPERATORI", "operator", OPERATOR_URL,
                       "ext-avviso-sicurezza-alimentare", limit, end, state, sitemap_urls,
-                      click_label=OPERATOR_TAB_LABEL)
+                      full_done, click_label=OPERATOR_TAB_LABEL)
 
     if not store:
         raise SystemExit("Nessuna scheda valida da nessuna delle due fonti. Controlla il log.")

@@ -2,7 +2,7 @@ name: Aggiorna richiami
 
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "0 */6 * * *"   # ogni 6 ore: meno run e meno deploy Netlify
   workflow_dispatch:
     inputs:
       limit:
