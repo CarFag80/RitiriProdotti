@@ -26,6 +26,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
 
       - name: Installa le dipendenze
         run: |
@@ -51,3 +52,4 @@ jobs:
             echo "Push rifiutato (tentativo $i/3): riallineo con il remoto e riprovo..."
             sleep 5
           done
+          git diff --quiet origin/main..HEAD || exit 1
