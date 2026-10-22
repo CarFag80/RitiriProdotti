@@ -12,10 +12,11 @@ STRATEGIA (Variante B)
 - Esecuzioni successive: solo schede NUOVE non ancora in cache; se la loro
   data e' precedente al YEAR_FILTER (2026), vengono scartate. Le schede senza
   data riconoscibile vengono comunque salvate (con avviso), per evitare
-  perdita di dati e ritentativi infiniti. Nessun refresh delle schede gia'
-  presenti. Checkpoint solo locale (nessun commit) per ridurre i deploy
-  Netlify: il push avviene una sola volta, a fine run, se data.json e'
-  cambiato.
+  perdita di dati e ritentativi infiniti. A ogni run, le schede senza data
+  vengono ri-scaricate e ri-parsate, per sfruttare eventuali fix futuri sul
+  parsing delle date. Nessun refresh delle altre schede gia' presenti.
+  Checkpoint solo locale (nessun commit) per ridurre i deploy Netlify: il
+  push avviene una sola volta, a fine run, se data.json e' cambiato.
 
 STATO DELLA VERIFICA
 - parse_detail(), to_iso(), split_lots(), classificazione rischio: testati offline.
@@ -507,6 +508,40 @@ def scrape_source(browser, store, label, source, list_url, pattern, limit, deadl
         print(f"FONTE '{label}' SALTATA per errore imprevisto: {e}")
 
 
+def reparse_undated(browser, store, state, deadline):
+    """Ri-scarica e ri-parsa le schede in cache senza data, per sfruttare
+    eventuali fix futuri sul parsing delle date. Se la data viene ora
+    riconosciuta, il record viene aggiornato; altrimenti resta invariato."""
+    undated = [u for u, r in store.items() if not r.get("published")]
+    if not undated:
+        print("\nNessuna scheda senza data da ri-parsare.")
+        return
+    print(f"\n=== RI-PARSE di {len(undated)} schede senza data ===")
+    fixed = 0
+    for i, url in enumerate(undated, 1):
+        if state["blocked"] or time.time() > deadline:
+            print(f"[{i}/{len(undated)}] saltata (limite tempo/blocco): {url}")
+            continue
+        source = infer_source(url)
+        rec, err = fetch_detail(browser, url, source)
+        if isinstance(err, Blocked):
+            state["blocks"] += 1
+            print(f"[{i}/{len(undated)}] BLOCCATO, salto per ora: {url}")
+            if state["blocks"] >= MAX_CONSECUTIVE_BLOCKS:
+                state["blocked"] = True
+                break
+            continue
+        state["blocks"] = 0
+        if rec and rec.get("published"):
+            store[url] = rec
+            fixed += 1
+            print(f"[{i}/{len(undated)}] DATA RECUPERATA ({rec['published']}): {url}")
+        else:
+            print(f"[{i}/{len(undated)}] data ancora non riconoscibile: {url}")
+        time.sleep(random.uniform(*DELAY_RANGE))
+    print(f"Ri-parse completato: {fixed}/{len(undated)} schede aggiornate con data.")
+
+
 def parse_limit(argv):
     arg = argv[1].strip() if len(argv) > 1 else ""
     return int(arg) if arg.isdigit() and int(arg) > 0 else None
@@ -532,6 +567,9 @@ def main():
         scrape_source(b, store, "RICHIAMI DEGLI OPERATORI", "operator", OPERATOR_URL,
                       "ext-avviso-sicurezza-alimentare", limit, end, state, sitemap_urls,
                       full_done, click_label=OPERATOR_TAB_LABEL)
+        # Ri-parse delle schede senza data, se c'e' ancora tempo
+        if not state["blocked"] and time.time() < end:
+            reparse_undated(b, store, state, end)
 
     if not store:
         raise SystemExit("Nessuna scheda valida da nessuna delle due fonti. Controlla il log.")
