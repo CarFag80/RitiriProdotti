@@ -1,12 +1,18 @@
 name: Aggiorna richiami
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - repair_dates.py
+      - test_dates.py
+      - .github/workflows/update-richiami.yml
   schedule:
-    - cron: "0 6 * * 1,4"   # lunedì e giovedì alle 06:00 UTC (08:00 ora italiana)
+    - cron: "0 6 * * 1,4" # 07:00 italiane in inverno, 08:00 in estate
   workflow_dispatch:
     inputs:
       limit:
-        description: "Numero massimo di schede per fonte (vuoto = tutte). Utile per una prova veloce, es. 5."
+        description: "Numero massimo di schede per fonte (vuoto = tutte)."
         required: false
         default: ""
 
@@ -28,12 +34,17 @@ jobs:
           python-version: "3.12"
           cache: pip
 
+      - name: Test del parsing e recupero date
+        run: python -m unittest -v test_dates.py
+
       - name: Installa le dipendenze
+        if: github.event_name != 'push'
         run: |
           pip install -r requirements.txt
           playwright install --with-deps chromium
 
       - name: Esegui lo scraper
+        if: github.event_name != 'push'
         shell: bash
         env:
           SCRAPER_LIMIT: ${{ github.event.inputs.limit }}
@@ -43,9 +54,13 @@ jobs:
           python scraper.py "$SCRAPER_LIMIT" 2>&1 | tee scraper.log
 
       - name: Registra l'esito del controllo
+        if: github.event_name != 'push'
         env:
           SCRAPER_LIMIT: ${{ github.event.inputs.limit }}
         run: python write_status.py
+
+      - name: Recupera le date presenti nei dati locali
+        run: python repair_dates.py
 
       - name: Incolla i dati dentro index.html
         run: python inject_data.py
@@ -54,8 +69,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.json status.json index.html
-          git diff --quiet --cached || git commit -m "Aggiorna richiami"
+          git add data.json index.html
+          if [ -f status.json ]; then git add status.json; fi
+          git diff --quiet --cached || git commit -m "Aggiorna richiami e normalizza date"
           for i in 1 2 3; do
             git pull --rebase origin main && git push && break
             echo "Push rifiutato (tentativo $i/3): riallineo con il remoto e riprovo..."
