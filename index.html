@@ -12,6 +12,7 @@
   :root{
     --paper:#F0EFE8;
     --surface:#FAF9F4;
+    --surface-alt:#ECEBE2;
     --ink:#20242A;
     --ink-soft:#63676C;
     --alert:#C43E1C;
@@ -19,9 +20,26 @@
     --info:#2C4A63;
     --info-soft:#DFE6EA;
     --line:#DEDBD0;
+    --focus:#1E5A8A;
     --serif: 'Source Serif 4', Georgia, serif;
     --sans: 'Public Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     --mono: 'IBM Plex Mono', 'SFMono-Regular', Consolas, monospace;
+  }
+
+  @media (prefers-color-scheme: dark){
+    :root:not(:has(.no-dark)){
+      --paper:#15161A;
+      --surface:#1D1F25;
+      --surface-alt:#22242B;
+      --ink:#E8E6DF;
+      --ink-soft:#9B9FA6;
+      --alert:#E8624A;
+      --alert-soft:#2A1D1A;
+      --info:#7AB0CC;
+      --info-soft:#1A2530;
+      --line:#2E3038;
+      --focus:#7AB0CC;
+    }
   }
 
   *{box-sizing:border-box; -webkit-tap-highlight-color:transparent;}
@@ -43,6 +61,18 @@
     min-height:100vh;
     background:var(--paper);
     position:relative;
+  }
+
+  @media (min-width:768px){
+    .shell{max-width:700px;}
+  }
+  @media (min-width:1024px){
+    .shell{max-width:1000px;}
+    header.top{padding:36px 28px 22px;}
+    header.top h1{font-size:40px;}
+    header.top p.sub{font-size:16px; max-width:42ch;}
+    .stat-line{font-size:14px;}
+    .stat-line strong{font-size:22px;}
   }
 
   /* ---------- Header ---------- */
@@ -101,27 +131,38 @@
     border:1px solid var(--line);
     background:var(--surface);
     color:var(--ink-soft);
-    padding:7px 14px;
+    padding:10px 16px;
     border-radius:999px;
     font-size:13px;
     font-weight:500;
     white-space:nowrap;
+    min-height:40px;
+    display:inline-flex;
+    align-items:center;
+    transition:background .15s, border-color .15s, color .15s;
   }
+  .chip:hover{background:var(--surface-alt); border-color:var(--ink-soft);}
   .chip.active{
     background:var(--ink);
     border-color:var(--ink);
     color:var(--paper);
   }
+  .chip.active:hover{opacity:0.9;}
   .year-select{
     flex:0 0 auto;
     border:1px solid var(--line);
     background:var(--surface);
     color:var(--ink-soft);
-    padding:6px 10px;
+    padding:8px 12px;
     border-radius:999px;
     font-size:13px;
     font-weight:500;
     font-family:var(--sans);
+    min-height:40px;
+  }
+
+  @media (min-width:768px){
+    .filters{overflow-x:visible; flex-wrap:wrap; padding-left:28px; padding-right:28px;}
   }
 
   /* ---------- Ricerca ---------- */
@@ -137,6 +178,20 @@
     border-radius:2px;
   }
   .search-box:focus{ outline:none; border-color:var(--ink); }
+  .search-box:focus-visible{ outline:2px solid var(--focus); outline-offset:1px; }
+
+  /* Visible focus for keyboard navigation */
+  .chip:focus-visible,
+  .year-select:focus-visible,
+  .pg-btn:focus-visible,
+  .row:focus-visible,
+  .back:focus-visible,
+  .cta:focus-visible,
+  .attach a:focus-visible{
+    outline:2px solid var(--focus);
+    outline-offset:2px;
+    border-radius:4px;
+  }
 
   /* ---------- Paginazione ---------- */
   .pagination{
@@ -155,26 +210,61 @@
     font-size:13px;
     font-weight:600;
     border-radius:2px;
+    transition:background .15s;
   }
+  .pg-btn:hover:not(:disabled){background:var(--surface-alt);}
   .pg-btn:disabled{ opacity:0.35; pointer-events:none; }
   .pg-info{
     font-size:13px;
     color:var(--ink-soft);
     font-family:var(--mono);
   }
+  .pg-nums{
+    display:flex;
+    align-items:center;
+    gap:2px;
+    flex-wrap:wrap;
+    justify-content:center;
+  }
+  .pg-num{
+    border:none;
+    background:transparent;
+    color:var(--ink-soft);
+    padding:6px 10px;
+    font-size:13px;
+    font-weight:600;
+    font-family:var(--mono);
+    border-radius:4px;
+    cursor:pointer;
+    min-width:32px;
+  }
+  .pg-num:hover{background:var(--surface-alt); color:var(--ink);}
+  .pg-num.active{background:var(--ink); color:var(--paper);}
+  .pg-num:disabled{opacity:0.4; pointer-events:none;}
 
   /* ---------- Feed ---------- */
   .feed{padding:12px 0 40px;}
+  .feed.grid{
+    display:grid;
+    grid-template-columns:1fr;
+  }
+  @media (min-width:1024px){
+    .feed.grid{grid-template-columns:1fr 1fr; gap:0;}
+    .feed.grid .row{border-right:1px solid var(--line);}
+    .feed.grid .row:nth-child(2n){border-right:none;}
+  }
   .row{
     display:flex;
     gap:16px;
     padding:18px 20px;
     border-bottom:1px solid var(--line);
     align-items:flex-start;
+    transition:background .12s;
   }
+  .row:hover{background:var(--surface-alt);}
   .row:active{background:var(--surface);}
   .row .datecol{
-    flex:0 0 54px;
+    flex:0 0 62px;
     text-align:left;
     padding-top:2px;
   }
@@ -210,7 +300,9 @@
     color:var(--ink);
   }
   .tag{
-    display:inline-block;
+    display:inline-flex;
+    align-items:center;
+    gap:5px;
     font-size:11.5px;
     font-weight:600;
     padding:3px 9px;
@@ -218,6 +310,15 @@
   }
   .tag.risk{background:var(--alert-soft); color:var(--alert);}
   .tag.info{background:var(--info-soft); color:var(--info);}
+  .tag .dot{
+    display:inline-block;
+    width:7px;
+    height:7px;
+    border-radius:50%;
+    flex-shrink:0;
+  }
+  .tag.risk .dot{background:var(--alert);}
+  .tag.info .dot{background:var(--info); border:1.5px solid var(--info);}
 
   .empty{
     padding:60px 24px;
@@ -294,6 +395,7 @@
     border-radius:2px;
   }
   .cta:active{opacity:0.85;}
+  .cta:hover{opacity:0.9;}
 
   .attach{margin:0; padding-left:18px;}
   .attach li{margin-bottom:8px; font-size:14.5px;}
@@ -313,6 +415,50 @@
     .fade-in{animation:none;}
   }
 
+  /* ---------- Loading state ---------- */
+  .loading{
+    padding:60px 24px;
+    text-align:center;
+    color:var(--ink-soft);
+    font-size:14.5px;
+  }
+  .loading::after{
+    content:'';
+    display:inline-block;
+    width:18px;
+    height:18px;
+    margin-left:8px;
+    border:2px solid var(--line);
+    border-top-color:var(--ink-soft);
+    border-radius:50%;
+    animation:spin .8s linear infinite;
+    vertical-align:middle;
+  }
+  @keyframes spin{to{transform:rotate(360deg);}}
+  @media (prefers-reduced-motion: reduce){
+    .loading::after{animation:none;}
+  }
+
+  /* ---------- Detail two-column on desktop ---------- */
+  @media (min-width:1024px){
+    .detail{
+      display:grid;
+      grid-template-columns:1fr 1fr;
+      column-gap:0;
+    }
+    .detail .back{grid-column:1 / -1;}
+    .detail .hero{grid-column:1 / -1;}
+    .detail .section,
+    .detail .factlist{grid-column:auto;}
+    .detail .cta,
+    .detail .cta-secondary{grid-column:1 / -1; max-width:360px; margin-left:28px; margin-right:auto;}
+  }
+
+  @media (min-width:768px){
+    .pagination{padding-left:28px; padding-right:28px;}
+    .feed{padding-left:8px; padding-right:8px;}
+  }
+
   footer.foot{
     padding:24px 20px 40px;
     font-size:12px;
@@ -325,7 +471,7 @@
   <meta name="twitter:image" content="https://bolt.new/static/og_default.png">
 </head>
 <body>
-<div class="shell" id="app"></div>
+<div class="shell" id="app"><div class="loading">Caricamento richiami</div></div>
 
 <script>
 /* =========================================================
@@ -107257,7 +107403,7 @@ function renderFeed(){
       </select>
     </nav>
 
-    <main class="feed fade-in" id="feedList"></main>
+    <main class="feed grid fade-in" id="feedList"></main>
     <nav class="pagination" id="paginationBar"></nav>
 
     <footer class="foot">Fonte: avvisi e richiami di prodotti alimentari del Ministero della Salute. Verificare sempre la scheda ufficiale prima di agire.</footer>
@@ -107306,9 +107452,20 @@ function renderFeedList(){
   const pagEl = document.getElementById('paginationBar');
   if (totalPages <= 1) { pagEl.innerHTML = ''; return; }
 
+  let pageNums = '';
+  const maxVisible = 5;
+  let start = Math.max(1, currentPage - 2);
+  let end = Math.min(totalPages, start + maxVisible - 1);
+  if (end - start + 1 < maxVisible) start = Math.max(1, end - maxVisible + 1);
+  if (start > 1) pageNums += `<button class="pg-num" data-page="1">1</button>${start > 2 ? '<span class="pg-info">…</span>' : ''}`;
+  for (let p = start; p <= end; p++) {
+    pageNums += `<button class="pg-num ${p === currentPage ? 'active' : ''}" data-page="${p}">${p}</button>`;
+  }
+  if (end < totalPages) pageNums += `${end < totalPages - 1 ? '<span class="pg-info">…</span>' : ''}<button class="pg-num" data-page="${totalPages}">${totalPages}</button>`;
+
   pagEl.innerHTML = `
     <button class="pg-btn" id="pgPrev" ${currentPage <= 1 ? 'disabled' : ''}>← Precedenti</button>
-    <span class="pg-info">Pagina ${currentPage} di ${totalPages}</span>
+    <div class="pg-nums">${pageNums}</div>
     <button class="pg-btn" id="pgNext" ${currentPage >= totalPages ? 'disabled' : ''}>Successivi →</button>
   `;
   document.getElementById('pgPrev').addEventListener('click', () => {
@@ -107316,6 +107473,13 @@ function renderFeedList(){
   });
   document.getElementById('pgNext').addEventListener('click', () => {
     if (currentPage < totalPages) { currentPage++; renderFeedList(); window.scrollTo(0, 0); }
+  });
+  pagEl.querySelectorAll('.pg-num[data-page]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      currentPage = parseInt(btn.dataset.page, 10);
+      renderFeedList();
+      window.scrollTo(0, 0);
+    });
   });
 }
 
@@ -107328,7 +107492,7 @@ function rowHtml(r){
         <p class="product">${esc(r.product || r.title || '')}</p>
         ${r.brand ? `<p class="brand">${esc(r.brand)}</p>` : ''}
         ${r.reasonShort ? `<p class="reason">${esc(r.reasonShort)}</p>` : ''}
-        <span class="tag ${r.category}">${r.category === 'risk' ? 'Rischio salute' : 'Avviso'}</span>
+        <span class="tag ${r.category}"><span class="dot"></span>${r.category === 'risk' ? 'Rischio salute' : 'Avviso'}</span>
       </div>
     </a>
   `;
@@ -107357,8 +107521,8 @@ function renderDetail(r){
     <div class="detail fade-in">
       <div class="hero">
         <div style="margin-bottom:8px;">
-          <span class="tag ${r.category}">${r.category === 'risk' ? 'Rischio salute' : 'Avviso'}</span>
-          <span class="tag ${r.source === 'operator' ? 'info' : 'risk'}" style="margin-left:6px;">${r.source === 'operator' ? 'Richiamo volontario' : 'Richiamo ufficiale'}</span>
+          <span class="tag ${r.category}"><span class="dot"></span>${r.category === 'risk' ? 'Rischio salute' : 'Avviso'}</span>
+          <span class="tag ${r.source === 'operator' ? 'info' : 'risk'}" style="margin-left:6px;"><span class="dot"></span>${r.source === 'operator' ? 'Richiamo volontario' : 'Richiamo ufficiale'}</span>
         </div>
         <p class="product">${esc(r.product || r.title || '')}</p>
         ${r.brand ? `<p class="brand">${esc(r.brand)}</p>` : ''}
