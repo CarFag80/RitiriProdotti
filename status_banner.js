@@ -2,7 +2,7 @@
    Viene incollato in index.html da inject_data.py (blocco STATO-INIZIO/FINE).
    Legge status.json se raggiungibile, altrimenti usa window.RICHIAMI_STATUS. */
 (function () {
-  var STALE_DAYS = 5; // lo scraper gira lun e gio: il vuoto massimo previsto e' 4 giorni
+  var STALE_DAYS = 5; // Soglia di avviso per dati non aggiornati; controlli previsti ogni giorno.
   var app = document.getElementById('app');
   if (!app) return;
 
@@ -51,7 +51,7 @@
       ? 'Ultimo controllo: ' + fmt.format(new Date(okTime))
       : 'Nessun controllo completo registrato'));
     box.appendChild(line('update-note',
-      'Ricerca di nuovi richiami il lunedì e il giovedì. Dati non in tempo reale.'));
+      'Ricerca di nuovi richiami ogni giorno. Dati non in tempo reale.'));
 
     var ageDays = hasOk ? Math.floor((Date.now() - okTime) / 86400000) : null;
     if (ageDays !== null && ageDays > STALE_DAYS) {
