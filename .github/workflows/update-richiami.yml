@@ -69,7 +69,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.json index.html
+          git add data.json index.html manifest.json sw.js icons/
+
           if [ -f status.json ]; then git add status.json; fi
           git diff --quiet --cached || git commit -m "Aggiorna richiami e normalizza date"
           for i in 1 2 3; do
