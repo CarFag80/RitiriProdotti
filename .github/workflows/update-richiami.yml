@@ -8,7 +8,7 @@ on:
       - test_dates.py
       - .github/workflows/update-richiami.yml
   schedule:
-    - cron: "0 6 * * 1,4" # 07:00 italiane in inverno, 08:00 in estate
+    - cron: "0 6 * * *" # Ogni giorno: 07:00 italiane in inverno, 08:00 in estate
   workflow_dispatch:
     inputs:
       limit:
@@ -63,6 +63,27 @@ jobs:
 
       - name: Incolla i dati dentro index.html
         run: python inject_data.py
+
+      - name: Aggiorna il testo della frequenza nell'header
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          path = Path("index.html")
+          html = path.read_text(encoding="utf-8")
+          prefix, marker, rest = html.partition("/* DATI-INIZIO */")
+          if not marker:
+              raise SystemExit("Blocco dati non trovato: header non modificato.")
+          old = "Ricerca di nuovi richiami il lunedì e il giovedì. Dati non in tempo reale."
+          new = "Ricerca di nuovi richiami ogni giorno. Dati non in tempo reale."
+          if prefix.count(old) == 1:
+              prefix = prefix.replace(old, new, 1)
+              path.write_text(prefix + marker + rest, encoding="utf-8")
+              print("Header aggiornato: ricerca ogni giorno.")
+          elif old not in prefix and prefix.count(new) == 1:
+              print("Header già aggiornato.")
+          else:
+              raise SystemExit("Testo header inatteso: nessuna sostituzione eseguita.")
+          PY
 
       - name: Pubblica le modifiche
         run: |
