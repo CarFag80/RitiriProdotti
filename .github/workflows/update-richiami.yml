@@ -7,6 +7,7 @@ on:
       - repair_dates.py
       - test_dates.py
       - status_banner.js
+      - update_search.py
       - .github/workflows/update-richiami.yml
   schedule:
     - cron: "0 6 * * *" # Ogni giorno: 07:00 italiane in inverno, 08:00 in estate
@@ -64,6 +65,9 @@ jobs:
 
       - name: Incolla i dati dentro index.html
         run: python inject_data.py
+
+      - name: Aggiorna la ricerca per prefissi di parola
+        run: python update_search.py
 
       - name: Pubblica le modifiche
         run: |
