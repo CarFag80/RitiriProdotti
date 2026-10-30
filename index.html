@@ -107837,9 +107837,11 @@ function normalize(s){
 }
 function matchesSearch(r){
   if (!searchQuery.trim()) return true;
-  const q = normalize(searchQuery);
+  const terms = normalize(searchQuery).match(/[\p{L}\p{N}]+/gu) || [];
+  if (!terms.length) return false;
   const hay = normalize([r.product, r.title, r.brand, r.reasonShort].filter(Boolean).join(' '));
-  return hay.includes(q);
+  const words = hay.match(/[\p{L}\p{N}]+/gu) || [];
+  return terms.every(term => words.some(word => word.startsWith(term)));
 }
 function availableYears(){
   const years = new Set();
