@@ -336,14 +336,22 @@
   /* ---------- Detail view ---------- */
   .detail{padding:0 0 60px;}
   .back{
-    display:flex;
+    display:inline-flex;
     align-items:center;
-    gap:6px;
-    padding:20px 20px 0;
-    font-size:14px;
-    color:var(--ink-soft);
-    font-weight:500;
+    gap:8px;
+    min-height:48px;
+    margin:8px 12px 0;
+    padding:12px 14px;
+    border:1px solid var(--line);
+    border-radius:4px;
+    background:var(--surface);
+    color:var(--ink);
+    font-size:15.5px;
+    font-weight:600;
+    transition:background .15s, border-color .15s, transform .1s;
   }
+  .back:hover{background:var(--surface-alt); border-color:var(--ink-soft);}
+  .back:active{transform:translateY(1px);}
   .detail .hero{
     padding:16px 20px 20px;
     border-bottom:1px solid var(--line);
